@@ -14,8 +14,12 @@ jobs:
       - run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout gh-pages
+      - uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+      - run: |
           git add nijisanji-ics
+          git commit -m 'update by github actions'
       - uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
