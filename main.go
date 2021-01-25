@@ -52,6 +52,7 @@ func main(){
 	cal := ics.NewCalendar()
 	cal.SetMethod(ics.MethodRequest)
 	cal.SetProductId("-//onokatio//nijisanji-ics")
+	cal.SetXWRCalName("にじさんじ 配信スケジュール")
 
 	for _, value := range schedule.Data.Events {
 		StartDate, err := time.Parse(time.RFC3339Nano,value.StartDate)
