@@ -19,7 +19,7 @@ jobs:
           ref: gh-pages
           clean: false
       - run: |
-          git add nijisanji-ics
+          git add nijisanji.ics
           git commit -m 'update by github actions'
       - uses: ad-m/github-push-action@v0.6.0
         with:
