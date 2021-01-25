@@ -18,6 +18,7 @@ jobs:
         with:
           ref: gh-pages
           clean: false
+      - run: mv main.ics nijisanji.ics
       - run: |
           git add nijisanji.ics
           git commit -m 'update by github actions'
