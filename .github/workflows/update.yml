@@ -2,6 +2,7 @@ name: Update ical data
 on:
   schedule:
     - cron: '*/15 * * * *'
+  workflow_dispatch:
 jobs:
   update:
     name: Update ical data
