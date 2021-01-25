@@ -65,7 +65,7 @@ func main(){
 		event.SetSummary(value.Name)
 		event.SetStartAt(StartDate)
 		event.SetEndAt(EndDate)
-		event.SetDescription(value.Url + "\n" + value.Description)
+		event.SetDescription(value.Url + "\n\n" + value.Description)
 		event.SetURL(value.Url)
 	}
 
