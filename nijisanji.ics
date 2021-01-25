@@ -2,6 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//onokatio//nijisanji-ics
 METHOD:REQUEST
+X-WR-CALNAME:にじさんじ 配信スケジュール
 BEGIN:VEVENT
 UID:41555
 SUMMARY:【12万人記念/歌枠】カラオケに行くvol.3【鈴木勝/
