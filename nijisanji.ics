@@ -1795,8 +1795,8 @@ URL:https://www.youtube.com/watch?v=ibNKYSnB8iM
 END:VEVENT
 BEGIN:VEVENT
 UID:41895
-SUMMARY:【好きだ！】乙女ゲームで彼の気持ちを解読しろ
- 【にじさんじフミ】
+SUMMARY:【好きだ！】攻め攻め女子の乙女ゲーム【にじさ
+ んじフミ】
 DTSTART:20210127T020000Z
 DTEND:20210127T030000Z
 DESCRIPTION:https://www.youtube.com/watch?v=DtvcYexOnSs\n\n現実の予行
@@ -1938,6 +1938,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=pWmEOb5dQuM\n\n原曲：Chinozo
  ル10F\nいちから株式会社 ○○○○ 宛\n\nいちから株式会
  社 (info@ichikara.co.jp)\n\n#にじさんじ #森中花咲 #歌
 URL:https://www.youtube.com/watch?v=pWmEOb5dQuM
+END:VEVENT
+BEGIN:VEVENT
+UID:41896
+SUMMARY:サムネの流儀 -月ノ美兎の場合-【にじさんじ/サム
+ ネの作り方】
+DTSTART:20210127T100000Z
+DTEND:20210127T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=WaOso5Ic1aU\n\nつまり、顔
+ をいじる（意味深）のは楽しい\n\n月ノ美兎のTwitter（配
+ 信予定等はこちらで呟いています！）\nhttps://twitter.com/M
+ itoTsukino
+URL:https://www.youtube.com/watch?v=WaOso5Ic1aU
 END:VEVENT
 BEGIN:VEVENT
 UID:41770
