@@ -1785,6 +1785,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=G1Vfobf50lo\n\n1\,2時間くら
 URL:https://www.youtube.com/watch?v=G1Vfobf50lo
 END:VEVENT
 BEGIN:VEVENT
+UID:41893
+SUMMARY:雑談しながらApexはできるでしょうか【にじさんじ
+ /瀬戸みやこ】
+DTSTART:20210126T203000Z
+DTEND:20210126T213000Z
+DESCRIPTION:https://www.youtube.com/watch?v=ibNKYSnB8iM\n\nします
+URL:https://www.youtube.com/watch?v=ibNKYSnB8iM
+END:VEVENT
+BEGIN:VEVENT
 UID:41870
 SUMMARY:【バディミッションBOND】相棒と共に。【にじさん
  じ/ニュイ・ソシエール】
