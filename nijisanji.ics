@@ -1906,6 +1906,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=DkjJUCbNfNM\n\n#笹らいぶ
 URL:https://www.youtube.com/watch?v=DkjJUCbNfNM
 END:VEVENT
 BEGIN:VEVENT
+UID:41896
+SUMMARY:サムネの流儀 -月ノ美兎の場合-【にじさんじ/サム
+ ネの作り方】
+DTSTART:20210127T100000Z
+DTEND:20210127T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=WaOso5Ic1aU\n\nつまり、顔
+ をいじる（意味深）のは楽しい\n\n月ノ美兎のTwitter（配
+ 信予定等はこちらで呟いています！）\nhttps://twitter.com/M
+ itoTsukino
+URL:https://www.youtube.com/watch?v=WaOso5Ic1aU
+END:VEVENT
+BEGIN:VEVENT
 UID:41770
 SUMMARY:【歌枠】オリ曲リリース記念で歌います！アニソ
  ン縛り歌枠～！【相羽ういは/にじさんじ】
@@ -1980,58 +1992,34 @@ DESCRIPTION:https://www.youtube.com/watch?v=E2se2HVRk-Q\n\nアーカイブ
 URL:https://www.youtube.com/watch?v=E2se2HVRk-Q
 END:VEVENT
 BEGIN:VEVENT
-UID:41841
-SUMMARY:【パワプロアプリ】アプリ歴約４年の私が最強サ
- クセス戦国高校に挑む！！【奈羅花/にじさんじ】
-DTSTART:20210127T120000Z
-DTEND:20210127T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=H4T8zzaN_2s\n\n提供:実況パ
- ワフルプロ野球(モバイル)\n\n【アプリダウンロードは
- こちら!】\nhttps://app.adjust.com/ufsk109 \n\n\n【パワプロアプ
- リ公式サイトはこちら!】\n\nhttps://www.konami.com/pawa/app/\n\n
-  \n\n【パワプロアプリ公式Twitter】\n\nhttps://twitter.com/pawa_
- app573\n\n\nメンバーシップ解禁しました！\n２パターンの
- プランがあるので自分の見たいプランをぜひ選んでみ
- てください！！\nhttps://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAu
- M6Umg/join\n\n\n\n配信ではみんなとお話したり、ゲームし
- たりお歌をうたったり、\nあたしの好きなことは何でも
- やっていくからね！\nみんなの好きも沢山教えてね🐾\n
- \n配信中はみんないい子にあたしに夢中になってな！浮
- 気ダメ、絶対。\n\n\n【Twitter】\nhttps://twitter.com/Naraka_2434\
- n\n\n【お手紙・お問い合わせはこちら】\n〒101-0022\n東京
- 都千代田区神田練塀町300番地\n住友不動産秋葉原駅前ビ
- ル10F\nいちから株式会社 (ライバー名)宛\n\n\n【公式オン
- ラインショップ】\nhttps://nijisanji.booth.pm/\n\n\n【Pixiv fanbox
- 】\nhttps://www.pixiv.net/fanbox/creator/...\n家具を置きますよね
- ！\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_a
- pp\n《@nijisanji_app 》\n\n\n【にじさんじ公式HP】\nhttps://niji
- sanji.ichikara.co.jp/
-URL:https://www.youtube.com/watch?v=H4T8zzaN_2s
-END:VEVENT
-BEGIN:VEVENT
-UID:41848
-SUMMARY:【パワプロアプリ】笹木、椎名頼む。俺をイベキ
- ャラにしてくれ。【舞元啓介/にじさんじ】
-DTSTART:20210127T120000Z
-DTEND:20210127T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=YrMy4aWe3mE\n\n提供:実況パ
- ワフルプロ野球(モバイル)\nhttps://app.adjust.com/202k4sh \n\n
- 【パワプロアプリ公式サイトはこちら!】\n\nhttps://www.kon
- ami.com/pawa/app/\n\n【パワプロアプリ公式Twitter】\n\nhttps://t
- witter.com/pawa_app573\n\n\n#パワプロアプリ\n#PR \nーーーーー
- ーーーーーーーーーーーーーーーーーーーーー\n\n普段
- は主にスポーツ実況・ゲーム実況や深夜ラジオの配信
- をやっています！\n幅広い活動をしていきたいと思って
- いますのでどうぞよろしくお願いいたします！\n\nーー
- ーーーーーーーーーーーーーーーーーーーーーーーー\n
- \n\n\n【お問い合わせやプレゼントはこちら】\nhttps://niji
- sanji.ichikara.co.jp/contact/\n\n【にじさんじ公式HP】\nhttps://ni
- jisanji.ichikara.co.jp/\n\n\nチャンネル登録はこちらになりま
- す！よろしくお願いいたします！\nhttps://www.youtube.com/cha
- nnel/UCJubINhCcFXlsBwnHp0wl_g?sub_confirmation=1\n\nTwitter\nhttps://twitt
- er.com/maimoto_k\n\n\n創作物タグ→ #しら画 \n生放送タグ→ #
- まいもとなま\nリスナー名→ 加齢衆\n\n#にじさんじ
-URL:https://www.youtube.com/watch?v=YrMy4aWe3mE
+UID:41899
+SUMMARY:【雀魂コラボ】強めの調味料だけ加えたような面
+ 子で麻雀【愛園愛美視点】
+DTSTART:20210127T130000Z
+DTEND:20210127T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=wHF-v73m6MA\n\n説教配信で
+ 言っていたメンツでの麻雀が実現してしまった\n\n\n\nコ
+ ラボしてくださった方々(敬称略)\n\n伊東ライフ\nhttps://w
+ ww.youtube.com/channel/UCj_KuUzpOXAliYEesJwdrbw\nhttps://twitter.com/itoli
+ fe\n\nえま★おうがすと\nhttps://www.youtube.com/channel/UCl1oLKcAq
+ 93p-pwKfDGhiYQ\nhttps://twitter.com/emma_august_\n\n甲斐田晴\nhttps://
+ www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw\nhttps://twitter.com/Kaid
+ a_Haru\n\n\n？コメント欄のピンク色の絵文字どうやるの
+ ？\n→メンバーシップに加入すると使えるようになるス
+ タンプです！\nメンバー限定コミュに日記的なの書いた
+ り、メンバー限定配信もやってます！\n応援したいなっ
+ て思ってくれたら入ってください！\n\nメンバー加入は
+ こちらから！\nhttps://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTz
+ ZA/join\n\n\n【Twitter】\n　https://twitter.com/manami_aizono\n\n【配
+ 信タグ】\n愛ライブ\n\n【公式オンラインショップ】\nhtt
+ ps://nijisanji.booth.pm/\n\n【にじさんじ公式Twitter】\nhttps://tw
+ itter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式
+ HP】\nhttps://nijisanji.ichikara.co.jp/\n\nファンレターの送り先
+ は下記をご確認ください。\nhttps://nijisanji.ichikara.co.jp/con
+ tact/\n\n【お問い合わせ】\noffer@ichikara.co.jp\n\n#ゲーム  #
+ 愛園愛美 #伊東ライフ #えま★おうがすと #甲斐田晴 #に
+ じさんじ #Vtuber
+URL:https://www.youtube.com/watch?v=wHF-v73m6MA
 END:VEVENT
 BEGIN:VEVENT
 UID:41859
@@ -2076,46 +2064,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=KDY0zBzhTZA\n\nお久しぶり
  ダー\nhttps://nijisanji.booth.pm/items/1126796 \n・アクリルスタ
  ンド\nhttps://nijisanji.booth.pm/items/1126799
 URL:https://www.youtube.com/watch?v=KDY0zBzhTZA
-END:VEVENT
-BEGIN:VEVENT
-UID:41887
-SUMMARY:美兎様のピー音で下ネタ修正ネコトモ【鈴鹿詩子/
- にじさんじ】
-DTSTART:20210127T140000Z
-DTEND:20210127T150000Z
-DESCRIPTION:https://www.youtube.com/watch?v=CczCt46yyEE\n\n♡オリジナ
- ル曲、『Will you marry me? -Patra Remix-』（鈴鹿詩子作詞作曲
- ）各ストアにて配信中！\nhttps://linkco.re/vAx9mqTe\nこちら
- でも聴けます　https://youtu.be/01sBCkJN1XA\n\n♡自身執筆のシ
- コって寝ろTシャツ\n半袖　https://booth.pm/ja/items/2084075\n長
- 袖　https://booth.pm/ja/items/1994069\n\n♡にじさんじ所属、歌
- のお姉さんで腐女子でショタコンで婚活中の26歳、鈴鹿
- 詩子です♪\n不定期で主に平日夜23時or土日13時に生配信
- してます！\n生配信はゲーム、雑談などです。\n急な配
- 信もあるので、通知ONにしていつでも遊びに来てね♪\n
- また、配信予定をTwitterで出してるので、Twitterのフォロ
- ーもお願いします！\n\n♡チャンネル登録はコチラから
- ：\nhttps://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA?sub_confirma
- tion=1\n\n♡メンバーシップに登録して頂くと（月額490円
- ）、私が作ったアイコンやスタンプが使えるようにな
- ります！\nまた、メンバー限定生配信、限定動画や音源
- 、ショタのえっっならくがき、未公開壁紙なども投稿
- してます！\n登録はコチラから：\nhttps://www.youtube.com/chan
- nel/UCwokZsOK_uEre70XayaFnzA/join\n\n♡Twitter：\nhttps://twitter.com/su
- zukautako\n\n♡お仕事案件お待ちしてます！！\nお問い合
- わせ・お手紙送付先も以下までお願いします。\nhttps://n
- ijisanji.ichikara.co.jp/contact/\n\n♡にじさんじ公式BOOTH：\nボ
- イス販売第一弾：https://nijisanji.booth.pm/items/926396\nボイス
- 販売第二弾：https://nijisanji.booth.pm/items/1033331\n詩子デザ
- インお尻見せなさいよTシャツ：（日本語）https://nijisanj
- i.booth.pm/items/1081250　\n（英語）https://nijisanji.booth.pm/items/
- 1081254\n詩子デザインお尻見せなさいよパーカー：（日
- 本語）https://nijisanji.booth.pm/items/1078878　\n（英語）https://
- nijisanji.booth.pm/items/1078884\n詩子デザイン行き場のない母
- 性Tシャツ：https://nijisanji.booth.pm/items/1081260　\n詩子デザ
- イン行き場のない母性パーカー：https://nijisanji.booth.pm/it
- ems/1078891\n\n#にじさんじ #鈴鹿詩子
-URL:https://www.youtube.com/watch?v=CczCt46yyEE
 END:VEVENT
 BEGIN:VEVENT
 UID:41642
