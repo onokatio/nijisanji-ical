@@ -1953,6 +1953,19 @@ DESCRIPTION:https://www.youtube.com/watch?v=dMNvO0galJQ\n\n土日の回線
 URL:https://www.youtube.com/watch?v=dMNvO0galJQ
 END:VEVENT
 BEGIN:VEVENT
+UID:42022
+SUMMARY:【 #フルトイキャッチョコ 】キャット＆チョコレ
+ ート【 にじさんじ】
+DTSTART:20210130T080000Z
+DTEND:20210130T090000Z
+DESCRIPTION:https://www.youtube.com/watch?v=6Y1VOIHxvmU\n\nひらめきで
+ ピンチを乗り越えるゲーム「キャットアンドチョコレ
+ ート」をプレイして頂きます。\n\n【参加者】\n@フミ/に
+ じさんじ \n@白雪 巴/Shirayuki Tomoe【にじさんじ】 \n@ルイ
+ ス・キャミー
+URL:https://www.youtube.com/watch?v=6Y1VOIHxvmU
+END:VEVENT
+BEGIN:VEVENT
 UID:41957
 SUMMARY:coming soon【#フルトイ/???】
 DTSTART:20210130T100000Z
