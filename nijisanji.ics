@@ -4314,6 +4314,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=IWjPXPNKsiw\n\nゲームをし
 URL:https://www.youtube.com/watch?v=IWjPXPNKsiw
 END:VEVENT
 BEGIN:VEVENT
+UID:42116
+SUMMARY:剣持刀也オフ会
+DTSTART:20210201T090000Z
+DTEND:20210201T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=pJPa83xTGiU\n\nにじさんじ
+ 所属ライバー剣持刀也\n虚空教教祖\n\n詳しいことはこ
+ こに\nhttps://wikiwiki.jp/nijisanji/%E5%89%A3%E6%8C%81%E5%88%80%E4%B9%9F
+ \n\n【Twitter】https://twitter.com/rei_Toya_rei
+URL:https://www.youtube.com/watch?v=pJPa83xTGiU
+END:VEVENT
+BEGIN:VEVENT
 UID:42106
 SUMMARY:#5【バイオハザード】ビビりだけど必ず報復させ
  るバイオプレイ【白雪 巴/にじさんじ】
