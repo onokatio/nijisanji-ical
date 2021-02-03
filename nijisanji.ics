@@ -2685,6 +2685,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=K4Gd28NeloM\n\n2021年2月3日
 URL:https://www.youtube.com/watch?v=K4Gd28NeloM
 END:VEVENT
 BEGIN:VEVENT
+UID:42276
+SUMMARY:つばきコーチとシーズン８【にじさんじ/瀬戸みや
+ こ】
+DTSTART:20210203T051500Z
+DTEND:20210203T061500Z
+DESCRIPTION:https://www.youtube.com/watch?v=MGNjhTtnHio\n\nつばき\nhttps
+ ://www.twitch.tv/tsubaki_sa\nhttps://twitter.com/sa_mame13
+URL:https://www.youtube.com/watch?v=MGNjhTtnHio
+END:VEVENT
+BEGIN:VEVENT
 UID:42149
 SUMMARY:【#NIJINYANJI】Nyanyanyanyanyanyanya!【 @笹木咲 / Sasaki Saku
   】
