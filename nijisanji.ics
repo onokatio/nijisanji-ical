@@ -3485,8 +3485,8 @@ BEGIN:VEVENT
 UID:42344
 SUMMARY:原神 | とりあえず魈(ショウ)完凸します。【にじ
  さんじ/叶】
-DTSTART:20210204T110000Z
-DTEND:20210204T120000Z
+DTSTART:20210204T110500Z
+DTEND:20210204T120500Z
 DESCRIPTION:https://www.youtube.com/watch?v=XbsJCCOILf0\n\n毎日配信し
  てます！\n急な配信も多いので通知をONにして遊びに来
  てね。\nロジクールG公認サポーター\nチャンネル登録、
@@ -3844,6 +3844,25 @@ DESCRIPTION:https://www.youtube.com/watch?v=7xUs0J9Hz-Y\n\n以前A-Zまで
 URL:https://www.youtube.com/watch?v=7xUs0J9Hz-Y
 END:VEVENT
 BEGIN:VEVENT
+UID:42348
+SUMMARY:【＃1週間RTA】【ポケモンFRLG】RTA第1回試走　目標3
+ 時間半【長尾景/にじさんじ】
+DTSTART:20210204T120000Z
+DTEND:20210204T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=NPMIJ5er1bg\n\nいよいよ走
+ る！！！\n\nサムネ: @2_enigamI\n\n\nルール\n1週間ですべて
+ 準備して2/7に走る\n以上！！\n\n参考チャート\nhttps://ch.n
+ icovideo.jp/ringo_rta/blomaga/ar1302826\n\n【Twitter】\n@kei_nagao2434\n
+ \n------------------------------------------------------------------------
+ ---------------------------------\n\n【公式Twitter】\n@nijisanji_app\n
+ \n【公式HP】\nhttps://nijisanji.ichikara.co.jp/ \n\n【公式オンラ
+ インショップ】\nhttps://nijisanji.booth.pm/\n\n--------------------
+ --------------------------------------------------------------------------
+ -----------\n\n【お問い合わせはこちらまで】\nhttps://www.ich
+ ikara.co.jp/contact/
+URL:https://www.youtube.com/watch?v=NPMIJ5er1bg
+END:VEVENT
+BEGIN:VEVENT
 UID:42306
 SUMMARY:【みんなのリズム天国】徳積みまくり、俺モテま
  くり【鈴木勝/にじさんじ】
@@ -3912,8 +3931,8 @@ URL:https://www.youtube.com/watch?v=QCjUtf8gz1k
 END:VEVENT
 BEGIN:VEVENT
 UID:42346
-SUMMARY:【歌枠】アニソンとかANIME SONGとかあにそん【物述
- 有栖】【にじさんじ】
+SUMMARY:【歌枠】アニソンANIME SONGあにそんRevenge【物述有
+ 栖】【にじさんじ】
 DTSTART:20210204T140000Z
 DTEND:20210204T150000Z
 DESCRIPTION:https://www.youtube.com/watch?v=hjro6lLFOYE\n\n❁お借りす
@@ -3945,6 +3964,36 @@ DESCRIPTION:https://www.youtube.com/watch?v=hjro6lLFOYE\n\n❁お借りす
  \n#アニソン\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
  ＝＝
 URL:https://www.youtube.com/watch?v=hjro6lLFOYE
+END:VEVENT
+BEGIN:VEVENT
+UID:42347
+SUMMARY:【ASMR】1～100までカウントアップダウン【白雪 巴/
+ にじさんじ】
+DTSTART:20210204T143000Z
+DTEND:20210204T153000Z
+DESCRIPTION:https://www.youtube.com/watch?v=JEZ4OPPdlOM\n\n◆◆ヘッド
+ フォン・イヤフォン推奨◆◆\nI use a binaural microphone.\nWea
+ ring a earphone or headphone is recommended.\n\nCount up from 0to 100 and 
+ count down from 100 to 0.\n\n１～100まで耳元でカウントするASM
+ R。\n\n筋トレ、添い寝などのお供に\nご自由にどうぞ♪\
+ n\n～サムネイルイラスト～\n\n◆西條ユリカ さん\nhttps:/
+ /twitter.com/ca_yu_/status/1338807763690946560?s=20\n\n~ボイス販売中
+ ~\n\n◆◆にじさんじバレンタインボイス2020再販中！◆
+ ◆\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00291?ima=0742\n2021
+ 年2/1〜 2/8(月)23:59の間、期間限定再販！\n\n◆◆Crossick吸
+ 血鬼パロディボイス第一弾販売中！◆◆\nhttps://shop.nijis
+ anji.jp/s/niji/item/detail/dig-00273?ima=5724\n販売期間は2021年1月2
+ 4日(日)18:00 ～ 2月24日(水)23:59まで！\n\n\n◆◆◆◆◆\n\n#
+ 白雪巴 (しらゆき ともえ)\n配信タグ　#女王のお戯れ　(
+ 駄犬用　#白雪調教中)\n\n▼Twitter\nhttps://mobile.twitter.com/to
+ moe_shirayuki\n\n▼ファンレターの送り先は下記をご確認く
+ ださい。\nhttps://nijisanji.ichikara.co.jp/contact/\n\n～にじさん
+ じ～\n\n▼公式サイト\nhttp://nijisanji.ichikara.co.jp/faq/\n\n▽T
+ witter\nhttps://twitter.com/nijisanji_app?lang=ja\n\n▼公式オンライ
+ ンSHOP\nhttps://nijisanji.booth.pm/\n\n～音源～\n\n▽甘茶の音楽
+ 工房 さま\nhttps://amachamusic.chagasi.com/\n\n～Special thanks to YO
+ U～\n\n◆◆◆◆◆
+URL:https://www.youtube.com/watch?v=JEZ4OPPdlOM
 END:VEVENT
 BEGIN:VEVENT
 UID:42241
@@ -4179,24 +4228,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=KXAW35H5aHA\n\n反応したら
  もの干し竿様（@Mya036）\n♨小野町春香ロゴ\n　コハタ　
  ヤスマサ様（@y_kohata_）\n\n＃雑談
 URL:https://www.youtube.com/watch?v=KXAW35H5aHA
-END:VEVENT
-BEGIN:VEVENT
-UID:42334
-SUMMARY:【 Spla 2 】むぎ色に染めあげちゃう【 NIJISANJI / Iena
- ga Mugi】
-DTSTART:20210205T050000Z
-DTEND:20210205T060000Z
-DESCRIPTION:https://www.youtube.com/watch?v=ArFQeCNTt68\n\n■新ボイス\
- n□https://shop.nijisanji.jp/s/niji/item/detail/dig-00192?ima=3704\n□
- 内容\n01_朗読 (約36分)\n02_羊数え (約93分)\n03_よしよし(約
- 25分)\n\n■チャンネル登録&通知ON 💗\n□https://youtube.com/c
- hannel/UC_GCs6GA...\n\n■メンバーシップはこちらから（490円
- /月 毎月10回限定配信など）\n□https://youtube.com/channel/UC_G
- Cs6GA...\n\n■SNSリンク\n□チャンネル登録：\nhttps://t.co/FgX
- pF3dhnq?amp=1\n□Twitter：\nhttps://twitter.com/ienaga_mugi23 \n□Insta
- glam :\nhttps://t.co/jNlwCunf3a?amp=1\n\n■Contact Us\n□https://t.co/VF
- 3Pwl1z7U?amp=1\n\n□Pic : さがみりく
-URL:https://www.youtube.com/watch?v=ArFQeCNTt68
 END:VEVENT
 BEGIN:VEVENT
 UID:42260
