@@ -3496,6 +3496,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=S09j6zads2E\n\n返して！！
 URL:https://www.youtube.com/watch?v=S09j6zads2E
 END:VEVENT
 BEGIN:VEVENT
+UID:42466
+SUMMARY:つち曜日
+DTSTART:20210206T131500Z
+DTEND:20210206T141500Z
+DESCRIPTION:https://www.youtube.com/watch?v=9nlS5g8Lok0\n\n土ってかっ
+ こいいじゃん。
+URL:https://www.youtube.com/watch?v=9nlS5g8Lok0
+END:VEVENT
+BEGIN:VEVENT
 UID:42447
 SUMMARY:【すずはライブ！！！】50万人本当にありがとう
  …！感謝ｯ！【鈴原るる/にじさんじ】
