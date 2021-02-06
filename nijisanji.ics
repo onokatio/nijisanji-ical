@@ -3037,25 +3037,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=OKMh5VqhsrE\n\n#別の人の彼
 URL:https://www.youtube.com/watch?v=OKMh5VqhsrE
 END:VEVENT
 BEGIN:VEVENT
-UID:42420
-SUMMARY:【LITTLE NIGHTMARES-リトルナイトメア-】悪夢からの脱
- 出【椎名唯華/にじさんじ】
-DTSTART:20210206T100000Z
-DTEND:20210206T110000Z
-DESCRIPTION:https://www.youtube.com/watch?v=vu9wISzp-6Y\n\n----------------
- --------------------------------\n■活動\n主に適当に配信して
- ます。\n配信内容はゲーム、雑談がメインです。\n急な
- 配信もあるので、通知ONにしていつでも遊びに来てくだ
- さい！\nよろしくお願いします。\n----------------------------
- --------------------\n■リンク\nメンバー：https://www.youtube.com
- /channel/UC_4tXjqecqox5Uc05ncxpxg/join\ntwitter：https://twitter.com/yuik
- a_siina\nオフィシャルストア：https://shop.nijisanji.jp/s/niji/\n
- ↑ボイス販売中↑\nお問い合わせ・プレゼント送付先：
- \nhttps://nijisanji.ichikara.co.jp/contact/\n-----------------------------
- -------------------
-URL:https://www.youtube.com/watch?v=vu9wISzp-6Y
-END:VEVENT
-BEGIN:VEVENT
 UID:42446
 SUMMARY:【歌枠】2月初めおうタ【にじさんじ/レヴィ・エ
  リファ】
@@ -3070,6 +3051,25 @@ DESCRIPTION:https://www.youtube.com/watch?v=Nf_b5A7-a-U\n\n#れゔぃあた
  ji.ichikara.co.jp/ \n\n【オフィシャルストア】\nhttps://shop.nij
  isanji.jp/s/niji/
 URL:https://www.youtube.com/watch?v=Nf_b5A7-a-U
+END:VEVENT
+BEGIN:VEVENT
+UID:42420
+SUMMARY:【LITTLE NIGHTMARES-リトルナイトメア-】悪夢からの脱
+ 出【椎名唯華/にじさんじ】
+DTSTART:20210206T103000Z
+DTEND:20210206T113000Z
+DESCRIPTION:https://www.youtube.com/watch?v=vu9wISzp-6Y\n\n----------------
+ --------------------------------\n■活動\n主に適当に配信して
+ ます。\n配信内容はゲーム、雑談がメインです。\n急な
+ 配信もあるので、通知ONにしていつでも遊びに来てくだ
+ さい！\nよろしくお願いします。\n----------------------------
+ --------------------\n■リンク\nメンバー：https://www.youtube.com
+ /channel/UC_4tXjqecqox5Uc05ncxpxg/join\ntwitter：https://twitter.com/yuik
+ a_siina\nオフィシャルストア：https://shop.nijisanji.jp/s/niji/\n
+ ↑ボイス販売中↑\nお問い合わせ・プレゼント送付先：
+ \nhttps://nijisanji.ichikara.co.jp/contact/\n-----------------------------
+ -------------------
+URL:https://www.youtube.com/watch?v=vu9wISzp-6Y
 END:VEVENT
 BEGIN:VEVENT
 UID:42364
