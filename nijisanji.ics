@@ -2327,6 +2327,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=wTgqUeS_BtI\n\nアーカイブ
 URL:https://www.youtube.com/watch?v=wTgqUeS_BtI
 END:VEVENT
 BEGIN:VEVENT
+UID:42482
+SUMMARY:ランクあげるぜ【にじさんじ瀬戸美夜子】
+DTSTART:20210206T163000Z
+DTEND:20210206T173000Z
+DESCRIPTION:https://www.youtube.com/watch?v=_wr2h7iZjDo\n\nランクです
+URL:https://www.youtube.com/watch?v=_wr2h7iZjDo
+END:VEVENT
+BEGIN:VEVENT
 UID:42472
 SUMMARY:【SHT同時視聴】仮面ライダーセイバー＆キラメイ
  ジャー同時視聴！【神田笑一/にじさんじ】
