@@ -2410,6 +2410,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=6jFQEXRVlm8\n\nWelcome to my ch
 URL:https://www.youtube.com/watch?v=6jFQEXRVlm8
 END:VEVENT
 BEGIN:VEVENT
+UID:42596
+SUMMARY:新説/死の概念があるポケモンプラチナム その1
+DTSTART:20210209T093000Z
+DTEND:20210209T103000Z
+DESCRIPTION:https://www.youtube.com/watch?v=TkunXZpi8As\n\n１０カ月ぶ
+ りのリベンジ\n\n・3回瀕死になったポケモンは二度と使
+ えない\n・進化系統も全部使えなくなる\n例:ポッチャマ
+ が３回瀕死＝ポッタイシ、エンペルトも使用禁止\n・御
+ 三家はポッチャマを選ぶ
+URL:https://www.youtube.com/watch?v=TkunXZpi8As
+END:VEVENT
+BEGIN:VEVENT
 UID:42589
 SUMMARY:【LITTLE NIGHTMARES-リトルナイトメア】滑り込み初見
  が通ります【にじさんじ/魔使マオ】
