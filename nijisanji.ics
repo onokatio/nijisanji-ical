@@ -2555,8 +2555,8 @@ URL:https://www.youtube.com/watch?v=dKodvZ-ikQ0
 END:VEVENT
 BEGIN:VEVENT
 UID:42664
-SUMMARY:エ口ゲ評論家によるドキドキ文芸部（DDLC）【にじ
- さんじ/卯月コウ】
+SUMMARY:恋愛弱者によるドキドキ文芸部（DDLC）【にじさん
+ じ/卯月コウ】
 DTSTART:20210210T100000Z
 DTEND:20210210T110000Z
 DESCRIPTION:https://www.youtube.com/watch?v=YB2D4zm13X4\n\n怖い展開が
@@ -2797,6 +2797,19 @@ DESCRIPTION:https://www.youtube.com/watch?v=UzxdRR3r0SA\n\nあと仕事も
  fo@ichikara.co.jp　へ\nファンレター等\n　http://nijisanji.ichika
  ra.co.jp/faq/\n\nThanks for watching!!\n#リリ生放送
 URL:https://www.youtube.com/watch?v=UzxdRR3r0SA
+END:VEVENT
+BEGIN:VEVENT
+UID:42672
+SUMMARY:【バンドリ】全員でるまで終わらない！ハロハピ3
+ 章ガチャ！【にじさんじ】
+DTSTART:20210210T110000Z
+DTEND:20210210T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=J2-ifnUIbvQ\n\n配信タグ：#
+ ルスタリオンエア\n\nこころちゃん・・こころちゃん・
+ ・\n\n◆サムネイル作成\n⇒士道不覚悟切腹卍丸さん(@shi
+ douhukakugo)\n\n©BanG Dream! Project\n©Craft Egg Inc.\n©bushiroadAll Ri
+ ghts Reserved.
+URL:https://www.youtube.com/watch?v=J2-ifnUIbvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42483
