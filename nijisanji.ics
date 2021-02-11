@@ -2595,6 +2595,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=Tw4VimE89R0\n\n1.「配信中
 URL:https://www.youtube.com/watch?v=Tw4VimE89R0
 END:VEVENT
 BEGIN:VEVENT
+UID:42705
+SUMMARY:【松竹梅メンバー限定】＃18♨ひみつの雑談☆【
+ にじさんじ/小野町春香】
+DTSTART:20210211T140000Z
+DTEND:20210211T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=OU6CUxwTUIY\n\n配信前にメ
+ ンバー限定に切り替えます\n作業しながらアマプラで見
+ れるおすすめの映画とか知りたいから教えて～～
+URL:https://www.youtube.com/watch?v=OU6CUxwTUIY
+END:VEVENT
+BEGIN:VEVENT
 UID:42604
 SUMMARY:【APEX】大好きな声優さんとウキウキAPEXコラボ【
  にじさんじ/える】
