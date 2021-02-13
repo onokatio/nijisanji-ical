@@ -2894,6 +2894,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=lEx1TVZTbcw\n\nヨッシーと
 URL:https://www.youtube.com/watch?v=lEx1TVZTbcw
 END:VEVENT
 BEGIN:VEVENT
+UID:42824
+SUMMARY:【APEX】人望のないランク配信【にじさんじ瀬戸美
+ 夜子】
+DTSTART:20210213T071500Z
+DTEND:20210213T081500Z
+DESCRIPTION:https://www.youtube.com/watch?v=AeWW3kXLsQE\n\nなに？
+URL:https://www.youtube.com/watch?v=AeWW3kXLsQE
+END:VEVENT
+BEGIN:VEVENT
 UID:42816
 SUMMARY:緑仙 1st EP「It'sLie」クロスフェード (2021.2.14 On Sale
  )
