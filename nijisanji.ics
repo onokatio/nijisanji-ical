@@ -3938,26 +3938,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=lYQ1BOP6Pf4\n\n🍫バレンタ
 URL:https://www.youtube.com/watch?v=lYQ1BOP6Pf4
 END:VEVENT
 BEGIN:VEVENT
-UID:42949
-SUMMARY:【プロセカ】「 25時、ナイトコードで。」ストー
- リー奏応援上映【にじさんじ/社築】
-DTSTART:20210215T133000Z
-DTEND:20210215T143000Z
-DESCRIPTION:https://www.youtube.com/watch?v=NtH88jgixI0\n\nハートフル
- ストーリーとして評判のニーゴのシナリオを読みます\n
- つい最近（2/10）誕生日を迎えたばかりの宵崎奏さんを
- 一緒に応援しましょう\n案件じゃなくて趣味枠です\n\n
- ハッシュタグは【#社築フィードバック】まで。\n--------
- ----------------------------------------\n社築のチャンネル登録
- はコチラから：\nhttps://www.youtube.com/channel/UCKMYISTJAQ8xTplUPH
- iABlA?sub_confirmation=1\nTwitter：\nhttps://twitter.com/846kizuQ\nにじ
- さんじ公式BOOTH：\nhttps://nijisanji.booth.pm/\n↑Tシャツとか
- 売ってます↑\nお問い合わせ・プレゼント送付先：\nhttp
- s://nijisanji.ichikara.co.jp/contact/\n-----------------------------------
- -------------\n#ゲーム
-URL:https://www.youtube.com/watch?v=NtH88jgixI0
-END:VEVENT
-BEGIN:VEVENT
 UID:42958
 SUMMARY:【あつまれ どうぶつの森】バレンタイン→ゆきみ
  の家の横に白いピアノを置く配信【にじさんじ/ジョー
@@ -3975,6 +3955,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=03Er2tiWMPA\n\nHi ジョー児
  ろいろ特典をご用意します！　登録は↓\nhttps://www.youtub
  e.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ/join
 URL:https://www.youtube.com/watch?v=03Er2tiWMPA
+END:VEVENT
+BEGIN:VEVENT
+UID:42949
+SUMMARY:【プロセカ】「 25時、ナイトコードで。」ストー
+ リー奏応援上映【にじさんじ/社築】
+DTSTART:20210215T134000Z
+DTEND:20210215T144000Z
+DESCRIPTION:https://www.youtube.com/watch?v=NtH88jgixI0\n\nハートフル
+ ストーリーとして評判のニーゴのシナリオを読みます\n
+ つい最近（2/10）誕生日を迎えたばかりの宵崎奏さんを
+ 一緒に応援しましょう\n案件じゃなくて趣味枠です\n\n
+ ハッシュタグは【#社築フィードバック】まで。\n--------
+ ----------------------------------------\n社築のチャンネル登録
+ はコチラから：\nhttps://www.youtube.com/channel/UCKMYISTJAQ8xTplUPH
+ iABlA?sub_confirmation=1\nTwitter：\nhttps://twitter.com/846kizuQ\nにじ
+ さんじ公式BOOTH：\nhttps://nijisanji.booth.pm/\n↑Tシャツとか
+ 売ってます↑\nお問い合わせ・プレゼント送付先：\nhttp
+ s://nijisanji.ichikara.co.jp/contact/\n-----------------------------------
+ -------------\n#ゲーム
+URL:https://www.youtube.com/watch?v=NtH88jgixI0
 END:VEVENT
 BEGIN:VEVENT
 UID:42938
