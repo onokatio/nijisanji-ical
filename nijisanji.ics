@@ -2838,15 +2838,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=hpEwDPWx_3M\n\nレンパート
 URL:https://www.youtube.com/watch?v=hpEwDPWx_3M
 END:VEVENT
 BEGIN:VEVENT
-UID:42984
-SUMMARY:女々しくてつらいもう無理ぴえん雑談
-DTSTART:20210216T100000Z
-DTEND:20210216T110000Z
-DESCRIPTION:https://www.youtube.com/watch?v=snvXcDgMMEQ\n\nサムネ\nhttps
- ://twitter.com/nofu_nofu_nofu/status/1260824202526912518?s=20
-URL:https://www.youtube.com/watch?v=snvXcDgMMEQ
-END:VEVENT
-BEGIN:VEVENT
 UID:42986
 SUMMARY:【APEX】ランクとかかじゅあるとか【にじさんじ/
  勇気ちひろ】
@@ -2964,6 +2955,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=rVu_rXBh7Kk\n\nAPEX大好きに
  \n☆お問い合わせ・ファンレター\nhttps://nijisanji.ichikara.c
  o.jp/contact/
 URL:https://www.youtube.com/watch?v=rVu_rXBh7Kk
+END:VEVENT
+BEGIN:VEVENT
+UID:42984
+SUMMARY:女々しくてつらいもう無理ぴえん雑談
+DTSTART:20210216T101000Z
+DTEND:20210216T111000Z
+DESCRIPTION:https://www.youtube.com/watch?v=snvXcDgMMEQ\n\nサムネ\nhttps
+ ://twitter.com/nofu_nofu_nofu/status/1260824202526912518?s=20
+URL:https://www.youtube.com/watch?v=snvXcDgMMEQ
 END:VEVENT
 BEGIN:VEVENT
 UID:42974
@@ -3127,24 +3127,24 @@ DTEND:20210216T130000Z
 DESCRIPTION:https://www.youtube.com/watch?v=2JOQGxT0UwA\n\nやべえよ・
  ・・\n\n【問題】\nhttps://docs.google.com/forms/d/e/1FAIpQLSfE674k5P
  qStHgbGI9kWl4sUcxJwlWvXk977W13jHRUxuIs9w/viewform\n【問題を作った
- すごい方】\nヤマたさん\n\n\n★マオのゆかいな仲間たち
- （メンバーシップ）★\n月額490円で登録できる！！\nか
- わいいスタンプやバッチが使えたり\n限定配信が見れた
- りします！\nhttps://www.youtube.com/channel/UCerk...​\n\n\n\n\n①
- 他の人が嫌な気分になる言葉は使っちゃダメ！\n\n②他
- の配信者さんのコメントなどで話題にあがっていない
- のに僕の話をするのはやめましょう！\nもちろんマオの
- 配信でも、話に関係の無い他のライバーさんの名前を
- 出すのは控えましょう！\n\nこのマオとの約束事を守れ
- ていないにんげんや\nこれ以外のマナー違反をしている
- にんげんを見つけても注意せずにマオのことだけ見て
- てな！\n\n\n\n【マオのとてもおもしろいTwitter】\nhttps://t
- witter.com/matsukai_mao​\n\n\n《プレゼントやお手紙やお問い
- 合わせはこちら》\nhttps://nijisanji.ichikara.co.jp/cont​...\n\n\
- n//公式オンラインショップ\nhttps://nijisanji.booth.pm/​\n\n//
- にじさんじ公式Twitter\nhttps://twitter.com/nijisanji_app​\n《@ni
- jisanji_app 》\n\n//にじさんじ公式HP\nhttps://nijisanji.ichikara.c
- o.jp/​
+ すごい方】\nヤマたさん\n\n\n\n配信タグ　#まおんらいぶ
+ \n\n\n★マオのゆかいな仲間たち（メンバーシップ）★\n
+ 月額490円で登録できる！！\nかわいいスタンプやバッチ
+ が使えたり\n限定配信が見れたりします！\nhttps://www.yout
+ ube.com/channel/UCerk...​\n\n\n\n\n①他の人が嫌な気分になる
+ 言葉は使っちゃダメ！\n\n②他の配信者さんのコメント
+ などで話題にあがっていないのに僕の話をするのはや
+ めましょう！\nもちろんマオの配信でも、話に関係の無
+ い他のライバーさんの名前を出すのは控えましょう！\n
+ \nこのマオとの約束事を守れていないにんげんや\nこれ
+ 以外のマナー違反をしているにんげんを見つけても注
+ 意せずにマオのことだけ見ててな！\n\n\n\n【マオのとて
+ もおもしろいTwitter】\nhttps://twitter.com/matsukai_mao​\n\n\n《
+ プレゼントやお手紙やお問い合わせはこちら》\nhttps://n
+ ijisanji.ichikara.co.jp/cont​...\n\n\n//公式オンラインショッ
+ プ\nhttps://nijisanji.booth.pm/​\n\n//にじさんじ公式Twitter\nhtt
+ ps://twitter.com/nijisanji_app​\n《@nijisanji_app 》\n\n//にじさん
+ じ公式HP\nhttps://nijisanji.ichikara.co.jp/​
 URL:https://www.youtube.com/watch?v=2JOQGxT0UwA
 END:VEVENT
 BEGIN:VEVENT
@@ -3259,6 +3259,33 @@ DESCRIPTION:https://www.youtube.com/watch?v=btKPhsiP2cc\n\n昨日、パッ
  \n💀ファンレターの送り先・お問い合わせはこちらか
  ら\nhttps://www.ichikara.co.jp/contact/
 URL:https://www.youtube.com/watch?v=btKPhsiP2cc
+END:VEVENT
+BEGIN:VEVENT
+UID:42987
+SUMMARY:【 Papers\, Please 】ここは通さない！！！！【甲斐
+ 田晴/にじさんじ】
+DTSTART:20210216T130000Z
+DTEND:20210216T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=YtT9mvdtIKs\n\n入国審査さ
+ せてもろて\n\nバレンタインボイス(23日まで)\nhttps://shop.
+ nijisanji.jp/s/niji/item/detail/dig-00302?ima=2947\n\n節分ボイス(23
+ 日まで)\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00297?ima=294
+ 8\n\n\nイラスト：(@saketoba_omu)様\n\n\n🌞スパチャは最後に
+ まとめて読ませていただいております！いつもありが
+ とう！\n🌞コメントはみんなが楽しく節度を持つこと
+ を心掛けて頂けたら嬉しいです！\n🌞チャンネル登録
+ ・高評価・通知のオンよろしくね！\n\n\n配信は #生き甲
+ 斐田 で呟いてねー！\n\n#にじさんじ #甲斐田晴 \n\n\n-----
+ ----------------------------------------\n\n\nはろはるー！\nにじ
+ さんじ所属\n甲斐田 晴(かいだ はる)です🌞\nゲーム/弾
+ き語り/ASMR　などなど配信するよ！\n\n💠Twitter💠\n@Kaida
+ _Haru\n\n💠Youtube💠\n甲斐田 晴/Kaida Haru【にじさんじ】\nh
+ ttps://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw?sub_confirmation=1
+ \n\n\n--------------------------------------------------------------------
+ ------\n\n\n🕒にじさんじBOOTH\nhttps://nijisanji.booth.pm/\n\n🏢
+ お問い合わせやファンレター\nhttps://nijisanji.ichikara.co.jp/
+ contact/
+URL:https://www.youtube.com/watch?v=YtT9mvdtIKs
 END:VEVENT
 BEGIN:VEVENT
 UID:42972
