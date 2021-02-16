@@ -1574,16 +1574,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=BJ9-ATTUKLQ\n\nサムネにお
 URL:https://www.youtube.com/watch?v=BJ9-ATTUKLQ
 END:VEVENT
 BEGIN:VEVENT
-UID:43013
-SUMMARY:純正│西園チグサの突発詫び歌枠│リクエストた
- くさん聞きます
-DTSTART:20210216T151500Z
-DTEND:20210216T161500Z
-DESCRIPTION:https://www.youtube.com/watch?v=DrnpveGC1m0\n\nくううああ
- ああああああああああああああああああああああああ
- ああああああ！！！！！！！！！！！！！！！！！！
- ！！！！！！！！ってきもち
-URL:https://www.youtube.com/watch?v=DrnpveGC1m0
+UID:43016
+SUMMARY:西園チグサの突発詫び歌枠│リクエストたくさん
+ 聞きます
+DTSTART:20210216T152500Z
+DTEND:20210216T162500Z
+DESCRIPTION:https://www.youtube.com/watch?v=37sypfwOnqA\n\nみんなあり
+ がとうってきもち。
+URL:https://www.youtube.com/watch?v=37sypfwOnqA
 END:VEVENT
 BEGIN:VEVENT
 UID:43008
@@ -1852,6 +1850,21 @@ DESCRIPTION:https://www.youtube.com/watch?v=l2GKVoJ5PMw\n\n【マイクラ
  --------\n素材\n\n"Twemoji" Graphics licensed under CC-BY 4.0(Modified G
  raphics)\nhttps://twemoji.twitter.com/
 URL:https://www.youtube.com/watch?v=l2GKVoJ5PMw
+END:VEVENT
+BEGIN:VEVENT
+UID:43015
+SUMMARY:【Detroit: Become Human】完全初見で進むメリッサ２話
+ 【メリッサ・キンレンカ/にじさんじ】
+DTSTART:20210217T110000Z
+DTEND:20210217T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=FrBl8fyalPs\n\n配信タグ :#
+ メリータイム　#メリッサ・キンレンカ\n　\n\n【Twitter】
+ \n【 https://twitter.com/melissa_2434 】\n\n\n【にじさんじオフ
+ ィシャルストア】\nhttps://shop.nijisanji.jp/s/niji/\n\n【にじ
+ さんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanj
+ i_app 》\n\n【にじさんじ公式HP】\nhttps://nijisanji.ichikara.co.
+ jp/
+URL:https://www.youtube.com/watch?v=FrBl8fyalPs
 END:VEVENT
 BEGIN:VEVENT
 UID:42997
