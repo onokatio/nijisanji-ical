@@ -4960,6 +4960,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=7eByaqwx68U\n\n怖いのにあ
 URL:https://www.youtube.com/watch?v=7eByaqwx68U
 END:VEVENT
 BEGIN:VEVENT
+UID:43132
+SUMMARY:お話をするなどします
+DTSTART:20210218T160000Z
+DTEND:20210218T170000Z
+DESCRIPTION:https://www.youtube.com/watch?v=UCRWX2XfKUQ\n\n雑に談ずる
+ 者です
+URL:https://www.youtube.com/watch?v=UCRWX2XfKUQ
+END:VEVENT
+BEGIN:VEVENT
 UID:43093
 SUMMARY:【スーパーマリオ ヨッシーアイランド】最終回♨
  stage6-2から！ルイージ待ってろ今迎えに行くからな（ヨ
