@@ -2873,6 +2873,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=vDByaZHIRp8\n\n#APEX LEGENDS \n
 URL:https://www.youtube.com/watch?v=vDByaZHIRp8
 END:VEVENT
 BEGIN:VEVENT
+UID:43321
+SUMMARY:編集中
+DTSTART:20210222T090000Z
+DTEND:20210222T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=kNSKw1a73CM\n\nこの枠も概
+ 要欄全部打ち込んだ後作成したらライブ配信権限奪わ
+ れててできなかったり、\n\nhttps://www.takarakuji-official.jp/sp
+ ecial/opsc/
+URL:https://www.youtube.com/watch?v=kNSKw1a73CM
+END:VEVENT
+BEGIN:VEVENT
 UID:43317
 SUMMARY:【スパチャ読み雑談】さっきのみなさんご【周央
  サンゴ】
