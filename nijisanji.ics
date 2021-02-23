@@ -1934,14 +1934,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=pxPskyKr6ns\n\n#健屋花那#
 URL:https://www.youtube.com/watch?v=pxPskyKr6ns
 END:VEVENT
 BEGIN:VEVENT
-UID:17124
-SUMMARY:Free chat
-DTSTART:20210223T150000Z
-DTEND:20210223T160000Z
-DESCRIPTION:https://www.youtube.com/watch?v=f5jT6mE7zIY\n\n
-URL:https://www.youtube.com/watch?v=f5jT6mE7zIY
-END:VEVENT
-BEGIN:VEVENT
 UID:43374
 SUMMARY:【酒はほろ酔い】にじさんじのB級バラエティ（仮
  ）＃5【花はつぼみ】
@@ -2416,6 +2408,19 @@ DESCRIPTION:https://www.youtube.com/watch?v=4A7fYq5-1ws\n\n#健屋花那​
  のイメージソング菩提樹(歌唱：白雪巴)はこちらから\nh
  ttps://youtu.be/3yh1RWyH1Kg
 URL:https://www.youtube.com/watch?v=4A7fYq5-1ws
+END:VEVENT
+BEGIN:VEVENT
+UID:43421
+SUMMARY:【雀魂じゃんたま】最強師弟対決！コラボ【にじ
+ さんじ/渋谷ハジメ】
+DTSTART:20210224T090000Z
+DTEND:20210224T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=tSX_PA6L4T4\n\nコラボメン
+ バー\n多井プロ\nhttps://www.youtube.com/channel/UCihYMokYrglpPKgjzbZ
+ YgqA\n郡道さん\nhttps://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJ
+ cw/videos\n黒乃お姉ちゃん師匠\nhttps://www.youtube.com/channel/UC
+ 7WY5VP-P-rSb2ES5npk8yA
+URL:https://www.youtube.com/watch?v=tSX_PA6L4T4
 END:VEVENT
 BEGIN:VEVENT
 UID:43363
