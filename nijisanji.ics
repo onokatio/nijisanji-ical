@@ -4187,16 +4187,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=txc0Vn2ub6Y\n\nにじさんじ3
 URL:https://www.youtube.com/watch?v=txc0Vn2ub6Y
 END:VEVENT
 BEGIN:VEVENT
-UID:43473
-SUMMARY:配信でやるゲームを買う配信【にじさんじ】
-DTSTART:20210224T150000Z
-DTEND:20210224T160000Z
-DESCRIPTION:https://www.youtube.com/watch?v=krksSoWXulI\n\n配信タグ：#
- ルスタリオンエア\n\nすちーむでかうよてい\n\n◆サムネ
- イル作成\n⇒oseoraさん(@oseora1)
-URL:https://www.youtube.com/watch?v=krksSoWXulI
-END:VEVENT
-BEGIN:VEVENT
 UID:43474
 SUMMARY:【お前のスパチャで世界を救え】おれの推し世界
  一かわいい～！【にじさんじ/葉加瀬冬雪】
@@ -4217,6 +4207,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=ZTWnG0dn_yI\n\nサムネにお
  さんじオフィシャルストア\nhttps://shop.nijisanji.jp/s/niji/\n 
  ❄️お問い合わせはこちら\nhttps://bit.ly/2BbaFkj
 URL:https://www.youtube.com/watch?v=ZTWnG0dn_yI
+END:VEVENT
+BEGIN:VEVENT
+UID:43473
+SUMMARY:配信でやるゲームを買う配信【にじさんじ】
+DTSTART:20210224T151000Z
+DTEND:20210224T161000Z
+DESCRIPTION:https://www.youtube.com/watch?v=krksSoWXulI\n\n配信タグ：#
+ ルスタリオンエア\n\nすちーむでかうよてい\n\n◆サムネ
+ イル作成\n⇒oseoraさん(@oseora1)
+URL:https://www.youtube.com/watch?v=krksSoWXulI
 END:VEVENT
 BEGIN:VEVENT
 UID:43419
