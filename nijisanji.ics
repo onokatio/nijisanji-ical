@@ -3836,13 +3836,25 @@ DESCRIPTION:https://www.youtube.com/watch?v=CyeVTg_RgdI\n\n立ち入り禁
 URL:https://www.youtube.com/watch?v=CyeVTg_RgdI
 END:VEVENT
 BEGIN:VEVENT
+UID:43471
+SUMMARY:【熱唱してみた】アンパンマンのマーチ / THE FIRST 
+ TAKE【グウェル・オス・ガール/にじさんじ】
+DTSTART:20210224T140000Z
+DTEND:20210224T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=8ncMj6EdVu0\n\n魂で歌いま
+ した。\n\n\n次\nhttps://www.youtube.com/watch?v=jQ8XB3hDtaU\n\nその
+ 次\nhttps://www.youtube.com/watch?v=kOfeR3Qx6B8
+URL:https://www.youtube.com/watch?v=8ncMj6EdVu0
+END:VEVENT
+BEGIN:VEVENT
 UID:43470
 SUMMARY:アンパンマンのマーチ楽しんでみた / THE FIRST TAKE
  【早瀬走/にじさんじ】
 DTSTART:20210224T141500Z
 DTEND:20210224T151500Z
 DESCRIPTION:https://www.youtube.com/watch?v=jQ8XB3hDtaU\n\n楽しく歌い
- ました。
+ ました。\n前↓\nhttps://youtu.be/8ncMj6EdVu0\n\n次↓\nhttps://yout
+ u.be/kOfeR3Qx6B8
 URL:https://www.youtube.com/watch?v=jQ8XB3hDtaU
 END:VEVENT
 BEGIN:VEVENT
