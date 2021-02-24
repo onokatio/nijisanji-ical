@@ -2805,6 +2805,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=Jbuik40jrn0\n\n提供：「実
 URL:https://www.youtube.com/watch?v=Jbuik40jrn0
 END:VEVENT
 BEGIN:VEVENT
+UID:43485
+SUMMARY:斧ブン投げてきた
+DTSTART:20210225T130000Z
+DTEND:20210225T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=uGvsLTAuprA\n\nにじさんじ
+ の月ノ美兎です\n#みとの生放送\n\n月ノ美兎のTwitter（配
+ 信予定等はこちらで呟いています！）\nhttps://twitter.com/M
+ itoTsukino
+URL:https://www.youtube.com/watch?v=uGvsLTAuprA
+END:VEVENT
+BEGIN:VEVENT
 UID:43306
 SUMMARY:【記念配信】21，22，23万人記念配信　ASMR　【にじ
  さんじ／夜見れな】
