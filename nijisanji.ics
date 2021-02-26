@@ -1924,6 +1924,23 @@ DESCRIPTION:https://www.youtube.com/watch?v=z7ZHKyKsqwI\n\nめんげんだ
 URL:https://www.youtube.com/watch?v=z7ZHKyKsqwI
 END:VEVENT
 BEGIN:VEVENT
+UID:43579
+SUMMARY:【ASMR/Binaural】歯磨きをします。【にじさんじ郡道
+ 】
+DTSTART:20210226T152500Z
+DTEND:20210226T162500Z
+DESCRIPTION:https://www.youtube.com/watch?v=3mtjdIpl570\n\nポケモンの
+ 発表見てたから20分になったとか言えないよ。\nサムネ
+ →リコシェ号さん\n\n毎週金曜日深夜に定期ASMR配信して
+ ます。\nチャンネル登録お願いします♡\n\n※アーカイ
+ ブは削除またはメンバー限定行き予定です。\n※本気で
+ 楽しんでくれている人がいる以上、変にからかったり
+ 場の空気を荒らすような空気の読めないコメントはお
+ 控えください。\n※切り抜きは可能ですが、全編すべて
+ ののアップロードはお控えください
+URL:https://www.youtube.com/watch?v=3mtjdIpl570
+END:VEVENT
+BEGIN:VEVENT
 UID:43576
 SUMMARY:【雑談】いろんな裏話とお祝い【ルイス・キャミ
  ー/にじさんじ】
@@ -1975,6 +1992,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=og_JMRNFyUs\n\n明日がちめ
  itter.com/nijisanji_app\n《@nijisanji_app 》\n\n\n【にじさんじ公
  式HP】\nhttps://nijisanji.ichikara.co.jp/
 URL:https://www.youtube.com/watch?v=og_JMRNFyUs
+END:VEVENT
+BEGIN:VEVENT
+UID:43580
+SUMMARY:「にゃ」と言うたびに早くなる Nyanyanyanyanyanyanya!
+DTSTART:20210227T004500Z
+DTEND:20210227T014500Z
+DESCRIPTION:https://www.youtube.com/watch?v=bVaN8ADzt6U\n\n「にゃ」と
+ 言うたびに0.1倍速くなります。\n#NIJINYANJI​\n\n本日10時
+ からコチラ↓\n【#にじFes2021】にじさんじ Anniversary Festiv
+ al 2021 公式無料生放送【DAY1】 https://youtu.be/w0XgBErk8Mk
+URL:https://www.youtube.com/watch?v=bVaN8ADzt6U
 END:VEVENT
 BEGIN:VEVENT
 UID:43446
