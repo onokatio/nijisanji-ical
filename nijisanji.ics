@@ -1293,8 +1293,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:43647
 SUMMARY:【雑談】近状報告会【#ライブハック】
-DTSTART:20210301T090000Z
-DTEND:20210301T100000Z
+DTSTART:20210301T090116Z
+DTEND:20210301T100116Z
 DESCRIPTION:https://www.youtube.com/watch?v=wiPQUsNcVsI\n\n君たちはど
  うだ。\n\n*************************************************************
  *\n\n少し頼みたいこと\n・放送内容に関係ない話題を話
