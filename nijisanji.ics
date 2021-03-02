@@ -2699,6 +2699,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=tyzOJEw79hs\n\n🐤メンバー
 URL:https://www.youtube.com/watch?v=tyzOJEw79hs
 END:VEVENT
 BEGIN:VEVENT
+UID:43713
+SUMMARY:【Valheim】【にじさんじの皆さん】
+DTSTART:20210302T110000Z
+DTEND:20210302T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=TvlS5lk2RPg\n\n@ラトナ・プ
+ ティ -Ratna Petit -にじさんじ所属 \n@勇気ちひろ
+URL:https://www.youtube.com/watch?v=TvlS5lk2RPg
+END:VEVENT
+BEGIN:VEVENT
 UID:43708
 SUMMARY:【歌枠】数曲歌枠で歌ったことない曲ありけり【
  長尾景/にじさんじ】
