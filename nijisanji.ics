@@ -4052,6 +4052,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=ndB1XZCK8rs\n\nQ.どうして
 URL:https://www.youtube.com/watch?v=ndB1XZCK8rs
 END:VEVENT
 BEGIN:VEVENT
+UID:43789
+SUMMARY:彼氏のパチ代稼ぐために配信するゲームを配信者
+ がやってみた
+DTSTART:20210303T143000Z
+DTEND:20210303T153000Z
+DESCRIPTION:https://www.youtube.com/watch?v=VALNf_-WVe4\n\n本家様\nhttps
+ ://game.nicovideo.jp/atsumaru/games/gm18163
+URL:https://www.youtube.com/watch?v=VALNf_-WVe4
+END:VEVENT
+BEGIN:VEVENT
 UID:43504
 SUMMARY:帰ってきた魔界村にきたでびでび・でびる【にじ
  さんじ/でびでび・でびる】
