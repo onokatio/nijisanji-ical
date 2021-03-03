@@ -2823,30 +2823,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=9A6kzw5DBhc\n\nにゃにゃに
 URL:https://www.youtube.com/watch?v=9A6kzw5DBhc
 END:VEVENT
 BEGIN:VEVENT
-UID:43707
-SUMMARY:【#飛鳥ひな誕生祭2021】誕生日記念配信ひなまつ
- り【にじさんじ/飛鳥ひな】
-DTSTART:20210303T120000Z
-DTEND:20210303T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=d4UXcv4Rq50\n\nにじさんじ
- 所属飛鳥ひなだよ～　#飛鳥ひな誕生祭2021\n\n●Twitter\nht
- tps://twitter.com/hina__asuka\n\n●メンバーシップはじめまし
- た！\n限定スタンプが使えたり15本以上の限定動画（セ
- リフなし寝息のみなどのASMRや歌動画など）が見れたり
- 限定配信があったりするよ。\nよろしくね！\nhttps://www.y
- outube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ/join\n\n\n\n●マンスリー
- ボイス発売中！\nキービジュアルイラスト画像がつきま
- す！\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00319\n\n\n☆新
- グッズ出ました！\nhttps://booth.pm/ja/items/2348791\n\nタンブ
- ラー\nhttps://booth.pm/ja/items/2348777\n\n眼鏡拭き\nhttps://booth.p
- m/ja/items/2348786\n\nマスキングテープ\nhttps://booth.pm/ja/items/
- 2348766\n\nタオル(大・小）\nhttps://booth.pm/ja/items/2348793\n\n
- ペンケース\nhttps://booth.pm/ja/items/2348776\n\nポーチ\nhttps://b
- ooth.pm/ja/items/2348771\n\nステッカー\nhttps://booth.pm/ja/items/234
- 8752
-URL:https://www.youtube.com/watch?v=d4UXcv4Rq50
-END:VEVENT
-BEGIN:VEVENT
 UID:43730
 SUMMARY:【20万人耐久】20万人突破するまでテキーラ飲みな
  がら歌う治安の悪いアイドル【相羽ういは/にじさんじ
@@ -3169,6 +3145,32 @@ DESCRIPTION:https://www.youtube.com/watch?v=B-UtFRMyfYg\n\n女子力（ぢ
  //twitter.com/nijisanji_app\n\n【公式オンラインショップ】\n
  ❇️https://nijisanji.booth.pm/
 URL:https://www.youtube.com/watch?v=B-UtFRMyfYg
+END:VEVENT
+BEGIN:VEVENT
+UID:43707
+SUMMARY:【#飛鳥ひな誕生祭2021】誕生日記念配信ひなまつ
+ り【にじさんじ/飛鳥ひな】
+DTSTART:20210303T130000Z
+DTEND:20210303T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=d4UXcv4Rq50\n\nにじさんじ
+ 所属飛鳥ひなだよ～　#飛鳥ひな誕生祭2021\n誕生日グッ
+ ズ＆ボイス（期間限定！）\nhttps://nijisanji.booth.pm/items/277
+ 0577\n\nイラスト：姐川さま\nhttps://twitter.com/sogawa66\n\n\n●
+ Twitter\nhttps://twitter.com/hina__asuka\n\n●メンバーシップはじ
+ めました！\n限定スタンプが使えたり15本以上の限定動
+ 画（セリフなし寝息のみなどのASMRや歌動画など）が見
+ れたり限定配信があったりするよ。\nよろしくね！\nhttp
+ s://www.youtube.com/channel/UCiSRx1a2k-0tOg-fs6gAolQ/join\n\n\n\n●マン
+ スリーボイス発売中！\nキービジュアルイラスト画像が
+ つきます！\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00319\n\
+ n\n☆新グッズ出ました！\nhttps://booth.pm/ja/items/2348791\n\n
+ タンブラー\nhttps://booth.pm/ja/items/2348777\n\n眼鏡拭き\nhttps:
+ //booth.pm/ja/items/2348786\n\nマスキングテープ\nhttps://booth.pm/
+ ja/items/2348766\n\nタオル(大・小）\nhttps://booth.pm/ja/items/2348
+ 793\n\nペンケース\nhttps://booth.pm/ja/items/2348776\n\nポーチ\nht
+ tps://booth.pm/ja/items/2348771\n\nステッカー\nhttps://booth.pm/ja/it
+ ems/2348752
+URL:https://www.youtube.com/watch?v=d4UXcv4Rq50
 END:VEVENT
 BEGIN:VEVENT
 UID:43751
