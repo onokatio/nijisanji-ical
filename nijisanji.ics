@@ -2593,6 +2593,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=ATkPSbJcTRE\n\n#れゔぃあた
 URL:https://www.youtube.com/watch?v=ATkPSbJcTRE
 END:VEVENT
 BEGIN:VEVENT
+UID:43911
+SUMMARY:最初からいたやつが解けないわけ、なくない！？
+ 【にじリーグ/にじさんじ/月ノ美兎】
+DTSTART:20210306T110000Z
+DTEND:20210306T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=vesw8iGMdaw\n\n月ノやない
+ かい\n#みとの生放送\n\n月ノ美兎のTwitter（配信予定等は
+ こちらで呟いています！）\nhttps://twitter.com/MitoTsukino
+URL:https://www.youtube.com/watch?v=vesw8iGMdaw
+END:VEVENT
+BEGIN:VEVENT
 UID:43892
 SUMMARY:【声劇企画】第6回！にじさんじ声劇同好会！【成
  瀬鳴/相羽ういは/来栖夏芽/長尾景/西園チグサ/伏見ガク
