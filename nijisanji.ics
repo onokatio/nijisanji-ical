@@ -3685,15 +3685,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=frIWWvZtSOQ\n\nカスタム終
 URL:https://www.youtube.com/watch?v=frIWWvZtSOQ
 END:VEVENT
 BEGIN:VEVENT
-UID:43949
-SUMMARY:卯月コウ葛葉りりむちゃんによるAPEX配信
-DTSTART:20210306T142000Z
-DTEND:20210306T152000Z
-DESCRIPTION:https://www.youtube.com/watch?v=PsKpGmcmAzw\n\nサムネ元\nht
- tps://twitter.com/X1988774/status/1368189702046707712?s=20
-URL:https://www.youtube.com/watch?v=PsKpGmcmAzw
-END:VEVENT
-BEGIN:VEVENT
 UID:43932
 SUMMARY:はなす【にじさんじフミ】
 DTSTART:20210306T143000Z
@@ -3769,6 +3760,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=SJNEiqUrAVQ\n\nちょっとだ
 URL:https://www.youtube.com/watch?v=SJNEiqUrAVQ
 END:VEVENT
 BEGIN:VEVENT
+UID:43949
+SUMMARY:卯月コウ葛葉りりむちゃんによるAPEX配信
+DTSTART:20210306T144500Z
+DTEND:20210306T154500Z
+DESCRIPTION:https://www.youtube.com/watch?v=PsKpGmcmAzw\n\nサムネ元\nht
+ tps://twitter.com/X1988774/status/1368189702046707712?s=20
+URL:https://www.youtube.com/watch?v=PsKpGmcmAzw
+END:VEVENT
+BEGIN:VEVENT
 UID:43947
 SUMMARY:【SHT同時視聴】仮面ライダーセイバー＆ゼンカイ
  ジャー同時視聴！【神田笑一/にじさんじ】
@@ -3826,31 +3826,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=0NMnJS8_Flw\n\nリトルナイ
  \n～音源～\n\n▽甘茶の音楽工房 さま\nhttps://amachamusic.cha
  gasi.com/\n\n～Special thanks to YOU～\n\n◆◆◆◆◆
 URL:https://www.youtube.com/watch?v=0NMnJS8_Flw
-END:VEVENT
-BEGIN:VEVENT
-UID:43939
-SUMMARY:【同時視聴】呪術廻戦好きなヲタクと見る呪術廻
- 戦　二期一気見編【にじさんじ/葉加瀬冬雪】
-DTSTART:20210307T083000Z
-DTEND:20210307T093000Z
-DESCRIPTION:https://www.youtube.com/watch?v=JHGE41VY2NU\n\n14話から\n\n\
- n▼お願い\n\n・初見の人用に全編通してネタバレNGです
- 。\nこの同時視聴で初めて見るっていう方への配慮をお
- 願いします・・・！しんじてるぞ！\n\n\nサムネにお借
- りしたイラスト\nhttps://twitter.com/y1KlwXTJAU2sMcZ/status/13624166
- 16181436418?s=20\n\n\n\n\n\n\nPlease subscribe to my channel and have fun!
- \n\n❄️twitter\nhttps://twitter.com/Hakase_Fuyuki\n\n❄️メンバー
- \nhttps://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ/join\n\n配信
- タグ #冬雪ラボ\n\n\n------- \n\nにじさんじ所属の葉加瀬 
- 冬雪( はかせ ふゆき )です。\n\n高校二年生。実験と美
- 味しいご飯が好き。\nどうぞよろしくお願いします。\n\
- nHi everyone!\n\nI'm Fuyuki Hakase\, a NIJISANJI VTuber.\nI like science e
- xperiments and tasty food.\nI usually live stream games and singing on You
- Tube.\n\n\n\n\n【にじさんじ】\n\n ❄️Twitter\nhttps://twitter.co
- m/Nijisanji_app\n ❄️Official HP\nhttp://nijisanji.ichikara.co.jp\n❄
- ️にじさんじオフィシャルストア\nhttps://shop.nijisanji.jp/s
- /niji/\n ❄️お問い合わせはこちら\nhttps://bit.ly/2BbaFkj
-URL:https://www.youtube.com/watch?v=JHGE41VY2NU
 END:VEVENT
 BEGIN:VEVENT
 UID:43905
