@@ -4,26 +4,6 @@ PRODID:-//onokatio//nijisanji-ics
 METHOD:REQUEST
 X-WR-CALNAME:にじさんじ 配信スケジュール
 BEGIN:VEVENT
-UID:43794
-SUMMARY:【undertale】選んだ以上地獄へ突き進む【ベルモン
- ド・バンデラス/にじさんじ】
-DTSTART:20210305T150000Z
-DTEND:20210305T160000Z
-DESCRIPTION:https://www.youtube.com/watch?v=PzfK728wSyU\n\nサムネイラ
- スト\nhttps://twitter.com/choco_uncle/status/1364847602320224262\n\n【T
- witter】\n https://twitter.com/belmond_b_2434 \nファンアートタグ
- 「#デラスのお品書き」 \n放送中ツイートタグ「#ようこ
- そデラスへ」 \n放送以外でのツイートタグ「#ベル問答
- 」 \n\n\n【Marshmallow】\nhttps://marshmallow-qa.com/belmond_b_2434?utm
- _medium=url_text&utm_source=promotion\n\n\n\n【お問い合わせ】\ninf
- o@ichikara.co.jp \n東京都渋谷区 道玄坂2丁目10-12 \n新大宗ビ
- ル3号館 531号室 いちから株式会社 \n\nファンレターの送
- り先は下記をご確認ください。\nhttps://nijisanji.ichikara.co.
- jp/contact/\n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
- ￣￣￣￣
-URL:https://www.youtube.com/watch?v=PzfK728wSyU
-END:VEVENT
-BEGIN:VEVENT
 UID:43815
 SUMMARY:【ASMR/Binaural/黒3Dio】睡眠導入♨念入り耳つぼマッ
  サージで心も体も癒される/relaxation/Hand Sounds/Ear pot【に
@@ -4525,6 +4505,28 @@ DESCRIPTION:https://www.youtube.com/watch?v=6g7G2TZY73s\n\n今日も小野
 URL:https://www.youtube.com/watch?v=6g7G2TZY73s
 END:VEVENT
 BEGIN:VEVENT
+UID:44011
+SUMMARY:【 Grand Theft Auto V】大天使降臨【にじさんじ/葉加
+ 瀬冬雪】
+DTSTART:20210307T150000Z
+DTEND:20210307T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=zf2gOOr-6ms\n\nサムネにお
+ 借りしたイラスト\nhttps://twitter.com/april_wool/status/1349479226
+ 781536257?s=20\n\n\nPlease subscribe to my channel and have fun!\n\n❄️
+ twitter\nhttps://twitter.com/Hakase_Fuyuki\n\n❄️メンバー\nhttps://
+ www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ/join\n\n配信タグ #冬
+ 雪ラボ\n\n\n------- \n\nにじさんじ所属の葉加瀬 冬雪( は
+ かせ ふゆき )です。\n\n高校二年生。実験と美味しいご
+ 飯が好き。\nどうぞよろしくお願いします。\n\nHi everyone
+ !\n\nI'm Fuyuki Hakase\, a NIJISANJI VTuber.\nI like science experiments a
+ nd tasty food.\nI usually live stream games and singing on YouTube.\n\n\n\
+ n\n【にじさんじ】\n\n ❄️Twitter\nhttps://twitter.com/Nijisanji_
+ app\n ❄️Official HP\nhttp://nijisanji.ichikara.co.jp\n❄️にじさ
+ んじオフィシャルストア\nhttps://shop.nijisanji.jp/s/niji/\n ❄
+ ️お問い合わせはこちら\nhttps://bit.ly/2BbaFkj
+URL:https://www.youtube.com/watch?v=zf2gOOr-6ms
+END:VEVENT
+BEGIN:VEVENT
 UID:44009
 SUMMARY:【Headliner】ニュースを操作するゲーム。【黛 灰 / 
  にじさんじ】
@@ -4709,6 +4711,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=eKXxflQwzao\n\n配信タグ :#
  i_app 》\n\n【にじさんじ公式HP】\nhttps://nijisanji.ichikara.co.
  jp/
 URL:https://www.youtube.com/watch?v=eKXxflQwzao
+END:VEVENT
+BEGIN:VEVENT
+UID:43794
+SUMMARY:【undertale】選んだ以上地獄へ突き進む【ベルモン
+ ド・バンデラス/にじさんじ】
+DTSTART:20210309T150000Z
+DTEND:20210309T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=PzfK728wSyU\n\nサムネイラ
+ スト\nhttps://twitter.com/choco_uncle/status/1364847602320224262\n\n【T
+ witter】\n https://twitter.com/belmond_b_2434 \nファンアートタグ
+ 「#デラスのお品書き」 \n放送中ツイートタグ「#ようこ
+ そデラスへ」 \n放送以外でのツイートタグ「#ベル問答
+ 」 \n\n\n【Marshmallow】\nhttps://marshmallow-qa.com/belmond_b_2434?utm
+ _medium=url_text&utm_source=promotion\n\n\n\n【お問い合わせ】\ninf
+ o@ichikara.co.jp \n東京都渋谷区 道玄坂2丁目10-12 \n新大宗ビ
+ ル3号館 531号室 いちから株式会社 \n\nファンレターの送
+ り先は下記をご確認ください。\nhttps://nijisanji.ichikara.co.
+ jp/contact/\n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+ ￣￣￣￣
+URL:https://www.youtube.com/watch?v=PzfK728wSyU
 END:VEVENT
 END:VCALENDAR
 
