@@ -4343,16 +4343,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=F2IA04HytsU\n\n日ごろお世
 URL:https://www.youtube.com/watch?v=F2IA04HytsU
 END:VEVENT
 BEGIN:VEVENT
-UID:44059
-SUMMARY:【#掃除しろ健屋】健康的で文化的な最低限度の生
- 活【健屋花那/にじさんじ】
-DTSTART:20210308T133000Z
-DTEND:20210308T143000Z
-DESCRIPTION:https://www.youtube.com/watch?v=5PiEsqz1_gc\n\n人が住める
- 家にしたい
-URL:https://www.youtube.com/watch?v=5PiEsqz1_gc
-END:VEVENT
-BEGIN:VEVENT
 UID:44063
 SUMMARY:【スーパードンキーコング3】謎のクレミス島に二
  頭入島願います！！【にじさんじ/社築】
@@ -4433,6 +4423,31 @@ DESCRIPTION:https://www.youtube.com/watch?v=hOLpAM35rzU\n\nサムネイラ
 URL:https://www.youtube.com/watch?v=hOLpAM35rzU
 END:VEVENT
 BEGIN:VEVENT
+UID:44059
+SUMMARY:【#掃除しろ健屋】健康的で文化的な最低限度の生
+ 活【健屋花那/にじさんじ】
+DTSTART:20210308T140000Z
+DTEND:20210308T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=5PiEsqz1_gc\n\n人が住める
+ 家にしたい
+URL:https://www.youtube.com/watch?v=5PiEsqz1_gc
+END:VEVENT
+BEGIN:VEVENT
+UID:44067
+SUMMARY:【livestock】（閲覧注意）「オソト、ミテミタイ！
+ 」と子供が言ったから育てる育成ゲーム【にじさんじ /
+  にじさんじ】
+DTSTART:20210308T140000Z
+DTEND:20210308T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=0Wr0sI9MuEU\n\nピース！！\
+ n\nにじさんじ所属バーチャルライバー、伏見ガクっす
+ ！！\nサクっとガクって呼んじゃってー🕺\n\n\nTwitterは
+ 以下より！\nhttps://twitter.com/gaku_fushimi\n\nにじさんじはこ
+ ちらから\nhttp://nijisanji.ichikara.co.jp\n\n\n魔王魂　様　\nT.M
+ .BACH　様　\nDOVA-SYNDROME　様\n他
+URL:https://www.youtube.com/watch?v=0Wr0sI9MuEU
+END:VEVENT
+BEGIN:VEVENT
 UID:44026
 SUMMARY:怪談　実話
 DTSTART:20210308T150000Z
@@ -4450,8 +4465,8 @@ URL:https://www.youtube.com/watch?v=adfMi7lzLCk
 END:VEVENT
 BEGIN:VEVENT
 UID:44066
-SUMMARY:【DARK SOULS】やるでしょ、ダクソ【にじさんじ/葉
- 加瀬冬雪】
+SUMMARY:【DARK SOULS】#1 やるでしょ、ダクソ【にじさんじ/
+ 葉加瀬冬雪】
 DTSTART:20210308T150000Z
 DTEND:20210308T160000Z
 DESCRIPTION:https://www.youtube.com/watch?v=A7ZTEsFxT68\n\nフロムに帰
