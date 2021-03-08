@@ -3789,22 +3789,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=CejJoi449Ts\n\nCRカップメ
 URL:https://www.youtube.com/watch?v=CejJoi449Ts
 END:VEVENT
 BEGIN:VEVENT
-UID:44031
-SUMMARY:【#にじARK】新章開幕、飛ぶ鳥、、、乗りたいよネ
- ？？【にじさんじ/レヴィ・エリファ】
-DTSTART:20210308T120000Z
-DTEND:20210308T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=iEbxcJEeLN4\n\n#れゔぃあた
- んねる\n\nTwitterもはじめましたよつぶやク☆\n【Twitter】
- \n@Levi_E_2434\n\n\n【ファンレターやプレゼント、その他お
- 問い合わせ】\n【詳細】https://nijisanji.ichikara.co.jp/contact/\
- n\nにじさんじ関連リンク\n\n【公式Twitter】\nhttps://twitter.
- com/nijisanji_app\n〈@nijisanji_app〉\n\n【公式HP】\nhttps://nijisan
- ji.ichikara.co.jp/ \n\n【オフィシャルストア】\nhttps://shop.nij
- isanji.jp/s/niji/
-URL:https://www.youtube.com/watch?v=iEbxcJEeLN4
-END:VEVENT
-BEGIN:VEVENT
 UID:44043
 SUMMARY:【APEX】NIRUさん・まふゆさんとCRカップカスタム#2
  【ラトナ・プティ/にじさんじ】
@@ -3850,7 +3834,7 @@ URL:https://www.youtube.com/watch?v=JD0t-k3low4
 END:VEVENT
 BEGIN:VEVENT
 UID:44045
-SUMMARY:【APEX】CRカップカスタム練①#しばくぞヤンキース
+SUMMARY:【APEX】CRカップカスタム練②#しばくぞヤンキース
  WIN【にじさんじ 樋口楓 / とっぴー / ボドカ】
 DTSTART:20210308T120000Z
 DTEND:20210308T130000Z
@@ -4072,6 +4056,47 @@ DESCRIPTION:https://www.youtube.com/watch?v=Haa_BLwzhnY\n\n卍姫卍\n\n【
 URL:https://www.youtube.com/watch?v=Haa_BLwzhnY
 END:VEVENT
 BEGIN:VEVENT
+UID:44065
+SUMMARY:APEX |　かなちーくずそろった～！CRカスタム！【
+ にじさんじ/叶】
+DTSTART:20210308T120500Z
+DTEND:20210308T130500Z
+DESCRIPTION:https://www.youtube.com/watch?v=C4zVrMHPShU\n\n毎日配信し
+ てます！\n急な配信も多いので通知をONにして遊びに来
+ てね。\nロジクールG公認サポーター\nチャンネル登録、
+ メンバーシップ登録もぜひ！\n→チャンネル登録\n　http
+ s://bit.ly/2TU2m58\n→メンバーシップ登録\n　https://bit.ly/31Uf
+ km3\n→チャンネル詳細（機材スペックetc）\n　https://bit.l
+ y/2Zgslc5\n---------------------------------------------------------------
+ --------------\n▼リンク▼\n→Twitter\n　https://twitter.com/Kanae_
+ 2434\n→ボイス販売\n　https://nijisanji.booth.pm/items/880362\n→O
+ PENREC\n　https://www.openrec.tv/user/23_kanae\n→Twitch\n　https://www
+ .twitch.tv/kanae_2434\n---------------------------------------------------
+ --------------------------\n▼注意▼\n※基本的にコラボ中の
+ スパチャ分配はしてないので\n　スパチャをする際には
+ ご注意ください。\n※不適切な表現、公序良俗に反する
+ 言葉等の使用はやめましょう。\n　また、海外圏の方が
+ 困っている場合はわかる方のみ対応して頂けると幸い
+ です。\n　間違っても困ってる人を茶化すような行為は
+ やめてください。\n※伝書鳩行為（○○さんから来た！
+ ○○さんが終わったので！○○さんがこう言ってる！
+ ）\n    等は、嫌う人が多数いるので控えましょう。\n　
+ 他の配信でも「叶から！」等はやめてください。\n※コ
+ ラボ中は身内ネタを控えましょう。\n------------------------
+ -----------------------------------------------------\n▼使用楽曲、
+ 提供等▼\n配信中の動画のBGM\nThe Wreckage - Breaking Through\nB
+ GM by 369  http://www.369musiq.com\nWingless Seraph https://wingless-serap
+ h.net/\nPeriTune  http://peritune.com/\n魔王魂  https://maoudamashii.jo
+ kersounds.com\nMusic Provided by NoCopyrightSounds\nItro & Tobu - Cloud 9 
+  https://bit.ly/1sUVJJq\nItro様  https://bit.ly/1rHHw6b\nTobu様  https:/
+ /bit.ly/1iLSP8h\nカトウリョータ（Audiostock） / PIXTA(ピクス
+ タ)\nロゴと配信画面は柊椋先生（https://twitter.com/hiiragiry
+ o ） \nに提供して頂きました。\n音楽:TheFatRat  https://bit.l
+ y/1ASfffz\n\nSupport the stream: https://streamlabs.com/kanaechannel\n\n#
+ にじさんじ
+URL:https://www.youtube.com/watch?v=C4zVrMHPShU
+END:VEVENT
+BEGIN:VEVENT
 UID:44047
 SUMMARY:雑談をしようしよう178🐈【にじさんじ/鈴谷アキ
  】
@@ -4146,6 +4171,22 @@ DESCRIPTION:https://www.youtube.com/watch?v=eKXxflQwzao\n\n配信タグ :#
 URL:https://www.youtube.com/watch?v=eKXxflQwzao
 END:VEVENT
 BEGIN:VEVENT
+UID:44031
+SUMMARY:【#にじARK】新章開幕、飛ぶ鳥、、、乗りたいよネ
+ ？？【にじさんじ/レヴィ・エリファ】
+DTSTART:20210308T130000Z
+DTEND:20210308T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=iEbxcJEeLN4\n\n#れゔぃあた
+ んねる\n\nTwitterもはじめましたよつぶやク☆\n【Twitter】
+ \n@Levi_E_2434\n\n\n【ファンレターやプレゼント、その他お
+ 問い合わせ】\n【詳細】https://nijisanji.ichikara.co.jp/contact/\
+ n\nにじさんじ関連リンク\n\n【公式Twitter】\nhttps://twitter.
+ com/nijisanji_app\n〈@nijisanji_app〉\n\n【公式HP】\nhttps://nijisan
+ ji.ichikara.co.jp/ \n\n【オフィシャルストア】\nhttps://shop.nij
+ isanji.jp/s/niji/
+URL:https://www.youtube.com/watch?v=iEbxcJEeLN4
+END:VEVENT
+BEGIN:VEVENT
 UID:44041
 SUMMARY:【歌枠】23万羽を一緒に見届けるおうたお茶会🎤K
  araoke【物述有栖】【にじさんじ】
@@ -4185,8 +4226,8 @@ URL:https://www.youtube.com/watch?v=kqTajniECQY
 END:VEVENT
 BEGIN:VEVENT
 UID:44049
-SUMMARY:【歌枠】久しぶりの歌枠【にじさんじ/朝日南アカ
- ネ】
+SUMMARY:【歌枠】アニソン多めの久しぶりの歌枠【にじさ
+ んじ/朝日南アカネ】
 DTSTART:20210308T130000Z
 DTEND:20210308T140000Z
 DESCRIPTION:https://www.youtube.com/watch?v=u9m8-TbzofE\n\nエヴァみた
@@ -4252,6 +4293,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=erFpaeF7P70\n\n◆◆ヘッド
 URL:https://www.youtube.com/watch?v=erFpaeF7P70
 END:VEVENT
 BEGIN:VEVENT
+UID:44064
+SUMMARY:【Thief Simulator】特技：窓をカチ割って金目の物を
+ 盗むこと【にじさんじ】
+DTSTART:20210308T130000Z
+DTEND:20210308T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=uDa-8Wadse4\n\n配信タグ：#
+ ルスタリオンエア\n\nどろぼ～～～～～～～！！！！！
+ ！\n\n◆サムネイル作成\n⇒oseoraさん(@oseora1)
+URL:https://www.youtube.com/watch?v=uDa-8Wadse4
+END:VEVENT
+BEGIN:VEVENT
 UID:44057
 SUMMARY:3月契約者総会【にじさんじ/でびでび・でびる】
 DTSTART:20210308T130500Z
@@ -4299,6 +4351,24 @@ DTEND:20210308T143000Z
 DESCRIPTION:https://www.youtube.com/watch?v=5PiEsqz1_gc\n\n人が住める
  家にしたい
 URL:https://www.youtube.com/watch?v=5PiEsqz1_gc
+END:VEVENT
+BEGIN:VEVENT
+UID:44063
+SUMMARY:【スーパードンキーコング3】謎のクレミス島に二
+ 頭入島願います！！【にじさんじ/社築】
+DTSTART:20210308T133000Z
+DTEND:20210308T143000Z
+DESCRIPTION:https://www.youtube.com/watch?v=ne1eI7jY4SM\n\nこのゲーム
+ 完走した記憶がないのでやばいかもしれない\n\nハッシ
+ ュタグは【#社築フィードバック】まで。\n-----------------
+ -------------------------------\n社築のチャンネル登録はコチ
+ ラから：\nhttps://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA?sub
+ _confirmation=1\nTwitter：\nhttps://twitter.com/846kizuQ\nにじさんじ
+ 公式BOOTH：\nhttps://nijisanji.booth.pm/\n↑Tシャツとか売って
+ ます↑\nお問い合わせ・プレゼント送付先：\nhttps://nijis
+ anji.ichikara.co.jp/contact/\n--------------------------------------------
+ ----\n#ゲーム
+URL:https://www.youtube.com/watch?v=ne1eI7jY4SM
 END:VEVENT
 BEGIN:VEVENT
 UID:44038
@@ -4379,6 +4449,27 @@ DESCRIPTION:https://www.youtube.com/watch?v=adfMi7lzLCk\n\n新耳袋\n\n
 URL:https://www.youtube.com/watch?v=adfMi7lzLCk
 END:VEVENT
 BEGIN:VEVENT
+UID:44066
+SUMMARY:【DARK SOULS】やるでしょ、ダクソ【にじさんじ/葉
+ 加瀬冬雪】
+DTSTART:20210308T150000Z
+DTEND:20210308T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=A7ZTEsFxT68\n\nフロムに帰
+ 還\n\n\nPlease subscribe to my channel and have fun!\n\n❄️twitter\nht
+ tps://twitter.com/Hakase_Fuyuki\n\n❄️メンバー\nhttps://www.youtube
+ .com/channel/UCGYAYLDE7TZiiC8U6teciDQ/join\n\n配信タグ #冬雪ラボ\n
+ \n\n------- \n\nにじさんじ所属の葉加瀬 冬雪( はかせ ふゆ
+ き )です。\n\n高校二年生。実験と美味しいご飯が好き
+ 。\nどうぞよろしくお願いします。\n\nHi everyone!\n\nI'm Fuy
+ uki Hakase\, a NIJISANJI VTuber.\nI like science experiments and tasty foo
+ d.\nI usually live stream games and singing on YouTube.\n\n\n\n\n【にじ
+ さんじ】\n\n ❄️Twitter\nhttps://twitter.com/Nijisanji_app\n ❄️
+ Official HP\nhttp://nijisanji.ichikara.co.jp\n❄️にじさんじオフ
+ ィシャルストア\nhttps://shop.nijisanji.jp/s/niji/\n ❄️お問い
+ 合わせはこちら\nhttps://bit.ly/2BbaFkj
+URL:https://www.youtube.com/watch?v=A7ZTEsFxT68
+END:VEVENT
+BEGIN:VEVENT
 UID:44062
 SUMMARY:【天鳳/麻雀#61】段位【ルイス・キャミー/にじさ
  んじ】
@@ -4403,31 +4494,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=loTjxdICJdY\n\n公式イベン
  er.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP
  】\nhttps://nijisanji.ichikara.co.jp/
 URL:https://www.youtube.com/watch?v=loTjxdICJdY
-END:VEVENT
-BEGIN:VEVENT
-UID:44060
-SUMMARY:【APEX】『でっけぇわ』CRカップカスタム練習!!【SP
- YGEA/アルス・アルマル/エクス・アルビオ/にじさんじ】
-DTSTART:20210309T060000Z
-DTEND:20210309T070000Z
-DESCRIPTION:https://www.youtube.com/watch?v=ejdaJ9txtWM\n\nCRカップメ
- ンバー\nチーム『でっけぇわ』\n@アルス・アルマル -ars 
- almal- 【にじさんじ】 \n@SPYGEA     (https://www.twitch.tv/spygea)\
- n@エクス・アルビオ -Ex Albio- \n\nーーー\nにじさんじ所属
- バーチャルライバー エクス・アルビオ と申します。\n
- よければチャンネル登録と高評価お願いします!!\n\n【Tw
- itter】\nhttps://twitter.com/Ex_Albio\n\n【メンバーシップ】\nhtt
- ps://www.youtube.com/channel/UCIytNcoz4pWzXfLda0DoULQ/join\n\n【ファン
- レターやプレゼント、その他お問い合わせ】\n【詳細】
- https://nijisanji.ichikara.co.jp/contact/\n\n〒101-0022\n東京都千代
- 田区神田練塀町300番地\n住友不動産秋葉原駅前ビル10F\n
- いちから株式会社 エクス・アルビオ宛\n\nにじさんじ関
- 連リンク\n\n【公式Twitter】\nhttps://twitter.com/nijisanji_app〈@
- nijisanji_app〉\n\n【公式HP】\nhttps://nijisanji.ichikara.co.jp/ \n\n
- 【公式オンラインショップ】\nhttps://nijisanji.booth.pm/\n\n
- 【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985\n\nー
- ーー
-URL:https://www.youtube.com/watch?v=ejdaJ9txtWM
 END:VEVENT
 BEGIN:VEVENT
 UID:44027
