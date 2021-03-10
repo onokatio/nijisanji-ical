@@ -3760,11 +3760,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=Z3URjEQ_0Aw\n\n行くところ:
 URL:https://www.youtube.com/watch?v=Z3URjEQ_0Aw
 END:VEVENT
 BEGIN:VEVENT
+UID:44195
+SUMMARY:花畑チャイカとジャイロ感度3000倍スイッチ版エー
+ ペックス チャンピオンかゲボが出るまで
+DTSTART:20210310T140000Z
+DTEND:20210310T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=eBgZ-nMXaUI\n\nサムネイル
+ 　ください\nラインスタンプ出たよ　https://store.line.me/st
+ ickershop/product/13720479\n灰かぶり朗読　https://shop.nijisanji.jp
+ /s/niji/item/detail/dig-00125?ima=0323\n色んなの再販中　https://sh
+ op.nijisanji.jp/s/niji/item/detail/dig-00085?ima=4123\n新しいボイス
+ だよ　https://shop.nijisanji.jp/s/niji/item/detail/dig-00251?ima=3244\n
+ 　https://shop.nijisanji.jp/s/niji/item/detail/dig-00246?ima=3308
+URL:https://www.youtube.com/watch?v=eBgZ-nMXaUI
+END:VEVENT
+BEGIN:VEVENT
 UID:44193
 SUMMARY:【#にじARK​】味方化計画【にじさんじ/鷹宮リオ
  ン】
-DTSTART:20210310T140000Z
-DTEND:20210310T150000Z
+DTSTART:20210310T143000Z
+DTEND:20210310T153000Z
 DESCRIPTION:https://www.youtube.com/watch?v=d_kpMHDR5p0\n\nArk久しぶり
  だ～お願い読んでね↓\n\n※Ark配信でのお願い※\n・誰
  が何をやっても誰を攻撃してもライバー同士の事なの
@@ -3801,21 +3816,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=d_kpMHDR5p0\n\nArk久しぶり
  つもありがとう。\n\n\n#Vtuber  #にじさんじ #バーチャル
  ユーチューバー
 URL:https://www.youtube.com/watch?v=d_kpMHDR5p0
-END:VEVENT
-BEGIN:VEVENT
-UID:44195
-SUMMARY:花畑チャイカとジャイロ感度3000倍スイッチ版エー
- ペックス チャンピオンかゲボが出るまで
-DTSTART:20210310T140000Z
-DTEND:20210310T150000Z
-DESCRIPTION:https://www.youtube.com/watch?v=eBgZ-nMXaUI\n\nサムネイル
- 　ください\nラインスタンプ出たよ　https://store.line.me/st
- ickershop/product/13720479\n灰かぶり朗読　https://shop.nijisanji.jp
- /s/niji/item/detail/dig-00125?ima=0323\n色んなの再販中　https://sh
- op.nijisanji.jp/s/niji/item/detail/dig-00085?ima=4123\n新しいボイス
- だよ　https://shop.nijisanji.jp/s/niji/item/detail/dig-00251?ima=3244\n
- 　https://shop.nijisanji.jp/s/niji/item/detail/dig-00246?ima=3308
-URL:https://www.youtube.com/watch?v=eBgZ-nMXaUI
 END:VEVENT
 BEGIN:VEVENT
 UID:44132
