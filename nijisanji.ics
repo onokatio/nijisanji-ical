@@ -3345,8 +3345,8 @@ URL:https://www.youtube.com/watch?v=ypc4LHr_0e0
 END:VEVENT
 BEGIN:VEVENT
 UID:44177
-SUMMARY:【APEX】CRカップカスタム#4【ラトナ・プティ/にじ
- さんじ】
+SUMMARY:【APEX】CRカップカスタム#4　NIRUさん・まふゆさん
+ 【ラトナ・プティ/にじさんじ】
 DTSTART:20210310T120000Z
 DTEND:20210310T130000Z
 DESCRIPTION:https://www.youtube.com/watch?v=RLEE1C9qPc8\n\nメンバー\n@N
@@ -3385,6 +3385,39 @@ DESCRIPTION:https://www.youtube.com/watch?v=RLEE1C9qPc8\n\nメンバー\n@N
  . Karra) [Tobu Remix] | NCS Release\n( https://youtu.be/MRwmxS1AL6E?list=P
  LO... )\nNCS Spotify: http://spoti.fi/NCS
 URL:https://www.youtube.com/watch?v=RLEE1C9qPc8
+END:VEVENT
+BEGIN:VEVENT
+UID:44181
+SUMMARY:【 APEX 】CRカップカスタム ４日目　#SSNWIN
+DTSTART:20210310T120000Z
+DTEND:20210310T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Gu55HX7pUEc\n\n昨日鬼神に
+ ボロカスに言われたこと\n・ドームの位置\n・ドームの
+ 縁でファイトしろ\n・EVA8のガンシ\n・グレ\n・入れ替わ
+ りの回復\n・お前は絶対に前に出るな\n・遮蔽と頭一個
+ 　\n\nふぇ。。。。\n\nチーム名：雪夜の一番星　SSNWIN！
+ \n\n#눈보라\nhttps://twitter.com/BoraNun2434\nhttps://www.youtube.com/c
+ hannel/UC1ZV7KBscK0EMoJKFu1DnDg\n\n#Cpt\nhttps://twitter.com/ApexerCpt\nht
+ tps://www.youtube.com/channel/UCB3Sj1L1PacFLSdFwct7faA
+URL:https://www.youtube.com/watch?v=Gu55HX7pUEc
+END:VEVENT
+BEGIN:VEVENT
+UID:44182
+SUMMARY:【＃景子のもえきゅんラジオ】おかえりなさいま
+ せご主人様(⋈◍＞◡＜◍)。✧♡【長尾景/にじさんじ
+ 】
+DTSTART:20210310T120000Z
+DTEND:20210310T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=CSv6NPjRTag\n\n(⋈◍＞◡＜
+ ◍)。✧♡\n\nサムネ＆その他色々:@10kajaku2\n\n【Twitter】\n
+ @kei_nagao2434\n\n--------------------------------------------------------
+ -------------------------------------------------\n\n【公式Twitter】\n
+ @nijisanji_app\n\n【公式HP】\nhttps://nijisanji.ichikara.co.jp/ \n\n
+ 【公式オンラインショップ】\nhttps://nijisanji.booth.pm/\n\n--
+ --------------------------------------------------------------------------
+ -----------------------------\n\n【お問い合わせはこちらまで
+ 】\nhttps://www.ichikara.co.jp/contact/
+URL:https://www.youtube.com/watch?v=CSv6NPjRTag
 END:VEVENT
 BEGIN:VEVENT
 UID:44129
@@ -3459,7 +3492,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:44180
 SUMMARY:【プロセカ】大会優勝賞金で天馬さんちのガチャ
- 祭り【にじさんじ/社築】
+ 祭り、新曲もやるべ【にじさんじ/社築】
 DTSTART:20210310T133000Z
 DTEND:20210310T143000Z
 DESCRIPTION:https://www.youtube.com/watch?v=j_QiH0uU2QM\n\n「な…なん
