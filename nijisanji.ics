@@ -3398,18 +3398,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=BzSza9wMViM\n\nBe nice to other
 URL:https://www.youtube.com/watch?v=BzSza9wMViM
 END:VEVENT
 BEGIN:VEVENT
-UID:44233
-SUMMARY:公園の地下に巨大神殿があるらしいので行ってみ
- た【にじさんじ/月ノ美兎】
-DTSTART:20210311T130000Z
-DTEND:20210311T140000Z
-DESCRIPTION:https://www.youtube.com/watch?v=I1wqOXlXHp8\n\n主に、神殿
- に行った話と神社の宝を探しに行った話の2本立てです\
- n#みとの生放送\n\n月ノ美兎のTwitter（配信予定等はこち
- らで呟いています！）\nhttps://twitter.com/MitoTsukino
-URL:https://www.youtube.com/watch?v=I1wqOXlXHp8
-END:VEVENT
-BEGIN:VEVENT
 UID:44238
 SUMMARY:【マシュマロ】地元最強ホストによるお悩み相談
  生LIVE【にじさんじ】
@@ -3427,6 +3415,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=uooSnpBpgdc\n\nうざいっす
  ト\n━━━━━━━━━━━━━━━━━━━━━━━
  ━━━
 URL:https://www.youtube.com/watch?v=uooSnpBpgdc
+END:VEVENT
+BEGIN:VEVENT
+UID:44233
+SUMMARY:公園の地下に巨大神殿があるらしいので行ってみ
+ た【にじさんじ/月ノ美兎】
+DTSTART:20210311T140000Z
+DTEND:20210311T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=I1wqOXlXHp8\n\n主に、神殿
+ に行った話と神社の宝を探しに行った話の2本立てです\
+ n#みとの生放送\n\n月ノ美兎のTwitter（配信予定等はこち
+ らで呟いています！）\nhttps://twitter.com/MitoTsukino
+URL:https://www.youtube.com/watch?v=I1wqOXlXHp8
 END:VEVENT
 BEGIN:VEVENT
 UID:44234
@@ -3459,6 +3459,27 @@ DESCRIPTION:https://www.youtube.com/watch?v=qavoEykYjeo\n\n今日はトー
  \n#マッサージ\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
  ＝＝＝
 URL:https://www.youtube.com/watch?v=qavoEykYjeo
+END:VEVENT
+BEGIN:VEVENT
+UID:44239
+SUMMARY:【祝】配信を始めて3周年アニバーサリー【にじさ
+ んじ】【文野環/野良猫】
+DTSTART:20210311T140000Z
+DTEND:20210311T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=ZfBZe_jNhZA\n\n3年間ありが
+ とう(^O^)\n\nこの配信がいいなと思ったらチャンネル登
+ 録、高評価、低評価、手洗いうがい、ソーシャルディ
+ スタンス、三密、GoToよろしくお願いします(^O^)\n\n■メ
+ ンバーシップ始めたまき\nhttps://www.youtube.com/channel/UCBiqkF
+ JljoxAj10SoP2w2Cg/join\n\n\nにじさんじ所属バーチャルライバ
+ ーの文野環と申します。\n※絶賛保護観察期間中\n\n\n◆
+ Twitter\nhttps://twitter.com/nekokan_chu\n\n◆にじさんじオフィシ
+ ャルストア（ボイスなどはここで販売してるよ）\nhttps:
+ //shop.nijisanji.jp/s/niji/\n\n◆にじさんじ公式HP\nhttps://nijisan
+ ji.ichikara.co.jp/\n\n◆お手紙はこちら\nファンレターの送
+ り先は下記をご確認くださいませ。\nhttps://nijisanji.ichika
+ ra.co.jp/contact
+URL:https://www.youtube.com/watch?v=ZfBZe_jNhZA
 END:VEVENT
 BEGIN:VEVENT
 UID:44227
