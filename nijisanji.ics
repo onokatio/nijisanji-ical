@@ -2523,6 +2523,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=MBs0lLrEW1I\n\nARK配信での
 URL:https://www.youtube.com/watch?v=MBs0lLrEW1I
 END:VEVENT
 BEGIN:VEVENT
+UID:44320
+SUMMARY:【遊戯王】十年ぶり？の遊戯王パック開封！！【
+ にじさんじ/渋谷ハジメ】
+DTSTART:20210313T032000Z
+DTEND:20210313T042000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Rrwz7qEXGOw\n\n開封するボ
+ ックス\nエンシャント・ガーディアンズ
+URL:https://www.youtube.com/watch?v=Rrwz7qEXGOw
+END:VEVENT
+BEGIN:VEVENT
 UID:44319
 SUMMARY:【#にじARK​​】＃０３　雪フクロウリベンジ編【
  夜見れな／にじさんじ】
@@ -2614,24 +2624,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=P8H4TauXV6s\n\nextinctionとは
 URL:https://www.youtube.com/watch?v=P8H4TauXV6s
 END:VEVENT
 BEGIN:VEVENT
-UID:44313
-SUMMARY:【配信予定】I'll do this stream if I could wake up!!【星川
- サラ/にじさんじ】
-DTSTART:20210313T040000Z
-DTEND:20210313T050000Z
-DESCRIPTION:https://www.youtube.com/watch?v=tnoFNGYW7ZA\n\n何の配信だ
- と思う？\n\nBe nice to other viewers and enjoy my stream!!\nI can unde
- rstand a little English. Please subscribe to my channel***\n\n❥❥期間
- 限定！販売中のボイス\n「マンスリーボイス３月号」※
- 販売：〜3/31(水)\n➡https://shop.nijisanji.jp/s/niji/item/detail/dig
- -00319\n\n〖Twitter〗( @Sara_Hoshikawa )\n https://twitter.com/Sara_Hosh
- ikawa \n\n▼メンバーシップはココから！\nhttps://www.youtube.
- com/channel/UC9V3Y3_uzU5e-usObb6IE1w/join\n☆••┈┈┈┈••✩
- ••┈┈┈┈••☆••┈┈┈┈••✩••┈┈┈┈
- ••✩
-URL:https://www.youtube.com/watch?v=tnoFNGYW7ZA
-END:VEVENT
-BEGIN:VEVENT
 UID:44314
 SUMMARY:【#にじARK】いよいよテイムにシフトするぞ・・・
  ！！【ベルモンド・バンデラス/にじさんじ】
@@ -2650,6 +2642,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=KZcwB0jHOak\n\nサムネイル\
  contact/\n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
  ￣￣￣
 URL:https://www.youtube.com/watch?v=KZcwB0jHOak
+END:VEVENT
+BEGIN:VEVENT
+UID:44313
+SUMMARY:【＃にじARK​】初心者どす。みんな教えて！助け
+ て！！！【星川サラ/にじさんじ】
+DTSTART:20210313T043000Z
+DTEND:20210313T053000Z
+DESCRIPTION:https://www.youtube.com/watch?v=tnoFNGYW7ZA\n\nあのね気づ
+ いたらアッシー君がlv.210になってた\n\nBe nice to other viewe
+ rs and enjoy my stream!!\nI can understand a little English. Please subscr
+ ibe to my channel***\n\n❥❥期間限定！販売中のボイス\n「マ
+ ンスリーボイス３月号」※販売：〜3/31(水)\n➡https://shop
+ .nijisanji.jp/s/niji/item/detail/dig-00319\n\n〖Twitter〗( @Sara_Hoshika
+ wa )\n https://twitter.com/Sara_Hoshikawa \n\n▼メンバーシップは
+ ココから！\nhttps://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w/
+ join\n☆••┈┈┈┈••✩••┈┈┈┈••☆••┈
+ ┈┈┈••✩••┈┈┈┈••✩
+URL:https://www.youtube.com/watch?v=tnoFNGYW7ZA
 END:VEVENT
 BEGIN:VEVENT
 UID:44307
