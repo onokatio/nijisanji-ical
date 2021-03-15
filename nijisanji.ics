@@ -3287,6 +3287,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=KQI2YU_hyGU\n\n衣装、3着目
 URL:https://www.youtube.com/watch?v=KQI2YU_hyGU
 END:VEVENT
 BEGIN:VEVENT
+UID:44465
+SUMMARY:【DARK SOULS REMASTERD #1】大昔にダクソから逃げた男
+ の挑戦【にじさんじ/社築】
+DTSTART:20210315T130000Z
+DTEND:20210315T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=nqI-YgUskDs\n\n10年前ぐら
+ いに友達の家で1時間も経たず挫折した男が今試練に向
+ き合う。\n俺の決意を見てくれ\n\n\nハッシュタグは【#
+ 社築フィードバック】まで。\n---------------------------------
+ ---------------\n社築のチャンネル登録はコチラから：\nhttp
+ s://www.youtube.com/channel/UCKMYISTJAQ8xTplUPHiABlA?sub_confirmation=1\nT
+ witter：\nhttps://twitter.com/846kizuQ\nにじさんじ公式BOOTH：\nht
+ tps://nijisanji.booth.pm/\n↑Tシャツとか売ってます↑\nお問
+ い合わせ・プレゼント送付先：\nhttps://nijisanji.ichikara.co.
+ jp/contact/\n------------------------------------------------\n#ゲーム
+URL:https://www.youtube.com/watch?v=nqI-YgUskDs
+END:VEVENT
+BEGIN:VEVENT
 UID:44456
 SUMMARY:浄化【にじさんじフミ】
 DTSTART:20210315T140000Z
@@ -3360,7 +3378,7 @@ URL:https://www.youtube.com/watch?v=aU8LxY4Xsq8
 END:VEVENT
 BEGIN:VEVENT
 UID:44464
-SUMMARY:#1【TOMB RAIDE/トゥーム レイダー】無人島に潜む狂
+SUMMARY:#1【TOMB RAIDER/トゥーム レイダー】無人島に潜む狂
  気と謎に挑む【白雪 巴/にじさんじ】
 DTSTART:20210315T140000Z
 DTEND:20210315T150000Z
