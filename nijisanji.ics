@@ -2870,6 +2870,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=XAf1CsCQRhs\n\nすごく・・
 URL:https://www.youtube.com/watch?v=XAf1CsCQRhs
 END:VEVENT
 BEGIN:VEVENT
+UID:44677
+SUMMARY:配信休止のお知らせ
+DTSTART:20210319T115000Z
+DTEND:20210319T125000Z
+DESCRIPTION:https://www.youtube.com/watch?v=XeIThNiIsRw\n\nしばらく休
+ 止しまーす。
+URL:https://www.youtube.com/watch?v=XeIThNiIsRw
+END:VEVENT
+BEGIN:VEVENT
 UID:44270
 SUMMARY:【3Dお披露目　#未来人3D　】2％【夕陽リリ/にじさ
  んじ】
@@ -2980,6 +2989,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=YKGb5dOCUgU\n\n前→https://yo
  \nhttps://amachamusic.chagasi.com/\n\n～Special thanks to YOU～\n\n◆
  ◆◆◆◆
 URL:https://www.youtube.com/watch?v=YKGb5dOCUgU
+END:VEVENT
+BEGIN:VEVENT
+UID:44676
+SUMMARY:花畑チャイカとARKエクスティンクション破滅のま
+ ちゃギガノトを捕まえに行くのまき
+DTSTART:20210319T133000Z
+DTEND:20210319T143000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Fb2qbpk27yU\n\nマオ　https:/
+ /www.youtube.com/channel/UCerkculBD7YLc_vOGrF7tKg\nサムネイル　く
+ ださい
+URL:https://www.youtube.com/watch?v=Fb2qbpk27yU
 END:VEVENT
 BEGIN:VEVENT
 UID:44488
