@@ -2644,6 +2644,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=0uJ1t3Kblmc\n\nARKをしてお
 URL:https://www.youtube.com/watch?v=0uJ1t3Kblmc
 END:VEVENT
 BEGIN:VEVENT
+UID:44721
+SUMMARY:【オフコラボ】突然のホラゲ！ぐんかん流星群で
+ 幽霊列車！【The Ghost Train/にじさんじ】
+DTSTART:20210320T060000Z
+DTEND:20210320T070000Z
+DESCRIPTION:https://www.youtube.com/watch?v=gOCcftELZAU\n\n突然のオフ
+ コラボ。いつもの。\n\n引っ越し忙しいのに呼び出され
+ た神田笑一\n@【にじさんじ】神田笑一\n 昨日お泊りし
+ た星川サラ \n@星川サラ / Sara Hoshikawa
+URL:https://www.youtube.com/watch?v=gOCcftELZAU
+END:VEVENT
+BEGIN:VEVENT
 UID:44702
 SUMMARY:【同時視聴/考察】パワプロアニメ第1＆2話を100倍
  楽しむ限界若女将と視聴＆考察【にじさんじ/小野町春
