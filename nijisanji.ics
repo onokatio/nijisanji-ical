@@ -2483,25 +2483,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=81NRuUVx_IA\n\n毎日配信し
 URL:https://www.youtube.com/watch?v=81NRuUVx_IA
 END:VEVENT
 BEGIN:VEVENT
-UID:44712
-SUMMARY:【選択肢式ホラーアニメ】ダブルキャストやる・
- 完結（多分）【にじさんじ/月ノ美兎】
-DTSTART:20210320T030000Z
-DTEND:20210320T040000Z
-DESCRIPTION:https://www.youtube.com/watch?v=wSlvA15dxEs\n\n前→https://yo
- utu.be/CesRgUjGg-A\n#みとの生放送\n前回までのあらすじ：\n
- 主人公（わし）は記憶喪失の美少女、「美月」と奇妙
- な同棲生活を送っている。演劇サークルの女優役に美
- 月を推薦したらめちゃくちゃハマったり撮影先でいち
- ゃいちゃしてたら、美月を寝取りそうな雰囲気を出し
- ていた男が急に変死。でも幸せなのでオッケーです！
- みたいなテンションで唐突なエンドを迎える。今回、
- 真相を探るべく2週目に突入。\n\n月ノ美兎のTwitter（配
- 信予定等はこちらで呟いています！）\nhttps://twitter.com/M
- itoTsukino
-URL:https://www.youtube.com/watch?v=wSlvA15dxEs
-END:VEVENT
-BEGIN:VEVENT
 UID:44719
 SUMMARY:【リングフィット アドベンチャー】眠い中でする
  筋トレ#25【にじさんじ/レヴィ・エリファ】
@@ -2516,6 +2497,25 @@ DESCRIPTION:https://www.youtube.com/watch?v=ujyVd94bwJk\n\n#れゔぃあた
  ji.ichikara.co.jp/ \n\n【オフィシャルストア】\nhttps://shop.nij
  isanji.jp/s/niji/
 URL:https://www.youtube.com/watch?v=ujyVd94bwJk
+END:VEVENT
+BEGIN:VEVENT
+UID:44712
+SUMMARY:【選択肢式ホラーアニメ】ダブルキャストやる・
+ 完結（多分）【にじさんじ/月ノ美兎】
+DTSTART:20210320T034500Z
+DTEND:20210320T044500Z
+DESCRIPTION:https://www.youtube.com/watch?v=wSlvA15dxEs\n\n前→https://yo
+ utu.be/CesRgUjGg-A\n#みとの生放送\n前回までのあらすじ：\n
+ 主人公（わし）は記憶喪失の美少女、「美月」と奇妙
+ な同棲生活を送っている。演劇サークルの女優役に美
+ 月を推薦したらめちゃくちゃハマったり撮影先でいち
+ ゃいちゃしてたら、美月を寝取りそうな雰囲気を出し
+ ていた男が急に変死。でも幸せなのでオッケーです！
+ みたいなテンションで唐突なエンドを迎える。今回、
+ 真相を探るべく2週目に突入。\n\n月ノ美兎のTwitter（配
+ 信予定等はこちらで呟いています！）\nhttps://twitter.com/M
+ itoTsukino
+URL:https://www.youtube.com/watch?v=wSlvA15dxEs
 END:VEVENT
 BEGIN:VEVENT
 UID:44713
