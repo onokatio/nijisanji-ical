@@ -2904,8 +2904,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:44782
 SUMMARY:ARK |  MEKの名前はナイトメア【にじさんじ/叶】
-DTSTART:20210321T111500Z
-DTEND:20210321T121500Z
+DTSTART:20210321T111906Z
+DTEND:20210321T121906Z
 DESCRIPTION:https://www.youtube.com/watch?v=hnl_0UEVevI\n\n毎日配信し
  てます！\n急な配信も多いので通知をONにして遊びに来
  てね。\nロジクールG公認サポーター\nチャンネル登録、
@@ -3001,6 +3001,32 @@ DESCRIPTION:https://www.youtube.com/watch?v=IKxb0FAXxtI\n\n◆music：Kanar
 URL:https://www.youtube.com/watch?v=IKxb0FAXxtI
 END:VEVENT
 BEGIN:VEVENT
+UID:44784
+SUMMARY:【ウマ娘】みんなURAで優勝させてあげたい【成瀬
+ 鳴/にじさんじ】
+DTSTART:20210321T130000Z
+DTEND:20210321T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=GBOxIzs8X3A\n\nストーリー
+ はスキップ（自分で見て）。\n指示はほぼ無視。\n\n―
+ ――――――――――――――――――――――――\n
+ \nにじさんじ所属のバーチャルライバー成瀬鳴です！\n
+ いいなと思っていただけたらチャンネル登録＆高評価
+ よろしくお願いします！\n\n■グッズ\nオリジナルグッ
+ ズ・ボイス購入はこちらから！\n▽にじさんじオフィシ
+ ャルストア▽\nhttps://shop.nijisanji.jp/s/niji/artist/031/item\n\n
+ ■チャンネルメンバーシップ\n月額支援サービスです！
+ \nメンバー限定コンテンツの閲覧やオリジナルスタンプ
+ を利用することができます！\n▽メンバーシップ加入は
+ こちらから！▽\nhttps://www.youtube.com/channel/UCoM_XmK45j504hfUWv
+ N06Qg/join\n\n■SNSリンク\n情報発信はこちらから！\nぜひ
+ フォローよろしくお願いします！\n＜Twitter＞\n@narusenaru_
+ 2434\n＜TikTok＞\n@narusenaru\n\n■コンタクト\nお仕事のご依
+ 頼、お問い合わせ、お手紙の送付はこちらから！\n▽に
+ じさんじ公式サイト/Contact▽\nhttps://nijisanji.ichikara.co.jp/c
+ ontact/\n\n■Credit\n[BGM]\n・魔王魂\n\n#鳴OnLive #ゲーム
+URL:https://www.youtube.com/watch?v=GBOxIzs8X3A
+END:VEVENT
+BEGIN:VEVENT
 UID:44749
 SUMMARY:ラブカ？ - 柊キライ / 町田ちま(Cover)
 DTSTART:20210321T131500Z
@@ -3044,6 +3070,29 @@ DESCRIPTION:https://www.youtube.com/watch?v=-UUoeVIxA5A\n\n女の子って
  nji.ichikara.co.jp/\n\nーーー\n#にじさんじ　#えまおうがす
  と　＃歌ってみた　＃オトメロディー\n＃マイメロディ
 URL:https://www.youtube.com/watch?v=-UUoeVIxA5A
+END:VEVENT
+BEGIN:VEVENT
+UID:44785
+SUMMARY:【勝利＝食費】#一週間フォールガイズ生活 一日
+ 目【三枝明那 / にじさんじ】
+DTSTART:20210321T140000Z
+DTEND:20210321T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=rwkdcWDTXDM\n\n3月27日(土)
+ に行われる『PLAY ALIVE 2021 : Fall Guys Super Match』という大
+ 会で優勝し100万円を獲得するため、一週間フォールガ
+ イズで生活してみる。\n大会URL↓\nhttps://www.playstation.com/
+ ja-jp/local/competition/play-alive/2021-fall-guys-super-match/\n\nルー
+ ル\n・一日に6ゲーム挑戦できる\n・FINAL到達=1pt \, クラ
+ ウン獲得=10pt\n・1pt=50円が翌日の食費になる\n・健康に
+ 十分配慮し楽しくやる(一番大事)\n---\nにじさんじ所属
+ 、三枝明那です。\nモットーは全力！\n\nTwitter //\nhttps://
+ twitter.com/333akina\nメンバーシップ登録 //\nhttps://www.youtube.
+ com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ/join\n\nお問い合わせ・ファ
+ ンレター //\nhttps://nijisanji.ichikara.co.jp/contact/\nにじさん
+ じオフィシャルストア //\nhttps://shop.nijisanji.jp/\nにじさ
+ んじ公式Twitter //\nhttps://twitter.com/nijisanji_app\nにじさんじ
+ 公式HP //\nhttps://nijisanji.ichikara.co.jp/
+URL:https://www.youtube.com/watch?v=rwkdcWDTXDM
 END:VEVENT
 BEGIN:VEVENT
 UID:44737
