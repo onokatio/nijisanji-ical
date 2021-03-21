@@ -2736,6 +2736,21 @@ DESCRIPTION:https://www.youtube.com/watch?v=3GiSBRj_oPw\n\n放課後サボ
 URL:https://www.youtube.com/watch?v=3GiSBRj_oPw
 END:VEVENT
 BEGIN:VEVENT
+UID:44777
+SUMMARY:【助けて】過去一声が死んでる。放送事故になっ
+ ても遊びたい。【星川サラ/にじさんじ】
+DTSTART:20210321T103000Z
+DTEND:20210321T113000Z
+DESCRIPTION:https://www.youtube.com/watch?v=AHxXUsef_VI\n\nきらいにな
+ らないで！！！！！！！！！\n\n❥❥期間限定！販売中
+ のボイス\n「マンスリーボイス３月号」※販売：〜3/31(
+ 水)\n➡https://shop.nijisanji.jp/s/niji/item/detail/dig-00319\n\n〖Twit
+ ter〗( @Sara_Hoshikawa )\n https://twitter.com/Sara_Hoshikawa \n\n▼メ
+ ンバーシップはココから！\nhttps://www.youtube.com/channel/UC9V
+ 3Y3_uzU5e-usObb6IE1w/join
+URL:https://www.youtube.com/watch?v=AHxXUsef_VI
+END:VEVENT
+BEGIN:VEVENT
 UID:44761
 SUMMARY:【毎日歌枠 最終回！】アニソンしばりッ！！！！
  ！！！Singing Stream【町田ちま/にじさんじ】
@@ -2850,8 +2865,8 @@ URL:https://www.youtube.com/watch?v=P694QbGGTLY
 END:VEVENT
 BEGIN:VEVENT
 UID:44775
-SUMMARY:オトメロディー / 高橋美佳子（cover）【えま★お
- うがすと/にじさんじ所属】
+SUMMARY:オトメロディー / 高橋美佳子（cover）えま★おう
+ がすと/にじさんじ所属
 DTSTART:20210321T133000Z
 DTEND:20210321T143000Z
 DESCRIPTION:https://www.youtube.com/watch?v=-UUoeVIxA5A\n\n女の子って
