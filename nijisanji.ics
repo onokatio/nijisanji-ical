@@ -3253,6 +3253,21 @@ DESCRIPTION:https://www.youtube.com/watch?v=1chMc0JWNa0\n\n🐤メンバー
 URL:https://www.youtube.com/watch?v=1chMc0JWNa0
 END:VEVENT
 BEGIN:VEVENT
+UID:44931
+SUMMARY:フレン・E・ルスタリオとTVアニメ『アホガール』
+ 同時視聴
+DTSTART:20210324T110000Z
+DTEND:20210324T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=QPoB8soZ8IE\n\n================
+ ===============\n3月24日(水)20時より「アホガール」の同時
+ 視聴を行います！\nこちらの配信では、同時視聴前のト
+ ーク部分をニコニコ生放送と同時配信を行います！\n\n
+ 【同時視聴の詳細はこちら】\nhttps://twitter.com/nicolive_PR/s
+ tatus/1372805285862019074\n\n今回の配信タグ：#フレンとアホ
+ ガール\n===============================
+URL:https://www.youtube.com/watch?v=QPoB8soZ8IE
+END:VEVENT
+BEGIN:VEVENT
 UID:44912
 SUMMARY:【#マリカイメージカラー杯】【にじさんじ/ドー
  ラ】
