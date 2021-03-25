@@ -4367,6 +4367,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=I2T5jPX1cXM\n\n色んな武器
 URL:https://www.youtube.com/watch?v=I2T5jPX1cXM
 END:VEVENT
 BEGIN:VEVENT
+UID:45011
+SUMMARY:【MH：RISE】いにしえの三ツ星ハンター【パラディ
+ 島の悪魔/にじさんじ】
+DTSTART:20210325T150000Z
+DTEND:20210325T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=fGCrkrBe7Mk\n\nモンスター
+ ハンターライズ\n©CAPCOM CO.\, LTD. ALL RIGHTS RESERVED.
+URL:https://www.youtube.com/watch?v=fGCrkrBe7Mk
+END:VEVENT
+BEGIN:VEVENT
 UID:44983
 SUMMARY:#ねないこ とおはなししませんか？
 DTSTART:20210326T090000Z
