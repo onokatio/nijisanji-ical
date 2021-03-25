@@ -2732,11 +2732,27 @@ DESCRIPTION:https://www.youtube.com/watch?v=eHKDihXpGy0\n\nおねおねが
 URL:https://www.youtube.com/watch?v=eHKDihXpGy0
 END:VEVENT
 BEGIN:VEVENT
+UID:44970
+SUMMARY:【ウマ娘】昨晩攻略サイトで勉強したやつがおる
+ 【長尾景/にじさんじ】
+DTSTART:20210325T013000Z
+DTEND:20210325T023000Z
+DESCRIPTION:https://www.youtube.com/watch?v=XKfzLs8Op50\n\nサムネ:@mmm33
+ 95\n \n\n【Twitter】\n@kei_nagao2434\n\n--------------------------------
+ -------------------------------------------------------------------------\
+ n\n【公式Twitter】\n@nijisanji_app\n\n【公式HP】\nhttps://nijisanj
+ i.ichikara.co.jp/ \n\n【公式オンラインショップ】\nhttps://nij
+ isanji.booth.pm/\n\n------------------------------------------------------
+ ---------------------------------------------------\n\n【お問い合わ
+ せはこちらまで】\nhttps://www.ichikara.co.jp/contact/
+URL:https://www.youtube.com/watch?v=XKfzLs8Op50
+END:VEVENT
+BEGIN:VEVENT
 UID:44964
 SUMMARY:【APEX】今日のカスタムではちょっといいとこ見せ
  たい【にじさんじ/える】
-DTSTART:20210325T010000Z
-DTEND:20210325T020000Z
+DTSTART:20210325T020000Z
+DTEND:20210325T030000Z
 DESCRIPTION:https://www.youtube.com/watch?v=-aD5ictnxdo\n\nサムネイラ
  スト：\n\n【えるのボイス発売】\n(期間限定)\n・職業パ
  ロディボイス\n販売期間：3/19(金)18:00～3/29(月) 23:59\nhttps
@@ -2796,22 +2812,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=-aD5ictnxdo\n\nサムネイラ
  には反省しすぎずに次を見ています！温かく成長を見
  守ってくださるととてもうれしいです！
 URL:https://www.youtube.com/watch?v=-aD5ictnxdo
-END:VEVENT
-BEGIN:VEVENT
-UID:44970
-SUMMARY:【ウマ娘】昨晩攻略サイトで勉強したやつがおる
- 【長尾景/にじさんじ】
-DTSTART:20210325T013000Z
-DTEND:20210325T023000Z
-DESCRIPTION:https://www.youtube.com/watch?v=XKfzLs8Op50\n\nサムネ:@mmm33
- 95\n \n\n【Twitter】\n@kei_nagao2434\n\n--------------------------------
- -------------------------------------------------------------------------\
- n\n【公式Twitter】\n@nijisanji_app\n\n【公式HP】\nhttps://nijisanj
- i.ichikara.co.jp/ \n\n【公式オンラインショップ】\nhttps://nij
- isanji.booth.pm/\n\n------------------------------------------------------
- ---------------------------------------------------\n\n【お問い合わ
- せはこちらまで】\nhttps://www.ichikara.co.jp/contact/
-URL:https://www.youtube.com/watch?v=XKfzLs8Op50
 END:VEVENT
 BEGIN:VEVENT
 UID:44968
