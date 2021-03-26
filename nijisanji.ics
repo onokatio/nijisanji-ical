@@ -2198,6 +2198,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=8dha1qOe-xU\n\nモンスター
 URL:https://www.youtube.com/watch?v=8dha1qOe-xU
 END:VEVENT
 BEGIN:VEVENT
+UID:45087
+SUMMARY:【MH：RISE】歯抜けました（嘘ついたら配信終了）
+DTSTART:20210326T185500Z
+DTEND:20210326T195500Z
+DESCRIPTION:https://www.youtube.com/watch?v=3VI3_i63DD4\n\nモンスター
+ ハンターライズ\n©CAPCOM CO.\, LTD. ALL RIGHTS RESERVED.
+URL:https://www.youtube.com/watch?v=3VI3_i63DD4
+END:VEVENT
+BEGIN:VEVENT
 UID:45080
 SUMMARY:【APEX】プラチナ目指すンゴ～～～！！【にじさん
  じ/える】
