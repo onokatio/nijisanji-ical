@@ -4203,21 +4203,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=fk_EjYPzhFQ\n\n職業パロデ
 URL:https://www.youtube.com/watch?v=fk_EjYPzhFQ
 END:VEVENT
 BEGIN:VEVENT
-UID:45123
-SUMMARY:【にじさんじ】祝！咎人コラボ
-DTSTART:20210327T140000Z
-DTEND:20210327T150000Z
-DESCRIPTION:https://www.youtube.com/watch?v=n1RXQ8sDboA\n\n剣持刀也\nht
- tps://twitter.com/rei_Toya_rei\nhttps://www.youtube.com/channel/UCv1fFr156
- jc65EMiLbaLImw?sub_confirmation=1\n\nピース！！\n\nにじさんじ所
- 属バーチャルライバー、伏見ガクっす！！\nサクっとガ
- クって呼んじゃってー🕺\n\n\nTwitterは以下より！\nhttps:/
- /twitter.com/gaku_fushimi\n\nにじさんじはこちらから\nhttp://nij
- isanji.ichikara.co.jp\n\n\n魔王魂　様　\nT.M.BACH　様　\nDOVA-SYN
- DROME　様\nびたちー素材館 　様\n他
-URL:https://www.youtube.com/watch?v=n1RXQ8sDboA
-END:VEVENT
-BEGIN:VEVENT
 UID:45124
 SUMMARY:【ひぐらしのなく頃に奉】完全初見！雛見沢へ！
  れっつご～！！【星川サラ/にじさんじ】
@@ -4255,6 +4240,21 @@ DESCRIPTION:https://www.youtube.com/watch?v=8pehPqVXWbY\n\n#3　にぱぁ\n
  oioekaki様\n☆••┈┈┈┈••✩••┈┈┈┈••☆•
  •┈┈┈┈••✩••┈┈┈┈••✩
 URL:https://www.youtube.com/watch?v=8pehPqVXWbY
+END:VEVENT
+BEGIN:VEVENT
+UID:45123
+SUMMARY:【にじさんじ】祝！咎人コラボ
+DTSTART:20210327T141500Z
+DTEND:20210327T151500Z
+DESCRIPTION:https://www.youtube.com/watch?v=n1RXQ8sDboA\n\n剣持刀也\nht
+ tps://twitter.com/rei_Toya_rei\nhttps://www.youtube.com/channel/UCv1fFr156
+ jc65EMiLbaLImw?sub_confirmation=1\n\nピース！！\n\nにじさんじ所
+ 属バーチャルライバー、伏見ガクっす！！\nサクっとガ
+ クって呼んじゃってー🕺\n\n\nTwitterは以下より！\nhttps:/
+ /twitter.com/gaku_fushimi\n\nにじさんじはこちらから\nhttp://nij
+ isanji.ichikara.co.jp\n\n\n魔王魂　様　\nT.M.BACH　様　\nDOVA-SYN
+ DROME　様\nびたちー素材館 　様\n他
+URL:https://www.youtube.com/watch?v=n1RXQ8sDboA
 END:VEVENT
 BEGIN:VEVENT
 UID:45111
@@ -4417,6 +4417,25 @@ DESCRIPTION:https://www.youtube.com/watch?v=lmGBvaFQh0g\n\n提供：原神\
  ffz\n\nSupport the stream: https://streamlabs.com/kanaechannel\n\n#にじ
  さんじ
 URL:https://www.youtube.com/watch?v=lmGBvaFQh0g
+END:VEVENT
+BEGIN:VEVENT
+UID:45125
+SUMMARY:エンヴィーベイビー/ メリッサ・キンレンカ Cover
+DTSTART:20210328T110000Z
+DTEND:20210328T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=xz0iriPFNcA\n\n配信タグ :#
+ メリータイム　#メリッサ・キンレンカ\n\n本家様：https:
+ //www.youtube.com/watch?v=dgS6HvEohsw\n\n音楽 ：Kanaria様　https://tw
+ itter.com/Kanaria390​\n\n\n歌：メリッサ・キンレンカ\n https:
+ //twitter.com/melissa_2434​ \n\n\n\nMIX:YouK様　（soundtreatment）\n
+ \n動画：鳴宮ユキ\nhttps://twitter.com/Snow_Rabbit_yy\n\n絵：ガ
+ ニ\nhttps://twitter.com/TARABAlove22\n\n---------------------------------
+ --------------------------------------------------------------------------
+ -----\n【にじさんじオフィシャルストア】\nhttps://shop.niji
+ sanji.jp/s/niji/\n\n【にじさんじ公式Twitter】\nhttps://twitter.co
+ m/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nh
+ ttps://nijisanji.ichikara.co.jp/
+URL:https://www.youtube.com/watch?v=xz0iriPFNcA
 END:VEVENT
 BEGIN:VEVENT
 UID:45059
