@@ -3231,47 +3231,11 @@ DESCRIPTION:https://www.youtube.com/watch?v=DLHrz3Ki4ds\n\nソロ→合流\
 URL:https://www.youtube.com/watch?v=DLHrz3Ki4ds
 END:VEVENT
 BEGIN:VEVENT
-UID:45159
-SUMMARY:【#にじARK​​​】やっぱり肉食獣を捕まえたい
-DTSTART:20210328T073000Z
-DTEND:20210328T083000Z
-DESCRIPTION:https://www.youtube.com/watch?v=cVzp2yvRbfQ\n\nあらすじ：
- 隣人が大型の汚染恐竜に襲われている最中、赤羽葉子
- は公衆便所をせっせと作っていた。\n\n⚠初心者狩りに
- あったとしても問題ナシ！何されてもOK！⚠\n\n＜赤羽
- 葉子 -Youko Akabane-＞\n▶ホラー・オカルトが大好きな渋
- 谷の高校に通う三年生。\n実況動画では、FPS系＆ホラー
- ゲームを中心にプレイしている。\n\n💀Twitter\nhttps://twit
- ter.com/youko_akabane\n💀にじさんじ公式サイト\nhttps://nijisan
- ji.ichikara.co.jp/\n💀にじさんじオフィシャルストア\nhttps:
- //shop.nijisanji.jp/s/niji/\n💀ファンレターの送り先・お問
- い合わせはこちらから\nhttps://www.ichikara.co.jp/contact/
-URL:https://www.youtube.com/watch?v=cVzp2yvRbfQ
-END:VEVENT
-BEGIN:VEVENT
-UID:45146
-SUMMARY:【Minecraft】#マイクラ腕試し_にじさんじ杯 2【星川
- サラ/にじさんじ】
-DTSTART:20210328T080000Z
-DTEND:20210328T090000Z
-DESCRIPTION:https://www.youtube.com/watch?v=C7AXCvXlN6w\n\n▼本放送\nht
- tps://youtu.be/a7DKw-Ve6sY​\n\n☆••┈┈┈┈••✩••┈
- ┈┈┈••☆••┈┈┈┈••✩••┈┈┈┈••✩\n
- ❥❥期間限定！販売中のボイス\n「マンスリーボイス３
- 月号」※販売：〜3/31(水)\n➡https://shop.nijisanji.jp/s/niji/ite
- m/detail/dig-00319\n\n〖Twitter〗( @Sara_Hoshikawa )\n https://twitter.c
- om/Sara_Hoshikawa \n\n▼メンバーシップはココから！\nhttps://
- www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w/join\n☆••┈┈┈
- ┈••✩••┈┈┈┈••☆••┈┈┈┈••✩••
- ┈┈┈┈••✩
-URL:https://www.youtube.com/watch?v=C7AXCvXlN6w
-END:VEVENT
-BEGIN:VEVENT
 UID:45161
 SUMMARY:【#マイクラ腕試し_にじさんじ杯】黛枠【#ライブ
  ハック】
-DTSTART:20210328T080000Z
-DTEND:20210328T090000Z
+DTSTART:20210328T073141Z
+DTEND:20210328T083141Z
 DESCRIPTION:https://www.youtube.com/watch?v=qUCE2SGSCvg\n\n本放送 ⇒ ht
  tps://youtu.be/a7DKw-Ve6sY\n\nライバルズ\n@北小路ヒスイ / Kitak
  oji Hisui 【にじさんじ】 \n@相羽ういは〖Aiba Uiha〗にじさ
@@ -3314,6 +3278,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=qUCE2SGSCvg\n\n本放送 ⇒ ht
  ra.co.jp/\n\n*************************************************************
  *
 URL:https://www.youtube.com/watch?v=qUCE2SGSCvg
+END:VEVENT
+BEGIN:VEVENT
+UID:45146
+SUMMARY:【Minecraft】#マイクラ腕試し_にじさんじ杯 2【星川
+ サラ/にじさんじ】
+DTSTART:20210328T080000Z
+DTEND:20210328T090000Z
+DESCRIPTION:https://www.youtube.com/watch?v=C7AXCvXlN6w\n\n▼本放送\nht
+ tps://youtu.be/a7DKw-Ve6sY​\n\n☆••┈┈┈┈••✩••┈
+ ┈┈┈••☆••┈┈┈┈••✩••┈┈┈┈••✩\n
+ ❥❥期間限定！販売中のボイス\n「マンスリーボイス３
+ 月号」※販売：〜3/31(水)\n➡https://shop.nijisanji.jp/s/niji/ite
+ m/detail/dig-00319\n\n〖Twitter〗( @Sara_Hoshikawa )\n https://twitter.c
+ om/Sara_Hoshikawa \n\n▼メンバーシップはココから！\nhttps://
+ www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w/join\n☆••┈┈┈
+ ┈••✩••┈┈┈┈••☆••┈┈┈┈••✩••
+ ┈┈┈┈••✩
+URL:https://www.youtube.com/watch?v=C7AXCvXlN6w
 END:VEVENT
 BEGIN:VEVENT
 UID:45162
