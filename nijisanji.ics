@@ -3519,6 +3519,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=IupQp59_8RY\n\n２回目\n\n【
 URL:https://www.youtube.com/watch?v=IupQp59_8RY
 END:VEVENT
 BEGIN:VEVENT
+UID:45170
+SUMMARY:【モンハンライズ】はじめてのモンハン！！(体験
+ 版はやった)【にじさんじ】
+DTSTART:20210328T083000Z
+DTEND:20210328T093000Z
+DESCRIPTION:https://www.youtube.com/watch?v=bWQxbXGRqRQ\n\n配信タグ：#
+ ルスタリオンエア\n\nたいけんばんたのしかったからま
+ ってた！！！！\n\n◆サムネイル作成\n⇒士道不覚悟切
+ 腹卍丸(@shidouhukakugo)
+URL:https://www.youtube.com/watch?v=bWQxbXGRqRQ
+END:VEVENT
+BEGIN:VEVENT
 UID:45086
 SUMMARY:【太鼓の達人】鬼ムズイらしいけど頑張れ俺のゴ
  ールドフィンガー【#Crossick/にじさんじ】
@@ -3919,50 +3931,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=2GO94ptRETM\n\n鈴原るる　l
 URL:https://www.youtube.com/watch?v=2GO94ptRETM
 END:VEVENT
 BEGIN:VEVENT
-UID:45142
-SUMMARY:【歌枠】3月もお疲れ様！歌おう！！！Singing Stream
- 【町田ちま/にじさんじ】
-DTSTART:20210328T130000Z
-DTEND:20210328T140000Z
-DESCRIPTION:https://www.youtube.com/watch?v=SjcEohCxUgE\n\n時が過ぎる
- の早すぎ\n\n\n\n🔻「ラブカ？」歌ったよ\nhttps://www.youtub
- e.com/watch?v=P694QbGGTLY\n\n🔻「Wonder NeverLand」聴いてね\nhttps
- ://www.youtube.com/watch?v=txc0Vn2ub6Y\nhttps://nex-tone.link/96905\n\n
- 🔻イラスト本出ました\nhttps://shop.nijisanji.jp/s/niji/item/det
- ail/SSZS-14240?ima=1446\n\n#なま公\n\n【サムネイルイラスト】
- \nへのへの さん\n@ne3_aa\n\n～～～～～～～～～～～～～
- ～～～～～～～～～～～～～～～～\n\n🐹町田ちまにつ
- いて🐹\nみなさんこんにちは！歌うことが大好き！！
- ！\nにじさんじ所属、上から読んでも下から読んでも町
- 田ちま(まちたちま) ！ちまだよ〜🐹🐹💕\n名前がちま
- だからってちまっこいと思ってナメてたら痛い目見る
- んだから！！\n\n16歳の高校一年生。訛っているのを恥
- ずかしがっている上京したての女の子。歌手になるこ
- とが夢で日々歌の練習に励んでいる。夢の実現に少し
- でも繋がればと思い配信を始めた。一人暮らしは寂し
- いので、ゴンザレスという名前のハムスターと一緒に
- 暮らしている。\n\n\n🐹About Machita Chima🐹\nHello~! I’m Mach
- ita Chima\, a 16 year old high school first-year student. Since I’m new 
- to Tokyo\, I’m a little self conscious of my accent. 🤭\nMy dream is t
- o become a singer someday! And so I practice everyday & stream to chase my
-  dream. 🎤🎵\nI live by myself\, which gets kinda lonely\, that’s wh
- y I have my pet hamster\, Gonzalez by my side! 🐹\n\n\n🐹にじさん
- じオフィシャルショップにてボイス発売中！≪Buy a voice
- ≫🐹\n・マンスリーボイス3月\nhttps://shop.nijisanji.jp/s/niji
- /item/detail/dig-00319?ima=2335\n\n\n🐹メンバーシップこちらか
- ら≪Join the Membership≫🐹\nhttps://www.youtube.com/channel/UCo7TRj3
- cS-f_1D9ZDmuTsjw/join\n\n\n🐹YouTube🐹\nhttps://www.youtube.com/channe
- l/UCo7TRj3cS-f_1D9ZDmuTsjw\n\n\n🐹Twitter🐹\nhttps://twitter.com/chima
- _machita23\n\n\n🐹お便り≪Send a letter≫🐹\nファンレター
- の送り先は下記をご確認ください。\nhttps://nijisanji.ichika
- ra.co.jp/contact/\n\n\n🐹グッズ≪Goods≫🐹\n・ちまぱーかー
- 　その1\nhttps://nijisanji.booth.pm/items/1126789 \n・ちまぱーか
- ー　その2\nhttps://nijisanji.booth.pm/items/1126929 \n・アクリル
- キーホルダー\nhttps://nijisanji.booth.pm/items/1126796 \n・アク
- リルスタンド\nhttps://nijisanji.booth.pm/items/1126799
-URL:https://www.youtube.com/watch?v=SjcEohCxUgE
-END:VEVENT
-BEGIN:VEVENT
 UID:45155
 SUMMARY:モイっと！🐶まほすずラジオ🎀#124🐈～あなたの
  ドジっ子エピソード～【にじさんじ/鈴谷アキ・勇気ち
@@ -4019,6 +3987,50 @@ DESCRIPTION:https://www.youtube.com/watch?v=Fhn5LSi9yu0\n\n■新ボイス\
  3Pwl1z7U?amp=1\n\n■Picture\n□\n\n■素材・BGMなど\n□甘茶の
  音楽工房 /
 URL:https://www.youtube.com/watch?v=Fhn5LSi9yu0
+END:VEVENT
+BEGIN:VEVENT
+UID:45142
+SUMMARY:【歌枠】3月もお疲れ様！歌おう！！！Singing Stream
+ 【町田ちま/にじさんじ】
+DTSTART:20210328T140000Z
+DTEND:20210328T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=SjcEohCxUgE\n\n時が過ぎる
+ の早すぎ\n\n\n\n🔻「ラブカ？」歌ったよ\nhttps://www.youtub
+ e.com/watch?v=P694QbGGTLY\n\n🔻「Wonder NeverLand」聴いてね\nhttps
+ ://www.youtube.com/watch?v=txc0Vn2ub6Y\nhttps://nex-tone.link/96905\n\n
+ 🔻イラスト本出ました\nhttps://shop.nijisanji.jp/s/niji/item/det
+ ail/SSZS-14240?ima=1446\n\n#なま公\n\n【サムネイルイラスト】
+ \nへのへの さん\n@ne3_aa\n\n～～～～～～～～～～～～～
+ ～～～～～～～～～～～～～～～～\n\n🐹町田ちまにつ
+ いて🐹\nみなさんこんにちは！歌うことが大好き！！
+ ！\nにじさんじ所属、上から読んでも下から読んでも町
+ 田ちま(まちたちま) ！ちまだよ〜🐹🐹💕\n名前がちま
+ だからってちまっこいと思ってナメてたら痛い目見る
+ んだから！！\n\n16歳の高校一年生。訛っているのを恥
+ ずかしがっている上京したての女の子。歌手になるこ
+ とが夢で日々歌の練習に励んでいる。夢の実現に少し
+ でも繋がればと思い配信を始めた。一人暮らしは寂し
+ いので、ゴンザレスという名前のハムスターと一緒に
+ 暮らしている。\n\n\n🐹About Machita Chima🐹\nHello~! I’m Mach
+ ita Chima\, a 16 year old high school first-year student. Since I’m new 
+ to Tokyo\, I’m a little self conscious of my accent. 🤭\nMy dream is t
+ o become a singer someday! And so I practice everyday & stream to chase my
+  dream. 🎤🎵\nI live by myself\, which gets kinda lonely\, that’s wh
+ y I have my pet hamster\, Gonzalez by my side! 🐹\n\n\n🐹にじさん
+ じオフィシャルショップにてボイス発売中！≪Buy a voice
+ ≫🐹\n・マンスリーボイス3月\nhttps://shop.nijisanji.jp/s/niji
+ /item/detail/dig-00319?ima=2335\n\n\n🐹メンバーシップこちらか
+ ら≪Join the Membership≫🐹\nhttps://www.youtube.com/channel/UCo7TRj3
+ cS-f_1D9ZDmuTsjw/join\n\n\n🐹YouTube🐹\nhttps://www.youtube.com/channe
+ l/UCo7TRj3cS-f_1D9ZDmuTsjw\n\n\n🐹Twitter🐹\nhttps://twitter.com/chima
+ _machita23\n\n\n🐹お便り≪Send a letter≫🐹\nファンレター
+ の送り先は下記をご確認ください。\nhttps://nijisanji.ichika
+ ra.co.jp/contact/\n\n\n🐹グッズ≪Goods≫🐹\n・ちまぱーかー
+ 　その1\nhttps://nijisanji.booth.pm/items/1126789 \n・ちまぱーか
+ ー　その2\nhttps://nijisanji.booth.pm/items/1126929 \n・アクリル
+ キーホルダー\nhttps://nijisanji.booth.pm/items/1126796 \n・アク
+ リルスタンド\nhttps://nijisanji.booth.pm/items/1126799
+URL:https://www.youtube.com/watch?v=SjcEohCxUgE
 END:VEVENT
 BEGIN:VEVENT
 UID:45110
