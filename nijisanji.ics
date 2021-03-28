@@ -3231,11 +3231,29 @@ DESCRIPTION:https://www.youtube.com/watch?v=DLHrz3Ki4ds\n\nソロ→合流\
 URL:https://www.youtube.com/watch?v=DLHrz3Ki4ds
 END:VEVENT
 BEGIN:VEVENT
+UID:45146
+SUMMARY:【Minecraft】#マイクラ腕試し_にじさんじ杯 2【星川
+ サラ/にじさんじ】
+DTSTART:20210328T080000Z
+DTEND:20210328T090000Z
+DESCRIPTION:https://www.youtube.com/watch?v=C7AXCvXlN6w\n\n▼本放送\nht
+ tps://youtu.be/a7DKw-Ve6sY​\n\n☆••┈┈┈┈••✩••┈
+ ┈┈┈••☆••┈┈┈┈••✩••┈┈┈┈••✩\n
+ ❥❥期間限定！販売中のボイス\n「マンスリーボイス３
+ 月号」※販売：〜3/31(水)\n➡https://shop.nijisanji.jp/s/niji/ite
+ m/detail/dig-00319\n\n〖Twitter〗( @Sara_Hoshikawa )\n https://twitter.c
+ om/Sara_Hoshikawa \n\n▼メンバーシップはココから！\nhttps://
+ www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w/join\n☆••┈┈┈
+ ┈••✩••┈┈┈┈••☆••┈┈┈┈••✩••
+ ┈┈┈┈••✩
+URL:https://www.youtube.com/watch?v=C7AXCvXlN6w
+END:VEVENT
+BEGIN:VEVENT
 UID:45161
 SUMMARY:【#マイクラ腕試し_にじさんじ杯】黛枠【#ライブ
  ハック】
-DTSTART:20210328T073141Z
-DTEND:20210328T083141Z
+DTSTART:20210328T080000Z
+DTEND:20210328T090000Z
 DESCRIPTION:https://www.youtube.com/watch?v=qUCE2SGSCvg\n\n本放送 ⇒ ht
  tps://youtu.be/a7DKw-Ve6sY\n\nライバルズ\n@北小路ヒスイ / Kitak
  oji Hisui 【にじさんじ】 \n@相羽ういは〖Aiba Uiha〗にじさ
@@ -3278,24 +3296,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=qUCE2SGSCvg\n\n本放送 ⇒ ht
  ra.co.jp/\n\n*************************************************************
  *
 URL:https://www.youtube.com/watch?v=qUCE2SGSCvg
-END:VEVENT
-BEGIN:VEVENT
-UID:45146
-SUMMARY:【Minecraft】#マイクラ腕試し_にじさんじ杯 2【星川
- サラ/にじさんじ】
-DTSTART:20210328T080000Z
-DTEND:20210328T090000Z
-DESCRIPTION:https://www.youtube.com/watch?v=C7AXCvXlN6w\n\n▼本放送\nht
- tps://youtu.be/a7DKw-Ve6sY​\n\n☆••┈┈┈┈••✩••┈
- ┈┈┈••☆••┈┈┈┈••✩••┈┈┈┈••✩\n
- ❥❥期間限定！販売中のボイス\n「マンスリーボイス３
- 月号」※販売：〜3/31(水)\n➡https://shop.nijisanji.jp/s/niji/ite
- m/detail/dig-00319\n\n〖Twitter〗( @Sara_Hoshikawa )\n https://twitter.c
- om/Sara_Hoshikawa \n\n▼メンバーシップはココから！\nhttps://
- www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w/join\n☆••┈┈┈
- ┈••✩••┈┈┈┈••☆••┈┈┈┈••✩••
- ┈┈┈┈••✩
-URL:https://www.youtube.com/watch?v=C7AXCvXlN6w
 END:VEVENT
 BEGIN:VEVENT
 UID:45162
@@ -3408,6 +3408,115 @@ DESCRIPTION:https://www.youtube.com/watch?v=_lyPNdYBt2M\n\n◀前\nhttps://
  魔王魂　様　\nT.M.BACH　様　\nDOVA-SYNDROME　様\nびたちー
  素材館 　様\n他\n\n#亜ガクコラボ
 URL:https://www.youtube.com/watch?v=_lyPNdYBt2M
+END:VEVENT
+BEGIN:VEVENT
+UID:45168
+SUMMARY:【第１予選】マイクラ腕試しシーズン２ にじさん
+ じ杯　相羽ういは視点【相羽ういは/にじさんじ】
+DTSTART:20210328T080000Z
+DTEND:20210328T090000Z
+DESCRIPTION:https://www.youtube.com/watch?v=-YEHcHS1miI\n\nマイクラ腕
+ 試しシーズン２！！開幕はにじさんじ杯から！\n予選第
+ 1:3/28（日）17時スタート\n予選第2･第3:調整中\n各2位ま
+ でと3位で総合ポイントの上から２名の計8名が決勝進出
+ ！！\n\n全コース完全リニューアル+新競技を２つ追加、
+ 乞うご期待！！\nマイクラ腕試しシーズン1の競技紹介
+ はこちら→https://youtu.be/zVFIarl68JA\n\n【司会・運営】\n❏@
+ クーYouTubeちゃんねる​ \n\n【参加者】\n❏@北小路ヒス
+ イ / Kitakoji Hisui 【にじさんじ】​ \n❏@相羽ういは〖Aiba
+  Uiha〗にじさんじ所属​ \n❏@イブラヒム【にじさんじ
+ 】​ \n❏@黛 灰 / Kai Mayuzumi【にじさんじ】​ 　\n❏@三
+ 枝明那 / Saegusa Akina​ \n❏@不破 湊 / Fuwa Minato【にじさん
+ じ】​ \n❏@夜見れな/yorumi rena【にじさんじ所属】​ \n
+ ❏@星川サラ / Sara Hoshikawa​ \n\n#マイクラ腕試し_にじさ
+ んじ杯​\n#マイクラ腕試し\n\nーーーーーーーーーーー
+ ーーーーーーーーーーーーーーーーーーーーーーーー\n
+ ★皆様へのお願い\n・コメント欄はいつも応援してくだ
+ さる皆様だけでなく、初見さんや切り抜きなどから興
+ 味を持って見に来てくださった人、他の国からのファ
+ ンなど、世界中の色々な方が見ています。また一生ア
+ ーカイブとして残るものです。皆が見ていて気持ちの
+ いいコメントを心がけていただくよう、よろしくお願
+ いいたします。\n・攻撃的な内容であったり、私含め一
+ 部の方々が不快に思ってしまうようなコメントを見つ
+ けた際にはメンバーやスーパーチャットなどでご支援
+ くださっている方であっても非公開にさせていただく
+ ことがございます。ご理解とご協力のもとよろしくお
+ 願いいたします。\n・私が話題に挙げていないにも関わ
+ らず、他ライバーさんの名前を挙げるのもご遠慮くだ
+ さい。\n\n★ういは語録\n「ういはろ」\n挨拶。こんにち
+ は的な意味です。\n「ういはーと」\n終わりの挨拶です
+ 。バイバイの意味です。\n「スパプリン」\nスーパーチ
+ ャットのことです。\n「おハーブ」\n草という意味です
+ 。\n「ぐーぐー」\ngg。グッドゲームという意味です。\n
+ 「かわうい」\nういはちゃん可愛いの意味です。\n「ち
+ ょまま」\nちょっと待つの意味です。\n「すりすり」\n
+ 好きとか嬉しい時に体をこすりつけます。\n「ようこそ
+ ・ぺろぺろ」\nメンバーさんが増えたときの歓迎の挨拶
+ です。\nーーーーーーーーーーーーーーーーーーーーー
+ ーーーーーーーーーーーーーーーー\n\n会いに来てくだ
+ さりありがとうございます！\n 目が覚めたらアイドル
+ してました୨୧⑅.にじさんじ所属、新人バーチャルラ
+ イバーの相羽ういはです💕\n YouTubeとTwitterで日々活動
+ 中です…✻\n 私の配信予定はTwitterをチェックしてみて
+ ください！\n ゲリラ配信も予定されますので、是非チ
+ ャンネル登録とベルマークをONにっ！高評価もしていた
+ だけると元気がみなぎります\nまたいつでも気軽に遊び
+ にいらしてください！\n\n🌼相羽ういは とは？🌼\nバ
+ ーチャル世界に現れた新人アイドル。アイドルとして
+ 経験を積み、将来的には多岐に渡って活躍したいと考
+ えている。好きな食べ物はお菓子と紅茶。\n普段は歌の
+ 投稿や雑談、ゲームなどを行っている。\n目標は３Dに
+ なって踊ってみたを行うこと。ふぁんからの応援を力
+ にして３Dボディを手に入れることを夢見ている…。\n
+ 主な活動はYouTube、Twitter、Boothでのボイス販売 etc...\n\n
+ 🌼プロフィール🌼\n名前　相羽ういは（AibaUiha）\n性別
+ 　女\n誕生日　11月22日\n年齢　20歳（大学2年生）\n特技
+ 　踊ること\nーーーーーーーーーーーーーーーーーーー
+ ーーーーーーーーーーーーーーーーー\n\n【メンバー】\
+ nメンバーのういふぁんくらぶはこちらから！\nメンバ
+ ーになると限定のゆるい配信が見れたり、よくういは
+ ちゃんからの質問を受けたり、限定の壁紙や画像や素
+ 材などがもらえたりするよっ！！\n月々490円からです！
+ ！よろしければ～！！\nhttps://www.youtube.com/channel/UCnRQYHTnR
+ LSF0cLJwMnedCg/join\n\n【Twitter】\nhttps://mobile.twitter.com/AibaUiha\
+ n\n【贈り物はこちらへ】\n〒175-0082\n東京都板橋区高島
+ 平6-2-1 ネットデポ新高島平内\nいちから株式会社 相羽
+ ういは宛 \n詳細→ https://nijisanji.ichikara.co.jp/contact/\n※202
+ 0.7.13現在プレゼントの受付を停止しております。お手
+ 紙は受け付け中です！こちらをご確認ください！\nファ
+ ンレターの送り先は下記をご確認ください。\nhttps://niji
+ sanji.ichikara.co.jp/contact/\n\n【にじさんじ公式BOOTH】\nhttps:/
+ /nijisanji.booth.pm/\n【にじさんじ公式pixivFANBOX】\nhttps://www.
+ pixiv.net/fanbox/creator/24113985\n\nﾏﾀﾈ˙︶˙)ﾉ"
+URL:https://www.youtube.com/watch?v=-YEHcHS1miI
+END:VEVENT
+BEGIN:VEVENT
+UID:45169
+SUMMARY:【MineCraft】うどでまし【にじさんじの皆さん】
+DTSTART:20210328T080000Z
+DTEND:20210328T090000Z
+DESCRIPTION:https://www.youtube.com/watch?v=9JMuTtXIXPE\n\nつよい\n\n#
+ マイクラ腕試し_にじさんじ杯\n#マイクラ腕試し
+URL:https://www.youtube.com/watch?v=9JMuTtXIXPE
+END:VEVENT
+BEGIN:VEVENT
+UID:45167
+SUMMARY:【Minecraft】#マイクラ腕試し_にじさんじ杯​　優
+ 勝者視点【にじさんじ】
+DTSTART:20210328T081000Z
+DTEND:20210328T091000Z
+DESCRIPTION:https://www.youtube.com/watch?v=IupQp59_8RY\n\n２回目\n\n【
+ Minecraft 再生リスト】https://youtube.com/playlist?list=PL2uMwjy4y2Z
+ 7M4W1U7SaDX_DlXNIVtHfi\n\n━━━━━━━━━━━━━━━━
+ ━━━━━━━━━━\nTwitter｜https://twitter.com/Fuwa_Minato\
+ nMembership｜https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaDA/joi
+ n\nマシュマロ｜https://marshmallow-qa.com/fuwa_minato?utm_medium=url
+ _text&utm_source=promotion\nお問い合わせ｜https://nijisanji.ichikar
+ a.co.jp/contact/\n━━━━━━━━━━━━━━━━━━
+ ━━━━━━━━\n#家　#Minecraft　#不破湊\n━━━━━
+ ━━━━━━━━━━━━━━━━━━━━━
+URL:https://www.youtube.com/watch?v=IupQp59_8RY
 END:VEVENT
 BEGIN:VEVENT
 UID:45086
