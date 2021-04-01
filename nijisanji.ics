@@ -2284,6 +2284,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=n5bTMND-BUw\n\nめちゃかっ
 URL:https://www.youtube.com/watch?v=n5bTMND-BUw
 END:VEVENT
 BEGIN:VEVENT
+UID:45357
+SUMMARY:【７さい】じんせいのおなやみをかいけつしてあ
+ げるね【ほんまひまわり/にじさんじ】
+DTSTART:20210401T090000Z
+DTEND:20210401T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=cTha7GT-IPE\n\nトミカとた
+ まごごはんすき！
+URL:https://www.youtube.com/watch?v=cTha7GT-IPE
+END:VEVENT
+BEGIN:VEVENT
 UID:45353
 SUMMARY:【誕生日配信】逆凸お誕生日会【にじさんじ/桜凛
  月】
