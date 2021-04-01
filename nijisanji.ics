@@ -2649,6 +2649,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=Dfsn9WBJlmg\n\n🐤メンバー
 URL:https://www.youtube.com/watch?v=Dfsn9WBJlmg
 END:VEVENT
 BEGIN:VEVENT
+UID:45374
+SUMMARY:４月馬鹿ｗ
+DTSTART:20210401T113000Z
+DTEND:20210401T123000Z
+DESCRIPTION:https://www.youtube.com/watch?v=cAM_Y86ZqKM\n\nあ
+URL:https://www.youtube.com/watch?v=cAM_Y86ZqKM
+END:VEVENT
+BEGIN:VEVENT
 UID:45350
 SUMMARY:エイプリルフールだけど普通に「発表」しよう！
  【にじさんじ/月ノ美兎】
