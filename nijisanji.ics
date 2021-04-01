@@ -3252,6 +3252,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=R4QAI4Gd2O8\n\nもう少しお
 URL:https://www.youtube.com/watch?v=R4QAI4Gd2O8
 END:VEVENT
 BEGIN:VEVENT
+UID:45390
+SUMMARY:こんばんは
+DTSTART:20210401T140706Z
+DTEND:20210401T150706Z
+DESCRIPTION:https://www.youtube.com/watch?v=N5XoLCMQrFY\n\nもう少しお
+ 話をしましょうか\n\nまずは、君たちが知りたいことを
+ 聞かせてもらってもいいですか
+URL:https://www.youtube.com/watch?v=N5XoLCMQrFY
+END:VEVENT
+BEGIN:VEVENT
 UID:45388
 SUMMARY:【みんなで空気読み。3】読み切ります。【にじさ
  んじ/加賀美ハヤト】
