@@ -2425,6 +2425,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=4DFdSzDPclM\n\n今日は渋谷
 URL:https://www.youtube.com/watch?v=4DFdSzDPclM
 END:VEVENT
 BEGIN:VEVENT
+UID:45419
+SUMMARY:【イケニエノヨル】もちもち３Ｄ除霊コラボ【剣
+ 持刀也/椎名唯華】
+DTSTART:20210402T100000Z
+DTEND:20210402T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=yp2r4pZpixE\n\n椎名唯華：h
+ ttps://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg
+URL:https://www.youtube.com/watch?v=yp2r4pZpixE
+END:VEVENT
+BEGIN:VEVENT
 UID:45411
 SUMMARY:【3月編】鷹宮株主総会【にじさんじ/鷹宮リオン
  】
@@ -2533,6 +2543,23 @@ DESCRIPTION:https://www.youtube.com/watch?v=E2vH3uE4G68\n\nやるぞ！！
  うございます！\n------------------------------------------------\n#
  にじさんじ #鈴木勝
 URL:https://www.youtube.com/watch?v=E2vH3uE4G68
+END:VEVENT
+BEGIN:VEVENT
+UID:45420
+SUMMARY:【ウマ娘】馬で忙しい人、トーカイテイオー育て
+ る【長尾景/にじさんじ】
+DTSTART:20210402T110000Z
+DTEND:20210402T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=L84TcyEwgNk\n\nうまがよん
+ でいる\n\nサムネ:@ki_i_16\n\n【Twitter】\n@kei_nagao2434\n\n------
+ --------------------------------------------------------------------------
+ -------------------------\n\n【公式Twitter】\n@nijisanji_app\n\n【公
+ 式HP】\nhttps://nijisanji.ichikara.co.jp/ \n\n【公式オンライン
+ ショップ】\nhttps://nijisanji.booth.pm/\n\n--------------------------
+ --------------------------------------------------------------------------
+ -----\n\n【お問い合わせはこちらまで】\nhttps://www.ichikara.
+ co.jp/contact/
+URL:https://www.youtube.com/watch?v=L84TcyEwgNk
 END:VEVENT
 BEGIN:VEVENT
 UID:45378
