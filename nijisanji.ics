@@ -2187,6 +2187,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=Ok497_oKc7U\n\nサムネイル\
 URL:https://www.youtube.com/watch?v=Ok497_oKc7U
 END:VEVENT
 BEGIN:VEVENT
+UID:45462
+SUMMARY:ゴルフイット飯屋
+DTSTART:20210402T183000Z
+DTEND:20210402T193000Z
+DESCRIPTION:https://www.youtube.com/watch?v=mUnZj119F4Q\n\n
+URL:https://www.youtube.com/watch?v=mUnZj119F4Q
+END:VEVENT
+BEGIN:VEVENT
 UID:45458
 SUMMARY:【APEX】プラチナ３目指すよ目指すのはただだから
  ね【にじさんじ/える】
