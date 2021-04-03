@@ -3600,6 +3600,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=5Hg5dpUqSLU\n\n久々にゆっ
 URL:https://www.youtube.com/watch?v=5Hg5dpUqSLU
 END:VEVENT
 BEGIN:VEVENT
+UID:45500
+SUMMARY:【歌枠】こんな天気のいい日はおうたをうたおう
+ 【にじさんじ】
+DTSTART:20210403T131000Z
+DTEND:20210403T141000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Hy8HcjwKsEM\n\n配信タグ：#
+ ルスタリオンエア\n\nいっかげつぶりとかかも\n\n◆サム
+ ネイル作成\n⇒oseoraさん(@oseora1)
+URL:https://www.youtube.com/watch?v=Hy8HcjwKsEM
+END:VEVENT
+BEGIN:VEVENT
 UID:45492
 SUMMARY:【ウマ娘】知識０ゆえ有識者求ム！人生初のソシ
  ャゲ！【にじさんじ/朝日南アカネ】
