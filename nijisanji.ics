@@ -3245,6 +3245,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=QqtW4PeHju0\n\n♡自身作詞
 URL:https://www.youtube.com/watch?v=QqtW4PeHju0
 END:VEVENT
 BEGIN:VEVENT
+UID:45483
+SUMMARY:今日はリンダキューブを一日中やる日です
+DTSTART:20210404T030000Z
+DTEND:20210404T040000Z
+DESCRIPTION:https://www.youtube.com/watch?v=_JFw4c3Tz1k\n\nみんなはリ
+ ンダキューブを一日中みる日です\n#みとの生放送\n\n月
+ ノ美兎のTwitter（配信予定等はこちらで呟いています！
+ ）\nhttps://twitter.com/MitoTsukino
+URL:https://www.youtube.com/watch?v=_JFw4c3Tz1k
+END:VEVENT
+BEGIN:VEVENT
 UID:45454
 SUMMARY:チャイナアドバイス / 相対性理論 (covered by ねない
  こ)
