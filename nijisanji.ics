@@ -2911,34 +2911,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=N_gznbNkPc4\n\nB10を攻略＆1
 URL:https://www.youtube.com/watch?v=N_gznbNkPc4
 END:VEVENT
 BEGIN:VEVENT
-UID:45473
-SUMMARY:【雀魂/にじたま】雀魂公式番組「にじたま」毎月
- 放送中【にじさんじ/舞元啓介】
-DTSTART:20210403T100000Z
-DTEND:20210403T110000Z
-DESCRIPTION:https://www.youtube.com/watch?v=Md4nYwNNh5U\n\nガチ麻雀て
- マ？\n\n\nーーーーー共演者の皆様ーーーーー\n\n多井隆
- 晴プロ\n【YouTube 】hhttps://www.youtube.com/channel/UCihYMokYrglpPKg
- jzbZYgqA/?sub_confirmation=1\n\n\n郡道美玲\n【YouTube】https://www.y
- outube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw?sub_confirmation=1\n\n\nルイ
- ス・キャミー\n【YouTube】https://www.youtube.com/channel/UCb6ObE-X
- GCctO3WrjRZC-cw?sub_confirmation=1\n\n#雀魂\n#じゃんたま\n#麻雀\n
- #にじたま\n\nーーーーーーーーーーーーーーーーーーー
- ーーーーーーー\n\n普段は主にスポーツ実況・ゲーム実
- 況や深夜ラジオの配信をやっています！\n幅広い活動を
- していきたいと思っていますのでどうぞよろしくお願
- いいたします！\n\nーーーーーーーーーーーーーーーー
- ーーーーーーーーーー\n\n#雀魂\n#麻雀\n\n【お問い合わ
- せやプレゼントはこちら】\nhttps://nijisanji.ichikara.co.jp/con
- tact/\n\n【にじさんじ公式HP】\nhttps://nijisanji.ichikara.co.jp/\
- n\n\nチャンネル登録はこちらになります！よろしくお願
- いいたします！\nhttps://www.youtube.com/channel/UCJubINhCcFXlsBwnHp
- 0wl_g?sub_confirmation=1\n\nTwitter\nhttps://twitter.com/maimoto_k\n\n創
- 作物タグ→ #しら画 \n生放送タグ→ #まいもとなま\nリ
- スナー名→ 加齢衆\n\n#にじさんじ
-URL:https://www.youtube.com/watch?v=Md4nYwNNh5U
-END:VEVENT
-BEGIN:VEVENT
 UID:45459
 SUMMARY:【同時視聴】『機動戦士ZガンダムⅡ恋人たち』一
  緒に見よう！【にじさんじフミ】
@@ -3031,6 +3003,34 @@ DTSTART:20210403T120000Z
 DTEND:20210403T130000Z
 DESCRIPTION:https://www.youtube.com/watch?v=SmluxrXCW7o\n\n
 URL:https://www.youtube.com/watch?v=SmluxrXCW7o
+END:VEVENT
+BEGIN:VEVENT
+UID:45473
+SUMMARY:【雀魂/にじたま】雀魂公式番組「にじたま」毎月
+ 放送中【にじさんじ/舞元啓介】
+DTSTART:20210403T120000Z
+DTEND:20210403T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Md4nYwNNh5U\n\nガチ麻雀て
+ マ？\n\n\nーーーーー共演者の皆様ーーーーー\n\n多井隆
+ 晴プロ\n【YouTube 】hhttps://www.youtube.com/channel/UCihYMokYrglpPKg
+ jzbZYgqA/?sub_confirmation=1\n\n\n郡道美玲\n【YouTube】https://www.y
+ outube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw?sub_confirmation=1\n\n\nルイ
+ ス・キャミー\n【YouTube】https://www.youtube.com/channel/UCb6ObE-X
+ GCctO3WrjRZC-cw?sub_confirmation=1\n\n#雀魂\n#じゃんたま\n#麻雀\n
+ #にじたま\n\nーーーーーーーーーーーーーーーーーーー
+ ーーーーーーー\n\n普段は主にスポーツ実況・ゲーム実
+ 況や深夜ラジオの配信をやっています！\n幅広い活動を
+ していきたいと思っていますのでどうぞよろしくお願
+ いいたします！\n\nーーーーーーーーーーーーーーーー
+ ーーーーーーーーーー\n\n#雀魂\n#麻雀\n\n【お問い合わ
+ せやプレゼントはこちら】\nhttps://nijisanji.ichikara.co.jp/con
+ tact/\n\n【にじさんじ公式HP】\nhttps://nijisanji.ichikara.co.jp/\
+ n\n\nチャンネル登録はこちらになります！よろしくお願
+ いいたします！\nhttps://www.youtube.com/channel/UCJubINhCcFXlsBwnHp
+ 0wl_g?sub_confirmation=1\n\nTwitter\nhttps://twitter.com/maimoto_k\n\n創
+ 作物タグ→ #しら画 \n生放送タグ→ #まいもとなま\nリ
+ スナー名→ 加齢衆\n\n#にじさんじ
+URL:https://www.youtube.com/watch?v=Md4nYwNNh5U
 END:VEVENT
 BEGIN:VEVENT
 UID:45472
