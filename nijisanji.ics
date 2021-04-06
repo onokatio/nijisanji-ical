@@ -2629,8 +2629,8 @@ URL:https://www.youtube.com/watch?v=obKyaEh_ypM
 END:VEVENT
 BEGIN:VEVENT
 UID:45645
-SUMMARY:【ARK】約束のブリーディング！！【にじさんじ/桜
- 凛月】
+SUMMARY:【ARK】約束のお見合い！！【にじさんじ/桜凛月
+ 】
 DTSTART:20210406T093000Z
 DTEND:20210406T103000Z
 DESCRIPTION:https://www.youtube.com/watch?v=sU4xHavihgk\n\n@アルス・ア
@@ -2997,6 +2997,31 @@ DESCRIPTION:https://www.youtube.com/watch?v=YHsm8FnNqf8\n\n4月10日に開
 URL:https://www.youtube.com/watch?v=YHsm8FnNqf8
 END:VEVENT
 BEGIN:VEVENT
+UID:45649
+SUMMARY:【モンハンライズ】参加型で上位集会所を進める
+ ぞー！【神田笑一/にじさんじ 】
+DTSTART:20210406T110000Z
+DTEND:20210406T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=ykQ8MxzXHlM\n\nガンランス
+ 用の装備揃えてぇ～～～～～～～～\n\nモンスターハン
+ ターライズ\n©CAPCOM CO.\, LTD. ALL RIGHTS RESERVED.\n\nチャンネ
+ ル登録と高評価、通知ボタンのクリック\nツイッターと
+ インスタとTikTokのフォロー\nうがい手洗い、スマホの消
+ 毒、マスクの手洗い･日陰干し\n三密回避、5つの小、
+ よろしくお願いします\n\n□-------------------------------------
+ --------------------■\n◢ 神田笑一　Twitter\nhttps://twitter.com/K
+ anda_Shoichi\n■---------------------------------------------------------
+ □\n◢ お手紙はこちらへお願いします\n〒101-0022\n　東
+ 京都千代田区神田練塀町300番地\n　住友不動産秋葉原駅
+ 前ビル10F\n　いちから株式会社　神田笑一宛\n（プレゼ
+ ントなどの注意事項： http://nijisanji.ichikara.co.jp/faq/ )\n\n
+ ◢ お問い合わせ先\n〒101-0022\n東京都千代田区神田練塀
+ 町300番地\n住友不動産秋葉原駅前ビル10F\n【info@ichikara.co
+ .jp】\n□---------------------------------------------------------■\n#
+ モンスターハンターライズ #モンハン #にじさんじ
+URL:https://www.youtube.com/watch?v=ykQ8MxzXHlM
+END:VEVENT
+BEGIN:VEVENT
 UID:45606
 SUMMARY:バイノーラルマイクで遊ぶだけ【 来栖夏芽/にじ
  さんじ】
@@ -3063,26 +3088,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=JGa-lkIeXYI\n\nタイトル伏
 URL:https://www.youtube.com/watch?v=JGa-lkIeXYI
 END:VEVENT
 BEGIN:VEVENT
-UID:45648
-SUMMARY:【florence】初恋。言葉にならない胸の痛み。女の
- 子の恋物語を体験！【星川サラ/にじさんじ】
-DTSTART:20210406T120000Z
-DTEND:20210406T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=PtL-NSBhSgQ\n\n▼ましゅま
- ろご自由にどうぞ\nhttps://marshmallow-qa.com/sara_hoshikawa?utm_me
- dium=url_text&utm_source=promotion\n\n\n❥❥期間限定！販売中の
- ボイス\n「お花見ボイス2021」※販売：〜4/9(金)\n➡https:/
- /shop.nijisanji.jp/s/niji/item/detail/dig-00362?ima=0428\n「新生活ボ
- イス2021」※販売：〜4/9(金)\n➡https://shop.nijisanji.jp/s/niji/
- item/detail/dig-00357?ima=0428\n\n〖Twitter〗( @Sara_Hoshikawa )\n https
- ://twitter.com/Sara_Hoshikawa \n\n▼メンバーシップはココから
- ！\nhttps://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w/join\nさむ
- ねいらすと：@kurokuma0807様\n☆••┈┈┈┈••✩••
- ┈┈┈┈••☆••┈┈┈┈••✩••┈┈┈┈••
- ✩
-URL:https://www.youtube.com/watch?v=PtL-NSBhSgQ
-END:VEVENT
-BEGIN:VEVENT
 UID:45637
 SUMMARY:【#雀魂 】モンハン麻雀って何……何！？【モン
  ハンライズ/にじさんじ郡道美玲】
@@ -3096,6 +3101,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=AqP4GrZvb4Y\n\nチャンネル
  伊東ライフ\n\nモンスターハンターライズ\n©CAPCOM CO.\, LT
  D. ALL RIGHTS RESERVED.
 URL:https://www.youtube.com/watch?v=AqP4GrZvb4Y
+END:VEVENT
+BEGIN:VEVENT
+UID:45648
+SUMMARY:【初恋】言葉にならない胸の痛み。女の子の恋物
+ 語。florence【星川サラ/にじさんじ】
+DTSTART:20210406T130000Z
+DTEND:20210406T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=PtL-NSBhSgQ\n\n▼ましゅま
+ ろご自由にどうぞ\nhttps://marshmallow-qa.com/sara_hoshikawa?utm_me
+ dium=url_text&utm_source=promotion\n\n\n❥❥期間限定！販売中の
+ ボイス\n「お花見ボイス2021」※販売：〜4/9(金)\n➡https:/
+ /shop.nijisanji.jp/s/niji/item/detail/dig-00362?ima=0428\n「新生活ボ
+ イス2021」※販売：〜4/9(金)\n➡https://shop.nijisanji.jp/s/niji/
+ item/detail/dig-00357?ima=0428\n\n〖Twitter〗( @Sara_Hoshikawa )\n https
+ ://twitter.com/Sara_Hoshikawa \n\n▼メンバーシップはココから
+ ！\nhttps://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w/join\nさむ
+ ねいらすと：@kurokuma0807様\n☆••┈┈┈┈••✩••
+ ┈┈┈┈••☆••┈┈┈┈••✩••┈┈┈┈••
+ ✩
+URL:https://www.youtube.com/watch?v=PtL-NSBhSgQ
 END:VEVENT
 BEGIN:VEVENT
 UID:45618
