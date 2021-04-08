@@ -3846,8 +3846,8 @@ BEGIN:VEVENT
 UID:45790
 SUMMARY:【Cooking Simulator】料理初心者が本気で作る「伝説
  のピザ」【にじさんじ】
-DTSTART:20210408T133500Z
-DTEND:20210408T143500Z
+DTSTART:20210408T133000Z
+DTEND:20210408T143000Z
 DESCRIPTION:https://www.youtube.com/watch?v=Nh0J9OlPtlk\n\nうまそう\n\n
  ▼ストアページ\nhttps://store.steampowered.com/app/641320/Cooking_S
  imulator/?l=japanese\n\n【単発まとめ 再生リスト】https://youtu
@@ -4158,9 +4158,9 @@ URL:https://www.youtube.com/watch?v=cFpr_rW5h9I
 END:VEVENT
 BEGIN:VEVENT
 UID:45792
-SUMMARY:【シャドバ】Shadowverse第20弾カードパック「暗黒の
- ウェルサ」リリース記念配信【三枝明那/葉山舞鈴/にじ
- さんじ】
+SUMMARY:【シャドバ】#にじさんじシャドバ部、テンポラリ
+ ーデッキをご紹介します。【三枝明那 / 葉山舞鈴 / に
+ じさんじ】
 DTSTART:20210409T100000Z
 DTEND:20210409T110000Z
 DESCRIPTION:https://www.youtube.com/watch?v=bgr7bwtutbA\n\n提供：株式
