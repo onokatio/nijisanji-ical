@@ -2241,6 +2241,19 @@ DESCRIPTION:https://www.youtube.com/watch?v=woJ8Eft0uKY\n\nジョー・力
 URL:https://www.youtube.com/watch?v=woJ8Eft0uKY
 END:VEVENT
 BEGIN:VEVENT
+UID:45858
+SUMMARY:きえるうた
+DTSTART:20210409T231500Z
+DTEND:20210410T001500Z
+DESCRIPTION:https://www.youtube.com/watch?v=rU-nrk7Mkls\n\n配信タグ :#
+ メリータイム　#メリッサ・キンレンカ\n\n\n【Twitter】\n
+ 【 https://twitter.com/melissa_2434 】\n\n\n【にじさんじオフィ
+ シャルストア】\nhttps://shop.nijisanji.jp/s/niji/\n\n【にじさ
+ んじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_a
+ pp 》\n\n【にじさんじ公式HP】\nhttps://nijisanji.ichikara.co.jp/
+URL:https://www.youtube.com/watch?v=rU-nrk7Mkls
+END:VEVENT
+BEGIN:VEVENT
 UID:45852
 SUMMARY:【ポケモン盾】ポケモン完全初見の剣盾 ＃１【に
  じさんじフミ】
@@ -2583,6 +2596,27 @@ DESCRIPTION:https://www.youtube.com/watch?v=q4SoMufpBV8\n\n#小野町旅館
  しんさんわーくす(深山悠真)様（@shinsanworks）\n\n＃ゲー
  ム
 URL:https://www.youtube.com/watch?v=q4SoMufpBV8
+END:VEVENT
+BEGIN:VEVENT
+UID:45859
+SUMMARY:#01【ウマ娘】女好きVtuberの初めてのプリティーダ
+ ービー【白雪 巴/にじさんじ】
+DTSTART:20210411T050000Z
+DTEND:20210411T060000Z
+DESCRIPTION:https://www.youtube.com/watch?v=8Jt_st4g_l8\n\nついに足を
+ 踏み入れてしまいまして\n\nあとは落ちていくだけ(財布
+ のひもを緩めながら)\n\n\n～イラスト～\n\n◆saruko さん\n
+ https://twitter.com/sarukong88/status/1372596403776593923?s=20\n\n\n◆◆
+ ◆◆◆\n\n#白雪巴 (しらゆき ともえ)\n配信タグ　#女王
+ のお戯れ\n\n▼Twitter\nhttps://mobile.twitter.com/tomoe_shirayuki\n\n
+ ▼ファンレターの送り先は下記をご確認ください。\nhtt
+ ps://nijisanji.ichikara.co.jp/contact/\n\n～にじさんじ～\n\n▼公
+ 式サイト\nhttp://nijisanji.ichikara.co.jp/faq/\n\n▽Twitter\nhttps://
+ twitter.com/nijisanji_app?lang=ja\n\n▼公式オンラインSHOP\nhttps:/
+ /nijisanji.booth.pm/\n\n～音源～\n\n▽甘茶の音楽工房 さま\nh
+ ttps://amachamusic.chagasi.com/\n\n～Special thanks to YOU～\n\n◆◆
+ ◆◆◆
+URL:https://www.youtube.com/watch?v=8Jt_st4g_l8
 END:VEVENT
 END:VCALENDAR
 
