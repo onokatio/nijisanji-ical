@@ -3440,26 +3440,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=aWVMjSBQ0i0\n\n提供：アー
 URL:https://www.youtube.com/watch?v=aWVMjSBQ0i0
 END:VEVENT
 BEGIN:VEVENT
-UID:45824
-SUMMARY:【終焉介護】話題の新作ホラゲ。ビビビビｂって
- ないです。【星川サラ/にじさんじ】
-DTSTART:20210409T130000Z
-DTEND:20210409T140000Z
-DESCRIPTION:https://www.youtube.com/watch?v=bAH3npD3EvQ\n\n※切り抜き
- はおっけー◎\n※アーカイブはメンバー限定で残します
- ↓\n\n▼メンバーシップはココから！\nhttps://www.youtube.com
- /channel/UC9V3Y3_uzU5e-usObb6IE1w/join\n→*月2回以上のメンバー
- 限定配信/*メンバー限定コミュニティ投稿/\n*名前の横
- にメンバーバッジ付与/*コメントで使える限定スタンプ
- /\n*メンバー限定で残された生放送のアーカイブを見れ
- る\n\n❥❥期間限定！販売中のボイス\n「お花見ボイス20
- 21」※販売：〜4/9(金)\n➡https://shop.nijisanji.jp/s/niji/item/det
- ail/dig-00362?ima=0428\n「新生活ボイス2021」※販売：〜4/9(金
- )\n➡https://shop.nijisanji.jp/s/niji/item/detail/dig-00357?ima=0428\n\n
- 〖Twitter〗( @Sara_Hoshikawa )\n https://twitter.com/Sara_Hoshikawa
-URL:https://www.youtube.com/watch?v=bAH3npD3EvQ
-END:VEVENT
-BEGIN:VEVENT
 UID:45843
 SUMMARY:【DARKSOULSⅡ】クリアまで。【にじさんじ/加賀美ハ
  ヤト】
@@ -3597,6 +3577,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=tGGquNGLb70\n\nAPEX大好きに
  ((*・ω・(ε･* ))) ﾁｭｯ♪ \n\n☆お問い合わせ・ファン
  レター\nhttps://nijisanji.ichikara.co.jp/contact/
 URL:https://www.youtube.com/watch?v=tGGquNGLb70
+END:VEVENT
+BEGIN:VEVENT
+UID:45824
+SUMMARY:【終焉介護】話題の新作ホラゲ。ビビビビｂって
+ ないです。【星川サラ/にじさんじ】
+DTSTART:20210409T131000Z
+DTEND:20210409T141000Z
+DESCRIPTION:https://www.youtube.com/watch?v=bAH3npD3EvQ\n\n※切り抜き
+ はおっけー◎\n※アーカイブはメンバー限定で残します
+ ↓\n\n▼メンバーシップはココから！\nhttps://www.youtube.com
+ /channel/UC9V3Y3_uzU5e-usObb6IE1w/join\n\n→*月2回以上のメンバー
+ 限定配信/*メンバー限定コミュニティ投稿/\n*名前の横
+ にメンバーバッジ付与/*コメントで使える限定スタンプ
+ /\n*メンバー限定で残された生放送のアーカイブを見れ
+ る\n\n❥❥期間限定！販売中のボイス\n「お花見ボイス20
+ 21」※販売：〜4/9(金)\n➡https://shop.nijisanji.jp/s/niji/item/det
+ ail/dig-00362?ima=0428\n「新生活ボイス2021」※販売：〜4/9(金
+ )\n➡https://shop.nijisanji.jp/s/niji/item/detail/dig-00357?ima=0428\n\n
+ 〖Twitter〗( @Sara_Hoshikawa )\n https://twitter.com/Sara_Hoshikawa
+URL:https://www.youtube.com/watch?v=bAH3npD3EvQ
 END:VEVENT
 BEGIN:VEVENT
 UID:45831
