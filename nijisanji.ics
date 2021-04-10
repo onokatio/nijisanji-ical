@@ -2391,6 +2391,19 @@ DESCRIPTION:https://www.youtube.com/watch?v=y_hWSakLSzc\n\nグリーンチ
 URL:https://www.youtube.com/watch?v=y_hWSakLSzc
 END:VEVENT
 BEGIN:VEVENT
+UID:45918
+SUMMARY:【 APEX 】Cypher CUP #椿一門
+DTSTART:20210411T090000Z
+DTEND:20210411T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=YOUSjQcrB6s\n\n遅延ある\n\n
+ 椿さんの学費を稼ぐみたいです\n\nたいかい\nhttps://cypher
+ -cup.com/\n\n\nみざさん（グラブルの人）\nhttps://twitter.com/r
+ u324\nhttps://www.youtube.com/channel/UCFBSXqhTCTQp7zfXO-FhA6A\n\nつば
+ きさん（鬼）\nhttps://www.twitch.tv/tsubaki_sa\nhttps://twitter.com/
+ sa_mame13\nhttps://www.youtube.com/channel/UCATI4BnxfjgkbKoA8CRq2lA
+URL:https://www.youtube.com/watch?v=YOUSjQcrB6s
+END:VEVENT
+BEGIN:VEVENT
 UID:45914
 SUMMARY:ダウナーウィッチ/歌わせていただきました。
 DTSTART:20210411T100000Z
