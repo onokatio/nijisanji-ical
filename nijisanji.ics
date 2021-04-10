@@ -3936,6 +3936,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=gNu9smuNaeE\n\n今日のお話
 URL:https://www.youtube.com/watch?v=gNu9smuNaeE
 END:VEVENT
 BEGIN:VEVENT
+UID:45906
+SUMMARY:負けるまでLoL
+DTSTART:20210410T142000Z
+DTEND:20210410T152000Z
+DESCRIPTION:https://www.youtube.com/watch?v=DnP2ntO5_-s\n\nマイクは最
+ 強すぎて空間音やばかったから変えなかった。インタ
+ ーフェースは変わった。\nあんま変わらんと思うわ。
+URL:https://www.youtube.com/watch?v=DnP2ntO5_-s
+END:VEVENT
+BEGIN:VEVENT
 UID:45903
 SUMMARY:【#にじARK​】ただいまーく【北小路ヒスイ/にじ
  さんじ】
@@ -4195,6 +4205,23 @@ DESCRIPTION:https://www.youtube.com/watch?v=JUVpTLP6mQU\n\nにじさんじ
  --------------------------------■\n#にじさんじ #ウマ娘 #ガチ
  ャ
 URL:https://www.youtube.com/watch?v=JUVpTLP6mQU
+END:VEVENT
+BEGIN:VEVENT
+UID:45907
+SUMMARY:【歌ってみた】？？？？【長尾景・フミ/フ景罪/
+ にじさんじ】
+DTSTART:20210411T110000Z
+DTEND:20210411T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=8CUId_1qbMY\n\nなーんだー
+ ー？？\n\nフミ様\nhttps://www.youtube.com/watch?v=HFxIHwVvgEw\n\n【
+ Twitter】\n@kei_nagao2434\n\n--------------------------------------------
+ -------------------------------------------------------------\n\n【公式
+ Twitter】\n@nijisanji_app\n\n【公式HP】\nhttps://nijisanji.ichikara.c
+ o.jp/ \n\n【公式オンラインショップ】\nhttps://nijisanji.booth
+ .pm/\n\n------------------------------------------------------------------
+ ---------------------------------------\n\n【お問い合わせはこち
+ らまで】\nhttps://www.ichikara.co.jp/contact/
+URL:https://www.youtube.com/watch?v=8CUId_1qbMY
 END:VEVENT
 BEGIN:VEVENT
 UID:45860
