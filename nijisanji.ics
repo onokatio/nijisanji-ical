@@ -3213,6 +3213,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=EdBrbw4524U\n\n東雲絵名を
 URL:https://www.youtube.com/watch?v=EdBrbw4524U
 END:VEVENT
 BEGIN:VEVENT
+UID:45951
+SUMMARY:【 APEX 】23時から叶さんと
+DTSTART:20210411T134000Z
+DTEND:20210411T144000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Ru-IhSIjwUg\n\nかなえさん\
+ nhttps://www.youtube.com/channel/UCspv01oxUFf_MTSipURRhkA
+URL:https://www.youtube.com/watch?v=Ru-IhSIjwUg
+END:VEVENT
+BEGIN:VEVENT
 UID:45935
 SUMMARY:【モンスターハンターライズ(MHRise)】狩りはまだ
  始まったばかり…ｯ！！！！【鈴原るる/にじさんじ】
