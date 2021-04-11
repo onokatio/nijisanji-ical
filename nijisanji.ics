@@ -2258,27 +2258,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=TAQMqK8s3Hk\n\nBシナリオっ
 URL:https://www.youtube.com/watch?v=TAQMqK8s3Hk
 END:VEVENT
 BEGIN:VEVENT
-UID:45859
-SUMMARY:#01【ウマ娘】女好きVtuberの初めてのプリティーダ
- ービー【白雪 巴/にじさんじ】
-DTSTART:20210411T050000Z
-DTEND:20210411T060000Z
-DESCRIPTION:https://www.youtube.com/watch?v=8Jt_st4g_l8\n\nついに足を
- 踏み入れてしまいまして\n\nあとは落ちていくだけ(財布
- のひもを緩めながら)\n\n\n～イラスト～\n\n◆saruko さん\n
- https://twitter.com/sarukong88/status/1372596403776593923?s=20\n\n\n◆◆
- ◆◆◆\n\n#白雪巴 (しらゆき ともえ)\n配信タグ　#女王
- のお戯れ\n\n▼Twitter\nhttps://mobile.twitter.com/tomoe_shirayuki\n\n
- ▼ファンレターの送り先は下記をご確認ください。\nhtt
- ps://nijisanji.ichikara.co.jp/contact/\n\n～にじさんじ～\n\n▼公
- 式サイト\nhttp://nijisanji.ichikara.co.jp/faq/\n\n▽Twitter\nhttps://
- twitter.com/nijisanji_app?lang=ja\n\n▼公式オンラインSHOP\nhttps:/
- /nijisanji.booth.pm/\n\n～音源～\n\n▽甘茶の音楽工房 さま\nh
- ttps://amachamusic.chagasi.com/\n\n～Special thanks to YOU～\n\n◆◆
- ◆◆◆
-URL:https://www.youtube.com/watch?v=8Jt_st4g_l8
-END:VEVENT
-BEGIN:VEVENT
 UID:45916
 SUMMARY:【 #桜花賞 】ミケは今年こそ桜の女王になるのニ
  ャ【にじさんじ/鷹宮リオン】
@@ -2537,6 +2516,27 @@ DESCRIPTION:https://www.youtube.com/watch?v=Ec_5DYn4O_0\n\n#にじさんじ
  1-0022\n東京都千代田区神田練塀町300番地\n住友不動産秋
  葉原駅前ビル10F\nいちから株式会社 健屋花那 宛
 URL:https://www.youtube.com/watch?v=Ec_5DYn4O_0
+END:VEVENT
+BEGIN:VEVENT
+UID:45859
+SUMMARY:#01【ウマ娘】女好きVtuberの初めてのプリティーダ
+ ービー【白雪 巴/にじさんじ】
+DTSTART:20210412T120000Z
+DTEND:20210412T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=8Jt_st4g_l8\n\nついに足を
+ 踏み入れてしまいまして\n\nあとは落ちていくだけ(財布
+ のひもを緩めながら)\n\n\n～イラスト～\n\n◆saruko さん\n
+ https://twitter.com/sarukong88/status/1372596403776593923?s=20\n\n\n◆◆
+ ◆◆◆\n\n#白雪巴 (しらゆき ともえ)\n配信タグ　#女王
+ のお戯れ\n\n▼Twitter\nhttps://mobile.twitter.com/tomoe_shirayuki\n\n
+ ▼ファンレターの送り先は下記をご確認ください。\nhtt
+ ps://nijisanji.ichikara.co.jp/contact/\n\n～にじさんじ～\n\n▼公
+ 式サイト\nhttp://nijisanji.ichikara.co.jp/faq/\n\n▽Twitter\nhttps://
+ twitter.com/nijisanji_app?lang=ja\n\n▼公式オンラインSHOP\nhttps:/
+ /nijisanji.booth.pm/\n\n～音源～\n\n▽甘茶の音楽工房 さま\nh
+ ttps://amachamusic.chagasi.com/\n\n～Special thanks to YOU～\n\n◆◆
+ ◆◆◆
+URL:https://www.youtube.com/watch?v=8Jt_st4g_l8
 END:VEVENT
 END:VCALENDAR
 
