@@ -1970,6 +1970,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=V0YwnCy6TIk\n\nサムネにお
 URL:https://www.youtube.com/watch?v=V0YwnCy6TIk
 END:VEVENT
 BEGIN:VEVENT
+UID:46010
+SUMMARY:【歌ってみた】ヴァンパイア/葉加瀬冬雪(Cover)
+DTSTART:20210413T120000Z
+DTEND:20210413T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=LvaJqbyclpw\n\n絶叫\n\n\n曲
+ ：DECO*27 様\nhttps://www.youtube.com/watch?v=e1xCOsgWG0M&t=20s\nイラ
+ スト：げる様\nhttps://twitter.com/nukoleg?s=20\n動画：skmt 様\nh
+ ttps://twitter.com/sk_pp_mt?s=20\nMIX：D_MIX 様\nhttps://twitter.com/D_M
+ IXing?s=20
+URL:https://www.youtube.com/watch?v=LvaJqbyclpw
+END:VEVENT
+BEGIN:VEVENT
 UID:46008
 SUMMARY:【終焉介護】奇妙な家に介護訪問したら怖すぎた
  ・・・無理。【星川サラ/にじさんじ】
