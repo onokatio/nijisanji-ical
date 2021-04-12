@@ -3133,8 +3133,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:46000
 SUMMARY:人生初のAmong USやるWWWWWW【星川サラ/にじさんじ】
-DTSTART:20210412T132000Z
-DTEND:20210412T142000Z
+DTSTART:20210412T133000Z
+DTEND:20210412T143000Z
 DESCRIPTION:https://www.youtube.com/watch?v=WzSypfU-Ofs\n\n※アーカイ
  ブはメンバーシップ限定で残します\n※後日編集して、
  動画として投稿するかも\n※この生放送の切り抜きはNG
@@ -3188,6 +3188,17 @@ DTEND:20210412T150000Z
 DESCRIPTION:https://www.youtube.com/watch?v=2zXMu6pf0Mw\n\nサムネ\nhttps
  ://twitter.com/da_oroshi/status/1209412403760263168?s=20
 URL:https://www.youtube.com/watch?v=2zXMu6pf0Mw
+END:VEVENT
+BEGIN:VEVENT
+UID:46003
+SUMMARY:【Plug&Play】何なのだこれは！どうすればいいのだ
+ ！？【にじさんじ】
+DTSTART:20210412T140000Z
+DTEND:20210412T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=WUSQuS_2b20\n\n配信タグ：#
+ ルスタリオンエア\n\nなにこれ\n\n◆サムネ素材一部お借
+ りしました\n⇒mojiさん(@fm1824)
+URL:https://www.youtube.com/watch?v=WUSQuS_2b20
 END:VEVENT
 BEGIN:VEVENT
 UID:45924
