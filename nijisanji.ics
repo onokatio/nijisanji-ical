@@ -3180,16 +3180,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=orNfAgwxI_4\n\n鈴原るる　l
 URL:https://www.youtube.com/watch?v=orNfAgwxI_4
 END:VEVENT
 BEGIN:VEVENT
-UID:46001
-SUMMARY:視聴者が住んでる部屋を見ていく！！【卯月コウ/
- にじさんじ】
-DTSTART:20210412T140000Z
-DTEND:20210412T150000Z
-DESCRIPTION:https://www.youtube.com/watch?v=2zXMu6pf0Mw\n\nサムネ\nhttps
- ://twitter.com/da_oroshi/status/1209412403760263168?s=20
-URL:https://www.youtube.com/watch?v=2zXMu6pf0Mw
-END:VEVENT
-BEGIN:VEVENT
 UID:46003
 SUMMARY:【Plug&Play】何なのだこれは！どうすればいいのだ
  ！？【にじさんじ】
@@ -3199,6 +3189,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=WUSQuS_2b20\n\n配信タグ：#
  ルスタリオンエア\n\nなにこれ\n\n◆サムネ素材一部お借
  りしました\n⇒mojiさん(@fm1824)
 URL:https://www.youtube.com/watch?v=WUSQuS_2b20
+END:VEVENT
+BEGIN:VEVENT
+UID:46001
+SUMMARY:視聴者が住んでる部屋を見ていく！！【卯月コウ/
+ にじさんじ】
+DTSTART:20210412T141500Z
+DTEND:20210412T151500Z
+DESCRIPTION:https://www.youtube.com/watch?v=2zXMu6pf0Mw\n\nサムネ\nhttps
+ ://twitter.com/da_oroshi/status/1209412403760263168?s=20
+URL:https://www.youtube.com/watch?v=2zXMu6pf0Mw
 END:VEVENT
 BEGIN:VEVENT
 UID:46004
