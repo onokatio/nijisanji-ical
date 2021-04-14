@@ -2385,6 +2385,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=h71lI85pZDw\n\n♦サムネイ
 URL:https://www.youtube.com/watch?v=h71lI85pZDw
 END:VEVENT
 BEGIN:VEVENT
+UID:46085
+SUMMARY:【ウイイレ】　混　沌　⚽　蹴　球　【にじさん
+ じ/イブラヒム】
+DTSTART:20210414T100000Z
+DTEND:20210414T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=YicYcy5AJkY\n\nウイイレ2021
+ (steam版)にて、ビカムアレジェンドで作成したオリジナ
+ ルキャラを22人で持ち寄ってバトルする配信。\nキャラ
+ は育成せず、初期値のまま持ってくること。
+URL:https://www.youtube.com/watch?v=YicYcy5AJkY
+END:VEVENT
+BEGIN:VEVENT
 UID:46056
 SUMMARY:おかえりって、言える時が来る。
 DTSTART:20210414T110000Z
