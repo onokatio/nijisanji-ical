@@ -3838,6 +3838,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=cx90_7fdosw\n\nPlease subscribe
 URL:https://www.youtube.com/watch?v=cx90_7fdosw
 END:VEVENT
 BEGIN:VEVENT
+UID:46168
+SUMMARY:花畑チャイカと現代ポケモン研究家ガラルへ行く
+ その10そろそろポケモンスナップの新しいのが出る
+DTSTART:20210415T150000Z
+DTEND:20210415T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=OU-gmyuE3yg\n\nサムネイル
+ 　ミゴまな
+URL:https://www.youtube.com/watch?v=OU-gmyuE3yg
+END:VEVENT
+BEGIN:VEVENT
 UID:46153
 SUMMARY:はやおきしたら【ラトナ・プティにじさんじ】
 DTSTART:20210415T213000Z
