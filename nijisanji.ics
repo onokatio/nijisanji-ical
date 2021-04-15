@@ -3698,6 +3698,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=GhnDROCP5a8\n\n中ボス1匹倒
 URL:https://www.youtube.com/watch?v=GhnDROCP5a8
 END:VEVENT
 BEGIN:VEVENT
+UID:46166
+SUMMARY:【 golf it 】はじめてやる
+DTSTART:20210415T140000Z
+DTEND:20210415T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=ycS47rIjXbo\n\nれいあ\nhttps
+ ://www.twitch.tv/fps_leia\nつばき\nhttps://www.twitch.tv/tsubaki_sa
+URL:https://www.youtube.com/watch?v=ycS47rIjXbo
+END:VEVENT
+BEGIN:VEVENT
 UID:46133
 SUMMARY:【みんなで空気読み。2 ～令和～】今度こそ任せ
  て【鈴木勝/にじさんじ】
@@ -3807,6 +3816,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=q9F_P1rziFU\n\n■にじさん
  ://nijisanji.ichikara.co.jp/faq/\n\nThanks for watching!!\n#リリ生放
  送
 URL:https://www.youtube.com/watch?v=q9F_P1rziFU
+END:VEVENT
+BEGIN:VEVENT
+UID:46167
+SUMMARY:【ウマ娘プリティダービー】あわよくばオペラオ
+ ーもほしい、そんな気持ち【にじさんじ/葉加瀬冬雪】
+DTSTART:20210415T150000Z
+DTEND:20210415T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=cx90_7fdosw\n\nPlease subscribe
+  to my channel and have fun!\n\n❄️twitter\nhttps://twitter.com/Hakase_
+ Fuyuki\n\n❄️メンバー\nhttps://www.youtube.com/channel/UCGYAYLDE7TZ
+ iiC8U6teciDQ/join\n\n配信タグ #冬雪ラボ\n\n\n------- \n\nにじさ
+ んじ所属の葉加瀬 冬雪( はかせ ふゆき )です。\n\n高校
+ 二年生。実験と美味しいご飯が好き。\nどうぞよろしく
+ お願いします。\n\nHi everyone!\n\nI'm Fuyuki Hakase\, a NIJISANJI V
+ Tuber.\nI like science experiments and tasty food.\nI usually live stream 
+ games and singing on YouTube.\n\n\n\n\n【にじさんじ】\n\n ❄️Twi
+ tter\nhttps://twitter.com/Nijisanji_app\n ❄️Official HP\nhttp://nijisa
+ nji.ichikara.co.jp\n❄️にじさんじオフィシャルストア\nhttp
+ s://shop.nijisanji.jp/s/niji/\n ❄️お問い合わせはこちら
+URL:https://www.youtube.com/watch?v=cx90_7fdosw
 END:VEVENT
 BEGIN:VEVENT
 UID:46153
