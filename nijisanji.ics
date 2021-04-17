@@ -2193,6 +2193,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=XmuwtAR4V5Q\n\n＃相羽うい
 URL:https://www.youtube.com/watch?v=XmuwtAR4V5Q
 END:VEVENT
 BEGIN:VEVENT
+UID:46229
+SUMMARY:Blue Paint the town red.
+DTSTART:20210417T131500Z
+DTEND:20210417T141500Z
+DESCRIPTION:https://www.youtube.com/watch?v=kD9iSm_sbuM\n\n
+URL:https://www.youtube.com/watch?v=kD9iSm_sbuM
+END:VEVENT
+BEGIN:VEVENT
 UID:46222
 SUMMARY:【同時視聴】「機動戦士ガンダム逆襲のシャア」
  を一緒に見る【にじさんじフミ】
