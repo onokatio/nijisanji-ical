@@ -2930,5 +2930,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=EKHXyzfKPkc\n\n※プレミア
  さい。
 URL:https://www.youtube.com/watch?v=EKHXyzfKPkc
 END:VEVENT
+BEGIN:VEVENT
+UID:46292
+SUMMARY:【松竹梅メンバー限定】#22♨ピクミン3チャレンジ
+ モード【にじさんじ/小野町春香】
+DTSTART:20210420T130000Z
+DTEND:20210420T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=o6oXT3kyMq4\n\n配信時間に
+ なったらメンバー限定公開に設定します
+URL:https://www.youtube.com/watch?v=o6oXT3kyMq4
+END:VEVENT
 END:VCALENDAR
 
