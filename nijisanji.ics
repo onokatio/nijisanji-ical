@@ -1501,6 +1501,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=s8HOrjDqUVQ\n\n待たせたな
 URL:https://www.youtube.com/watch?v=s8HOrjDqUVQ
 END:VEVENT
 BEGIN:VEVENT
+UID:46353
+SUMMARY:【モンハンライズ】楓と美兎 ～笛と操虫棍～
+DTSTART:20210420T120000Z
+DTEND:20210420T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=qbzibsnQYZU\n\nこの武器た
+ ち、トリッキーだな…\n#楓と美兎\n\n楓ちゃんのチャン
+ ネル\nhttps://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A\n\n月ノ
+ 美兎のTwitter（配信予定等はこちらで呟いています！）\
+ nhttps://twitter.com/MitoTsukino
+URL:https://www.youtube.com/watch?v=qbzibsnQYZU
+END:VEVENT
+BEGIN:VEVENT
 UID:46292
 SUMMARY:【松竹梅メンバー限定】#22♨ピクミン3チャレンジ
  モード【にじさんじ/小野町春香】
