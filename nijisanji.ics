@@ -2990,7 +2990,8 @@ SUMMARY:【雑談】今週もがんばるぞ～の雑談【にじさんじ/
 DTSTART:20210419T140000Z
 DTEND:20210419T150000Z
 DESCRIPTION:https://www.youtube.com/watch?v=jbhvWVfMIGg\n\nサムネイラ
- スト：め様@y2AyfrNAyiw66Xq\n\n【えるのボイス発売】\n(期間
+ スト：め様@y2AyfrNAyiw66Xq\n\n24時からAPEXのストーリープレ
+ ミア公開も見ちゃお～\n\n【えるのボイス発売】\n(期間
  限定)\n\n(再販)\n・看病ボイス\n販売期間：4/16(金)18:00〜4
  /22(木)23:5\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00129?ima=2
  843\n\n(常設)\n・ハロウィンボイス2018・クリスマスボイ
@@ -3070,6 +3071,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=tj2Q8RJWTME\n\n配信タグ :#
 URL:https://www.youtube.com/watch?v=tj2Q8RJWTME
 END:VEVENT
 BEGIN:VEVENT
+UID:46340
+SUMMARY:RISU - 廃学校探索ホラーゲーム
+DTSTART:20210419T160000Z
+DTEND:20210419T170000Z
+DESCRIPTION:https://www.youtube.com/watch?v=wBqxXKqCiis\n\n今日こそバ
+ グらない！！\n\n配信タグ➡#ましろとしゃべる \n\n👍 
+ チャンネル登録高評価してくれるとモチベが上がりま
+ す！\n\n₍ᐢ⑅•ᴗ•⑅ᐢ₎₍ᐢ⑅•ᴗ•⑅ᐢ₎₍ᐢ⑅
+ •ᴗ•⑅ᐢ₎₍ᐢ⑅•ᴗ•⑅ᐢ₎₍ᐢ⑅•ᴗ•⑅ᐢ₎
+ ₍ᐢ⑅•ᴗ•⑅ᐢ₎₍ᐢ⑅•ᴗ•⑅ᐢ₎₍ᐢ⑅•ᴗ•
+ ⑅ᐢ₎\n\n🧷Twitter\nhttps://twitter.com/mashiro2434\n\n\n🌈\n【
+ お問い合わせやプレゼントはこちら】\n〒101-0022\n東京
+ 都千代田区神田練塀町300番地\n住友不動産秋葉原駅前ビ
+ ル10F\nいちから株式会社 (ましろ)宛\n\n🎵使用楽曲\nソ
+ ース: http://incompetech.com/\nアーティスト: Kevin MacLeod
+URL:https://www.youtube.com/watch?v=wBqxXKqCiis
+END:VEVENT
+BEGIN:VEVENT
 UID:46330
 SUMMARY:【undertale】最後にもう一度だけ、世界を救う【ベ
  ルモンド・バンデラス/にじさんじ】
@@ -3114,6 +3133,21 @@ DTEND:20210420T140000Z
 DESCRIPTION:https://www.youtube.com/watch?v=o6oXT3kyMq4\n\n配信時間に
  なったらメンバー限定公開に設定します
 URL:https://www.youtube.com/watch?v=o6oXT3kyMq4
+END:VEVENT
+BEGIN:VEVENT
+UID:46341
+SUMMARY:【Detroit: Become Human】完全初見もうじき終わるやも
+ しれんらしい【メリッサ・キンレンカ/にじさんじ】
+DTSTART:20210420T130000Z
+DTEND:20210420T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=1gTp25xDql4\n\n配信タグ :#
+ メリータイム　#メリッサ・キンレンカ\n　\n\n【Twitter】
+ \n【 https://twitter.com/melissa_2434 】\n\n\n【にじさんじオフ
+ ィシャルストア】\nhttps://shop.nijisanji.jp/s/niji/\n\n【にじ
+ さんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanj
+ i_app 》\n\n【にじさんじ公式HP】\nhttps://nijisanji.ichikara.co.
+ jp/
+URL:https://www.youtube.com/watch?v=1gTp25xDql4
 END:VEVENT
 END:VCALENDAR
 
