@@ -2602,6 +2602,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=TwmZ_kB9r-o\n\nめちゃくち
 URL:https://www.youtube.com/watch?v=TwmZ_kB9r-o
 END:VEVENT
 BEGIN:VEVENT
+UID:46467
+SUMMARY:誕生日ライブ【グウェル・オス・ガール / にじさ
+ んじ】
+DTSTART:20210422T113000Z
+DTEND:20210422T123000Z
+DESCRIPTION:https://www.youtube.com/watch?v=_rVorNA4lEg\n\n本日2021歳に
+ なりました。
+URL:https://www.youtube.com/watch?v=_rVorNA4lEg
+END:VEVENT
+BEGIN:VEVENT
 UID:46434
 SUMMARY:【お悩み相談】あなたのお話、聞かせてください
  ✨　#41【にじさんじ/シスター・クレア】
