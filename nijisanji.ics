@@ -1741,6 +1741,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=UksR9TenH_k\n\nにじさんじ
 URL:https://www.youtube.com/watch?v=UksR9TenH_k
 END:VEVENT
 BEGIN:VEVENT
+UID:46489
+SUMMARY:【OGL!?!??!?】Valorant本当にへたくそな男【にじさん
+ じ/イブラヒム】
+DTSTART:20210422T152000Z
+DTEND:20210422T162000Z
+DESCRIPTION:https://www.youtube.com/watch?v=ATZQ585CKgM\n\nメンバーシ
+ ップ\nhttps://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A/join
+URL:https://www.youtube.com/watch?v=ATZQ585CKgM
+END:VEVENT
+BEGIN:VEVENT
 UID:46479
 SUMMARY:だくそ死んだら即終了
 DTSTART:20210422T160000Z
