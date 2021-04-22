@@ -2602,17 +2602,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=TwmZ_kB9r-o\n\nめちゃくち
 URL:https://www.youtube.com/watch?v=TwmZ_kB9r-o
 END:VEVENT
 BEGIN:VEVENT
-UID:46460
-SUMMARY:※メンテ終わり次第【コラボガチャ】賭ケグルイ
- キャラコンプまで！さァ、ガチャ狂いましょう！【#雀
- 魂 /にじさんじ郡道美玲】
-DTSTART:20210422T113000Z
-DTEND:20210422T123000Z
-DESCRIPTION:https://www.youtube.com/watch?v=xCj0bb5Wc34\n\nチャンネル
- 登録宜しくお願い致します♡
-URL:https://www.youtube.com/watch?v=xCj0bb5Wc34
-END:VEVENT
-BEGIN:VEVENT
 UID:46434
 SUMMARY:【お悩み相談】あなたのお話、聞かせてください
  ✨　#41【にじさんじ/シスター・クレア】
@@ -2739,6 +2728,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=6N1beg6Z_Ks\n\nバーチャル
  h74\n\n\n◆ファンレターの送り先は下記をご確認くださ
  い。 / Letter\nhttps://nijisanji.ichikara.co.jp/contact/
 URL:https://www.youtube.com/watch?v=6N1beg6Z_Ks
+END:VEVENT
+BEGIN:VEVENT
+UID:46460
+SUMMARY:※メンテ終わり次第【コラボガチャ】賭ケグルイ
+ キャラコンプまで！さァ、ガチャ狂いましょう！【#雀
+ 魂 /にじさんじ郡道美玲】
+DTSTART:20210422T120000Z
+DTEND:20210422T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=xCj0bb5Wc34\n\nチャンネル
+ 登録宜しくお願い致します♡
+URL:https://www.youtube.com/watch?v=xCj0bb5Wc34
 END:VEVENT
 BEGIN:VEVENT
 UID:46466
