@@ -2853,17 +2853,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=6N1beg6Z_Ks\n\nバーチャル
 URL:https://www.youtube.com/watch?v=6N1beg6Z_Ks
 END:VEVENT
 BEGIN:VEVENT
-UID:46460
-SUMMARY:※メンテ終わり次第【コラボガチャ】賭ケグルイ
- キャラコンプまで！さァ、ガチャ狂いましょう！【#雀
- 魂 /にじさんじ郡道美玲】
-DTSTART:20210422T120000Z
-DTEND:20210422T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=xCj0bb5Wc34\n\nチャンネル
- 登録宜しくお願い致します♡
-URL:https://www.youtube.com/watch?v=xCj0bb5Wc34
-END:VEVENT
-BEGIN:VEVENT
 UID:46466
 SUMMARY:【終焉介護】おじいちゃんの介護？余裕っしょ！
  【にじさんじ/轟京子】
@@ -2938,6 +2927,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=paTmpQxDywE\n\n超素敵なイ
  ラストをお借りしました\nhttps://twitter.com/yonoichi_k/status/1
  363107645893136384
 URL:https://www.youtube.com/watch?v=paTmpQxDywE
+END:VEVENT
+BEGIN:VEVENT
+UID:46460
+SUMMARY:【コラボガチャ】賭ケグルイキャラコンプまで！
+ さァ、ガチャ狂いましょう！【#雀魂 /にじさんじ郡道
+ 美玲】
+DTSTART:20210422T121500Z
+DTEND:20210422T131500Z
+DESCRIPTION:https://www.youtube.com/watch?v=xCj0bb5Wc34\n\nチャンネル
+ 登録宜しくお願い致します♡
+URL:https://www.youtube.com/watch?v=xCj0bb5Wc34
 END:VEVENT
 BEGIN:VEVENT
 UID:46439
@@ -3071,6 +3071,33 @@ DESCRIPTION:https://www.youtube.com/watch?v=WjrxNsnay3U\n\n色々振り返
 URL:https://www.youtube.com/watch?v=WjrxNsnay3U
 END:VEVENT
 BEGIN:VEVENT
+UID:46476
+SUMMARY:【歌枠】お歌の練習がしたいてワケ…【にじさん
+ じ/山神カルタ】
+DTSTART:20210422T133000Z
+DTEND:20210422T143000Z
+DESCRIPTION:https://www.youtube.com/watch?v=ZvS6huU6tOc\n\n練習したい
+ んだ～そうなんだ\n\n\n素敵なイラスト : てれふたる(@TP_
+ acid)さま\n\n\n✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ
+ ･⋆｡✰⋆｡:ﾟ･*☽⋆｡:ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\n
+ にじさんじ所属バーチャルライバー　\n見習い烏天狗の
+ 山神カルタです。\n普段は山で修行をしています。\nい
+ ろんな時間をみんなと一緒に過ごせたら嬉しいなあ。\n
+ \n\n✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰
+ ⋆｡:ﾟ･*☽⋆｡:ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\n\n🎴Twitter
+  tag🎴\n\n配信タグ : #山神カタル\nイラスト : # カルタの
+ 絵札\n\n〔 Twitter 〕\n https://twitter.com/Karuta_Yamagami\n\nおて
+ がみやお問い合わせなど！💌📞\nhttps://nijisanji.ichikara.c
+ o.jp/cont...\n\n🎴メンバーシップはこちらから(月額490円)
+ 🎴\nhttps://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ/join\n→\n
+ 名前の横にバッジ！\nコメント欄で使えるスタンプ！\n\
+ nメンバー限定配信や、ほぼ毎日コミュニティー投稿も
+ あり！\n山神の食生活がのぞけます🍚\n\n\n✰⋆｡:ﾟ･*
+ ☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽⋆
+ ｡:ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\n#山神カルタ
+URL:https://www.youtube.com/watch?v=ZvS6huU6tOc
+END:VEVENT
+BEGIN:VEVENT
 UID:46438
 SUMMARY:【KU100使用】睡眠導入ASMR動画（耳かき・耳マッサ
  ージ・囁きetc）【鈴鹿詩子/にじさんじ】
@@ -3155,6 +3182,54 @@ DESCRIPTION:https://www.youtube.com/watch?v=CtO2ufpHFVQ\n\nサムネイラ
  ikara.co.jp/contact/\n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
  ￣￣￣￣￣￣￣
 URL:https://www.youtube.com/watch?v=CtO2ufpHFVQ
+END:VEVENT
+BEGIN:VEVENT
+UID:46475
+SUMMARY:【みんなで空気読み。3】三度目の正直／仏の顔も
+ 三度まで【鈴木勝/にじさんじ】
+DTSTART:20210422T150000Z
+DTEND:20210422T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=uezAn2heup4\n\nDEAD or ALIVE\n\
+ nみんなで空気読み。プレイリスト→https://www.youtube.com/p
+ laylist?list=PL_e1mgn5OjFNbBNpSUOULoVJ-YZlvMCta\n\n©G-MODE Corporation\nh
+ ttps://store-jp.nintendo.com/list/software/70010000037214.html\n----------
+ --------------------------------------\n༒活動༒\nにじさんじ所
+ 属バーチャルライバー、漆黒の捕食者D.E. こと鈴木勝で
+ す。\nバーチャル中学二年生の男です。\n不定期に深夜
+ 、または夕方にゲームや雑談の配信をしています。\n偶
+ に企画もやったり、歌の動画を投稿したりもします。\n
+ \n急な配信もあるので、通知をONにして遊びに来て下さ
+ い。\nまた活動の予定はTwitterで告知を出しているので
+ 、\nTwitterのフォローもして貰えると嬉しいです！\n\nI'm 
+ Masaru Suzuki- A.K.A.\, "The Darkness Eater"\, or in short\, "D.E."! A Vir
+ tual YouTuber from NIJISANJI!\nI'm a virtual schoolboy in my 2nd year of m
+ iddle school.\nI usually stream games\, make events\, post song covers\, o
+ r just chat in the evening and sometimes late at night!\nCome check out my
+  Twitter for daily uploads\, schedules\, and announcements!\nDon't forget 
+ to give me a follow!: https://twitter.com/Darkness_Eater\n※Please refrai
+ n from talking to other viewers about topics unrelated to the content of t
+ he broadcast.\n------------------------------------------------\n༒お世
+ 話になっております༒（敬称略）\nDOVA-SYNDROME https://dova-
+ s.jp/\nその他クレジット不要・商用利用可素材配布サイ
+ ト\n------------------------------------------------\nRain Drops「オン
+ トロジー」好評販売中です！\nhttps://store.universal-music.co.
+ jp/product/pdcv1108/\n------------------------------------------------\n
+ ༒リンク༒\nチャンネル登録は此方から:\nhttps://www.youtub
+ e.com/channel/UCryOPk2GZ1meIDt53tL30Tw?sub_confirmation=1\nメンバーシ
+ ップ登録は此方から：\nhttps://www.youtube.com/channel/UCryOPk2GZ
+ 1meIDt53tL30Tw/join\nTwitter：\nhttps://twitter.com/Darkness_Eater\nに
+ じさんじオフィシャルストア：\nhttps://shop.nijisanji.jp/s/ni
+ ji/\nお問い合わせ・お手紙送付先：\nhttps://nijisanji.ichikar
+ a.co.jp/contact/\n------------------------------------------------ \n༒
+ お願い༒\n・不適切な表現、公序良俗に反する言葉等の
+ 使用は控えて頂けると嬉しいです。\n　特にセンシティ
+ ブなコメントはYoutubeのAIが勘違いしかねないためご遠
+ 慮ください🙇\n・視聴者さん同士が配信内容と関係の
+ 無い話題で会話し続けることはお控えください。\n\nス
+ パチャは配信の最後にお名前を呼ばせて頂いておりま
+ す。\nいつも有難うございます！\n----------------------------
+ --------------------\n#にじさんじ #鈴木勝 #空気読み。
+URL:https://www.youtube.com/watch?v=uezAn2heup4
 END:VEVENT
 BEGIN:VEVENT
 UID:46459
