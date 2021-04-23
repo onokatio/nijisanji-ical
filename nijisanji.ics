@@ -2398,6 +2398,22 @@ DESCRIPTION:https://www.youtube.com/watch?v=vKPz1yrfCGw\n\n待ちに待っ
 URL:https://www.youtube.com/watch?v=vKPz1yrfCGw
 END:VEVENT
 BEGIN:VEVENT
+UID:46509
+SUMMARY:【 APEX 】ランクごとに武器制限がある（20時から
+ カスタム）
+DTSTART:20210423T101000Z
+DTEND:20210423T111000Z
+DESCRIPTION:https://www.youtube.com/watch?v=I54oZBQAY4k\n\n概要\nhttps://
+ twitter.com/oXpolungaXo/status/1385521609482461187?s=20\n\n使用不可武
+ 器でダメージ出したら死ぬ\nアタッチメント用に使用不
+ 可武器持つのはOK（つかったら死ぬ）\nケアパケ武器は
+ ダイヤ以上禁止\nWE4戦\n遅延義務なし\n\n\nボスナさん\nht
+ tps://twitter.com/BosnaYT\nhttps://www.youtube.com/channel/UCQOsydb4_h9DRq
+ Dv-dk54VA\n\nれもねさん\nhttps://twitter.com/lemonade2253?s=21\nhttps
+ ://www.youtube.com/channel/UCCSQccqxBB8gmmiTJNg3v-A
+URL:https://www.youtube.com/watch?v=I54oZBQAY4k
+END:VEVENT
+BEGIN:VEVENT
 UID:46506
 SUMMARY:【 #ロードモバイル 】赤羽葉子のギルドに加入し
  ませんか？【ギルド結成編】
@@ -2450,22 +2466,22 @@ DESCRIPTION:https://www.youtube.com/watch?v=gA7CamxyzZ0\n\n次回対戦相
  ください。）\n\n▼ギルド参加方法\n①初心者転用の巻
  物を使って私の近くに移動！\n※レベル5以下じゃない
  と巻物が使えないらしいから、ゲームを始めたらすぐ
- 移動してねー！！\n座標（K:895 X:176 Y:479）\n②ゲームホ
- ーム画面右下の歯車アイコンから、検索→ギルド検索
- →「ギルド名(配信中に作るよ)」で検索してギルドに参
- 加！\n③ギルド参加人数がMAXの100人になったら、溢れた
- 人がギルドに入れるように視聴者さんが有志でギルド
- を作ってほしいです！ギルドを作った人は私のギルド
- の掲示板に書き込んで教えてね！\nスクリーン リーダ
- ーのサポートを有効にするには、Ctrl+Alt+Z を押します。
- キーボード ショートカットの詳細については、Ctrl+ス
- ラッシュ を押します。\n \n˗ˋˏりんくˎˊ˗ \n\n🐚 Twitter
-  🐚\nhttps://twitter.com/Chigusa_24zono\n《@Chigusa_24zono》\n\n🌈 
- にじさんじ公式Twitter 🐓\nhttps://twitter.com/nijisanji_app\n《@
- nijisanji_app》\n\n🌈 にじさんじ公式HP 🕒\n https://nijisanji.
- ichikara.co.jp/\n\n💌 ファンレターやお問い合わせはコチ
- ラから 📝\nhttps://nijisanji.ichikara.co.jp/contact/\n\n⌒*⌒*⌒*
- ⌒*⌒*⌒* ⌒*⌒*⌒*⌒*⌒*⌒*⌒*⌒*⌒* ⌒*⌒*⌒*
+ 移動してねー！！\n座標　nishizo2434（K:895 X:177 Y:481）\n②
+ ゲームホーム画面右下の歯車アイコンから、検索→ギ
+ ルド検索→「ギルド名(配信中に作るよ)」で検索してギ
+ ルドに参加！\n③ギルド参加人数がMAXの100人になったら
+ 、溢れた人がギルドに入れるように視聴者さんが有志
+ でギルドを作ってほしいです！ギルドを作った人は私
+ のギルドの掲示板に書き込んで教えてね！\nスクリーン
+  リーダーのサポートを有効にするには、Ctrl+Alt+Z を押
+ します。キーボード ショートカットの詳細については
+ 、Ctrl+スラッシュ を押します。\n \n˗ˋˏりんくˎˊ˗ \n\n
+ 🐚 Twitter 🐚\nhttps://twitter.com/Chigusa_24zono\n《@Chigusa_24zono
+ 》\n\n🌈 にじさんじ公式Twitter 🐓\nhttps://twitter.com/nijisan
+ ji_app\n《@nijisanji_app》\n\n🌈 にじさんじ公式HP 🕒\n https:
+ //nijisanji.ichikara.co.jp/\n\n💌 ファンレターやお問い合わ
+ せはコチラから 📝\nhttps://nijisanji.ichikara.co.jp/contact/\n\n
+ ⌒*⌒*⌒*⌒*⌒*⌒* ⌒*⌒*⌒*⌒*⌒*⌒*⌒*⌒*⌒* ⌒*⌒*⌒*
 URL:https://www.youtube.com/watch?v=gA7CamxyzZ0
 END:VEVENT
 BEGIN:VEVENT
@@ -2488,6 +2504,49 @@ DESCRIPTION:https://www.youtube.com/watch?v=O5uqo_mYx90\n\n前→https://yo
  /amachamusic.chagasi.com/\n\n～Special thanks to YOU～\n\n◆◆◆◆
  ◆
 URL:https://www.youtube.com/watch?v=O5uqo_mYx90
+END:VEVENT
+BEGIN:VEVENT
+UID:46510
+SUMMARY:【ウマ娘】有識者求ム！ナイスネイチャ、リベン
+ ジ編#01【にじさんじ/朝日南アカネ】
+DTSTART:20210423T130000Z
+DTEND:20210423T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=dc1OUvi6NtU\n\n競馬・アニ
+ メ・ソシャゲ何も知らないので\n教えて下さる方求むで
+ す！\n\n※都合上深夜12.30までの配信になります。\n\n♡
+ ･･*･･♡･･*･･♡･･*･･♡･･*･･♡･･*･
+ ･♡･･*･･♡･･*･･♡\n\n▼NEW！歌ってみた\nヴァ
+ ンパイア/DECO*27\n【Covered by 朝日南アカネ/にじさんじ】\
+ nhttps://youtu.be/1jLpNU9yXOQ\n\n♡･･*･･♡･･*･･♡･･
+ *･･♡･･*･･♡･･*･･♡･･*･･♡･･*･･♡
+ \n\n▼NEWショート動画\nかわいいメンヘラあるある\nhttps:
+ //youtu.be/kcEKWYp75LM\n\n▽ショート動画シリーズ▽\nhttps://yo
+ utube.com/playlist?list=PLU-VQpdntC8_INbPUaIFSCZw7E0Q67eYF\n\n♡･･*
+ ･･♡･･*･･♡･･*･･♡･･*･･♡･･*･･♡
+ ･･*･･♡･･*･･♡\n\n半年を祝して\nメンバーシッ
+ プを始めましたᙏ̤̫ 𓆸\n\nメンバー限定バッジ、スタ
+ ンプ、配信、\nプライベート写真、歌動画の先行公開&
+ 告知を\nお楽しみいただけます♡\nhttps://www.youtube.com/chan
+ nel/UCe_p3YEuYJb8Np0Ip9dk-FQ/join\n\n♡･･*･･♡･･*･･♡
+ ･･*･･♡･･*･･♡･･*･･♡･･*･･♡･･*･
+ ･♡\n\n【にじさんじぷち第3弾】アクリルスタンドキー
+ ホルダー 朝日南アカネ\nhttps://shop.nijisanji.jp/s/niji/item/det
+ ail/SSZS-14006?ima=3820\n\n♡･･････♡･･････♡
+ ･･････♡･･････♡･･････♡･･･
+ ･･･♡\n\nにじさんじ所属、バーチャルライバーの朝
+ 日南アカネだよ🎤♩\n\n歌で大きなステージに立つこと
+ を夢みる世怜音女学院の高校1年生なのです✩‧₊˚\n\n2
+ 2時からの配信が多め、チャンネル登録とツイッターの
+ フォローもぜひよろしくお願いします🥺💘\n\n【     Twi
+ tter 🕊   】\nhttps://twitter.com/akane_asahina__\n\nHi\,I'm Akane Asah
+ ina!\nI'm in the 10th grade.\nI love to sing\,and My dream is to be active
+  on the world stage:)\nDon't forget to like\, comment and subscribe:-)\n\n
+ 西園チグサ\nhttps://t.co/pofvy3GJuq?amp=1\n周央サンゴ\nhttps://t
+ .co/r42Fp30EGd?amp=1\n東堂コハク\nhttps://t.co/VnqNLI5G0K?amp=1\n北
+ 小路ヒスイ\nhttps://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ?
+ sub_confirmation=1\n\n【　お問い合わせやお手紙はこちら 
+ 💌　】\nhttps://nijisanji.ichikara.co.jp/contact/
+URL:https://www.youtube.com/watch?v=dc1OUvi6NtU
 END:VEVENT
 BEGIN:VEVENT
 UID:46508
