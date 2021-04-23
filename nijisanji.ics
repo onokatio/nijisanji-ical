@@ -2537,6 +2537,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=Vl_5cJR26vY\n\nこれが一番
 URL:https://www.youtube.com/watch?v=Vl_5cJR26vY
 END:VEVENT
 BEGIN:VEVENT
+UID:46520
+SUMMARY:【VCC VALORANT】エンジョイアルティメットカスタム
+ 【渋谷ハル/obo/鈴木ノリアキ/uruca/イブラヒム/takej】
+DTSTART:20210423T115000Z
+DTEND:20210423T125000Z
+DESCRIPTION:https://www.youtube.com/watch?v=E0tMWBj9PUw\n\nこええ；\n\n
+ 21:00- match 1 : A vs C / B vs D\n22:00- match 2 : A vs D / B vs C\n23:00-
+  match 3 : A vs B / C vs D
+URL:https://www.youtube.com/watch?v=E0tMWBj9PUw
+END:VEVENT
+BEGIN:VEVENT
 UID:46503
 SUMMARY:【Dark Deception】諦めが悪いのはお互い様【白雪 巴/
  にじさんじ】
