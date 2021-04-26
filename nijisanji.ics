@@ -1790,6 +1790,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=7szlX9oUzUM\n\nにじさんじ
 URL:https://www.youtube.com/watch?v=7szlX9oUzUM
 END:VEVENT
 BEGIN:VEVENT
+UID:46694
+SUMMARY:戦え瀬戸美夜子　泪のApex
+DTSTART:20210426T161000Z
+DTEND:20210426T171000Z
+DESCRIPTION:https://www.youtube.com/watch?v=hs2YFk0J_xc\n\n・・・？\n
+ 何を言ってるんだ・・・？
+URL:https://www.youtube.com/watch?v=hs2YFk0J_xc
+END:VEVENT
+BEGIN:VEVENT
 UID:46634
 SUMMARY:誕生日なのでガチのひとりかくれんぼする
 DTSTART:20210426T174500Z
