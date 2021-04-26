@@ -2745,6 +2745,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=oYxxzU8wgCU\n\n■□━━━
 URL:https://www.youtube.com/watch?v=oYxxzU8wgCU
 END:VEVENT
 BEGIN:VEVENT
+UID:46658
+SUMMARY:ちょっと待って✋
+DTSTART:20210426T060500Z
+DTEND:20210426T070500Z
+DESCRIPTION:https://www.youtube.com/watch?v=FqftFA_14Aw\n\nメンバーシ
+ ップ\nhttps://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A/join\n\n
+ 平日のこの時間だけど、俺と過ごして
+URL:https://www.youtube.com/watch?v=FqftFA_14Aw
+END:VEVENT
+BEGIN:VEVENT
 UID:46626
 SUMMARY:【Free talk】糖質制限はじめました【#緑仙の配信​
  】
