@@ -2335,6 +2335,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=pcGnJ3q4eHo\n\nずっときみ
 URL:https://www.youtube.com/watch?v=pcGnJ3q4eHo
 END:VEVENT
 BEGIN:VEVENT
+UID:46727
+SUMMARY:【 Apex 】マキオとTsubaki
+DTSTART:20210427T103500Z
+DTEND:20210427T113500Z
+DESCRIPTION:https://www.youtube.com/watch?v=qHTR-sDhu80\n\nサムネ・白
+ 百合リリィ\n\nマキオ\nhttps://www.youtube.com/channel/UCCXD2-TV-X_
+ gNkD2qEKyQWw\nhttps://twitter.com/makio_elecom\n\nつばき\nhttps://www.t
+ witch.tv/tsubaki_sa\nhttps://twitter.com/sa_mame13\nhttps://www.youtube.co
+ m/channel/UCATI4BnxfjgkbKoA8CRq2lA
+URL:https://www.youtube.com/watch?v=qHTR-sDhu80
+END:VEVENT
+BEGIN:VEVENT
 UID:46527
 SUMMARY:【Renewal】夢追翔 MV「死にたくないから生きている
  」（Kakeru Yumeoi - Dying To Live）
@@ -2594,6 +2606,28 @@ DESCRIPTION:https://www.youtube.com/watch?v=YXf4KJlpkls\n\nがぶ！がぶ
 URL:https://www.youtube.com/watch?v=YXf4KJlpkls
 END:VEVENT
 BEGIN:VEVENT
+UID:46728
+SUMMARY:【#にじARK​​​】ボス戦だよ！全員集合！【14日
+ 目】
+DTSTART:20210427T110000Z
+DTEND:20210427T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=aYPimCHw7nw\n\n集結！ボス
+ 戦リベンジのリベンジのリベンジ…！\n\nみーんなご近
+ 所！ママ友たち▼\n@桜凛月 \n@アルス・アルマル -ars alma
+ l- 【にじさんじ】 \n@ルイス・キャミー \n\n正義の味方
+ ！はまちゃさん▼\n@花畑チャイカ \n@魔使マオ -matsukai ma
+ o- \n\n⚠初心者狩りにあったとしても問題ナシ！何され
+ てもOK！てかこっちから何かする⚠\n\n＜赤羽葉子 -Youko 
+ Akabane-＞\n▶ホラー・オカルトが大好きな渋谷の高校に
+ 通う三年生。\n実況動画では、FPS系＆ホラーゲームを中
+ 心にプレイしている。\n\n💀Twitter\nhttps://twitter.com/youko_a
+ kabane\n💀にじさんじ公式サイト\nhttps://nijisanji.ichikara.co.
+ jp/\n💀にじさんじオフィシャルストア\nhttps://shop.nijisanj
+ i.jp/s/niji/\n💀ファンレターの送り先・お問い合わせは
+ こちらから\nhttps://www.ichikara.co.jp/contact/
+URL:https://www.youtube.com/watch?v=aYPimCHw7nw
+END:VEVENT
+BEGIN:VEVENT
 UID:46698
 SUMMARY:【APEX】4/27KAGAYAKI杯スクリムwithTIE_Ruさん、AlphaAzur
  さん→ソロ練習【にじさんじ/える】
@@ -2757,8 +2791,8 @@ URL:https://www.youtube.com/watch?v=2nNPwYrMFB4
 END:VEVENT
 BEGIN:VEVENT
 UID:46710
-SUMMARY:【APEX】CRカップの顔合わせ【ラトナ・プティにじ
- さんじ】
+SUMMARY:【APEX】CRカップの顔合わせ・きなこ・一ノ瀬【ラ
+ トナ・プティにじさんじ】
 DTSTART:20210427T130000Z
 DTEND:20210427T140000Z
 DESCRIPTION:https://www.youtube.com/watch?v=fntIJvkI0rM\n\n英雄も現れ
