@@ -1918,6 +1918,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=K6K3uvybl8k\n\nお互いに多
 URL:https://www.youtube.com/watch?v=K6K3uvybl8k
 END:VEVENT
 BEGIN:VEVENT
+UID:46749
+SUMMARY:【雑談】眠い時間帯【にじさんじ/渋谷ハジメ】
+DTSTART:20210427T151000Z
+DTEND:20210427T161000Z
+DESCRIPTION:https://www.youtube.com/watch?v=cCkqjeEzdIE\n\n
+URL:https://www.youtube.com/watch?v=cCkqjeEzdIE
+END:VEVENT
+BEGIN:VEVENT
 UID:46746
 SUMMARY:近くにいる人と話せるamong us （2回め）
 DTSTART:20210427T163000Z
