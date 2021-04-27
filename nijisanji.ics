@@ -3183,6 +3183,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=5BMqSWsEBHc\n\n毎月、満月
 URL:https://www.youtube.com/watch?v=5BMqSWsEBHc
 END:VEVENT
 BEGIN:VEVENT
+UID:46737
+SUMMARY:？
+DTSTART:20210427T130000Z
+DTEND:20210427T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=5n_IxD5h0O8\n\n
+URL:https://www.youtube.com/watch?v=5n_IxD5h0O8
+END:VEVENT
+BEGIN:VEVENT
 UID:46707
 SUMMARY:˗ˋˏ 同時視聴 ˎˊ˗　みるぞぞっぞ！（ 天宮ここ
  ろ/にじさんじ ）
