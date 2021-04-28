@@ -2725,6 +2725,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=YyrIQhbMtec\n\nお休みの間
 URL:https://www.youtube.com/watch?v=YyrIQhbMtec
 END:VEVENT
 BEGIN:VEVENT
+UID:46767
+SUMMARY:年貢を納める放送
+DTSTART:20210428T163000Z
+DTEND:20210428T173000Z
+DESCRIPTION:https://www.youtube.com/watch?v=YPhxHxSHmsw\n\nいつも小夜
+ の部屋、覗いているからねー！\n\n\n雨森へ直通のご意
+ 見・ご感想・おたより等（Google フォーム） : https://t.co/
+ nTtA2hSaZh\n\nTwitter : https://twitter.com/Sayo_Amemori\n\nお問い合
+ わせ : https://nijisanji.ichikara.co.jp/contact/
+URL:https://www.youtube.com/watch?v=YPhxHxSHmsw
+END:VEVENT
+BEGIN:VEVENT
 UID:46752
 SUMMARY:【#原神/Genshin】＃4♨90連ガチャで鍾離先生をお迎
  えしたい【小野町春香/にじさんじ】
