@@ -2846,7 +2846,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:46879
 SUMMARY:【New ポケモンスナップ】600ミリの望遠レンズで撃
- ち抜くぞーっ!!!【神田笑一/にじさんじ】
+ ち抜くぞーっ!!! │ New Pokémon Snap【神田笑一/にじさんじ
+ 】
 DTSTART:20210430T080000Z
 DTEND:20210430T090000Z
 DESCRIPTION:https://www.youtube.com/watch?v=ar0vOy_DqeU\n\n600mm望遠は
@@ -3071,6 +3072,40 @@ DESCRIPTION:https://www.youtube.com/watch?v=4qSrkzJcrwY\n\n♡････
 URL:https://www.youtube.com/watch?v=4qSrkzJcrwY
 END:VEVENT
 BEGIN:VEVENT
+UID:46888
+SUMMARY:【聞き取り調査】貴方はにじさんじ誰推しですか
+ ？ゴールデンウイーク.ver【森中花咲/にじさんじ所属】
+DTSTART:20210430T090000Z
+DTEND:20210430T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=MB7L580rJQ4\n\nあなたはに
+ じさんじライバー誰推しですか？？(第六回目)\n\n※ユ
+ ーザー名が一緒でも本人とは限りません。なりきりで
+ やってる人もいるみたいなので決して騙されないで下
+ さい。かざが配信やツイートで載せたもの以外は認め
+ ません。\n\n歴代聞き取り調査☞https://youtube.com/playlist?li
+ st=PLPdRnC_qtK6CEhmWNxAYb4yW_4qyV3NuC\n\n\nスポンサー登録はこち
+ ら(ファンクラブサービス)\n☞https://www.youtube.com/channel/UC
+ tpB6Bvhs1Um93ziEDACQ8g/join\n\n発売した☟\n【グッズ販売】\n森
+ 中花咲 オリジナルフルグラフィックTシャツ☞https://niji
+ sanji.booth.pm/items/1529204\n森中花咲 オリジナル手帳型iPhone
+ ケース☞https://nijisanji.booth.pm/items/1528722\n森中花咲 オリ
+ ジナル手帳型Androidケース☞https://nijisanji.booth.pm/items/1528
+ 872\n森中花咲　オリジナルアクリルバッチ☞https://nijisan
+ ji.booth.pm/items/1528894\n森中花咲　オリジナルアクリルキ
+ ーホルダー☞https://nijisanji.booth.pm/items/1528703\n森中花咲 
+ オリジナルはんぺん&くまさんずTシャツ☞https://nijisanji.
+ booth.pm/items/1529179\n森中花咲 オリジナルはんぺん&くまさ
+ んずサコッシュ☞https://nijisanji.booth.pm/items/1529177\n\n\n\nTw
+ itter☞森中花咲🐻にじさんじ所属\n《＠KazakiMorinaka》\nht
+ tp://twitter.com/KazakiMorinaka\n\nニコニコ動画☞森中花咲\nhttp
+ s://www.nicovideo.jp/mylist/62947625\n\n\nファンレターについて
+ は下記のURL先をご確認ください！\n森中花咲宛で送って
+ ね！にやにやしながら見ます！\n\n【お問い合わせ】http
+ s://www.nijisanji.jp/contact\n\n\n#かざ生放送 #にじさんじ #ゲ
+ ーム #五七五オンライン
+URL:https://www.youtube.com/watch?v=MB7L580rJQ4
+END:VEVENT
+BEGIN:VEVENT
 UID:46880
 SUMMARY:【#Newポケモンスナップ】レアコイルの真ん中って
  どこだよ・・・！【にじさんじ/鷹宮リオン】
@@ -3110,7 +3145,7 @@ SUMMARY:【星のカービィ】ヤシロ&ササキのレバガチャダイ
  パン #32【スーパーデラックス】
 DTSTART:20210430T100000Z
 DTEND:20210430T110000Z
-DESCRIPTION:https://www.youtube.com/watch?v=DbC1OmUyDzU\n\n今回フュー
+DESCRIPTION:https://www.youtube.com/watch?v=DbC1OmUyDzU\n\n今回フィー
  チャーされるのはアルス・アルマル！\nアルスがいちか
  らに作って欲しいグッズとは…！？\n\nチャレンジする
  ゲームは、まんまる繋がりで『星のカービィ スーパー
