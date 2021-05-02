@@ -2173,7 +2173,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:47065
 SUMMARY:【早起き対決】朝8時の集合に間に合うのはどっち
- ？【にじさんじ/エクス・アルビオ】
+ ？【#ゴーミーズウィーク/にじさんじ】
 DTSTART:20210502T153000Z
 DTEND:20210502T163000Z
 DESCRIPTION:https://www.youtube.com/watch?v=qMekJ0wwxjI\n\n【企画の説
@@ -2267,6 +2267,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=bmXLVY4rMIA\n\nPS5版でプレ
  駅前ビル10F\nいちから株式会社 (ましろ)宛\n\n🎵使用楽
  曲\nソース: http://incompetech.com/\nアーティスト: Kevin MacLeod
 URL:https://www.youtube.com/watch?v=bmXLVY4rMIA
+END:VEVENT
+BEGIN:VEVENT
+UID:47066
+SUMMARY:花畑チャイカとNewポケモンスナップ 現代ポケモン
+ 研究家レンティルへ行くその2 ネオワン号の絶対防御領
+ 域を見ればポケモンを家で飼う事の難しさが分かる
+DTSTART:20210502T160000Z
+DTEND:20210502T170000Z
+DESCRIPTION:https://www.youtube.com/watch?v=LFLIdR42Pxk\n\nサムネイル
+ 　魁レア
+URL:https://www.youtube.com/watch?v=LFLIdR42Pxk
 END:VEVENT
 BEGIN:VEVENT
 UID:47061
