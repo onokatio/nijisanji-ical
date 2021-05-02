@@ -3157,11 +3157,27 @@ DESCRIPTION:https://www.youtube.com/watch?v=mYvPscvvAAQ\n\n初めての参
 URL:https://www.youtube.com/watch?v=mYvPscvvAAQ
 END:VEVENT
 BEGIN:VEVENT
+UID:47017
+SUMMARY:【GeoGuessr】たのしいちりべんきょう【長尾景/弦月
+ 藤士郎/にじさんじ】
+DTSTART:20210502T040000Z
+DTEND:20210502T050000Z
+DESCRIPTION:https://www.youtube.com/watch?v=RHD661caSqk\n\nまいごぜっ
+ きょ\n\n【Twitter】\n@kei_nagao2434\n\n-------------------------------
+ --------------------------------------------------------------------------
+ \n\n【公式Twitter】\n@nijisanji_app\n\n【公式HP】\nhttps://nijisan
+ ji.ichikara.co.jp/ \n\n【公式オンラインショップ】\nhttps://ni
+ jisanji.booth.pm/\n\n-----------------------------------------------------
+ ----------------------------------------------------\n\n【お問い合わ
+ せはこちらまで】\nhttps://www.ichikara.co.jp/contact/
+URL:https://www.youtube.com/watch?v=RHD661caSqk
+END:VEVENT
+BEGIN:VEVENT
 UID:47016
 SUMMARY:【モンハンライズ 】新しいモンスターに会いたあ
  あい！！【魔使マオ/にじさんじ】
-DTSTART:20210502T040000Z
-DTEND:20210502T050000Z
+DTSTART:20210502T041000Z
+DTEND:20210502T051000Z
 DESCRIPTION:https://www.youtube.com/watch?v=MKM_knDRZX0\n\nモンスター
  ハンターライズ\n©CAPCOM CO.\, LTD. ALL RIGHTS RESERVED.\n\n\n★
  マオのゆかいな仲間たち（メンバーシップ）★\n月額490
@@ -3225,6 +3241,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=mfPYjLsC-Qs\n\nグリーンチ
  ･･･♡･･････♡･･････♡･･････
  ♡
 URL:https://www.youtube.com/watch?v=mfPYjLsC-Qs
+END:VEVENT
+BEGIN:VEVENT
+UID:47018
+SUMMARY:【ポケモン剣盾】女騎士が行く DLC第一弾『鎧の孤
+ 島』【にじさんじ】
+DTSTART:20210502T050000Z
+DTEND:20210502T060000Z
+DESCRIPTION:https://www.youtube.com/watch?v=hw8eP6FDmcg\n\n配信タグ：#
+ ルスタリオンエア\n\nぽけもん！ぽけもん！つづき！！\
+ n\n◆サムネイル作成\n⇒oseoraさん(@oseora1)
+URL:https://www.youtube.com/watch?v=hw8eP6FDmcg
 END:VEVENT
 BEGIN:VEVENT
 UID:47009
