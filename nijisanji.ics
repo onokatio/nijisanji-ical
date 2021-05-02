@@ -3157,6 +3157,34 @@ DESCRIPTION:https://www.youtube.com/watch?v=mYvPscvvAAQ\n\n初めての参
 URL:https://www.youtube.com/watch?v=mYvPscvvAAQ
 END:VEVENT
 BEGIN:VEVENT
+UID:47016
+SUMMARY:【モンハンライズ 】新しいモンスターに会いたあ
+ あい！！【魔使マオ/にじさんじ】
+DTSTART:20210502T040000Z
+DTEND:20210502T050000Z
+DESCRIPTION:https://www.youtube.com/watch?v=MKM_knDRZX0\n\nモンスター
+ ハンターライズ\n©CAPCOM CO.\, LTD. ALL RIGHTS RESERVED.\n\n\n★
+ マオのゆかいな仲間たち（メンバーシップ）★\n月額490
+ 円で登録できる！！\nかわいいスタンプやバッチが使え
+ たり\n限定配信が見れたりします！\nhttps://www.youtube.com/c
+ hannel/UCerkculBD7YLc_vOGrF7tKg/join\n\n\n\n☆マオとのやくそくご
+ と☆\n①他の人が嫌な気分になる言葉は使っちゃダメ！
+ \n\n②他の配信者さんのコメントなどで話題にあがって
+ いないのに僕の話をするのはやめましょう！\nもちろん
+ マオの配信でも、話に関係の無い他のライバーさんの
+ 名前を出すのは控えましょう！\n\nこのマオとの約束事
+ を守れていないにんげんや\nこれ以外のマナー違反をし
+ ているにんげんを見つけても注意せずにマオのことだ
+ け見ててな！\n\n\n\n【マオのとてもおもしろいTwitter】\n
+ https://twitter.com/matsukai_mao\n\n\n《プレゼントやお手紙やお
+ 問い合わせはこちら》\nhttps://nijisanji.ichikara.co.jp/cont...\n
+ \n\n//公式オンラインショップ\nhttps://nijisanji.booth.pm/\n\n//
+ にじさんじ公式Twitter\nhttps://twitter.com/nijisanji_app\n《@nijis
+ anji_app 》\n\n//にじさんじ公式HP\nhttps://nijisanji.ichikara.co.j
+ p/
+URL:https://www.youtube.com/watch?v=MKM_knDRZX0
+END:VEVENT
+BEGIN:VEVENT
 UID:47000
 SUMMARY:【競馬】みんなとカケル天皇賞(春)【にじさんじ/
  魔界ノりりむ】
@@ -3509,6 +3537,30 @@ DESCRIPTION:https://www.youtube.com/watch?v=mN5uWDH2vJI\n\nいつも質問
 URL:https://www.youtube.com/watch?v=mN5uWDH2vJI
 END:VEVENT
 BEGIN:VEVENT
+UID:47015
+SUMMARY:【モンハンライズ】里☆3昇格するぞー！！【にじ
+ さんじ / 樋口楓】
+DTSTART:20210502T130000Z
+DTEND:20210502T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=O8kuUYy_MqE\n\nモンスター
+ ハンターライズ\n©CAPCOM CO.\, LTD. ALL RIGHTS RESERVED.\n\nさむ
+ ね\n＠shirotorajun\nさま\n_(-ω- ´ _)⌒)__(-ω- ´ _)⌒)__(-ω- ´ 
+ _)⌒)__(-ω- ´ _)⌒)_\n\n◆Infomation◆\n\n樋口楓 メジャー1st
+ アルバム「AIM」発売中\n\n■試聴動画はこちら\nhttps://www
+ .youtube.com/watch?v=_tcTcXGdtSw\n\n完全生産限定盤\nhttps://lnk.to/
+ LACA-35845\n初回限定盤\nhttps://llnk.to/LACA-35846\n通常盤\nhttps:
+ //lnk.to/LACA-15846\n\n■イベント・グッズ情報はこちら\nhttp
+ s://www.lantis.jp/artist/kaede_higuchi/news.html\n\n◆Twitter◆\nhttps:/
+ /twitter.com/@Higuchikaede\n生放送タグ→#でろおんえあ\n創作
+ タグ→#でろあーと\n\n◆FAN CLUB◆\n楓様を、木陰から密
+ かに応援するファンクラブです。\nhttps://fanclub.nijisanji.j
+ p/fanclubs/kaede-higuchi\n\n◆GOODS◆\nhttps://www.asmart.jp/kaede_higuc
+ hi\nhttps://shop.nijisanji.jp/s/niji/artist/004/item\n\n◆お問い合わ
+ せ・ファンレター◆\nhttps://nijisanji.ichikara.co.jp/contact\n\n_
+ (-ω- ´ _)⌒)__(-ω- ´ _)⌒)__(-ω- ´ _)⌒)__(-ω- ´ _)⌒)_
+URL:https://www.youtube.com/watch?v=O8kuUYy_MqE
+END:VEVENT
+BEGIN:VEVENT
 UID:46996
 SUMMARY:【ASMR/Binaural/黒3Dio】GW中も忙しいあなたへ癒しの
  ひと時/relaxationEar cleaning/oil massage/Ear pot【にじさんじ/小
@@ -3535,81 +3587,83 @@ DESCRIPTION:https://www.youtube.com/watch?v=J50CYCX-ZVU\n\n今日も小野
  翌朝若女将が起こし＆見送り動画でお名前を読ませて
  いただきます\n\n配信中は名前読みが無い代わりにオノ
  マトペをします。ご了承ください\n\n🎤期間限定ボイス
- 販売中🎤\n【再販】春満開ボイス2020 - グループA\nhttps:/
- /shop.nijisanji.jp/s/niji/item/detail/dig-00138?ima=2930\n\n\n━━━━
+ 販売中🎤\n4/30(金)18:00〜5/9(日)23:59\n　GWボイス2021 - グル
+ ープA　https://shop.nijisanji.jp/s/niji/item/detail/dig-00385?ima=3511\
+ n5月1日(土)18:00 ～ 5月31日(月)23:59\n　小野町春香マンス
+ リーASMR～耳かき～　https://shop.nijisanji.jp/s/niji/item/detail/d
+ ig-00388?ima=3511\n\n━━━━━━━━━━━━━━━━━
+ ━━\n♨～～♨～～♨～～♨～～♨～～♨～～♨\n━━
+ ━━━━━━━━━━━━━━━━━\n\nにじさんじプ
+ ロジェクト所属\n小野町旅館の若女将\n配信タグ ＃小野
+ 町旅館\nTwitter　＠onomachi_haruka\nTwitterタグ ＃若女将が見
+ てはる\nファンアート ＃小野町絵巻\n推しマーク  ♨\n
+ ボイス感想 #音声旅館\n若女将を褒める #えらいねはる
+ ちゃん\n\n励みになっております！ツイートよろしくお
+ 願いします🍵\n\nみんなのファンアート、お借りしてい
+ ます\nいつも見守ってくれてありがとう\n\n━━━━━
+ ━━━━━━━━━━━━━━\n♨～～♨～～♨～～♨
+ ～～♨～～♨～～♨\n━━━━━━━━━━━━━━━
+ ━━━━\n\n【若女将とのお約束】※必ず読んでくださ
+ い\n・コメントで若女将が話題にしていない他の配信者
+ の名前を出さないこと\n・コメント欄でリスナー同士の
+ 会話、喧嘩しないこと（スパムはスルーで反応しない
+ ように）\n・伝書鳩行為は他の配信者にも迷惑になるの
+ でやらないこと\n※伝書鳩行為とは…？\n「○○（他の
+ 配信者など）が××（配信主）のこと、こう言ってたよ
+ 」と、配信のチャット欄などで伝える行為のことです\n
+ ・配信と無関係の内容のコメントをしないこと（挨拶
+ はOKです）\n・自分が言われて嫌なことはコメントしな
+ いこと\n\n注意しても改善がみられない場合など申し訳
+ ありませんが非表示などの対応をさせて頂きます\n\n​[
+ Promise with young landlady]・ For pinned messages from the young proprie
+ tress of the comment\, (Haruka)\, please click "Unpin message” from "...
+ " on the right.\nDo not mention the names of other distributors that the y
+ oung proprietress has not talked about in the comments.\nDo not do “homi
+ ng pigeons” as they will be a nuisance to other distributors.\nPlease do
+  not comment on unrelated topics.(but greettings are ok)\nPlease do not co
+ mment on the topics that yourself would not like to be commented on.\n\nIf
+  someone has been warned but does not follow the promises still\, sadly\, 
+ he or she will be prohibited from commenting on this channel.\n\n━━━
+ ━━━━━━━━━━━━━━━━\n♨～～♨～～♨～
+ ～♨～～♨～～♨～～♨\n━━━━━━━━━━━━━
+ ━━━━━━\n\n♨super chat（宿泊代）\n　若女将が未熟
+ 者のため全てのsuperchatに反応できない時があります\n　
+ 配信が終わってから全て確認してます✨\n　応援してく
+ れてありがとう\n　いっぱい楽しいことしていくのでよ
+ ろしくお願いします！\n\n♨メンバーシップ（常連さま
+ ）\nhttps://www.youtube.com/channel/UCg63a3lk6PNeWhVvMRM_mrQ/join\n　チ
+ ャンネル登録の横にある【メンバーになる】ボタンで\n
+ 　メンバーになる事が出来ます🍵\n　月1以上メンバー
+ 限定配信あります\n　\n配信ができるのはみんなのおか
+ げです。いつも応援してくれてありがとう！\n\n━━━
+ ━━━━━━━━━━━━━━━━\n♨～～♨～～♨～
+ ～♨～～♨～～♨～～♨\n━━━━━━━━━━━━━
+ ━━━━━━\n\n🌈公式グッズ🌈\nhttps://shop.nijisanji.jp/s
+ /niji/\n🍵【常設】にじさんじ季節ボイス\nhttps://shop.nijis
+ anji.jp/s/niji/item/detail/dig-00110?ima=3325\n\n♨若女将オリジナ
+ ルグッズ♨\n　ステッカー　https://booth.pm/ja/items/1647198 \n
+ 　ステッカー(冬服)　 |https://nijisanji.booth.pm/items/1817598\n
+ 　ステッカー（5万人記念）https://booth.pm/ja/items/2069237 \n
+ 　ステッカー（制服）　 https://nijisanji.booth.pm/items/2361349
+ \n　Tシャツ 白 　https://nijisanji.booth.pm/items/2522833\n　Tシ
+ ャツ 黒 　https://nijisanji.booth.pm/items/2522873\n　パーカー 
+ 　https://nijisanji.booth.pm/items/2522897\n　タンブラー 　https:/
+ /nijisanji.booth.pm/items/2522988\n　マグカップ 　 https://nijisanj
+ i.booth.pm/items/2523011\n　ポーチ 　 https://nijisanji.booth.pm/item
+ s/2523025\n　トートバッグ 　 https://nijisanji.booth.pm/items/2523
+ 058\n\n🍵お手紙✉ファンレターの送り先は下記をご確認
+ ください。\nhttps://nijisanji.ichikara.co.jp/contact/\n\n━━━━
  ━━━━━━━━━━━━━━━\n♨～～♨～～♨～～
  ♨～～♨～～♨～～♨\n━━━━━━━━━━━━━━
- ━━━━━\n\nにじさんじプロジェクト所属\n小野町旅
- 館の若女将\n配信タグ ＃小野町旅館\nTwitter　＠onomachi_ha
- ruka\nTwitterタグ ＃若女将が見てはる\nファンアート ＃小
- 野町絵巻\n推しマーク  ♨\nボイス感想 #音声旅館\n若女
- 将を褒める #えらいねはるちゃん\n\n励みになっており
- ます！ツイートよろしくお願いします🍵\n\nみんなのフ
- ァンアート、お借りしています\nいつも見守ってくれて
- ありがとう\n\n━━━━━━━━━━━━━━━━━━
- ━\n♨～～♨～～♨～～♨～～♨～～♨～～♨\n━━━
- ━━━━━━━━━━━━━━━━\n\n【若女将とのお
- 約束】※必ず読んでください\n・コメントで若女将が話
- 題にしていない他の配信者の名前を出さないこと\n・コ
- メント欄でリスナー同士の会話、喧嘩しないこと（ス
- パムはスルーで反応しないように）\n・伝書鳩行為は他
- の配信者にも迷惑になるのでやらないこと\n※伝書鳩行
- 為とは…？\n「○○（他の配信者など）が××（配信主
- ）のこと、こう言ってたよ」と、配信のチャット欄な
- どで伝える行為のことです\n・配信と無関係の内容のコ
- メントをしないこと（挨拶はOKです）\n・自分が言われ
- て嫌なことはコメントしないこと\n\n注意しても改善が
- みられない場合など申し訳ありませんが非表示などの
- 対応をさせて頂きます\n\n​[Promise with young landlady]・ For 
- pinned messages from the young proprietress of the comment\, (Haruka)\, pl
- ease click "Unpin message” from "..." on the right.\nDo not mention the 
- names of other distributors that the young proprietress has not talked abo
- ut in the comments.\nDo not do “homing pigeons” as they will be a nuis
- ance to other distributors.\nPlease do not comment on unrelated topics.(bu
- t greettings are ok)\nPlease do not comment on the topics that yourself wo
- uld not like to be commented on.\n\nIf someone has been warned but does no
- t follow the promises still\, sadly\, he or she will be prohibited from co
- mmenting on this channel.\n\n━━━━━━━━━━━━━━━
- ━━━━\n♨～～♨～～♨～～♨～～♨～～♨～～♨\n
- ━━━━━━━━━━━━━━━━━━━\n\n♨super chat
- （宿泊代）\n　若女将が未熟者のため全てのsuperchatに反
- 応できない時があります\n　配信が終わってから全て確
- 認してます✨\n　応援してくれてありがとう\n　いっぱ
- い楽しいことしていくのでよろしくお願いします！\n\n
- ♨メンバーシップ（常連さま）\nhttps://www.youtube.com/channe
- l/UCg63a3lk6PNeWhVvMRM_mrQ/join\n　チャンネル登録の横にある
- 【メンバーになる】ボタンで\n　メンバーになる事が出
- 来ます🍵\n　月1以上メンバー限定配信あります\n　\n配
- 信ができるのはみんなのおかげです。いつも応援して
- くれてありがとう！\n\n━━━━━━━━━━━━━━
- ━━━━━\n♨～～♨～～♨～～♨～～♨～～♨～～♨
- \n━━━━━━━━━━━━━━━━━━━\n\n🌈公式
- グッズ🌈\nhttps://shop.nijisanji.jp/s/niji/\n🍵【常設】にじ
- さんじ季節ボイス\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig
- -00110?ima=3325\n\n♨若女将オリジナルグッズ♨\n　ステッ
- カー　https://booth.pm/ja/items/1647198 \n　ステッカー(冬服)　
-  |https://nijisanji.booth.pm/items/1817598\n　ステッカー（5万人
- 記念）https://booth.pm/ja/items/2069237 \n　ステッカー（制服
- ）　 https://nijisanji.booth.pm/items/2361349\n　Tシャツ 白 　http
- s://nijisanji.booth.pm/items/2522833\n　Tシャツ 黒 　https://nijisan
- ji.booth.pm/items/2522873\n　パーカー 　https://nijisanji.booth.pm/i
- tems/2522897\n　タンブラー 　https://nijisanji.booth.pm/items/25229
- 88\n　マグカップ 　 https://nijisanji.booth.pm/items/2523011\n　
- ポーチ 　 https://nijisanji.booth.pm/items/2523025\n　トートバッ
- グ 　 https://nijisanji.booth.pm/items/2523058\n\n🍵お手紙✉ファ
- ンレターの送り先は下記をご確認ください。\nhttps://niji
- sanji.ichikara.co.jp/contact/\n\n━━━━━━━━━━━━━
- ━━━━━━\n♨～～♨～～♨～～♨～～♨～～♨～～
- ♨\n━━━━━━━━━━━━━━━━━━━\n\n♨旅
- 館外観＆部屋イラスト\n　えがき ぐりこ様（@GurikoEgaki
- ）\n♨小野町春香ロゴ\n　コハタ　ヤスマサ様（@y_kohata_
- ）\n\n＃ASMR
+ ━━━━━\n\n♨旅館外観＆部屋イラスト\n　えがき ぐ
+ りこ様（@GurikoEgaki）\n♨小野町春香ロゴ\n　コハタ　ヤ
+ スマサ様（@y_kohata_）\n\n＃ASMR
 URL:https://www.youtube.com/watch?v=J50CYCX-ZVU
 END:VEVENT
 BEGIN:VEVENT
 UID:47014
-SUMMARY:【#原神】＃5「1章第1幕」「伝説任務」攻略せよ
- ！
+SUMMARY:【#原神​/Genshin】＃5「1章第1幕」「伝説任務」攻
+ 略せよ！【小野町春香/にじさんじ】
 DTSTART:20210503T030000Z
 DTEND:20210503T040000Z
 DESCRIPTION:https://www.youtube.com/watch?v=_uI8dm-zUKc\n\n#小野町旅館
@@ -3623,78 +3677,82 @@ DESCRIPTION:https://www.youtube.com/watch?v=_uI8dm-zUKc\n\n#小野町旅館
  ）\n●ゲーム初見の若女将とリスナーさんがいますので
  ストーリーのネタバレ発言はしないようにお願いしま
  す\n━━━━━━━━━━━━━━━━━━━\n\n🎤期
- 間限定ボイス販売中🎤\n\n\n━━━━━━━━━━━━
- ━━━━━━━\n♨～～♨～～♨～～♨～～♨～～♨～
- ～♨\n━━━━━━━━━━━━━━━━━━━\n\nに
- じさんじプロジェクト所属\n小野町旅館の若女将\n配信
- タグ ＃小野町旅館\n切り抜き動画 ＃切り抜きはるちゃ
- ん\nTwitter　＠onomachi_haruka\nTwitterタグ ＃若女将が見ては
- る\nファンアート ＃小野町絵巻\n推しマーク  ♨\nボイ
- ス感想 #音声旅館\n若女将を褒める #えらいねはるちゃ
- ん\nリスナー名　このまち\n\n励みになっております！
- ツイートよろしくお願いします🍵\n\nみんなのファンア
- ート、お借りしています\nいつも見守ってくれてありが
- とう\n\n━━━━━━━━━━━━━━━━━━━\n♨
- ～～♨～～♨～～♨～～♨～～♨～～♨\n━━━━━━
- ━━━━━━━━━━━━━\n\n【若女将とのお約束】
- ※必ず読んでください\n・コメントで若女将が話題にし
- ていない他の配信者の名前を出さないこと\n・コメント
- 欄でリスナー同士の会話、喧嘩しないこと（スパムは
- スルーで反応しないように）\n・伝書鳩行為は他の配信
- 者にも迷惑になるのでやらないこと\n※伝書鳩行為とは
- …？\n「○○（他の配信者など）が××（配信主）のこ
- と、こう言ってたよ」と、配信のチャット欄などで伝
- える行為のことです\n・配信と無関係の内容のコメント
- をしないこと（挨拶はOKです）\n・自分が言われて嫌な
- ことはコメントしないこと\n\n注意しても改善がみられ
- ない場合など申し訳ありませんが非表示などの対応を
- させて頂きます\n\n​[Promise with young landlady]・ For pinned me
- ssages from the young proprietress of the comment\, (Haruka)\, please clic
- k "Unpin message” from "..." on the right.\nDo not mention the names of 
- other distributors that the young proprietress has not talked about in the
-  comments.\nDo not do “homing pigeons” as they will be a nuisance to o
- ther distributors.\nPlease do not comment on unrelated topics.(but greetti
- ngs are ok)\nPlease do not comment on the topics that yourself would not l
- ike to be commented on.\n\nIf someone has been warned but does not follow 
- the promises still\, sadly\, he or she will be prohibited from commenting 
- on this channel.\n\n━━━━━━━━━━━━━━━━━━
- ━\n♨～～♨～～♨～～♨～～♨～～♨～～♨\n━━━
- ━━━━━━━━━━━━━━━━\n\n♨super chat（宿泊
- 代）\n　若女将が未熟者のため全てのsuperchatに反応でき
- ない時があります\n　配信が終わってから全て確認して
- ます✨\n　応援してくれてありがとう\n　いっぱい楽し
- いことしていくのでよろしくお願いします！\n\n♨メン
- バーシップ（常連さま）\nhttps://www.youtube.com/channel/UCg63a3
- lk6PNeWhVvMRM_mrQ/join\n　チャンネル登録の横にある【メン
- バーになる】ボタンで\n　メンバーになる事が出来ます
- 🍵\n　月1以上メンバー限定配信あります\n　\n配信がで
- きるのはみんなのおかげです。いつも応援してくれて
- ありがとう！\n\n━━━━━━━━━━━━━━━━━
+ 間限定ボイス販売中🎤\n4/30(金)18:00〜5/9(日)23:59\n　GWボ
+ イス2021 - グループA　https://shop.nijisanji.jp/s/niji/item/detail/
+ dig-00385?ima=3511\n5月1日(土)18:00 ～ 5月31日(月)23:59\n　小野
+ 町春香マンスリーASMR～耳かき～　https://shop.nijisanji.jp/s/
+ niji/item/detail/dig-00388?ima=3511\n\n\n━━━━━━━━━━━
+ ━━━━━━━━\n♨～～♨～～♨～～♨～～♨～～♨
+ ～～♨\n━━━━━━━━━━━━━━━━━━━\n\n
+ にじさんじプロジェクト所属\n小野町旅館の若女将\n配
+ 信タグ ＃小野町旅館\n切り抜き動画 ＃切り抜きはるち
+ ゃん\nTwitter　＠onomachi_haruka\nTwitterタグ ＃若女将が見て
+ はる\nファンアート ＃小野町絵巻\n推しマーク  ♨\nボ
+ イス感想 #音声旅館\n若女将を褒める #えらいねはるち
+ ゃん\nリスナー名　このまち\n\n励みになっております
+ ！ツイートよろしくお願いします🍵\n\nみんなのファン
+ アート、お借りしています\nいつも見守ってくれてあり
+ がとう\n\n━━━━━━━━━━━━━━━━━━━\n
+ ♨～～♨～～♨～～♨～～♨～～♨～～♨\n━━━━━
+ ━━━━━━━━━━━━━━\n\n【若女将とのお約束
+ 】※必ず読んでください\n・コメントで若女将が話題に
+ していない他の配信者の名前を出さないこと\n・コメン
+ ト欄でリスナー同士の会話、喧嘩しないこと（スパム
+ はスルーで反応しないように）\n・伝書鳩行為は他の配
+ 信者にも迷惑になるのでやらないこと\n※伝書鳩行為と
+ は…？\n「○○（他の配信者など）が××（配信主）の
+ こと、こう言ってたよ」と、配信のチャット欄などで
+ 伝える行為のことです\n・配信と無関係の内容のコメン
+ トをしないこと（挨拶はOKです）\n・自分が言われて嫌
+ なことはコメントしないこと\n\n注意しても改善がみら
+ れない場合など申し訳ありませんが非表示などの対応
+ をさせて頂きます\n\n​[Promise with young landlady]・ For pinned
+  messages from the young proprietress of the comment\, (Haruka)\, please c
+ lick "Unpin message” from "..." on the right.\nDo not mention the names 
+ of other distributors that the young proprietress has not talked about in 
+ the comments.\nDo not do “homing pigeons” as they will be a nuisance t
+ o other distributors.\nPlease do not comment on unrelated topics.(but gree
+ ttings are ok)\nPlease do not comment on the topics that yourself would no
+ t like to be commented on.\n\nIf someone has been warned but does not foll
+ ow the promises still\, sadly\, he or she will be prohibited from commenti
+ ng on this channel.\n\n━━━━━━━━━━━━━━━━━
  ━━\n♨～～♨～～♨～～♨～～♨～～♨～～♨\n━━
- ━━━━━━━━━━━━━━━━━\n\n🌈公式グッズ
- 🌈\nhttps://shop.nijisanji.jp/s/niji/\n🍵【常設】にじさんじ
- 季節ボイス\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00110?im
- a=3325\n\n♨若女将オリジナルグッズ♨\n　ステッカー　ht
- tps://booth.pm/ja/items/1647198 \n　ステッカー(冬服)　 |https://n
- ijisanji.booth.pm/items/1817598\n　ステッカー（5万人記念）http
- s://booth.pm/ja/items/2069237 \n　ステッカー（制服）　 https://
- nijisanji.booth.pm/items/2361349\n　Tシャツ 白 　https://nijisanji.b
- ooth.pm/items/2522833\n　Tシャツ 黒 　https://nijisanji.booth.pm/ite
- ms/2522873\n　パーカー 　https://nijisanji.booth.pm/items/2522897\n
- 　タンブラー 　https://nijisanji.booth.pm/items/2522988\n　マグ
- カップ 　 https://nijisanji.booth.pm/items/2523011\n　ポーチ 　 h
- ttps://nijisanji.booth.pm/items/2523025\n　トートバッグ 　 https:/
- /nijisanji.booth.pm/items/2523058\n\n🍵お手紙✉ファンレターの
- 送り先は下記をご確認ください。\nhttps://nijisanji.ichikara.
- co.jp/contact/\n\n━━━━━━━━━━━━━━━━━━
- ━\n♨～～♨～～♨～～♨～～♨～～♨～～♨\n━━━
- ━━━━━━━━━━━━━━━━\n\n♨旅館外観＆部
- 屋イラスト\n　えがき ぐりこ様（@GurikoEgaki）\n♨OP.ED動
- 画\n　有栖 永真様（@alice_eishin）\n♨ED動画イラスト\n　
- もの干し竿様（@Mya036）\n♨小野町春香ロゴ\n　コハタ　
- ヤスマサ様（@y_kohata_）\n♨オリジナルBGM「小野町旅館
- の朝」\n　しんさんわーくす(深山悠真)様（@shinsanworks）
- \n♨YouTuberのための素材屋さん\n＃ゲーム
+ ━━━━━━━━━━━━━━━━━\n\n♨super chat（宿
+ 泊代）\n　若女将が未熟者のため全てのsuperchatに反応で
+ きない時があります\n　配信が終わってから全て確認し
+ てます✨\n　応援してくれてありがとう\n　いっぱい楽
+ しいことしていくのでよろしくお願いします！\n\n♨メ
+ ンバーシップ（常連さま）\nhttps://www.youtube.com/channel/UCg6
+ 3a3lk6PNeWhVvMRM_mrQ/join\n　チャンネル登録の横にある【メ
+ ンバーになる】ボタンで\n　メンバーになる事が出来ま
+ す🍵\n　月1以上メンバー限定配信あります\n　\n配信が
+ できるのはみんなのおかげです。いつも応援してくれ
+ てありがとう！\n\n━━━━━━━━━━━━━━━━
+ ━━━\n♨～～♨～～♨～～♨～～♨～～♨～～♨\n━
+ ━━━━━━━━━━━━━━━━━━\n\n🌈公式グッ
+ ズ🌈\nhttps://shop.nijisanji.jp/s/niji/\n🍵【常設】にじさん
+ じ季節ボイス\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00110
+ ?ima=3325\n\n♨若女将オリジナルグッズ♨\n　ステッカー
+ 　https://booth.pm/ja/items/1647198 \n　ステッカー(冬服)　 |http
+ s://nijisanji.booth.pm/items/1817598\n　ステッカー（5万人記念
+ ）https://booth.pm/ja/items/2069237 \n　ステッカー（制服）　 h
+ ttps://nijisanji.booth.pm/items/2361349\n　Tシャツ 白 　https://niji
+ sanji.booth.pm/items/2522833\n　Tシャツ 黒 　https://nijisanji.booth
+ .pm/items/2522873\n　パーカー 　https://nijisanji.booth.pm/items/252
+ 2897\n　タンブラー 　https://nijisanji.booth.pm/items/2522988\n　
+ マグカップ 　 https://nijisanji.booth.pm/items/2523011\n　ポーチ
+  　 https://nijisanji.booth.pm/items/2523025\n　トートバッグ 　 h
+ ttps://nijisanji.booth.pm/items/2523058\n\n🍵お手紙✉ファンレタ
+ ーの送り先は下記をご確認ください。\nhttps://nijisanji.ich
+ ikara.co.jp/contact/\n\n━━━━━━━━━━━━━━━━
+ ━━━\n♨～～♨～～♨～～♨～～♨～～♨～～♨\n━
+ ━━━━━━━━━━━━━━━━━━\n\n♨旅館外観
+ ＆部屋イラスト\n　えがき ぐりこ様（@GurikoEgaki）\n♨OP.
+ ED動画\n　有栖 永真様（@alice_eishin）\n♨ED動画イラスト\
+ n　もの干し竿様（@Mya036）\n♨小野町春香ロゴ\n　コハ
+ タ　ヤスマサ様（@y_kohata_）\n♨オリジナルBGM「小野町
+ 旅館の朝」\n　しんさんわーくす(深山悠真)様（@shinsanwo
+ rks）\n♨YouTuberのための素材屋さん\n＃ゲーム
 URL:https://www.youtube.com/watch?v=_uI8dm-zUKc
 END:VEVENT
 BEGIN:VEVENT
