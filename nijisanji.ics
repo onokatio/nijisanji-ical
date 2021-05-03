@@ -3639,6 +3639,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=HVNMjrvmGBI\n\n今日から私
 URL:https://www.youtube.com/watch?v=HVNMjrvmGBI
 END:VEVENT
 BEGIN:VEVENT
+UID:47108
+SUMMARY:いつにもまして謎メンのあもがす（メンバー概要
+ 欄）
+DTSTART:20210503T130000Z
+DTEND:20210503T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=TnPl08OUtd8\n\nめんばーさ
+ ん（敬称略）\n\nなかのっち\n瀬戸美夜子\nしょぼすけ\n
+ マキオ\nKOUMAI\nギル\nマハラジャ\n玲音\nはてな\nくーり
+URL:https://www.youtube.com/watch?v=TnPl08OUtd8
+END:VEVENT
+BEGIN:VEVENT
 UID:47097
 SUMMARY:契約者総会5月【にじさんじ/でびでび・でびる】
 DTSTART:20210503T130500Z
@@ -3730,6 +3741,23 @@ DESCRIPTION:https://www.youtube.com/watch?v=bJCCu3sKf7k\n\nあ゛あ゛あ
  い合わせやファンレター】\nhttps://nijisanji.ichikara.co.jp/con
  tact/
 URL:https://www.youtube.com/watch?v=bJCCu3sKf7k
+END:VEVENT
+BEGIN:VEVENT
+UID:47109
+SUMMARY:【DARK SOULS REMASTERED #10】さらばアルトリウス！伝説
+ を継ぐのはオラだ【にじさんじ/社築】
+DTSTART:20210503T133000Z
+DTEND:20210503T143000Z
+DESCRIPTION:https://www.youtube.com/watch?v=dUBTrYzwgtQ\n\nゴーの大矢
+ でゴー\n\nハッシュタグは【#社築フィードバック】まで
+ 。\n------------------------------------------------\n社築のチャン
+ ネル登録はコチラから：\nhttps://www.youtube.com/channel/UCKMYIS
+ TJAQ8xTplUPHiABlA?sub_confirmation=1\nTwitter：\nhttps://twitter.com/846k
+ izuQ\nにじさんじ公式BOOTH：\nhttps://nijisanji.booth.pm/\n↑Tシ
+ ャツとか売ってます↑\nお問い合わせ・プレゼント送付
+ 先：\nhttps://nijisanji.ichikara.co.jp/contact/\n-----------------------
+ -------------------------\n#ゲーム
+URL:https://www.youtube.com/watch?v=dUBTrYzwgtQ
 END:VEVENT
 BEGIN:VEVENT
 UID:47034
