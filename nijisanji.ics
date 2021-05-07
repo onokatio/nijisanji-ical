@@ -3539,8 +3539,8 @@ BEGIN:VEVENT
 UID:47313
 SUMMARY:【バイオハザードヴィレッジ】時間変更あるかも
  ！＼　第一村人発見　／【本間ひまわり/にじさんじ】
-DTSTART:20210507T144500Z
-DTEND:20210507T154500Z
+DTSTART:20210507T145500Z
+DTEND:20210507T155500Z
 DESCRIPTION:https://www.youtube.com/watch?v=yhpM3gDyQrE\n\nPS5でプレイ
  させて頂く～っ！\n\n🎮PLAY GAME　バイオハザード ヴィ
  レッジ\n©CAPCOM CO.\, LTD. ALL RIGHTS RESERVED.\n\nおはござ～(・
@@ -3706,6 +3706,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=YOUvToWEUDA\n\n毎週金曜日
  do ASMR on Fridays.\n\nPlease comment\, like and subscribe!\n\n#GundouMire
  i #Nijisanji #Vtuber
 URL:https://www.youtube.com/watch?v=YOUvToWEUDA
+END:VEVENT
+BEGIN:VEVENT
+UID:47359
+SUMMARY:世界よ、これが剣持だ
+DTSTART:20210507T150000Z
+DTEND:20210507T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=YW4ZMCSesek\n\nにじさんじ
+ 所属ライバー剣持刀也\n戦わなければ生き残れない\n\n
+ 詳しいことはここに\nhttps://wikiwiki.jp/nijisanji/%E5%89%A3%E6%8C
+ %81%E5%88%80%E4%B9%9F\n\n【Twitter】https://twitter.com/rei_Toya_rei
+URL:https://www.youtube.com/watch?v=YW4ZMCSesek
 END:VEVENT
 BEGIN:VEVENT
 UID:47351
@@ -4031,6 +4042,36 @@ DESCRIPTION:https://www.youtube.com/watch?v=mCdQeGLqi-A\n\n金魚すくい
  ikara.co.jp/contact/\n\n－－－－－－－－－－－－－－－－
  －－－－－－－－－－－－－－－－
 URL:https://www.youtube.com/watch?v=mCdQeGLqi-A
+END:VEVENT
+BEGIN:VEVENT
+UID:47360
+SUMMARY:【パニグレ】ルシア…こっちに来ないか。ガチャ
+ 勝負🔥【本間ひまわり/にじさんじ】
+DTSTART:20210508T090000Z
+DTEND:20210508T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=H3tHgAAHKuI\n\n提供：パニ
+ シング：グレイレイヴン\n\nこっち来いよ。来い。来て
+ もいいよ。来て。来てください。お願いします。\n\n新
+ しいSクラス構造体「ルシア・鴉羽」が実装！パニグレ
+ 初の氷属性アタッカー！\n新章「九龍環城」では地球奪
+ 還への第一幕は終わりを迎えた。そして、グレイレイ
+ ヴン隊の戦いは新たなステージへと突入する！\n\n\n▼
+ ダウンロードはこちらから\nhttps://punigray.onelink.me/ZQVm/hon
+ mahimawari\n\n▼公式Twitterはこちら\nhttps://twitter.com/punigray_s
+ taff\n\n▼公式YouTubeはこちら\nhttps://www.youtube.com/channel/UC_K
+ UFMLEn-N4_Sr9wco4tcQ\n\n▼配信中視聴した動画「ルシアタイ
+ ム」はこちら\nhttps://youtu.be/djKrcAO-3Ow\n\n\nおはござ～(・
+ ワ・🌻)ﾉｼ\nバーチャルライバー本間ひまわりです!\n
+ 色んなゲームをするのがだいすき！ \n初見さんもお気
+ 軽にコメントしてね✨\n\nOhagoza!!\nIt's Virtual YouTuber\, Honma
+  Himawari!\nI stream games almost everyday.\nI LOVE playing all sorts of g
+ ames!\nEven if its your first time watching \nme\, feel free to comment an
+ ytime!\nI'll be waiting for you!\n\n🎮PLAY GAME　パニグレ\n\n📺Yo
+ uTube\nhttps://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w?sub_confir
+ mation=1\n\n🐓Twitter \nhttps://twitter.com/honmahimawari\n\n🌻放送
+ ハッシュタグ　#ひま生\n🌻ファンアートタグ　#ひまあ
+ ーと\n🌻わたしのなまえ　#本間ひまわり
+URL:https://www.youtube.com/watch?v=H3tHgAAHKuI
 END:VEVENT
 BEGIN:VEVENT
 UID:47348
