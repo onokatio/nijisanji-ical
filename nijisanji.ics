@@ -1935,8 +1935,8 @@ BEGIN:VEVENT
 UID:47367
 SUMMARY:バイオハザードヴィレッジ | ちょっと怖い感じら
  しい！【にじさんじ/叶】
-DTSTART:20210507T160000Z
-DTEND:20210507T170000Z
+DTSTART:20210507T161816Z
+DTEND:20210507T171816Z
 DESCRIPTION:https://www.youtube.com/watch?v=FWzDn_nSH-E\n\n※７は実は
  まだやってない\nD版予定です\n©CAPCOM CO.\, LTD. ALL RIGHTS RE
  SERVED.\n\n毎日配信してます！\n急な配信も多いので通知
@@ -2025,6 +2025,37 @@ DESCRIPTION:https://www.youtube.com/watch?v=9_i5rqIIhu8\n\nジョー・力
   Tomさん @higumi_VTuber\nぷにジングル：オーザンさん\nBGM: M
  usMus様\nhttp://musmus.main.jp/music.html
 URL:https://www.youtube.com/watch?v=9_i5rqIIhu8
+END:VEVENT
+BEGIN:VEVENT
+UID:47368
+SUMMARY:【あつまれどうぶつの森】起きろ＿＿＿。【にじ
+ さんじ/山神カルタ】
+DTSTART:20210508T000000Z
+DTEND:20210508T010000Z
+DESCRIPTION:https://www.youtube.com/watch?v=BmAb4h3eENQ\n\n山神が起き
+ なかったらどうなっちゃうの～！？！？\n\n\n素敵なイ
+ ラスト  : 雪抹茶(@yukimattya1004)さま\n\n\n✰⋆｡:ﾟ･*☽:
+ ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽⋆｡:
+ ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\n現在販売中のボイス🎙⋆｡
+ \n\nGWボイス🌟\n\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00
+ 382?ima=0947\n\n✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ
+ ･⋆｡✰⋆｡:ﾟ･*☽⋆｡:ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\n
+ にじさんじ所属バーチャルライバー　\n見習い烏天狗の
+ 山神カルタです。\n普段は山で修行をしています。\nい
+ ろんな時間をみんなと一緒に過ごせたら嬉しいなあ。\n
+ \n\n✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰
+ ⋆｡:ﾟ･*☽⋆｡:ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\n\n🎴Twitter
+  tag🎴\n\n配信タグ : #山神カタル\nイラスト : # カルタの
+ 絵札\n\n〔 Twitter 〕\n https://twitter.com/Karuta_Yamagami\n\nおて
+ がみやお問い合わせなど！💌📞\nhttps://nijisanji.ichikara.c
+ o.jp/cont...\n\n🎴メンバーシップはこちらから(月額490円)
+ 🎴\nhttps://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfLQ/join\n→\n
+ 名前の横にバッジ！\nコメント欄で使えるスタンプ！\n\
+ nメンバー限定配信や、ほぼ毎日コミュニティー投稿も
+ あり！\n山神の食生活がのぞけます🍚\n\n\n✰⋆｡:ﾟ･*
+ ☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽⋆
+ ｡:ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\n#山神カルタ
+URL:https://www.youtube.com/watch?v=BmAb4h3eENQ
 END:VEVENT
 BEGIN:VEVENT
 UID:47362
