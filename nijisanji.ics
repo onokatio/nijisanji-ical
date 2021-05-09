@@ -3488,6 +3488,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=J8EbcMAy76E\n\n開始時間は
 URL:https://www.youtube.com/watch?v=J8EbcMAy76E
 END:VEVENT
 BEGIN:VEVENT
+UID:47458
+SUMMARY:【APEX】プラチナ行ったらクリプト開放する【にじ
+ さんじ/イブラヒム】
+DTSTART:20210509T073000Z
+DTEND:20210509T083000Z
+DESCRIPTION:https://www.youtube.com/watch?v=zcNi8WRFB4k\n\n俺にはこれ
+ くらいしかできませんから
+URL:https://www.youtube.com/watch?v=zcNi8WRFB4k
+END:VEVENT
+BEGIN:VEVENT
 UID:47438
 SUMMARY:３Dブラッシュアップお披露目振り返り&久々の雑
  談【鈴鹿詩子/にじさんじ】
@@ -3610,6 +3620,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=P3rd2As0BdM\n\nなお、今回
  【公式オフィシャルストア】\nhttps://shop.nijisanji.jp/s/niji/
  \n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985
 URL:https://www.youtube.com/watch?v=P3rd2As0BdM
+END:VEVENT
+BEGIN:VEVENT
+UID:47457
+SUMMARY:【先行プレイ】スーパーボンバーマン R オンライ
+ ン【にじさんじ/渋谷ハジメ】
+DTSTART:20210509T100000Z
+DTEND:20210509T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=VX7CfwGTjWw\n\n©Konami Digital
+  Entertainment
+URL:https://www.youtube.com/watch?v=VX7CfwGTjWw
 END:VEVENT
 BEGIN:VEVENT
 UID:47329
