@@ -1798,6 +1798,19 @@ DESCRIPTION:https://www.youtube.com/watch?v=y3KUgcGw2MU\n\nまともなサ
 URL:https://www.youtube.com/watch?v=y3KUgcGw2MU
 END:VEVENT
 BEGIN:VEVENT
+UID:47888
+SUMMARY:回線テスト配信　本当にテストなのでちょっとし
+ ゃべってすぐ終わります
+DTSTART:20210516T190500Z
+DTEND:20210516T200500Z
+DESCRIPTION:https://www.youtube.com/watch?v=fkQVlj9DIL8\n\nバカ小夜ち
+ ゃんバカ！！！！\n\n\n雨森へ直通のご意見・ご感想・
+ おたより等（Google フォーム） : https://t.co/nTtA2hSaZh\n\nTwit
+ ter : https://twitter.com/Sayo_Amemori\n\nお問い合わせ : https://nij
+ isanji.ichikara.co.jp/contact/
+URL:https://www.youtube.com/watch?v=fkQVlj9DIL8
+END:VEVENT
+BEGIN:VEVENT
 UID:47827
 SUMMARY:【新番組 ＃にZIP! 】朝から『にZ〇P！』5/17【にじ
  さんじフミ】
