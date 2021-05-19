@@ -2051,7 +2051,8 @@ URL:https://www.youtube.com/watch?v=A_HQf5n1YJg
 END:VEVENT
 BEGIN:VEVENT
 UID:48057
-SUMMARY:寝る【ラトナ・プティ/にじさんじ】
+SUMMARY:寝る:ニートの１日をお届けします【ラトナ・プテ
+ ィ/にじさんじ】
 DTSTART:20210519T221000Z
 DTEND:20210519T231000Z
 DESCRIPTION:https://www.youtube.com/watch?v=Y-jJ7I5NJWQ\n\nねむい\n･
@@ -2160,6 +2161,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=Gq8F0qfxjtc\n\nにじさんじ
  ○―●\n\n＃フミ　＃にじさんじ　 #Vチューバー　＃バ
  ーチャルユーチューバー
 URL:https://www.youtube.com/watch?v=Gq8F0qfxjtc
+END:VEVENT
+BEGIN:VEVENT
+UID:48058
+SUMMARY:【雑談】気が付いたら5月が終わりそうで、なにも
+ 信じたくない【戌亥とこ/にじさんじ】
+DTSTART:20210519T225000Z
+DTEND:20210519T235000Z
+DESCRIPTION:https://www.youtube.com/watch?v=_YcK0-njFs0\n\n録音がひと
+ つ終わりました\n\n【配信タグ】\n#いぬいどんどんすき
+ になる\n\n◆その他諸々◆\n▼メンバーシップの登録は
+ コチラ\nhttps://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg/join\n
+ \n【Twitter】\nhttps://twitter.com/inui_toko\n\n【公式オンライン
+ ショップ】\nhttps://shop.nijisanji.jp/\n\n【ファンレターの送
+ 付先はリンクから確認してな～】\nhttps://www.nijisanji.jp/co
+ ntact\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji
+ _app\n《@nijisanji_app 》\n\n\n【BGM使わせていただいてるサ
+ イト】\nhttps://dova-s.jp/
+URL:https://www.youtube.com/watch?v=_YcK0-njFs0
 END:VEVENT
 BEGIN:VEVENT
 UID:48056
