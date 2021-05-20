@@ -3157,11 +3157,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=GoOi7N0Maks\n\nただ、それ
 URL:https://www.youtube.com/watch?v=GoOi7N0Maks
 END:VEVENT
 BEGIN:VEVENT
+UID:48081
+SUMMARY:[Original]▲▼▲▼ - 弦月藤士郎
+DTSTART:20210520T120000Z
+DTEND:20210520T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=NWjsuM5Zfpo\n\nMusic\n【弦月
+ 藤士郎】@1O46V\nhttps://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frc
+ gg?sub_confirmation=1\n\nMix\n【甲斐田晴】@Kaida_Haru\nhttps://www.y
+ outube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw?sub_confirmation=1\n\nIllustra
+ tion\n【Bas】(@BBBas_39)\n\n\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+ \n✂お問い合わせ➼\nhttps://www.nijisanji.jp/contact
+URL:https://www.youtube.com/watch?v=NWjsuM5Zfpo
+END:VEVENT
+BEGIN:VEVENT
 UID:47948
 SUMMARY:【テラリア】ちいさなせかい【安土桃/にじさんじ
  】
-DTSTART:20210520T120000Z
-DTEND:20210520T130000Z
+DTSTART:20210520T120049Z
+DTEND:20210520T130049Z
 DESCRIPTION:https://www.youtube.com/watch?v=Xg5ye3iqlaw\n\nテラリア生
  活４日目！\n～あらすじ～探検家のポーションも作れる
  ようになりライフクリスタルもゲットした桃ちゃんは
@@ -3190,24 +3203,11 @@ DESCRIPTION:https://www.youtube.com/watch?v=Xg5ye3iqlaw\n\nテラリア生
 URL:https://www.youtube.com/watch?v=Xg5ye3iqlaw
 END:VEVENT
 BEGIN:VEVENT
-UID:48081
-SUMMARY:[Original]▲▼▲▼ - 弦月藤士郎
-DTSTART:20210520T120000Z
-DTEND:20210520T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=NWjsuM5Zfpo\n\nMusic\n【弦月
- 藤士郎】@1O46V\nhttps://www.youtube.com/channel/UCGw7lrT-rVZCWHfdG9Frc
- gg?sub_confirmation=1\n\nMix\n【甲斐田晴】@Kaida_Haru\nhttps://www.y
- outube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw?sub_confirmation=1\n\nIllustra
- tion\n【Bas】(@BBBas_39)\n\n\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿
- \n✂お問い合わせ➼\nhttps://www.nijisanji.jp/contact
-URL:https://www.youtube.com/watch?v=NWjsuM5Zfpo
-END:VEVENT
-BEGIN:VEVENT
 UID:48087
 SUMMARY:【MOOZ】恐怖のリモート通話。助けるかどうかは気
  分次第【星川サラ/にじさんじ】
-DTSTART:20210520T120000Z
-DTEND:20210520T130000Z
+DTSTART:20210520T120500Z
+DTEND:20210520T130500Z
 DESCRIPTION:https://www.youtube.com/watch?v=DUi6fODPqP4\n\nもしも～し\
  n\n▼ゲーム：https://www.freem.ne.jp/win/game/25282\n☆••┈┈
  ┈┈••✩••┈┈┈┈••☆••┈┈┈┈••✩•
@@ -3309,9 +3309,9 @@ URL:https://www.youtube.com/watch?v=oRjzET5PO5Y
 END:VEVENT
 BEGIN:VEVENT
 UID:48092
-SUMMARY:【定時退社ソリッド】ぼくの考えたゲームをクリ
- アできるまで（会社から脱出できるまで）終われない
- 配信【にじさんじ/社築】
+SUMMARY:【定時退社ソリッド】ぼくの考えた会社脱出ゲー
+ ムをクリアできるまで終われない配信【にじさんじ/社
+ 築】
 DTSTART:20210520T133000Z
 DTEND:20210520T143000Z
 DESCRIPTION:https://www.youtube.com/watch?v=hSDxUv2b0Es\n\nあらすじ：
