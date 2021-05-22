@@ -3150,8 +3150,8 @@ BEGIN:VEVENT
 UID:48172
 SUMMARY:【#にじさんじ花鳥風月戦】にじさんじ麻雀杯大将
  戦【#花チーム/ルイス視点/雀魂】
-DTSTART:20210522T083000Z
-DTEND:20210522T093000Z
+DTSTART:20210522T100000Z
+DTEND:20210522T110000Z
 DESCRIPTION:https://www.youtube.com/watch?v=8girFJ5RaWk\n\n麻雀って楽
  しいよね\n協賛：雀魂\n※時間は目安です！大会なので5
  分の遅延が入ってます\n\n#花より団子　\n\nメンバーシ
@@ -3170,41 +3170,11 @@ DESCRIPTION:https://www.youtube.com/watch?v=8girFJ5RaWk\n\n麻雀って楽
 URL:https://www.youtube.com/watch?v=8girFJ5RaWk
 END:VEVENT
 BEGIN:VEVENT
-UID:48182
-SUMMARY:【雀魂/#にじさんじ花鳥風月戦】奇跡を起こす　
- 大将戦　舞元視点【にじさんじ/舞元啓介】
-DTSTART:20210522T083000Z
-DTEND:20210522T093000Z
-DESCRIPTION:https://www.youtube.com/watch?v=OBbGrY434GY\n\n提供:雀魂\n\
- n優勝はいただくぞ\n\n\n\nサムネイルはさつまさんのイ
- ラストを使用させていただきました。\n\nーーーーーチ
- ーム鳥こと焼き鳥とオヤジーーーーー\n\n渋谷ハジメ\n
- 【YouTube 】https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ?sub
- _confirmation=1\n\n文野環\n【YouTube】https://www.youtube.com/channel
- /UCBiqkFJljoxAj10SoP2w2Cg?sub_confirmation=1\n\n郡道美玲\n【YouTube
- 】https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw?sub_confirmati
- on=1\n\n\n#雀魂\n#じゃんたま\n#麻雀\n#にじさんじ花鳥風月
- 戦\nーーーーーーーーーーーーーーーーーーーーーーー
- ーーー\n\n普段は主にスポーツ実況・ゲーム実況や深夜
- ラジオの配信をやっています！\n幅広い活動をしていき
- たいと思っていますのでどうぞよろしくお願いいたし
- ます！\n\nーーーーーーーーーーーーーーーーーーーー
- ーーーーーー\n\n#雀魂\n#麻雀\n\n【お問い合わせやプレ
- ゼントはこちら】\nhttps://nijisanji.ichikara.co.jp/contact/\n\n【
- にじさんじ公式HP】\nhttps://nijisanji.ichikara.co.jp/\n\n\nチャ
- ンネル登録はこちらになります！よろしくお願いいた
- します！\nhttps://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g?sub
- _confirmation=1\n\nTwitter\nhttps://twitter.com/maimoto_k\n\n創作物タ
- グ→ #しら画 \n生放送タグ→ #まいもとなま\nリスナー
- 名→ 加齢衆\n\n#にじさんじ
-URL:https://www.youtube.com/watch?v=OBbGrY434GY
-END:VEVENT
-BEGIN:VEVENT
 UID:48200
 SUMMARY:【#にじさんじ花鳥風月戦】風チーム　大将戦【に
  じさんじ/社築】
-DTSTART:20210522T090000Z
-DTEND:20210522T100000Z
+DTSTART:20210522T100000Z
+DTEND:20210522T110000Z
 DESCRIPTION:https://www.youtube.com/watch?v=qgqOq-gA_TM\n\n協賛：雀魂\
  n\n本戦\nhttps://www.youtube.com/watch?v=EpGLdkULZHs\n\n----------------
  --------------------------------\n社築のチャンネル登録はコチ
@@ -3276,6 +3246,55 @@ DESCRIPTION:https://www.youtube.com/watch?v=Hu8r3M_Sc6M\n\n🔎提供：エ
 URL:https://www.youtube.com/watch?v=Hu8r3M_Sc6M
 END:VEVENT
 BEGIN:VEVENT
+UID:48206
+SUMMARY:【雀魂/ #にじさんじ花鳥風月戦】#ムーンウォーカ
+ ーズWIN【ジョー・力一】
+DTSTART:20210522T100000Z
+DTEND:20210522T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=x24ff7nbU60\n\n協賛：雀魂\
+ n\n◆月チーム（ムーンウォーカーズ）\n空星きらめ　htt
+ ps://t.co/3KXb2XtEPS\nでびでび・でびる　https://t.co/nQirlCPIQN?a
+ mp=1?amp=1\n剣持刀也　https://t.co/dNfUPFBBch?amp=1\nジョー・力
+ 一　https://t.co/zohElUF1A5?amp=1\n\nRain Drops『リフレインズ』
+ リリース！\nhttps://store.universal-music.co.jp/product/pdcv1108/\n
+ 個人ボイス販売中です　詳細は↓\nhttps://shop.nijisanji.jp/s
+ /niji/artist/047/item?ima=0425\n\n☆メンバーシップ開始しまし
+ た！\nつってねスタンプや限定配信など、いろいろ特典
+ をご用意します！　登録は↓\nhttps://www.youtube.com/channel/U
+ ChUJbHiTVeGrSkTdBzVfNCQ/join
+URL:https://www.youtube.com/watch?v=x24ff7nbU60
+END:VEVENT
+BEGIN:VEVENT
+UID:48208
+SUMMARY:【雀魂/#にじさんじ花鳥風月戦】奇跡を起こす　
+ 大将戦　舞元視点【にじさんじ/舞元啓介】
+DTSTART:20210522T100000Z
+DTEND:20210522T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=aSW3JkInNVg\n\n協賛:雀魂\n\
+ n優勝はいただくぞ\n\n\n\nサムネイルはさつまさんのイ
+ ラストを使用させていただきました。\n\nーーーーーチ
+ ーム鳥こと焼き鳥とオヤジーーーーー\n\n渋谷ハジメ\n
+ 【YouTube 】https://www.youtube.com/channel/UCeK9HFcRZoTrvqcUCtccMoQ?sub
+ _confirmation=1\n\n文野環\n【YouTube】https://www.youtube.com/channel
+ /UCBiqkFJljoxAj10SoP2w2Cg?sub_confirmation=1\n\n郡道美玲\n【YouTube
+ 】https://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw?sub_confirmati
+ on=1\n\n\n#雀魂\n#じゃんたま\n#麻雀\n#にじさんじ花鳥風月
+ 戦\nーーーーーーーーーーーーーーーーーーーーーーー
+ ーーー\n\n普段は主にスポーツ実況・ゲーム実況や深夜
+ ラジオの配信をやっています！\n幅広い活動をしていき
+ たいと思っていますのでどうぞよろしくお願いいたし
+ ます！\n\nーーーーーーーーーーーーーーーーーーーー
+ ーーーーーー\n\n#雀魂\n#麻雀\n\n【お問い合わせやプレ
+ ゼントはこちら】\nhttps://nijisanji.ichikara.co.jp/contact/\n\n【
+ にじさんじ公式HP】\nhttps://nijisanji.ichikara.co.jp/\n\n\nチャ
+ ンネル登録はこちらになります！よろしくお願いいた
+ します！\nhttps://www.youtube.com/channel/UCJubINhCcFXlsBwnHp0wl_g?sub
+ _confirmation=1\n\nTwitter\nhttps://twitter.com/maimoto_k\n\n創作物タ
+ グ→ #しら画 \n生放送タグ→ #まいもとなま\nリスナー
+ 名→ 加齢衆\n\n#にじさんじ
+URL:https://www.youtube.com/watch?v=aSW3JkInNVg
+END:VEVENT
+BEGIN:VEVENT
 UID:48163
 SUMMARY:＃1【初見バイオハザード７】ベイカー家にリア
  凸
@@ -3330,6 +3349,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=K0Bb523JYlY\n\n何うたおっ
 URL:https://www.youtube.com/watch?v=K0Bb523JYlY
 END:VEVENT
 BEGIN:VEVENT
+UID:48209
+SUMMARY:【恋バナ】恋心が一瞬で冷める！？エピソードが
+ やばすぎるWW【星川サラ/にじさんじ】
+DTSTART:20210522T110000Z
+DTEND:20210522T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=l87Yd_8zcoM\n\n『 恋心が冷
+ めたor異性に引いた瞬間 』エピソード募集✨\n\n**恋バ
+ ナ企画用タグ... #星川恋愛研究所 でツイートしてね！\n
+ 配信後に見に行くよ～！\n\n★エピソード応募フォーム\
+ nhttps://forms.gle/Jghu4wjSbNBvQuwC7\n☆••┈┈┈┈••✩••
+ ┈┈┈┈••☆••┈┈┈┈••✩••┈┈┈┈••
+ ✩\n\n〖Twitter〗( @Sara_Hoshikawa )\n https://twitter.com/Sara_Hoshika
+ wa \n\n▼メンバーシップはココから！\nhttps://www.youtube.com
+ /channel/UC9V3Y3_uzU5e-usObb6IE1w/join\n\nサムネイラスト：h様　@
+ 2DE1FLf8\nロゴ：@Equal_cps　様\n☆••┈┈┈┈••✩••
+ ┈┈┈┈••☆••┈┈┈┈••✩••┈┈┈┈••
+ ✩
+URL:https://www.youtube.com/watch?v=l87Yd_8zcoM
+END:VEVENT
+BEGIN:VEVENT
 UID:48201
 SUMMARY:【FF14】シルフ族となかよくしたい【にじさんじ/
  安土桃】
@@ -3379,6 +3418,33 @@ DESCRIPTION:https://www.youtube.com/watch?v=kb1MvWvpouE\n\nご無沙汰し
  om/nijisanji_app\n\n【公式HP】\nhttps://nijisanji.ichikara.co.jp/ \n\n
  【公式オフィシャルストア】\nhttps://shop.nijisanji.jp/s/niji/
 URL:https://www.youtube.com/watch?v=kb1MvWvpouE
+END:VEVENT
+BEGIN:VEVENT
+UID:48207
+SUMMARY:#8【ひぐらしのなく頃に奉】綿流し編第２回！完
+ 全初見！【星川サラ/にじさんじ】
+DTSTART:20210522T133000Z
+DTEND:20210522T143000Z
+DESCRIPTION:https://www.youtube.com/watch?v=cjMt73J_B2w\n\n初見なので
+ ネタバレ/匂わせコメント禁止！ひぐらしは毎回アーカ
+ イブ残すよ〇\n\nついに綿流し編とつにゅう！\n#ほしか
+ わのなく頃に でツイートしてね！\n\n【前回のあらすじ
+ 】\n\n\n▼ひぐらし配信 再生リスト\nhttps://youtube.com/playli
+ st?list=PLubTcmKzPseQhegk68n9h5qJjM9VTaCJY\n\n公式サイト：http://www
+ .entergram.co.jp/higurashihou/\n本ゲームは株式会社エンターグ
+ ラムの確認を得た上で配信・収益化を行なっておりま
+ す。\n\n▼メンバーシップはココから！(月額490円)\nhttps:
+ //www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w/join\n・月２回以
+ 上のメンバー限定配信\n・メンバー限定コミュニティ投
+ 稿\n・名前の横にメンバーバッジ付与\n・コメントで使
+ える限定スタンプ（随時増加）\n・メンバー限定で残し
+ た生放送のアーカイブが見れる\n\n▼星川のファンクラ
+ ブ！\n星川の日常多め◎加入はここから\n➡https://fanclub.
+ nijisanji.jp/fanclubs/sara-hoshikawa\n\n〖Twitter〗( @Sara_Hoshikawa )\n
+  https://twitter.com/Sara_Hoshikawa \nさむねいらすと：@choichoioek
+ aki様\n☆••┈┈┈┈••✩••┈┈┈┈••☆••┈
+ ┈┈┈••✩••┈┈┈┈••✩
+URL:https://www.youtube.com/watch?v=cjMt73J_B2w
 END:VEVENT
 BEGIN:VEVENT
 UID:48175
