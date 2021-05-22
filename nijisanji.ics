@@ -2331,6 +2331,29 @@ DESCRIPTION:https://www.youtube.com/watch?v=EpGLdkULZHs\n\n【提供：雀
 URL:https://www.youtube.com/watch?v=EpGLdkULZHs
 END:VEVENT
 BEGIN:VEVENT
+UID:48179
+SUMMARY:猫しか勝たん！ ＃にじさんじ花鳥風月戦【雀魂】
+ 【文野環/野良猫】【にじさんじ】
+DTSTART:20210522T030000Z
+DTEND:20210522T040000Z
+DESCRIPTION:https://www.youtube.com/watch?v=wiwuMkEN_wo\n\n去年の私と
+ はひと味違うのさ(^_-)-☆\n\nチーム「焼き鳥とオヤジ]」
+ \n〇世界一かわいい猫の環ちゃん\n〇郡道先生\n〇おは
+ じめ\n〇ケースケ舞元\n\n\n この配信がいいなと思った
+ らチャンネル登録、高評価、低評価、手洗いうがい、
+ ソーシャルディスタンス、三密、GoToよろしくお願いし
+ ます(^O^)\n\n ■メンバーシップ始めたまき\nhttps://www.yout
+ ube.com/channel/UCBiqkFJljoxAj10SoP2w2Cg/join\n\n\nにじさんじ所属
+ バーチャルライバーの文野環と申します。\n※絶賛保護
+ 観察期間中\n\n ◆Twitter\nhttps://twitter.com/nekokan_chu\n\n ◆
+ にじさんじオフィシャルストア（ボイスなどはここで
+ 販売してるよ）\nhttps://shop.nijisanji.jp/s/niji/\n\n ◆にじさ
+ んじ公式HP\nhttps://nijisanji.ichikara.co.jp/\n ◆お手紙はこち
+ ら\nファンレターの送り先は下記をご確認くださいませ
+ 。\nhttps://nijisanji.ichikara.co.jp/contact
+URL:https://www.youtube.com/watch?v=wiwuMkEN_wo
+END:VEVENT
+BEGIN:VEVENT
 UID:48169
 SUMMARY:【APEX】今日は昼活！お腹がすくまでAPEX【にじさ
  んじ/える】
@@ -2504,19 +2527,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=8girFJ5RaWk\n\n麻雀って楽
 URL:https://www.youtube.com/watch?v=8girFJ5RaWk
 END:VEVENT
 BEGIN:VEVENT
-UID:48178
-SUMMARY:真夜中、あなたと記憶をたどる #1【アンリアルラ
- イフ/にじさんじ/月ノ美兎】
-DTSTART:20210522T100000Z
-DTEND:20210522T110000Z
-DESCRIPTION:https://www.youtube.com/watch?v=ePvmq76njEI\n\nわしがサイ
- コメトラーや\n#みとの生放送\n\n▼アンリアルライフ公
- 式サイト\nhttps://unreal-life.net\n\n月ノ美兎のTwitter（配信
- 予定等はこちらで呟いています！）\nhttps://twitter.com/Mito
- Tsukino
-URL:https://www.youtube.com/watch?v=ePvmq76njEI
-END:VEVENT
-BEGIN:VEVENT
 UID:48163
 SUMMARY:＃1【初見バイオハザード７】ベイカー家にリア
  凸
@@ -2566,6 +2576,19 @@ DESCRIPTION:https://www.youtube.com/watch?v=YSDp56rYPJI\n\n〇ちゃんね
  p/contact\n\n音源：甘茶の音楽工房 さま\nhttps://amachamusic.ch
  agasi.com/\n\n\n～Special thanks to YOU～\n\n\n◆◆◆◆◆
 URL:https://www.youtube.com/watch?v=YSDp56rYPJI
+END:VEVENT
+BEGIN:VEVENT
+UID:48178
+SUMMARY:真夜中、あなたと記憶をたどる #1【アンリアルラ
+ イフ/にじさんじ/月ノ美兎】
+DTSTART:20210522T110000Z
+DTEND:20210522T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=ePvmq76njEI\n\nわしがサイ
+ コメトラーや\n#みとの生放送\n\n▼アンリアルライフ公
+ 式サイト\nhttps://unreal-life.net\n\n月ノ美兎のTwitter（配信
+ 予定等はこちらで呟いています！）\nhttps://twitter.com/Mito
+ Tsukino
+URL:https://www.youtube.com/watch?v=ePvmq76njEI
 END:VEVENT
 BEGIN:VEVENT
 UID:48054
