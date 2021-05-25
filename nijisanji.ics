@@ -2760,8 +2760,8 @@ BEGIN:VEVENT
 UID:48349
 SUMMARY:【minecraft】タワー型 農作物自動回収機2階目【に
  じさんじ/桜凛月】
-DTSTART:20210525T100000Z
-DTEND:20210525T110000Z
+DTSTART:20210525T094500Z
+DTEND:20210525T104500Z
 DESCRIPTION:https://www.youtube.com/watch?v=um8TLB91PMI\n\nWelcome to my ch
  annel !\n Hi\, I'm Ritsuki Sakura\, a Virtual YouTuber from NIJISANJI ! \n
   Glad to see you here! I hope you enjoy my live stream! \n\nI may not be a
@@ -2965,6 +2965,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=3oM0T3xAzwc\n\nルール\n\n・
 URL:https://www.youtube.com/watch?v=3oM0T3xAzwc
 END:VEVENT
 BEGIN:VEVENT
+UID:48362
+SUMMARY:【#炎上3D】星川と3Dオフコラボ！炎上流星群でえ
+ にからをぶっ潰す！【星川サラ/にじさんじ郡道美玲】
+DTSTART:20210525T110000Z
+DTEND:20210525T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=SBBzXueVW3k\n\nチャンネル
+ 登録宜しくお願い致します。\n\n星川サラ\n@星川サラ / S
+ ara Hoshikawa
+URL:https://www.youtube.com/watch?v=SBBzXueVW3k
+END:VEVENT
+BEGIN:VEVENT
 UID:48299
 SUMMARY:【＃にZIP臨時】不審な投稿がありました【にじさ
  んじフミ】
@@ -3153,6 +3164,38 @@ DESCRIPTION:https://www.youtube.com/watch?v=mVujWelxfvk\n\n配信時間に
  ドもやってみたいよね。\n\nピクミン3再生リスト\nhttps:/
  /youtube.com/playlist?list=PLU7qHLPUn_R0K7hq-9g29KIvfUUQqjqpR
 URL:https://www.youtube.com/watch?v=mVujWelxfvk
+END:VEVENT
+BEGIN:VEVENT
+UID:48363
+SUMMARY:【私という】にじさんじのB級バラエティ（仮）＃
+ 11【戦うボディ】
+DTSTART:20210525T150000Z
+DTEND:20210525T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=SKWi296WQZw\n\nイブラヒム
+ が戦場に出たとき、無色の1/1のクソコラ・クリーチャ
+ ー・トークンを生成できると噂の新番組\n「にじさんじ
+ のB級バラエティ」第11回！\n\n今回は知っているようで
+ 知らないジーンズの製造工程を徹底取材！\n老舗縫製工
+ 場社長が出題するジーンズクイズが、何だかマジで勉
+ 強になっちゃう！？\nさらに、でびでび・でびるが表参
+ 道に出没！本当のオシャレがここにある！\n\nゲストは
+ ファッションリーダー轟京子さんと、クイズホストマ
+ ンこと不破湊さん。\nTwitterハッシュタグは「＃にじバ
+ ラ仮」。\nあなたの持ってる変なTシャツをアップする
+ 時にでも、ついでに付けてつぶやいてくださいね！ \n\n
+ 【次の動画】\n6月8日（火）24：00投稿予定\n\n【前の動
+ 画】\n第10回　米菓\nhttps://youtu.be/FHmBaw46bRU\n\n【再生リス
+ ト】\nhttps://www.youtube.com/playlist?list=PLout9ZF2aCT_poXC0mdy02F2E1c
+ S5fBpC\n\n【出演ライバー(VTuber)】\n＜メインMC＞\nイブラ
+ ヒム：https://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A\n早瀬
+ 走：https://www.youtube.com/channel/UC2OacIzd2UxGHRGhdHl1Rhw\n\n＜ゲ
+ スト＞\n轟京子：https://www.youtube.com/channel/UCRV9d6YCYIMUszK-83
+ TwxVA\n不破湊：https://www.youtube.com/channel/UC6wvdADTJ88OfIbJYIpAaD
+ A\n\n＜リポーター＞\nでびでび・でびる：https://www.youtube
+ .com/channel/UCjlmCrq4TP1I4xguOtJ-31w\n\n＜ナレーター＞\n謎のお
+ 姉さん（cv.竜胆尊）：https://www.youtube.com/channel/UCPvGypSgfDk
+ Ve7JG2KygK7A\n\n【取材協力】\n放送後追記予定
+URL:https://www.youtube.com/watch?v=SKWi296WQZw
 END:VEVENT
 BEGIN:VEVENT
 UID:48337
