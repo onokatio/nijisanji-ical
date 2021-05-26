@@ -2359,26 +2359,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=OjxfZ-GRfOg\n\n目標達成す
 URL:https://www.youtube.com/watch?v=OjxfZ-GRfOg
 END:VEVENT
 BEGIN:VEVENT
-UID:48400
-SUMMARY:【マリオカート8DX】３位以内じゃないと喋れない
- マリカ【本間ひまわり/にじさんじ】
-DTSTART:20210526T100000Z
-DTEND:20210526T110000Z
-DESCRIPTION:https://www.youtube.com/watch?v=EtB7EROuJXg\n\n(・ワ・🌻)
- 「・・・・・！！！！」\n\n\nおはござ～(・ワ・🌻)ﾉ
- ｼ\nバーチャルライバー本間ひまわりです!\n色んなゲー
- ムをするのがだいすき！ \n初見さんもお気軽にコメン
- トしてね✨\n\nOhagoza!!\nIt's Virtual YouTuber\, Honma Himawari!\nI s
- tream games almost everyday.\nI LOVE playing all sorts of games!\nEven if 
- its your first time watching \nme\, feel free to comment anytime!\nI'll be
-  waiting for you!\n\n🎮PLAY GAME\n\n📺YouTube\nhttps://www.youtube.com
- /channel/UC0g1AE0DOjBYnLhkgoRWN1w?sub_confirmation=1\n\n🐓Twitter \nhttp
- s://twitter.com/honmahimawari\n\n🌻放送ハッシュタグ　#ひま生
- \n🌻ファンアートタグ　#ひまあーと\n🌻わたしのなま
- え　#本間ひまわり
-URL:https://www.youtube.com/watch?v=EtB7EROuJXg
-END:VEVENT
-BEGIN:VEVENT
 UID:48407
 SUMMARY:【MENSA IQTEST】りりむは天才だもんね！【にじさん
  じ/#りりむとあそぼう 】
@@ -2625,6 +2605,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=439XXPcJ3mY\n\nすぺしゃる
 URL:https://www.youtube.com/watch?v=439XXPcJ3mY
 END:VEVENT
 BEGIN:VEVENT
+UID:48400
+SUMMARY:【マリオカート8DX】３位以内じゃないと喋れない
+ マリカ【本間ひまわり/にじさんじ】
+DTSTART:20210526T110000Z
+DTEND:20210526T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=EtB7EROuJXg\n\n(・ワ・🌻)
+ 「・・・・・！！！！」\n\n\nおはござ～(・ワ・🌻)ﾉ
+ ｼ\nバーチャルライバー本間ひまわりです!\n色んなゲー
+ ムをするのがだいすき！ \n初見さんもお気軽にコメン
+ トしてね✨\n\nOhagoza!!\nIt's Virtual YouTuber\, Honma Himawari!\nI s
+ tream games almost everyday.\nI LOVE playing all sorts of games!\nEven if 
+ its your first time watching \nme\, feel free to comment anytime!\nI'll be
+  waiting for you!\n\n🎮PLAY GAME\n\n📺YouTube\nhttps://www.youtube.com
+ /channel/UC0g1AE0DOjBYnLhkgoRWN1w?sub_confirmation=1\n\n🐓Twitter \nhttp
+ s://twitter.com/honmahimawari\n\n🌻放送ハッシュタグ　#ひま生
+ \n🌻ファンアートタグ　#ひまあーと\n🌻わたしのなま
+ え　#本間ひまわり
+URL:https://www.youtube.com/watch?v=EtB7EROuJXg
+END:VEVENT
+BEGIN:VEVENT
 UID:48408
 SUMMARY:🌑皆既月食🌕みんなと見る【にじさんじ/#りりむ
  とあそぼう 】
@@ -2715,6 +2715,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=YX6qgiiPxMw\n\n毎月、満月
  ＊＊＊＊＊＊＊\n\n配信見てくれてありがとう！！\n月
  蝕みれるかな！？！？
 URL:https://www.youtube.com/watch?v=YX6qgiiPxMw
+END:VEVENT
+BEGIN:VEVENT
+UID:48419
+SUMMARY:Knockout Cityをする俺ら
+DTSTART:20210526T110000Z
+DTEND:20210526T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=9wFCN0TYlfU\n\nれいあわた
+ る\nhttps://twitter.com/Leia_yAy\nhttps://www.twitch.tv/fps_leia\n\nみ
+ ざ\nhttps://twitter.com/ru324\nhttps://www.youtube.com/channel/UCFBSXqhTC
+ TQp7zfXO-FhA6A
+URL:https://www.youtube.com/watch?v=9wFCN0TYlfU
 END:VEVENT
 BEGIN:VEVENT
 UID:48377
@@ -2922,6 +2933,36 @@ DESCRIPTION:https://www.youtube.com/watch?v=R5HMa5R6Ftw\n\nみんなは何
  放送ハッシュタグ　#ひま生\n🌻ファンアートタグ　#ひ
  まあーと\n🌻わたしのなまえ　#本間ひまわり
 URL:https://www.youtube.com/watch?v=R5HMa5R6Ftw
+END:VEVENT
+BEGIN:VEVENT
+UID:48418
+SUMMARY:【モンハンライズその11】上位★7進める&アプデ情
+ 報同時視聴！【にじさんじ／空星きらめ】
+DTSTART:20210526T130000Z
+DTEND:20210526T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Lew4LsoPKu4\n\n▼23時から
+ はアプデ情報同時視聴するぞ！✨\nhttps://www.youtube.com/wat
+ ch?v=4DvEj6fnsfA&t=0s\n\n\nモンスターハンターライズ\n©CAPCOM 
+ CO.\, LTD. 2021 ALL RIGHTS RESERVED.\n\n\n【Twitter】空星きらめ🌌
+ \nhttps://twitter.com/kirame_2434\n------------------------------\n\n#き
+ らきらいぶ #空星きらめ\n\nーーーーー『※注意※』－
+ －－－－－\n＊きらめが話題に出していないライバーさ
+ んの名前(箱内外問わず)やグループ名を書き込むのはや
+ めようね！\n\n＊コメントは色んな人が見てるよ！不適
+ 切だと思われるものは控えてください。マナーが守れ
+ ていないと感じる人を見かけても、注意はしないでス
+ ルーでお願いします。※反応せず各自“ブロック”な
+ どで対応お願いします。\n\n＊チャット欄でリスナー同
+ 士で会話したり、\n初見さんに対して布教コメはしない
+ ようお願いします。\n\n＊定期コメはしないでもらえる
+ と助かります🙏\n\n＊スパチャ反応できない時あります
+ ！\n後ほどしっかり全部読ませてもらってるよ♪\n本当
+ にありがとう✨✨✨\nーーーーーーーーーーーーーーー
+ ーー\n\n\n🌈【にじさんじ公式HP】\nhttps://nijisanji.ichikara.
+ co.jp/\n\n🌈【にじさんじBOOTH】\nhttps://nijisanji.booth.pm/\n\n
+ 💌【お問い合わせやファンレター】\nhttps://nijisanji.ichik
+ ara.co.jp/contact/
+URL:https://www.youtube.com/watch?v=Lew4LsoPKu4
 END:VEVENT
 BEGIN:VEVENT
 UID:48369
