@@ -3111,8 +3111,8 @@ BEGIN:VEVENT
 UID:48986
 SUMMARY:VALORANT | 本番2戦目！いくぞ！！ CRcup VALORANT Day1 【
  にじさんじ/叶】
-DTSTART:20210605T100000Z
-DTEND:20210605T110000Z
+DTSTART:20210605T100830Z
+DTEND:20210605T110830Z
 DESCRIPTION:https://www.youtube.com/watch?v=2HbDYZrv3t8\n\nチームメン
  バー\n@ReitaFPS \n@Alpha Azur  \n@夏代孝明-夏と彗星 \n@かみと
  -KamitoChannel- \n\nコーチ\nadeさん\nhttps://www.youtube.com/channel/
@@ -3201,8 +3201,8 @@ BEGIN:VEVENT
 UID:48973
 SUMMARY:【#Detroit 】初見プレイ！デトロイトの世界に来た
  鷹宮【にじさんじ/鷹宮リオン】
-DTSTART:20210605T110000Z
-DTEND:20210605T120000Z
+DTSTART:20210605T113000Z
+DTEND:20210605T123000Z
 DESCRIPTION:https://www.youtube.com/watch?v=Uul31N39aZs\n\n※ネタバレ
  はNG！　\n多分操作プレミします\n\n最近よくやるキャス
  ： https://twitcasting.tv/takamiyarion/\n（サポート通知かもん
@@ -3225,34 +3225,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=Uul31N39aZs\n\n※ネタバレ
  はとっても嬉しいの。いつもありがとう。\n\n#Vtuber  #に
  じさんじ #鷹宮リオン
 URL:https://www.youtube.com/watch?v=Uul31N39aZs
-END:VEVENT
-BEGIN:VEVENT
-UID:48984
-SUMMARY:【みんなのリズム天国】　天国か地獄　【にじさ
- んじ/魔使マオ】
-DTSTART:20210605T110000Z
-DTEND:20210605T120000Z
-DESCRIPTION:https://www.youtube.com/watch?v=drLJ24-rYRM\n\n配信タグ　
- ＃まおんらいぶ\n\nお誕生日グッズ▷https://nijisanji.booth.p
- m/items/2993861\n―――――――――――――――――――
- ――――――\n\n//メンバーシップ　*Membership\nhttps://www.y
- outube.com/channel/UCerkculBD7YLc_vOGrF7tKg/join\n・月１回のメンバ
- ー限定配信\n・メンバー限定のコミュニティ投稿\n・名
- 前の横にメンバーバッジがついたり専用スタンプが使
- える\n\n//Twitter\nhttps://twitter.com/matsukai_mao\n\n//プレゼント
- やお手紙やお問い合わせはこちら\nhttps://nijisanji.ichikara.
- co.jp/contact/\n\n//公式オフィシャルストア\nhttps://shop.nijisa
- nji.jp/s/niji/\n\n――――――――――――――――――
- ―――――――\n*約束*\n①他の人が嫌な気分になる言
- 葉は使っちゃダメ！\n②他の配信者さんのコメントなど
- で話題にあがっていないのに僕の話をするのはやめま
- しょう！\nもちろんマオの配信でも、話に関係の無い他
- のライバーさんの名前を出すのは控えましょう！\n\nこ
- のマオとの約束事を守れていないにんげんや\nこれ以外
- のマナー違反をしているにんげんを見つけても注意せ
- ずにマオのことだけ見ててな！\n――――――――――
- ―――――――――――――――
-URL:https://www.youtube.com/watch?v=drLJ24-rYRM
 END:VEVENT
 BEGIN:VEVENT
 UID:48979
@@ -3286,6 +3258,34 @@ DESCRIPTION:https://www.youtube.com/watch?v=V0LfbCmX7bU\n\n生歌3年活動
  にやしながら見ます！\n\n【お問い合わせ】https://www.niji
  sanji.jp/contact\n\n#かざ生放送 #にじさんじ #歌
 URL:https://www.youtube.com/watch?v=V0LfbCmX7bU
+END:VEVENT
+BEGIN:VEVENT
+UID:48984
+SUMMARY:【みんなのリズム天国】　天国か地獄　【にじさ
+ んじ/魔使マオ】
+DTSTART:20210605T113000Z
+DTEND:20210605T123000Z
+DESCRIPTION:https://www.youtube.com/watch?v=drLJ24-rYRM\n\n配信タグ　
+ ＃まおんらいぶ\n\nお誕生日グッズ▷https://nijisanji.booth.p
+ m/items/2993861\n―――――――――――――――――――
+ ――――――\n\n//メンバーシップ　*Membership\nhttps://www.y
+ outube.com/channel/UCerkculBD7YLc_vOGrF7tKg/join\n・月１回のメンバ
+ ー限定配信\n・メンバー限定のコミュニティ投稿\n・名
+ 前の横にメンバーバッジがついたり専用スタンプが使
+ える\n\n//Twitter\nhttps://twitter.com/matsukai_mao\n\n//プレゼント
+ やお手紙やお問い合わせはこちら\nhttps://nijisanji.ichikara.
+ co.jp/contact/\n\n//公式オフィシャルストア\nhttps://shop.nijisa
+ nji.jp/s/niji/\n\n――――――――――――――――――
+ ―――――――\n*約束*\n①他の人が嫌な気分になる言
+ 葉は使っちゃダメ！\n②他の配信者さんのコメントなど
+ で話題にあがっていないのに僕の話をするのはやめま
+ しょう！\nもちろんマオの配信でも、話に関係の無い他
+ のライバーさんの名前を出すのは控えましょう！\n\nこ
+ のマオとの約束事を守れていないにんげんや\nこれ以外
+ のマナー違反をしているにんげんを見つけても注意せ
+ ずにマオのことだけ見ててな！\n――――――――――
+ ―――――――――――――――
+URL:https://www.youtube.com/watch?v=drLJ24-rYRM
 END:VEVENT
 BEGIN:VEVENT
 UID:48483
@@ -3393,6 +3393,119 @@ DESCRIPTION:https://www.youtube.com/watch?v=4uRohNcfu6k\n\nチーム「人
  、その時には反省しすぎずに次を見ています！温かく
  成長を見守ってくださるととてもうれしいです！
 URL:https://www.youtube.com/watch?v=4uRohNcfu6k
+END:VEVENT
+BEGIN:VEVENT
+UID:48987
+SUMMARY:＼ 　#にじ歌DAY 盛り上がっていくぞ～！　 ／
+DTSTART:20210605T120000Z
+DTEND:20210605T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=a8wlPc08-hY\n\n✦˖°   TIME S
+ CHEDULE\n　￣￣￣￣￣￣￣￣￣￣\n　17 :00　-　エリー・
+ コニファー\n　https://youtu.be/iE0EnXxlOtA\n\n　17 :30　-　安土
+ 桃\n　https://youtu.be/b2iSzyNf-Us\n\n　18 :00　-　西園チグサ\n
+ 　https://youtu.be/w8suWW_Hhp8\n\n　18 :30　-　神田笑一\n　https:
+ //youtu.be/QCGrxGsl9Lo\n\n　19 :00　-　アンジュ・カトリーナ\n
+ 　https://youtu.be/Fi7vHsKziTw\n\n　19 :30　-　白雪巴\n　https://y
+ outu.be/VC9CXVGhKBY\n\n　20 :00　-　葉加瀬冬雪\n　https://youtu.b
+ e/OeGL4wTVJ10\n\n　20 :30　-　森中花咲\n　https://youtu.be/V0LfbCm
+ X7bU\n\n　21 :00　-　竜胆尊　　＜  NOW  !!\n　　　　　　\n
+ 　21 :30　-　朝日南アカネ\n　https://youtu.be/zOOfJ2vWqsY\n　\n
+ \n　　┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n　[ 音源拝借元
+  ]\n　@Umi Channel 　@生音風カラオケ屋 \n　@fobia　@カラオ
+ ケ歌っちゃ王 \n　Bunny Sick Studios\n　https://www.youtube.com/cha
+ nnel/UCUdI2OYRn4KHty2lhGuk40Q\n\n　[ マイク拝借元 ]\n　歯車ラ
+ プト　https://twitter.com/Rapt3333 \n\n\n\n\n\n┈┈┈┈┈┈┈┈
+ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n\n　✦˖
+ °   YouTube メンバーシップ \n　￣￣￣￣￣￣￣￣￣￣￣
+ ￣￣￣￣\n\n　[ 加入特典 ]\n\n　・名前の横にメンバー
+ バッチが表示されるようになる\n　・専用絵文字の使用
+ が可能になる\n　・メンバー限定配信が視聴可能になる
+ \n　・メンバー限定コミュニティにて壁紙のDLが可能に
+ なる\n　・低速モードの影響を受けなくなる\n\n　　　- 
+ - - - - - - - - - - - - - - - - - - - - - -\n\n　登録はこちらから
+  → https://t.co/TB825kjQp8\n\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈
+ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n\n　✦˖°   オリジ
+ ナルグッズ \n　￣￣￣￣￣￣￣￣￣￣￣￣\n\n　▽ モチ
+ ーフ手帳型iPhoneケース\n　https://nijisanji.booth.pm/items/110791
+ 6 \n　※対応機種 ( 5 / 5s / SE / 6 / 6s / 6plus / 6splus / 7 / 7plus
+  / 8 / 8plus / )\n\n　▽ モチーフ手帳型Androidケース\n　https
+ ://nijisanji.booth.pm/items/1108015\n　※対応サイズ ( S ～67.5x133
+ mm / M ～77.5x151mm / L ～83.5x163.5 )\n\n　▽ らんだむ手帳型iP
+ honeケース\n　https://nijisanji.booth.pm/items/2274390\n　※対応
+ 機種 ( 5 / 5s / SE / 6 / 6s / 6plus / 6splus / 7 / 7plus / 8 / 8plus / X
+  / XS /11 / 11pro / 11pro Max)\n\n　▽ らんだむ手帳型Androidケ
+ ース\n　https://nijisanji.booth.pm/items/2274606\n　※対応サイズ
+  ( S ～67.5x133mm / M ～77.5x151mm / L ～83.5x163.5 )\n\n　▽ ねむ
+ ねむ手帳型iPhoneケース\n　https://nijisanji.booth.pm/items/227452
+ 1\n　※対応機種 ( 5 / 5s / SE / 6 / 6s / 6plus / 6splus / 7 / 7plus 
+ / 8 / 8plus / X / XS /11 / 11pro / 11pro Max)\n\n　▽ ねむねむ手帳
+ 型Androidケース\n　https://nijisanji.booth.pm/items/2274551\n　※
+ 対応サイズ ( S ～67.5x133mm / M ～77.5x151mm / L ～83.5x163.5 )\n\
+ n　▽らんだむ IPhoneケース\n　https://nijisanji.booth.pm/items/2
+ 271698\n　※対応機種 (  7 / 7plus / 8 / 8plus / X / XS /11 / 11pro /
+  11pro Max)\n\n　▽ ねむねむ IPhoneケース\n　https://nijisanji.b
+ ooth.pm/items/2274551\n　※対応機種 (  7 / 7plus / 8 / 8plus / X / X
+ S /11 / 11pro / 11pro Max)\n\n　▽ デフォルメ キーホルダー\n
+ 　https://nijisanji.booth.pm/items/1107839 \n\n　▽ デフォルメア
+ クリルフィギュア\n　https://nijisanji.booth.pm/items/1107795\n\n
+ 　▽ おしゃけちょーだい キーホルダー\n　https://nijisanj
+ i.booth.pm/items/2274816\n\n　▽ おしゃけちょーだい アクリ
+ ルフィギュア\n　https://nijisanji.booth.pm/items/2273822\n\n　▽ 
+ 切り絵風 キーホルダー\n　https://nijisanji.booth.pm/items/22748
+ 24\n\n　▽ 家紋キーホルダー\n　https://nijisanji.booth.pm/items
+ /2274048\n\n　▽ 家紋ピンバッチ\n　https://nijisanji.booth.pm/it
+ ems/2274011\n\n　▽ 家紋缶バッチ\n　https://nijisanji.booth.pm/it
+ ems/2273889\n\n　▽ オリジナル日記帳\n　https://nijisanji.booth
+ .pm/items/2274979\n\n　▽ わらわ学習帳\n　https://nijisanji.booth
+ .pm/items/2273853\n\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+ ┈┈┈┈┈┈┈┈┈┈┈\n\n\n\n　✦˖°  プロフィール \n
+ 　￣￣￣￣￣￣￣￣￣￣\n\n　竜胆 尊 - Rindou Mikoto -　 
+ 鬼の国を治める鬼の女王\n\n　10月20日生まれ 9901歳　　
+ 身長 130cm 体重 28kg\n　\n　酒 馬刺し 甘味 が 大好き\n\n
+ 　　　- - - - - - - - - - - - - - - - - - - - - - -\n\n\n　▽ Twitter
+ \n　https://twitter.com/RindouMikoto\n\n　▽ ましまろ\n　https://m
+ arshmallow-qa.com/rindoumikoto\n\n\n\n┈┈┈┈┈┈┈┈┈┈┈┈
+ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n\n　✦˖°   コン
+ タクト \n　￣￣￣￣￣￣￣￣￣\n\n　[ 問い合わせ ]\n\n
+ 　✉　offer@ichikara.co.jp\n　HP　http://nijisanji.ichikara.co.jp\n\n
+ 　　　- - - - - - - - - - - - - - - - - - - - - - -\n\n　[ 文や贈
+ り物の宛先 ]\n\n　〒101-0022\n　東京都千代田区神田練塀
+ 町300番地\n　住友不動産秋葉原駅前ビル10F\n　いちから
+ 株式会社 竜胆尊宛\n\n　▽ 贈り物の規約\n　http://nijisanj
+ i.ichikara.co.jp/faq/\n\n　※現在プレゼントの受け取りを停
+ 止中、手紙のみ受け取り可能。\n\n\n￣￣￣￣￣￣￣￣
+ ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+URL:https://www.youtube.com/watch?v=a8wlPc08-hY
+END:VEVENT
+BEGIN:VEVENT
+UID:48988
+SUMMARY:【 ポケモン剣盾 】ランク戦のため、やってなか
+ ったDLCやる！【甲斐田晴/にじさんじ】
+DTSTART:20210605T120000Z
+DTEND:20210605T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=hJTe1gnyJsI\n\n最近ポケモ
+ ン欲がすごい\nPTとか考えつつ雪原遊ぶよ\n\nイラスト：
+ (@amend_23) 様\n\n🌞スパチャは最後にまとめて読ませてい
+ ただいております！いつもありがとう！\n🌞話題に出
+ ていないときは、他の方の配信で甲斐田晴の名前を出
+ さないでください！\n🌞コメントはみんなが楽しく節
+ 度を持つことを心掛けて頂けたら嬉しいです！\n🌞チ
+ ャンネル登録・高評価・通知のオンよろしくね！\n\nED
+ 動画：(@sumiiroo)様、(@0411udon)様\n\n【メンバーシップ】\nh
+ ttps://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw/join\n◆名前の
+ 横のメンバーバッジ\n◆スタンプ\n◆メンバー限定配信\
+ n◆その他コースごとの特典\n\n↑チェックしてね↑\n\n\n
+ 配信は #生き甲斐田 で呟いてねー！\n\n#にじさんじ #甲
+ 斐田晴 \n\n\n---------------------------------------------\n\n\nはろ
+ はるー！\nにじさんじ所属\n甲斐田 晴(かいだ はる)です
+ 🌞\nゲーム/弾き語り/ASMR　などなど配信するよ！\n\n💠
+ Twitter💠\n@Kaida_Haru\n\n💠Youtube💠\n甲斐田 晴/Kaida Haru【
+ にじさんじ】\nhttps://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_
+ jw?sub_confirmation=1\n\n\n-----------------------------------------------
+ ---------------------------\n\n\n🕒にじさんじBOOTH\nhttps://nijisan
+ ji.booth.pm/\n\n🏢お問い合わせやファンレター\nhttps://nijis
+ anji.ichikara.co.jp/contact/
+URL:https://www.youtube.com/watch?v=hJTe1gnyJsI
 END:VEVENT
 BEGIN:VEVENT
 UID:48937
@@ -3551,6 +3664,45 @@ DESCRIPTION:https://www.youtube.com/watch?v=g4kNivB82nM\n\n起きれたら
  ichikara.co.jp/ \n\n【オフィシャルストア】\nhttps://shop.nijisa
  nji.jp/s/niji/
 URL:https://www.youtube.com/watch?v=g4kNivB82nM
+END:VEVENT
+BEGIN:VEVENT
+UID:48876
+SUMMARY:【NKODICE/んこダイス】お●●●ん出るまで終われ
+ ない【鈴鹿詩子/にじさんじ】
+DTSTART:20210605T140000Z
+DTEND:20210605T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=gBlrTqhZWlQ\n\n♡自身作詞
+ 作曲のオリジナル曲配信中！\n\n新曲：『U・S』https://lin
+ kco.re/rP9Tfh8V\nMV　https://youtu.be/xL_WK4GNzMI\n\nOP『Thank U\, Babys
+  - Utako Suzuka』：https://linkco.re/6sguCP2M\nMV　https://youtu.be/QQc
+ cps1tmgA\n\nED『Will you marry me? -Patra Remix-』：https://linkco.re/v
+ Ax9mqTe\nMV：https://youtu.be/01sBCkJN1XA\n\n♡自身執筆のシコっ
+ て寝ろTシャツ\n半袖　https://booth.pm/ja/items/2084075\n長袖　
+ https://booth.pm/ja/items/1994069\n\n♡にじさんじ所属、歌のお
+ 姉さんで腐女子でショタコンで婚活中の26歳、鈴鹿詩子
+ です♪\n\n♡不定期で夜に生配信or動画投稿してます！\n
+ 生配信はゲーム、雑談、視聴者さんからのお便りコー
+ ナー（質問、お悩み相談、BL体験談）などです。\n急な
+ 配信もあるので、通知ONにしていつでも遊びに来てね♪
+ \nまた、配信予定をTwitterで出してるので、Twitterのフォ
+ ローもお願いします！\n\n♡チャンネル登録はコチラか
+ ら：\nhttps://www.youtube.com/channel/UCwokZsOK_uEre70XayaFnzA?sub_confi
+ rmation=1\n\n♡メンバーシップ登録コチラから：\nhttps://www
+ .youtube.com/channel/UCwokZsOK_uEre70XayaFnzA/join\n\n♡Twitter：\nhttps
+ ://twitter.com/suzukautako\n\n♡お仕事案件お待ちしてます！
+ ！\nお問い合わせ・プレゼント送付先も以下までお願い
+ します。\nhttps://nijisanji.ichikara.co.jp/contact/\n\n♡にじさん
+ じ公式BOOTH：\nボイス販売第一弾：https://nijisanji.booth.pm/i
+ tems/926396\nボイス販売第二弾：https://nijisanji.booth.pm/items/1
+ 033331\n詩子デザインお尻見せなさいよTシャツ：（日本
+ 語）https://nijisanji.booth.pm/items/1081250　\n（英語）https://nij
+ isanji.booth.pm/items/1081254\n詩子デザインお尻見せなさいよ
+ パーカー：（日本語）https://nijisanji.booth.pm/items/1078878　\
+ n（英語）https://nijisanji.booth.pm/items/1078884\n詩子デザイン
+ 行き場のない母性Tシャツ：https://nijisanji.booth.pm/items/1081
+ 260　\n詩子デザイン行き場のない母性パーカー：https://n
+ ijisanji.booth.pm/items/1078891
+URL:https://www.youtube.com/watch?v=gBlrTqhZWlQ
 END:VEVENT
 BEGIN:VEVENT
 UID:48963
