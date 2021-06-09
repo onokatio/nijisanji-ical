@@ -3015,8 +3015,8 @@ BEGIN:VEVENT
 UID:49207
 SUMMARY:【 #にじPEX 】ソロ⇒２０時からカスタム【にじさ
  んじ/渋谷ハジメ】
-DTSTART:20210609T093000Z
-DTEND:20210609T103000Z
+DTSTART:20210609T094000Z
+DTEND:20210609T104000Z
 DESCRIPTION:https://www.youtube.com/watch?v=PNQZ6pZEK9Y\n\nメンバー\n
  渋谷ハジメ\n\n渋谷ハル\nhttps://www.youtube.com/channel/UChLfthKo
  UV502J7gU9STArg\n瀬戸あさひ\nhttps://www.youtube.com/channel/UCuE6xou
@@ -3109,6 +3109,27 @@ DESCRIPTION:https://www.youtube.com/watch?v=wUuD68NLE0A\n\n※この動画
  \n------------------------------------------------------------------------
  ----
 URL:https://www.youtube.com/watch?v=wUuD68NLE0A
+END:VEVENT
+BEGIN:VEVENT
+UID:49211
+SUMMARY:【Apex】#にじPEX カスタム一日目！チューリングあ
+ れるで勝っちゃうぞ【三枝明那 / にじさんじ】
+DTSTART:20210609T100000Z
+DTEND:20210609T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=DNB6usZR3IQ\n\n今回のちー
+ むめんばー\n#チューリングあれる #チュリあれWIN\nalelu
+ さん\nhttps://www.twitch.tv/alelu\n椎名唯華さん\nhttps://www.youtu
+ be.com/channel/UC_4tXjqecqox5Uc05ncxpxg\n\n素敵なサムネイル\nhttps
+ ://twitter.com/nsj_su/status/1399710086163927051\nやるべきことをや
+ っていく\n---\nにじさんじ所属、三枝明那です。\nモッ
+ トーは全力！\n\nTwitter //\nhttps://twitter.com/333akina\nメンバ
+ ーシップ登録 //\nhttps://www.youtube.com/channel/UCNW1Ex0r6HsWRD4LCt
+ PwvoQ/join\n\nお問い合わせ・ファンレター //\nhttps://nijisanj
+ i.ichikara.co.jp/contact/\nにじさんじオフィシャルストア //\n
+ https://shop.nijisanji.jp/\nにじさんじ公式Twitter //\nhttps://twitt
+ er.com/nijisanji_app\nにじさんじ公式HP //\nhttps://nijisanji.ichika
+ ra.co.jp/
+URL:https://www.youtube.com/watch?v=DNB6usZR3IQ
 END:VEVENT
 BEGIN:VEVENT
 UID:49188
@@ -3364,6 +3385,29 @@ DESCRIPTION:https://www.youtube.com/watch?v=rGpH-IdS2-M\n\n物語の謎が
  shop.nijisanji.jp/s/niji/\n🍑-------------------------------------------
  ------------------
 URL:https://www.youtube.com/watch?v=rGpH-IdS2-M
+END:VEVENT
+BEGIN:VEVENT
+UID:49210
+SUMMARY:【#にじPEX】沈黙が３秒続いたら罰ゲームね。【星
+ 川サラ/にじさんじ】#ちんしりWIN
+DTSTART:20210609T110000Z
+DTEND:20210609T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Jc_USJkQYVA\n\nカスタム１
+ 日目！\n\n※まいたけは用事があるから途中参加\n\nチー
+ ム名：沈黙のしりとり（ #ちんしり ）\nめんばー：\nKami
+ toくん\nhttps://www.youtube.com/channel/UCgYCMluaLpERsyNXlPOvBtA\n\nま
+ いたけくん\nhttps://www.youtube.com/channel/UCgIHvyZWE6Ny7pfRpya86Yw\
+ n\nさむねいらすと：@Ka7_Sho__10様\n☆••┈┈┈┈••✩
+ ••┈┈┈┈••☆••┈┈┈┈••✩••┈┈┈┈
+ ••✩\n❥❥期間限定！販売中のボイス\n「ジューンブ
+ ライド2021」※～6/30(水)23:59\n➡https://shop.nijisanji.jp/s/niji/
+ item/detail/dig-00397?ima=5202\n「再販！あめもようボイス2020
+ 」※～6月10日(木)23:59\n➡https://shop.nijisanji.jp/s/niji/item/det
+ ail/dig-00210?ima=3659\n\n▼メンバーシップはココから！(月
+ 額490円)\nhttps://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w/join\
+ n☆••┈┈┈┈••✩••┈┈┈┈••☆••┈┈┈
+ ┈••✩••┈┈┈┈••✩
+URL:https://www.youtube.com/watch?v=Jc_USJkQYVA
 END:VEVENT
 BEGIN:VEVENT
 UID:49184
