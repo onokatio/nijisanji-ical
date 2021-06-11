@@ -2325,18 +2325,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:49384
 SUMMARY:#29【リングフィット アドベンチャー】新しく買っ
- た体重計で計った年齢ガ・・・【にじさんじ/レヴィ・
- エリファ】
+ た体重計で計った体年齢ガ・・・【にじさんじ/レヴィ
+ ・エリファ】
 DTSTART:20210612T030000Z
 DTEND:20210612T040000Z
-DESCRIPTION:https://www.youtube.com/watch?v=ArP7Def_sig\n\nやっぱ運動
- せなあかんなっテ・・・\n\n#れゔぃあたんねる\n\nTwitter
- もはじめましたよつぶやク☆\n【Twitter】\n@Levi_E_2434\n\n\n
- 【ファンレターやプレゼント、その他お問い合わせ】\n
- 【詳細】https://nijisanji.ichikara.co.jp/contact/\n\nにじさんじ
- 関連リンク\n\n【公式Twitter】\nhttps://twitter.com/nijisanji_app\
- n〈@nijisanji_app〉\n\n【公式HP】\nhttps://nijisanji.ichikara.co.jp/
-  \n\n【オフィシャルストア】\nhttps://shop.nijisanji.jp/s/niji/
+DESCRIPTION:https://www.youtube.com/watch?v=ArP7Def_sig\n\n7才ガンバロ
+ \n\n#れゔぃあたんねる\n\nTwitterもはじめましたよつぶや
+ ク☆\n【Twitter】\n@Levi_E_2434\n\n\n【ファンレターやプレゼ
+ ント、その他お問い合わせ】\n【詳細】https://nijisanji.ich
+ ikara.co.jp/contact/\n\nにじさんじ関連リンク\n\n【公式Twitter
+ 】\nhttps://twitter.com/nijisanji_app\n〈@nijisanji_app〉\n\n【公式H
+ P】\nhttps://nijisanji.ichikara.co.jp/ \n\n【オフィシャルストア
+ 】\nhttps://shop.nijisanji.jp/s/niji/
 URL:https://www.youtube.com/watch?v=ArP7Def_sig
 END:VEVENT
 BEGIN:VEVENT
@@ -2624,6 +2624,19 @@ DESCRIPTION:https://www.youtube.com/watch?v=grqXBljpQxo\n\nいっぱい歌
  【公式HP】\nhttps://nijisanji.ichikara.co.jp/ \n\n【オフィシャ
  ルストア】\nhttps://shop.nijisanji.jp/s/niji/
 URL:https://www.youtube.com/watch?v=grqXBljpQxo
+END:VEVENT
+BEGIN:VEVENT
+UID:49386
+SUMMARY:【お手軽】罪深い創作料理を発表します【健康は
+ 保証しない】
+DTSTART:20210612T110000Z
+DTEND:20210612T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Kd_6K_nJPFc\n\n#お前らの罪
+ を教えろ\nみなさま、たくさんの「罪」のご応募、本当
+ にありがとうございました！その罪、わたくしも背負
+ いましょう……\n\n月ノ美兎のTwitter（配信予定等はこち
+ らで呟いています！）\nhttps://twitter.com/MitoTsukino
+URL:https://www.youtube.com/watch?v=Kd_6K_nJPFc
 END:VEVENT
 BEGIN:VEVENT
 UID:49320
