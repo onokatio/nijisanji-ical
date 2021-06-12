@@ -2575,8 +2575,8 @@ URL:https://www.youtube.com/watch?v=_aBqlk9MVOs
 END:VEVENT
 BEGIN:VEVENT
 UID:49399
-SUMMARY:スパナで視聴者と交流する　特殊な職業編【にじ
- さんじ/卯月コウ】
+SUMMARY:スパナで視聴者と交流する　特殊な職業編　６月
+ 号 【にじさんじ/卯月コウ】
 DTSTART:20210612T070500Z
 DTEND:20210612T080500Z
 DESCRIPTION:https://www.youtube.com/watch?v=D3TzcU8R0iA\n\n凸希望者は
@@ -3183,6 +3183,19 @@ DESCRIPTION:https://www.youtube.com/watch?v=Mj2L-JCgOvs\n\n#APEX LEGENDS　
  う武器は？\n301とマスティフ、トリテとか！\n\n#にじさ
  んじ #にじPEX #APEX
 URL:https://www.youtube.com/watch?v=Mj2L-JCgOvs
+END:VEVENT
+BEGIN:VEVENT
+UID:49402
+SUMMARY:【 #にじPEX 】大会本番！！目指せ優勝　#渋あさWIN
+ 　（３分遅延）【にじさんじ/渋谷ハジメ】
+DTSTART:20210612T090000Z
+DTEND:20210612T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Bs7f52sapuw\n\nメンバー\n
+ 渋谷ハジメ\n\n渋谷ハル\nhttps://www.youtube.com/channel/UChLfthKo
+ UV502J7gU9STArg\n瀬戸あさひ\nhttps://www.youtube.com/channel/UCuE6xou
+ i7gZOTUiF0OtWWJw\n\n\n6月12日の大会詳細\nhttps://www.youtube.com/wa
+ tch?v=FwAEI7h8vx8
+URL:https://www.youtube.com/watch?v=Bs7f52sapuw
 END:VEVENT
 BEGIN:VEVENT
 UID:49249
