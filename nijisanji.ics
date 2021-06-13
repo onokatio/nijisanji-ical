@@ -2857,26 +2857,11 @@ DESCRIPTION:https://www.youtube.com/watch?v=RoT7nlP-YGo\n\n毎日配信し
 URL:https://www.youtube.com/watch?v=RoT7nlP-YGo
 END:VEVENT
 BEGIN:VEVENT
-UID:49451
-SUMMARY:【例外配達】完全初見。こんな可愛い配達員おる
- ～？？？【星川サラ/にじさんじ】
-DTSTART:20210613T090000Z
-DTEND:20210613T100000Z
-DESCRIPTION:https://www.youtube.com/watch?v=JZ0iZSoL1tI\n\nほらげ久々
- ね\n\n❥❥期間限定！販売中のボイス\n「ジューンブラ
- イド2021」※～6/30(水)23:59\n➡https://shop.nijisanji.jp/s/niji/ite
- m/detail/dig-00397?ima=5202\n\n〖Twitter〗( @Sara_Hoshikawa )\n https://
- twitter.com/Sara_Hoshikawa \n\n▼メンバーシップはココから！(
- 月額490円)\nhttps://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w/jo
- in
-URL:https://www.youtube.com/watch?v=JZ0iZSoL1tI
-END:VEVENT
-BEGIN:VEVENT
 UID:49454
 SUMMARY:【APEX】RG FES本番！まだまえRu～参戦！【にじさん
  じ/える】
-DTSTART:20210613T090000Z
-DTEND:20210613T100000Z
+DTSTART:20210613T080000Z
+DTEND:20210613T090000Z
 DESCRIPTION:https://www.youtube.com/watch?v=FLExhXRW02E\n\n3分遅延あり
  \nRestart Games Festival - APEX LEGENDS-\n詳しくはこちら→https://
  restart-games.jp/rgf/apex_1/\n\nメンバー\n@TIE Ru さん、@まさの
@@ -2948,6 +2933,21 @@ DESCRIPTION:https://www.youtube.com/watch?v=FLExhXRW02E\n\n3分遅延あり
  すが、その時には反省しすぎずに次を見ています！温
  かく成長を見守ってくださるととてもうれしいです！
 URL:https://www.youtube.com/watch?v=FLExhXRW02E
+END:VEVENT
+BEGIN:VEVENT
+UID:49451
+SUMMARY:【例外配達】完全初見。こんな可愛い配達員おる
+ ～？？？【星川サラ/にじさんじ】
+DTSTART:20210613T090000Z
+DTEND:20210613T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=JZ0iZSoL1tI\n\nほらげ久々
+ ね\n\n❥❥期間限定！販売中のボイス\n「ジューンブラ
+ イド2021」※～6/30(水)23:59\n➡https://shop.nijisanji.jp/s/niji/ite
+ m/detail/dig-00397?ima=5202\n\n〖Twitter〗( @Sara_Hoshikawa )\n https://
+ twitter.com/Sara_Hoshikawa \n\n▼メンバーシップはココから！(
+ 月額490円)\nhttps://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w/jo
+ in
+URL:https://www.youtube.com/watch?v=JZ0iZSoL1tI
 END:VEVENT
 BEGIN:VEVENT
 UID:49457
