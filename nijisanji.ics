@@ -2517,8 +2517,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:49489
 SUMMARY:【誕生日3Dオフコラボ】徹底授業！郡道美玲って
- 何者なの？with 星川サラ【#教えて郡道先生 /にじさんじ
- マカクラコンビ】
+ 何者なの？with 星川サラ 【#教えて郡道先生 /にじさん
+ じマカクラコンビ】
 DTSTART:20210614T110000Z
 DTEND:20210614T120000Z
 DESCRIPTION:https://www.youtube.com/watch?v=ayqBYZ_Vx5g\n\nお誕生日祝
@@ -2612,6 +2612,45 @@ DESCRIPTION:https://www.youtube.com/watch?v=eh9SGrjBVL8\n\n金曜日まで
  だいた音源\nhttps://www.youtube.com/user/megaane100\nhttps://youtu.be
  /u1WW_Vj5TTM\nhttps://youtu.be/6Wa0l84xm7w\n\nSpecial Thanks !!!
 URL:https://www.youtube.com/watch?v=eh9SGrjBVL8
+END:VEVENT
+BEGIN:VEVENT
+UID:49477
+SUMMARY:【ラジオ】山神カルタのブレNightRADIO # 2【にじさ
+ んじ/山神カルタ】
+DTSTART:20210614T120000Z
+DTEND:20210614T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=LPtq76lYLC4\n\n話が色々な
+ 方向にブレちゃいがちな山神が、トークテーマに沿い
+ 、いただいたお便りと共に喋りまくる(テーマが)ブレな
+ いラジオ配信！\nこのラジオのハッシュタグ⇒ #山神BNR\
+ n\n今回のメイントークテーマは『解像度の高い青春』\n
+ \n\n素敵なイラスト : ほっぺげ(@hoppege_art)さま\n素敵なロ
+ ゴ : か (@one_third3)さま\n素敵なジングル : えふえふ(@efuF_
+ chord)さま\n※ジングルいくつかいただいたので毎回変わ
+ りばんこで使用させていただきます...！\n\n\n✰⋆｡:ﾟ
+ ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽
+ ⋆｡:ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\nジューンブライドボイ
+ ス2021💍　～6/30(水)23:59まで\nhttps://shop.nijisanji.jp/s/niji/it
+ em/detail/dig-00396?ima=5227\n\n山神が君たちのことお迎えに行
+ くボイスです！\n\n\n✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ
+ ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽⋆｡:ﾟ･*✰⋆｡:ﾟ･*☽
+ ⋆｡\n\nにじさんじ所属バーチャルライバー　\n見習い
+ 烏天狗の山神カルタです。\n普段は山で修行をしていま
+ す。\nいろんな時間をみんなと一緒に過ごせたら嬉しい
+ なあ。\n\n\n✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ
+ ･⋆｡✰⋆｡:ﾟ･*☽⋆｡:ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\n\
+ n🎴Twitter tag🎴\n\n配信タグ : # 山神カタル\nイラスト : #
+  カルタの絵札\n\n〔 Twitter 〕\n https://twitter.com/Karuta_Yamaga
+ mi\n\nおてがみやお問い合わせなど！💌📞\nhttps://nijisanj
+ i.ichikara.co.jp/cont...\n\n🎴メンバーシップはこちらから(
+ 月額490円)🎴\nhttps://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfL
+ Q/join\n→\n名前の横にバッジ！\nコメント欄で使えるス
+ タンプ！\n\nメンバー限定配信や、ほぼ毎日コミュニテ
+ ィー投稿もあり！\n山神の食生活がのぞけます🍚\n\n\n
+ ✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆
+ ｡:ﾟ･*☽⋆｡:ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\n# 山神カル
+ タ
+URL:https://www.youtube.com/watch?v=LPtq76lYLC4
 END:VEVENT
 BEGIN:VEVENT
 UID:49499
@@ -2757,45 +2796,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=Qu84Xobyy1w\n\nにじさんじ
 URL:https://www.youtube.com/watch?v=Qu84Xobyy1w
 END:VEVENT
 BEGIN:VEVENT
-UID:49477
-SUMMARY:【ラジオ】山神カルタのブレNightRADIO # 2【にじさ
- んじ/山神カルタ】
-DTSTART:20210614T130000Z
-DTEND:20210614T140000Z
-DESCRIPTION:https://www.youtube.com/watch?v=LPtq76lYLC4\n\n話が色々な
- 方向にブレちゃいがちな山神が、トークテーマに沿い
- 、いただいたお便りと共に喋りまくる(テーマが)ブレな
- いラジオ配信！\nこのラジオのハッシュタグ⇒ #山神BNR\
- n\n今回のメイントークテーマは『解像度の高い青春』\n
- \n\n素敵なイラスト : ほっぺげ(@hoppege_art)さま\n素敵なロ
- ゴ : か (@one_third3)さま\n素敵なジングル : えふえふ(@efuF_
- chord)さま\n※ジングルいくつかいただいたので毎回変わ
- りばんこで使用させていただきます...！\n\n\n✰⋆｡:ﾟ
- ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽
- ⋆｡:ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\nジューンブライドボイ
- ス2021💍　～6/30(水)23:59まで\nhttps://shop.nijisanji.jp/s/niji/it
- em/detail/dig-00396?ima=5227\n\n山神が君たちのことお迎えに行
- くボイスです！\n\n\n✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ
- ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽⋆｡:ﾟ･*✰⋆｡:ﾟ･*☽
- ⋆｡\n\nにじさんじ所属バーチャルライバー　\n見習い
- 烏天狗の山神カルタです。\n普段は山で修行をしていま
- す。\nいろんな時間をみんなと一緒に過ごせたら嬉しい
- なあ。\n\n\n✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ
- ･⋆｡✰⋆｡:ﾟ･*☽⋆｡:ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\n\
- n🎴Twitter tag🎴\n\n配信タグ : # 山神カタル\nイラスト : #
-  カルタの絵札\n\n〔 Twitter 〕\n https://twitter.com/Karuta_Yamaga
- mi\n\nおてがみやお問い合わせなど！💌📞\nhttps://nijisanj
- i.ichikara.co.jp/cont...\n\n🎴メンバーシップはこちらから(
- 月額490円)🎴\nhttps://www.youtube.com/channel/UCllKI7VjyANuS1RXatizfL
- Q/join\n→\n名前の横にバッジ！\nコメント欄で使えるス
- タンプ！\n\nメンバー限定配信や、ほぼ毎日コミュニテ
- ィー投稿もあり！\n山神の食生活がのぞけます🍚\n\n\n
- ✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆｡:ﾟ･*☽:ﾟ･⋆｡✰⋆
- ｡:ﾟ･*☽⋆｡:ﾟ･*✰⋆｡:ﾟ･*☽⋆｡\n\n# 山神カル
- タ
-URL:https://www.youtube.com/watch?v=LPtq76lYLC4
-END:VEVENT
-BEGIN:VEVENT
 UID:49487
 SUMMARY:【雑談】生きてたら色んなことがある【にじさん
  じ/月ノ美兎】
@@ -2806,6 +2806,75 @@ DESCRIPTION:https://www.youtube.com/watch?v=AyRruuzP7Ow\n\nせっかくな
  兎のTwitter（配信予定等はこちらで呟いています！）\nht
  tps://twitter.com/MitoTsukino
 URL:https://www.youtube.com/watch?v=AyRruuzP7Ow
+END:VEVENT
+BEGIN:VEVENT
+UID:49509
+SUMMARY:【 晩酌 】祝！禁酒解禁配信！【 竜胆尊 / にじさ
+ んじ 】
+DTSTART:20210614T130000Z
+DTEND:20210614T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=GxU8qs_Ha8A\n\nいっぱいの
+ むよ\n┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+ ┈┈┈┈┈┈\n\n\n　✦˖°   YouTube メンバーシップ \n　
+ ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\n　[ 加入特典 ]\n\n
+ 　・名前の横にメンバーバッチが表示されるようにな
+ る\n　・専用絵文字の使用が可能になる\n　・メンバー
+ 限定配信が視聴可能になる\n　・メンバー限定コミュニ
+ ティにて壁紙のDLが可能になる\n　・低速モードの影響
+ を受けなくなる\n\n　　　- - - - - - - - - - - - - - - - - - - - 
+ - - -\n\n　登録はこちらから → https://t.co/TB825kjQp8\n\n\n┈
+ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+ ┈┈┈\n\n\n　✦˖°   オリジナルグッズ \n　￣￣￣￣￣
+ ￣￣￣￣￣￣￣\n\n　▽ モチーフ手帳型iPhoneケース\n　h
+ ttps://nijisanji.booth.pm/items/1107916 \n　※対応機種 ( 5 / 5s / SE
+  / 6 / 6s / 6plus / 6splus / 7 / 7plus / 8 / 8plus / )\n\n　▽ モチー
+ フ手帳型Androidケース\n　https://nijisanji.booth.pm/items/1108015\
+ n　※対応サイズ ( S ～67.5x133mm / M ～77.5x151mm / L ～83.5x163
+ .5 )\n\n　▽ らんだむ手帳型iPhoneケース\n　https://nijisanji.
+ booth.pm/items/2274390\n　※対応機種 ( 5 / 5s / SE / 6 / 6s / 6plus 
+ / 6splus / 7 / 7plus / 8 / 8plus / X / XS /11 / 11pro / 11pro Max)\n\n　
+ ▽ らんだむ手帳型Androidケース\n　https://nijisanji.booth.pm/i
+ tems/2274606\n　※対応サイズ ( S ～67.5x133mm / M ～77.5x151mm / 
+ L ～83.5x163.5 )\n\n　▽ ねむねむ手帳型iPhoneケース\n　https
+ ://nijisanji.booth.pm/items/2274521\n　※対応機種 ( 5 / 5s / SE / 6 
+ / 6s / 6plus / 6splus / 7 / 7plus / 8 / 8plus / X / XS /11 / 11pro / 11pro
+  Max)\n\n　▽ ねむねむ手帳型Androidケース\n　https://nijisanj
+ i.booth.pm/items/2274551\n　※対応サイズ ( S ～67.5x133mm / M ～7
+ 7.5x151mm / L ～83.5x163.5 )\n\n　▽らんだむ IPhoneケース\n　ht
+ tps://nijisanji.booth.pm/items/2271698\n　※対応機種 (  7 / 7plus / 
+ 8 / 8plus / X / XS /11 / 11pro / 11pro Max)\n\n　▽ ねむねむ IPhone
+ ケース\n　https://nijisanji.booth.pm/items/2274551\n　※対応機種
+  (  7 / 7plus / 8 / 8plus / X / XS /11 / 11pro / 11pro Max)\n\n　▽ デ
+ フォルメ キーホルダー\n　https://nijisanji.booth.pm/items/11078
+ 39 \n\n　▽ デフォルメアクリルフィギュア\n　https://nijis
+ anji.booth.pm/items/1107795\n\n　▽ おしゃけちょーだい キー
+ ホルダー\n　https://nijisanji.booth.pm/items/2274816\n\n　▽ おし
+ ゃけちょーだい アクリルフィギュア\n　https://nijisanji.bo
+ oth.pm/items/2273822\n\n　▽ 切り絵風 キーホルダー\n　https:/
+ /nijisanji.booth.pm/items/2274824\n\n　▽ 家紋キーホルダー\n　h
+ ttps://nijisanji.booth.pm/items/2274048\n\n　▽ 家紋ピンバッチ\n
+ 　https://nijisanji.booth.pm/items/2274011\n\n　▽ 家紋缶バッチ\n
+ 　https://nijisanji.booth.pm/items/2273889\n\n　▽ オリジナル日
+ 記帳\n　https://nijisanji.booth.pm/items/2274979\n\n　▽ わらわ学
+ 習帳\n　https://nijisanji.booth.pm/items/2273853\n\n┈┈┈┈┈┈
+ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n\n\n\n
+ 　✦˖°  プロフィール \n　￣￣￣￣￣￣￣￣￣￣\n\n　
+ 竜胆 尊 - Rindou Mikoto -　 鬼の国を治める鬼の女王\n\n　10
+ 月20日生まれ 9901歳　　身長 130cm 体重 28kg\n　\n　酒 馬
+ 刺し 甘味 が 大好き\n\n　　　- - - - - - - - - - - - - - - - - 
+ - - - - - -\n\n\n　▽ Twitter\n　https://twitter.com/RindouMikoto\n\n
+ 　▽ ましまろ\n　https://marshmallow-qa.com/rindoumikoto\n\n\n\n┈
+ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+ ┈┈┈\n\n\n　✦˖°   コンタクト \n　￣￣￣￣￣￣￣￣
+ ￣\n\n　[ 問い合わせ ]\n\n　✉　offer@ichikara.co.jp\n　HP　ht
+ tp://nijisanji.ichikara.co.jp\n\n　　　- - - - - - - - - - - - - - - - 
+ - - - - - - -\n\n　[ 文や贈り物の宛先 ]\n\n　〒101-0022\n　東
+ 京都千代田区神田練塀町300番地\n　住友不動産秋葉原駅
+ 前ビル10F\n　いちから株式会社 竜胆尊宛\n\n　▽ 贈り物
+ の規約\n　http://nijisanji.ichikara.co.jp/faq/\n\n　※現在プレ
+ ゼントの受け取りを停止中、手紙のみ受け取り可能。\n
+ \n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+URL:https://www.youtube.com/watch?v=GxU8qs_Ha8A
 END:VEVENT
 BEGIN:VEVENT
 UID:49485
