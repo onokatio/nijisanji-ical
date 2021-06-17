@@ -1768,6 +1768,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=7-CsCI2Tczw\n\n🐤メンバー
 URL:https://www.youtube.com/watch?v=7-CsCI2Tczw
 END:VEVENT
 BEGIN:VEVENT
+UID:49645
+SUMMARY:【 APEX 】息子の誕生日なので絶対にチャンピオン
+ 獲ります【にじさんじ/グウェル・オス・ガール】
+DTSTART:20210617T110000Z
+DTEND:20210617T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=n_DqzJR-7Vk\n\n今日は、息
+ 子の誕生日です。
+URL:https://www.youtube.com/watch?v=n_DqzJR-7Vk
+END:VEVENT
+BEGIN:VEVENT
 UID:49631
 SUMMARY:【白夜極光】本日リリース！白夜極光やるよ～！#
  白夜極光でつながろう【椎名唯華/にじさんじ】
@@ -2091,7 +2101,8 @@ URL:https://www.youtube.com/watch?v=8AMHQ1ES-0g
 END:VEVENT
 BEGIN:VEVENT
 UID:49643
-SUMMARY:脳　年　齢　０　歳　👶
+SUMMARY:【DSの脳トレ】脳　年　齢　０　歳　👶【懐かし
+ い】
 DTSTART:20210617T120000Z
 DTEND:20210617T130000Z
 DESCRIPTION:https://www.youtube.com/watch?v=_YVgsrOEfp4\n\n脳トレやる\
@@ -2289,6 +2300,25 @@ DESCRIPTION:https://www.youtube.com/watch?v=nB8RkJyg8j8\n\nBGM：「夢の
  先は上記URLをご確認ください。\n\n\n\n￣￣￣￣￣￣￣￣
  ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
 URL:https://www.youtube.com/watch?v=nB8RkJyg8j8
+END:VEVENT
+BEGIN:VEVENT
+UID:49646
+SUMMARY:【Minecraft】深夜のまったりマイクラ【にじさんじ/
+ 葉加瀬冬雪】
+DTSTART:20210617T150000Z
+DTEND:20210617T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=4e_uHbtNCCA\n\nと、雑談\n\n
+ サムネにお借りしたイラスト\nhttps://twitter.com/Occams_razor2
+ 4/status/1403909520837857280?s=20\n\n\nPlease subscribe to my channel and 
+ have fun!\n\n❄️twitter\nhttps://twitter.com/Hakase_Fuyuki\n\n❄️メ
+ ンバー\nhttps://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ/join\n
+ \n配信タグ #冬雪ラボ\n\n\n------- \n\nにじさんじ所属の葉
+ 加瀬 冬雪( はかせ ふゆき )です。\n\n高校二年生。実験
+ と美味しいご飯が好き。\nどうぞよろしくお願いします
+ 。\n\nHi everyone!\n\nI'm Fuyuki Hakase\, a NIJISANJI VTuber.\nI like sci
+ ence experiments and tasty food.\nI usually live stream games and singing 
+ on YouTube.
+URL:https://www.youtube.com/watch?v=4e_uHbtNCCA
 END:VEVENT
 BEGIN:VEVENT
 UID:49615
