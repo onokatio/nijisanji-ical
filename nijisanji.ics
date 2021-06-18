@@ -3838,27 +3838,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=RpUUcL9zctY\n\n配信タグ :#
 URL:https://www.youtube.com/watch?v=RpUUcL9zctY
 END:VEVENT
 BEGIN:VEVENT
-UID:49706
-SUMMARY:アイディスマイル - とあ / 朝日南アカネ & 町田ち
- ま(Cover)
-DTSTART:20210619T110000Z
-DTEND:20210619T120000Z
-DESCRIPTION:https://www.youtube.com/watch?v=UW91gzVBGqo\n\n◆Words\,Music\
- ,Arrangement：とあ 様\nhttps://www.youtube.com/watch?v=X_6EPkvIAGg\n\n
- \n◆Vocal & Movie：朝日南アカネ ちゃん\n[YouTube] https://www.y
- outube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ/featured\n[Twitter] https://tw
- itter.com/Akane_Asahina__\n\n\n◆Vocal：町田ちま\n[YouTube] https://
- www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\n[Twitter] https://twitte
- r.com/chima_machita23\n\n\n◆MIX：ぴろぱる 様\n[YouTube] https://ww
- w.youtube.com/user/PIROPARU2525\n[Twitter] https://twitter.com/PIROPARU\n\
- n\n◆Illust：猫目トヲル 様\n[Twitter] https://twitter.com/towor_n?
- s=21\n\n\n\n\n\nアカネちゃんとの 歌ってみた 第二弾です\n
- 第一弾→https://www.youtube.com/watch?v=OKMh5VqhsrE\n\n\n\n\n\n【お
- 便り】\nファンレターの送り先は下記をご確認ください
- 。\nhttps://nijisanji.ichikara.co.jp/contact/
-URL:https://www.youtube.com/watch?v=UW91gzVBGqo
-END:VEVENT
-BEGIN:VEVENT
 UID:49691
 SUMMARY:【荒野行動】初めてですが尽力いたします。【に
  じさんじ/える】
@@ -3918,6 +3897,27 @@ DESCRIPTION:https://www.youtube.com/watch?v=bT8p7T08TrI\n\n提供：Google
  chakichakichaki)\n・スパチャ、メンバー加入表示イラスト
  　　礫粉さん(@rekicon_)\n・サムネイラスト
 URL:https://www.youtube.com/watch?v=bT8p7T08TrI
+END:VEVENT
+BEGIN:VEVENT
+UID:49706
+SUMMARY:アイディスマイル - とあ / 朝日南アカネ & 町田ち
+ ま(Cover)
+DTSTART:20210619T113000Z
+DTEND:20210619T123000Z
+DESCRIPTION:https://www.youtube.com/watch?v=UW91gzVBGqo\n\n◆Words\,Music\
+ ,Arrangement：とあ 様\nhttps://www.youtube.com/watch?v=X_6EPkvIAGg\n\n
+ \n◆Vocal & Movie：朝日南アカネ ちゃん\n[YouTube] https://www.y
+ outube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ/featured\n[Twitter] https://tw
+ itter.com/Akane_Asahina__\n\n\n◆Vocal：町田ちま\n[YouTube] https://
+ www.youtube.com/channel/UCo7TRj3cS-f_1D9ZDmuTsjw\n[Twitter] https://twitte
+ r.com/chima_machita23\n\n\n◆MIX：ぴろぱる 様\n[YouTube] https://ww
+ w.youtube.com/user/PIROPARU2525\n[Twitter] https://twitter.com/PIROPARU\n\
+ n\n◆Illust：猫目トヲル 様\n[Twitter] https://twitter.com/towor_n?
+ s=21\n\n\n\n\n\nアカネちゃんとの 歌ってみた 第二弾です\n
+ 第一弾→https://www.youtube.com/watch?v=OKMh5VqhsrE\n\n\n\n\n\n【お
+ 便り】\nファンレターの送り先は下記をご確認ください
+ 。\nhttps://nijisanji.ichikara.co.jp/contact/
+URL:https://www.youtube.com/watch?v=UW91gzVBGqo
 END:VEVENT
 BEGIN:VEVENT
 UID:49685
