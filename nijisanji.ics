@@ -2108,6 +2108,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=Bne6R92WzF8\n\nサムネイル
 URL:https://www.youtube.com/watch?v=Bne6R92WzF8
 END:VEVENT
 BEGIN:VEVENT
+UID:49777
+SUMMARY:【 Apex 】深夜のローテンションたちのプラチナ帯
+ ランク　with Tsubaki
+DTSTART:20210619T164500Z
+DTEND:20210619T174500Z
+DESCRIPTION:https://www.youtube.com/watch?v=71jlEZhUZlQ\n\nただのきゃ
+ りーされてる女が見たい人向けです\n\nつばき\nhttps://twi
+ tter.com/sa_mame13\nhttps://www.twitch.tv/tsubaki_sa
+URL:https://www.youtube.com/watch?v=71jlEZhUZlQ
+END:VEVENT
+BEGIN:VEVENT
 UID:49776
 SUMMARY:【SHT同時視聴】仮面ライダーセイバー＆ゼンカイ
  ジャー同時視聴！【神田笑一/にじさんじ】
@@ -2197,6 +2208,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=NJezcFz8c_s\n\nランクは気
  には反省しすぎずに次を見ています！温かく成長を見
  守ってくださるととてもうれしいです！
 URL:https://www.youtube.com/watch?v=NJezcFz8c_s
+END:VEVENT
+BEGIN:VEVENT
+UID:49778
+SUMMARY:【#雀魂2周年大大感謝杯】予選Aブロック、オラウ
+ ータン担当。【にじさんじ郡道美玲】
+DTSTART:20210620T050000Z
+DTEND:20210620T060000Z
+DESCRIPTION:https://www.youtube.com/watch?v=I2Y-xqBfZek\n\n最高に楽し
+ んじゃうわよ！\n\n神視点\n雀魂二周年大大感謝杯 #雀魂
+ 2周年大大感謝杯 https://youtu.be/2UQL-RpH2V4 @YouTubeより \n\nチ
+ ャンネル登録宜しくお願い致します。
+URL:https://www.youtube.com/watch?v=I2Y-xqBfZek
 END:VEVENT
 BEGIN:VEVENT
 UID:49675
