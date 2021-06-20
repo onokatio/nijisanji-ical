@@ -4006,12 +4006,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=Bw10KVYFI8w\n\n♡自身作詞
 URL:https://www.youtube.com/watch?v=Bw10KVYFI8w
 END:VEVENT
 BEGIN:VEVENT
+UID:49828
+SUMMARY:【#雀魂2周年大大感謝杯】大会おつかれさマージ
+ ャン【渋谷ハジメ/にじさんじ】
+DTSTART:20210620T143000Z
+DTEND:20210620T153000Z
+DESCRIPTION:https://www.youtube.com/watch?v=EIKCkOqcanA\n\nぐんぐん\nht
+ tps://www.youtube.com/channel/UCeShTCVgZyq2lsBW9QwIJcw\nライフママ\nh
+ ttps://www.youtube.com/channel/UCj_KuUzpOXAliYEesJwdrbw\nにゅう様\nhtt
+ ps://www.youtube.com/channel/UCUYVXFLTfEUoC6pHLv7CpaA
+URL:https://www.youtube.com/watch?v=EIKCkOqcanA
+END:VEVENT
+BEGIN:VEVENT
 UID:49827
 SUMMARY:【#雀魂2周年大大感謝杯】後夜祭！伊東ライフと
  渋谷ハジメと鴨神にゅうさんと！【にじさんじ郡道美
  玲】
-DTSTART:20210620T143500Z
-DTEND:20210620T153500Z
+DTSTART:20210620T144000Z
+DTEND:20210620T154000Z
 DESCRIPTION:https://www.youtube.com/watch?v=qjWX6lnJBow\n\nところで本
  日まで誕生日ボイス発売中でs。\nhttps://twitter.com/nijisanji
  _app/status/1404364256972197888?s=20\n\n\nチャンネル登録宜しく
