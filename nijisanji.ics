@@ -2657,6 +2657,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=oArOrJvkrcM\n\n▷◁…コラ
 URL:https://www.youtube.com/watch?v=oArOrJvkrcM
 END:VEVENT
 BEGIN:VEVENT
+UID:49845
+SUMMARY:なんだかんだ最高に熱い神ゲーapex【にじさんじ/
+ おりコウ】
+DTSTART:20210621T050000Z
+DTEND:20210621T060000Z
+DESCRIPTION:https://www.youtube.com/watch?v=jG1ndN2rijk\n\n@魔界ノりり
+ む \nサムネ\nhttps://twitter.com/tamakakama2018/status/131387524323302
+ 6049?s=20
+URL:https://www.youtube.com/watch?v=jG1ndN2rijk
+END:VEVENT
+BEGIN:VEVENT
 UID:49833
 SUMMARY:【マイクラ】ケイドロがしてみたい【シェリン/に
  じさんじ】
@@ -3200,6 +3211,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=ZFcQNye_2WI\n\nさんきゅー
  -　-　-　-　-　-　-　-　-　-　-　-　-　-　=͟͟͞͞(∵=͟͟
  ͞͞( ∵=͟͟͞͞( ∵)=͟͟͞͞( ∵)
 URL:https://www.youtube.com/watch?v=ZFcQNye_2WI
+END:VEVENT
+BEGIN:VEVENT
+UID:49846
+SUMMARY:【#たねいちおえかき】 お絵描き伝言ゲーム【卯
+ 月コウ】
+DTSTART:20210623T120000Z
+DTEND:20210623T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=9OLZMe3rui8\n\nああ
+URL:https://www.youtube.com/watch?v=9OLZMe3rui8
 END:VEVENT
 END:VCALENDAR
 
