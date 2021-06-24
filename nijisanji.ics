@@ -1790,6 +1790,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=3frxOws6-TM\n\n何故このタ
 URL:https://www.youtube.com/watch?v=3frxOws6-TM
 END:VEVENT
 BEGIN:VEVENT
+UID:50049
+SUMMARY:回線テスト配信02 totsuzen English shika utenaku natta
+DTSTART:20210624T181500Z
+DTEND:20210624T191500Z
+DESCRIPTION:https://www.youtube.com/watch?v=uYMVKxcUAr4\n\nWhy?????????????
+  :(\n\n\n雨森へ直通のご意見・ご感想・おたより等（Googl
+ e フォーム） : https://t.co/nTtA2hSaZh\n\nTwitter : https://twitter.c
+ om/Sayo_Amemori\n\nお問い合わせ : https://nijisanji.ichikara.co.jp/c
+ ontact/
+URL:https://www.youtube.com/watch?v=uYMVKxcUAr4
+END:VEVENT
+BEGIN:VEVENT
 UID:50048
 SUMMARY:【朝雑談/ラジオ】6/25キャミラジ#4【ルイス・キャ
  ミー/にじさんじ】
