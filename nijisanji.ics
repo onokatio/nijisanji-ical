@@ -3351,8 +3351,8 @@ URL:https://www.youtube.com/watch?v=PuEjejnHqW0
 END:VEVENT
 BEGIN:VEVENT
 UID:49978
-SUMMARY:【雑談】明日の21時から3Dお披露目です～前日の白
- 雪巴の様子～【白雪 巴/にじさんじ】
+SUMMARY:【雑談/ASMR】明日の21時から3Dお披露目です～前日
+ の白雪巴の様子～【白雪 巴/にじさんじ】
 DTSTART:20210624T120000Z
 DTEND:20210624T130000Z
 DESCRIPTION:https://www.youtube.com/watch?v=5RevVT_N1fQ\n\nいよいよ明
@@ -3652,6 +3652,25 @@ DESCRIPTION:https://www.youtube.com/watch?v=Y6V2PFZslCM\n\n残業で疲れ
  らも頑張っていくぜ！\n\n＜お問い合わせ・お手紙等は
  こちら＞\nhttps://www.nijisanji.jp/contact\n\n\n#にじさんじ
 URL:https://www.youtube.com/watch?v=Y6V2PFZslCM
+END:VEVENT
+BEGIN:VEVENT
+UID:50028
+SUMMARY:【Gartic Phone】史上最悪のお絵描き伝言ゲーム【に
+ じさんじ】
+DTSTART:20210624T133000Z
+DTEND:20210624T143000Z
+DESCRIPTION:https://www.youtube.com/watch?v=45UtJt5YzRo\n\n天災絵師不
+ 破湊\n\n【単発まとめ 再生リスト】https://youtube.com/playlis
+ t?list=PL2uMwjy4y2Z5f-TtXOftRE1dowWuLdR9W\n\n━━━━━━━━━
+ ━━━━━━━━━━━━━━━━━\nTwitter｜https://twi
+ tter.com/Fuwa_Minato\nMembership｜https://www.youtube.com/channel/UC6wvdA
+ DTJ88OfIbJYIpAaDA/join\nマシュマロ｜https://marshmallow-qa.com/fuwa_
+ minato?utm_medium=url_text&utm_source=promotion\nお問い合わせ｜http
+ s://nijisanji.ichikara.co.jp/contact/\n━━━━━━━━━━━
+ ━━━━━━━━━━━━━━━\n#GarticPhone　#不破湊
+ 　\n━━━━━━━━━━━━━━━━━━━━━━━
+ ━━━
+URL:https://www.youtube.com/watch?v=45UtJt5YzRo
 END:VEVENT
 BEGIN:VEVENT
 UID:49997
