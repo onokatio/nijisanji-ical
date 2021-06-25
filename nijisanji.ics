@@ -2541,6 +2541,27 @@ DESCRIPTION:https://www.youtube.com/watch?v=bzRFw13QhHA\n\n今回、不破
 URL:https://www.youtube.com/watch?v=bzRFw13QhHA
 END:VEVENT
 BEGIN:VEVENT
+UID:50080
+SUMMARY:【#いらすとやdeにじさんじ】３Dお披露目までに巴
+ さんを1時間デ完成させル！【にじさんじ/レヴィ・エリ
+ ファ】
+DTSTART:20210625T100000Z
+DTEND:20210625T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=lFEg02wEmM0\n\n今日は\n21時
+ から３Dお披露目配信がある\nhttps://www.youtube.com/watch?v=iWi
+ 7rOKsOH4\n@白雪巴 　さんを\nいらすとや（https://www.irasutoya
+ .com/）さん\nの素材だけで\n作成してみたいとおもいま
+ ス☺\n\n\n#れゔぃあたんねる\n\nTwitterもはじめましたよ
+ つぶやク☆\n【Twitter】\n@Levi_E_2434\n\n待機画面使用素材\n
+ 七三ゆきのアトリエ\nhttps://nanamiyuki.com/\n\n【ファンレタ
+ ー、その他お問い合わせ】\n【詳細】https://www.nijisanji.jp
+ /contact\n\nにじさんじ関連リンク\n\n【公式Twitter】\nhttps:/
+ /twitter.com/nijisanji_app\n〈@nijisanji_app〉\n\n【公式HP】\nhttps:
+ //www.nijisanji.jp\n\n【オフィシャルストア】\nhttps://shop.niji
+ sanji.jp/s/niji/
+URL:https://www.youtube.com/watch?v=lFEg02wEmM0
+END:VEVENT
+BEGIN:VEVENT
 UID:50021
 SUMMARY:【Caligula2】もしもあの時、違う選択をしていたら
  。【神田笑一/にじさんじ】
@@ -2599,24 +2620,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=2hNeeWlHWJ0\n\nレバガチャ
  ーション\nシェリン・バーガンディ：https://www.youtube.com/
  channel/UCHBhnG2G-qN0JrrWmMO2FTA
 URL:https://www.youtube.com/watch?v=2hNeeWlHWJ0
-END:VEVENT
-BEGIN:VEVENT
-UID:50051
-SUMMARY:【Phantom Abyss】新作死にゲー!! ”世界に一人だけ”
- 攻略できる鬼畜なアビスを踏破せよ【三枝明那 / にじ
- さんじ】
-DTSTART:20210625T110000Z
-DTEND:20210625T120000Z
-DESCRIPTION:https://www.youtube.com/watch?v=mLm8uyWvYWY\n\nリスナーに
- 教えてもらった神ゲーをやるぞ！\n---\nにじさんじ所属
- 、三枝明那です。\nモットーは全力！\n\nTwitter //\nhttps://
- twitter.com/333akina\nメンバーシップ登録 //\nhttps://www.youtube.
- com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ/join\n\nお問い合わせ・ファ
- ンレター //\nhttps://www.nijisanji.jp/contact\nにじさんじオフ
- ィシャルストア //\nhttps://shop.nijisanji.jp/\nにじさんじ公
- 式Twitter //\nhttps://twitter.com/nijisanji_app\nにじさんじ公式HP 
- //\nhttps://www.nijisanji.jp
-URL:https://www.youtube.com/watch?v=mLm8uyWvYWY
 END:VEVENT
 BEGIN:VEVENT
 UID:50055
@@ -2740,6 +2743,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=nfhsSUGISzM\n\n両手に姫\n\n
  ps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n\n【にじさん
  じ公式HP】\nhttps://nijisanji.ichikara.co.jp/
 URL:https://www.youtube.com/watch?v=nfhsSUGISzM
+END:VEVENT
+BEGIN:VEVENT
+UID:50081
+SUMMARY:【#走れソニック】SEGAさん驚異のメカニズム 配信
+ 特化型！？の新ソニックで遊ぶ【にじさんじ/社築】
+DTSTART:20210625T110000Z
+DTEND:20210625T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=ECiI1z4tZqM\n\nセガさんは
+ いつだって時代を先取りするんだぜ\n皆のコメントがゲ
+ ーム中に出るらしい\n\nLINEスタンプも出たぁ～！\nhttps:/
+ /store.line.me/stickershop/product/15392462/ja\n\nハッシュタグは【
+ #社築フィードバック】【#走れソニック】まで。\n-------
+ -----------------------------------------\n社築のチャンネル登録
+ はコチラから：\nhttps://www.youtube.com/channel/UCKMYISTJAQ8xTplUPH
+ iABlA?sub_confirmation=1\nTwitter：\nhttps://twitter.com/846kizuQ\nにじ
+ さんじ公式BOOTH：\nhttps://nijisanji.booth.pm/\n↑Tシャツとか
+ 売ってます↑\nお問い合わせ・プレゼント送付先：\nhttp
+ s://nijisanji.ichikara.co.jp/contact/\n-----------------------------------
+ -------------\n#ゲーム
+URL:https://www.youtube.com/watch?v=ECiI1z4tZqM
 END:VEVENT
 BEGIN:VEVENT
 UID:50030
@@ -2916,6 +2939,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=tq86HzS15Do\n\n【あめもよ
 URL:https://www.youtube.com/watch?v=tq86HzS15Do
 END:VEVENT
 BEGIN:VEVENT
+UID:50051
+SUMMARY:【Phantom Abyss】新作死にゲー!! ”世界に一人だけ”
+ 攻略できる鬼畜なアビスを踏破せよ【三枝明那 / にじ
+ さんじ】
+DTSTART:20210625T130000Z
+DTEND:20210625T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=mLm8uyWvYWY\n\nリスナーに
+ 教えてもらった神ゲーをやるぞ！\n---\nにじさんじ所属
+ 、三枝明那です。\nモットーは全力！\n\nTwitter //\nhttps://
+ twitter.com/333akina\nメンバーシップ登録 //\nhttps://www.youtube.
+ com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ/join\n\nお問い合わせ・ファ
+ ンレター //\nhttps://www.nijisanji.jp/contact\nにじさんじオフ
+ ィシャルストア //\nhttps://shop.nijisanji.jp/\nにじさんじ公
+ 式Twitter //\nhttps://twitter.com/nijisanji_app\nにじさんじ公式HP 
+ //\nhttps://www.nijisanji.jp
+URL:https://www.youtube.com/watch?v=mLm8uyWvYWY
+END:VEVENT
+BEGIN:VEVENT
 UID:50064
 SUMMARY:【#走れソニック】リスナーと配信者を繋ぐゲーム
  　コメントの力を貸してくれ！！【ベルモンド・バン
@@ -2942,6 +2983,45 @@ DESCRIPTION:https://www.youtube.com/watch?v=Eq5KL-aSuV0\n\n#はしれソニ
  ファンレターの送り先は上記URLをご確認ください。\n\n\
  n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
 URL:https://www.youtube.com/watch?v=Eq5KL-aSuV0
+END:VEVENT
+BEGIN:VEVENT
+UID:50082
+SUMMARY:【🔴雑談】みんな～！夕飯はマシュマロよ～！【
+ アンジュ・カトリーナ／にじさんじ】
+DTSTART:20210625T130000Z
+DTEND:20210625T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=tx07jXRYMOg\n\n同期を見習
+ い爆食いします。\nそして改めて運動会の告知もします
+ 。\n\nマシュマロ：https://marshmallow-qa.com/ange_katrina_?utm_medi
+ um=url_text&utm_source=promotion\n\nにじさんじジューンブライ
+ ド2021 グッズ&ボイス\n2021年6月30日(火)まで発売中！ボイ
+ ス買いな！！！\nボイス：https://shop.nijisanji.jp/s/niji/item/d
+ etail/dig-00399?ima=0345\nグッズ：https://shop.nijisanji.jp/s/niji/ite
+ m/list?ima=0325&tag=TAG_45\n\n♦️配信について\n￣￣￣￣￣￣
+ ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+ ￣￣￣\n感想ハッシュタグ：#賢者の時間\n\nメンバーシ
+ ップ登録はこちら：https://www.youtube.com/channel/UCHVXbQzkl3rDfs
+ XWo8xi2qw/join\n\n♦️配信に使わせて頂いているイラスト
+ ・音楽\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+ ￣￣￣￣￣￣￣￣￣￣￣￣\nサムネイル使用イラスト\n
+ 雨音@walabemoti2\nhttps://twitter.com/walabemoti2/status/129379555655318
+ 7328\n\nアンジュのお部屋デザイン\nリアス 様：https://twit
+ ter.com/23057\n\nBGM提供／曲名「red ClifF aLchemist」\nRyo Lion 様
+ ：https://twitter.com/ryolion_music\n\nその他音楽\nDOVA-SYNDROME様 
+ / Audiostock様\n\n\n♦️メンバーシップについて\n￣￣￣￣
+ ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+ ￣￣￣￣￣\n・特典①可愛いバッジが名前の隣につく\n
+ ・特典②オリジナルの絵文字がつかえる！\n・特典③た
+ まに行われるメンバー限定の配信が視聴可能に！\n・登
+ 録はこちら：https://www.youtube.com/channel/UCHVXbQzkl3rDfsXWo8xi2qw
+ /join\n\n\n♦️その他情報・URLなど\n￣￣￣￣￣￣￣￣￣
+ ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nTwitter
+ ：https://twitter.com/ange_katrina_\n\nマシュマロ：https://marshmal
+ low-qa.com/ange_katrina_\n\nにじさんじbooth：https://nijisanji.booth
+ .pm/\n\nにじさんじオフィシャルストア：https://shop.nijisanj
+ i.jp/\n\nにじさんじ公式HP：https://nijisanji.ichikara.co.jp/\n\n
+ お問い合わせ：http://urx.red/BWcx\n\n#雑談 #にじさんじ
+URL:https://www.youtube.com/watch?v=tx07jXRYMOg
 END:VEVENT
 BEGIN:VEVENT
 UID:50042
