@@ -3258,6 +3258,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=4M9pY_xKCTE\n\nすっごいひ
 URL:https://www.youtube.com/watch?v=4M9pY_xKCTE
 END:VEVENT
 BEGIN:VEVENT
+UID:17242
+SUMMARY:花畑チャイカと初めての誕生日凸待ち
+DTSTART:20210627T110000Z
+DTEND:20210627T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=wXnrsTGbVmA\n\nサムネイル
+ 　和樺
+URL:https://www.youtube.com/watch?v=wXnrsTGbVmA
+END:VEVENT
+BEGIN:VEVENT
 UID:50160
 SUMMARY:【歌って踊ってみた】soldier game(ラブライブ！)   by
   白雪巴
@@ -3374,14 +3383,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=Q86VbmcCtZE\n\nぼかぼかぼ
  i.booth.pm/items/1126796 \n・アクリルスタンド\nhttps://nijisanji.
  booth.pm/items/1126799
 URL:https://www.youtube.com/watch?v=Q86VbmcCtZE
-END:VEVENT
-BEGIN:VEVENT
-UID:17242
-SUMMARY:花畑チャイカとフリーチャット
-DTSTART:20210627T140000Z
-DTEND:20210627T150000Z
-DESCRIPTION:https://www.youtube.com/watch?v=wXnrsTGbVmA\n\n
-URL:https://www.youtube.com/watch?v=wXnrsTGbVmA
 END:VEVENT
 BEGIN:VEVENT
 UID:50202
