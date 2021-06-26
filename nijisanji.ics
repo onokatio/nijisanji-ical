@@ -3581,6 +3581,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=gQ-JND68GI0\n\n-------❥------
 URL:https://www.youtube.com/watch?v=gQ-JND68GI0
 END:VEVENT
 BEGIN:VEVENT
+UID:50140
+SUMMARY:ユナイトやる。【卯月コウ】
+DTSTART:20210626T050000Z
+DTEND:20210626T060000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Gem-K3nc5YM\n\nああ
+URL:https://www.youtube.com/watch?v=Gem-K3nc5YM
+END:VEVENT
+BEGIN:VEVENT
 UID:50114
 SUMMARY:【未定】なにかしたいとおもっている【雪城眞尋/
  にじさんじ】
