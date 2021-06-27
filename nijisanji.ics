@@ -3928,7 +3928,8 @@ SUMMARY:花畑チャイカと初めての誕生日凸待ち
 DTSTART:20210627T110000Z
 DTEND:20210627T120000Z
 DESCRIPTION:https://www.youtube.com/watch?v=wXnrsTGbVmA\n\nサムネイル
- 　和樺
+ 　和樺\n誕生日グッズ販売中　https://nijisanji.booth.pm/items/
+ 3063309
 URL:https://www.youtube.com/watch?v=wXnrsTGbVmA
 END:VEVENT
 BEGIN:VEVENT
@@ -4030,6 +4031,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=OdvR-2bqmoE\n\n🔴JOKE RARE RA
  /SisterCleaire \n\nサムネイルイラスト：かつのりさん @harah
  etta_sinu \n\n#シスタークレア
 URL:https://www.youtube.com/watch?v=OdvR-2bqmoE
+END:VEVENT
+BEGIN:VEVENT
+UID:50225
+SUMMARY:【バイオハザードヴィレッジ】主人公が堅すぎて
+ 無双な件
+DTSTART:20210627T120000Z
+DTEND:20210627T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=7_H0FLAeG5A\n\n©CAPCOM CO.\, L
+ TD. ALL RIGHTS RESERVED.\n\n素敵なイラストをお借りしました\
+ nhttps://twitter.com/90_cis/status/1408357430375768064\n---\nにじさん
+ じ所属、三枝明那です。\nモットーは全力！\n\nTwitter //\
+ nhttps://twitter.com/333akina\nメンバーシップ登録 //\nhttps://www
+ .youtube.com/channel/UCNW1Ex0r6HsWRD4LCtPwvoQ/join\n\nお問い合わせ
+ ・ファンレター //\nhttps://www.nijisanji.jp/contact\nにじさん
+ じオフィシャルストア //\nhttps://shop.nijisanji.jp/\nにじさ
+ んじ公式Twitter //\nhttps://twitter.com/nijisanji_app\nにじさんじ
+ 公式HP //\nhttps://www.nijisanji.jp
+URL:https://www.youtube.com/watch?v=7_H0FLAeG5A
 END:VEVENT
 BEGIN:VEVENT
 UID:50196
