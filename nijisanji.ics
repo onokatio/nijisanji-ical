@@ -2621,11 +2621,36 @@ DESCRIPTION:https://www.youtube.com/watch?v=aOh5sOtoiPk\n\n#ハリオ家の
 URL:https://www.youtube.com/watch?v=aOh5sOtoiPk
 END:VEVENT
 BEGIN:VEVENT
+UID:50277
+SUMMARY:【マイクラ/にじさば】アップデートきたー！新要
+ 素探しに行く！【ルイス視点/にじさんじ】
+DTSTART:20210628T100000Z
+DTEND:20210628T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=6qfXHkA6vmE\n\nおつかい？
+ いや！今日は探検だー！\n\n#ハリオ家のおつかい　#ハ
+ リオ家　#ルイスの予告状\n\n\nメンバーシップ登録↓\nht
+ tps://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw/join\n\nにじさ
+ んじオフィシャルストア！\nhttps://shop.nijisanji.jp/s/niji/?im
+ a=3313\nボイスやグッズなど売ってるよ！\n\nあめもよう
+ ボイス\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00413?ima=1009
+ \n\n七夕ボイス\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-0040
+ 8?ima=1039\n\n\n\nにじさんじ所属のルイス・キャミーです
+ 。\n是非最後まで見ていってくださいね！\n\n\n◯リンク
+ \n【Twitter】https://twitter.com/Luis_Cammy\n\n【お問い合わせや
+ ファンレターはこちら】\nhttps://nijisanji.ichikara.co.jp/contac
+ t/\n\n【公式オンラインショップ】\nhttps://nijisanji.booth.pm/
+ \n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985\n\n
+ 【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《
+ @nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://nijisanji.ich
+ ikara.co.jp/
+URL:https://www.youtube.com/watch?v=6qfXHkA6vmE
+END:VEVENT
+BEGIN:VEVENT
 UID:50267
 SUMMARY:【APEX】ランクかハンマーめざすか【にじさんじ/
  勇気ちひろ】
-DTSTART:20210628T100000Z
-DTEND:20210628T110000Z
+DTSTART:20210628T103000Z
+DTEND:20210628T113000Z
 DESCRIPTION:https://www.youtube.com/watch?v=OhGDzNa_o6Q\n\nAPEX大好きに
  じさんじバーチャルライバーの勇気ちひろです！\n\nAPEX
  が好きすぎて30時間できるので、長くやってても楽しん
@@ -2734,31 +2759,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=OhGDzNa_o6Q\n\nAPEX大好きに
  スはんばい(((*・ω・(ε･* ))) ﾁｭｯ♪ \n\n☆お問い合わ
  せ・ファンレター\nhttps://www.nijisanji.jp/contact
 URL:https://www.youtube.com/watch?v=OhGDzNa_o6Q
-END:VEVENT
-BEGIN:VEVENT
-UID:50277
-SUMMARY:【マイクラ/にじさば】アップデートきたー！新要
- 素探しに行く！【ルイス視点/にじさんじ】
-DTSTART:20210628T100000Z
-DTEND:20210628T110000Z
-DESCRIPTION:https://www.youtube.com/watch?v=6qfXHkA6vmE\n\nおつかい？
- いや！今日は探検だー！\n\n#ハリオ家のおつかい　#ハ
- リオ家　#ルイスの予告状\n\n\nメンバーシップ登録↓\nht
- tps://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw/join\n\nにじさ
- んじオフィシャルストア！\nhttps://shop.nijisanji.jp/s/niji/?im
- a=3313\nボイスやグッズなど売ってるよ！\n\nあめもよう
- ボイス\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00413?ima=1009
- \n\n七夕ボイス\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-0040
- 8?ima=1039\n\n\n\nにじさんじ所属のルイス・キャミーです
- 。\n是非最後まで見ていってくださいね！\n\n\n◯リンク
- \n【Twitter】https://twitter.com/Luis_Cammy\n\n【お問い合わせや
- ファンレターはこちら】\nhttps://nijisanji.ichikara.co.jp/contac
- t/\n\n【公式オンラインショップ】\nhttps://nijisanji.booth.pm/
- \n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985\n\n
- 【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《
- @nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://nijisanji.ich
- ikara.co.jp/
-URL:https://www.youtube.com/watch?v=6qfXHkA6vmE
 END:VEVENT
 BEGIN:VEVENT
 UID:50250
@@ -3055,6 +3055,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=syefkrMQBb0\n\nサムネイル\
  い。\n\n\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
  ￣￣￣
 URL:https://www.youtube.com/watch?v=syefkrMQBb0
+END:VEVENT
+BEGIN:VEVENT
+UID:50278
+SUMMARY:【ガンプラASMR】HGデュナメスを組みながら喋った
+ りする【にじさんじ/愛園愛美】
+DTSTART:20210628T133000Z
+DTEND:20210628T143000Z
+DESCRIPTION:https://www.youtube.com/watch?v=G0reDb92zzY\n\n狙い撃つぜ
+ ！\n\nスミ入れまではやりたい。\n配信後につや消し。\n
+ \nお腹すいたら音の出るお菓子食べる。\n\n\n\nメンバー
+ 加入はこちらから！\nhttps://www.youtube.com/channel/UC0WwEfE-jOM2
+ rzjpdfhTzZA/join\n\n\n【Twitter】\n　https://twitter.com/manami_aizono\
+ n\n【配信タグ】\n愛ライブ\n\n【公式オンラインショッ
+ プ】\nhttps://nijisanji.booth.pm/\n\n【にじさんじ公式Twitter】\
+ nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさ
+ んじ公式HP】\nhttps://nijisanji.ichikara.co.jp/\n\nファンレター
+ の送り先は下記をご確認ください。\nhttps://nijisanji.ichika
+ ra.co.jp/contact/\n\n【お問い合わせ】\noffer@ichikara.co.jp\n\n#
+ 雑談 #愛園愛美 #にじさんじ #Vtuber
+URL:https://www.youtube.com/watch?v=G0reDb92zzY
 END:VEVENT
 BEGIN:VEVENT
 UID:50263
