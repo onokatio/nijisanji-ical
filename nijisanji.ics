@@ -2881,6 +2881,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=Iv6PljhtAPU\n\n同時公開「
 URL:https://www.youtube.com/watch?v=Iv6PljhtAPU
 END:VEVENT
 BEGIN:VEVENT
+UID:50322
+SUMMARY:【リスナー参加型】お絵かき伝言ゲームの時間だ
+ ゾ【Gartic Phone/にじさんじ/月ノ美兎】
+DTSTART:20210629T130000Z
+DTEND:20210629T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=baOgK9E2Il4\n\n信じてるぞ\
+ n#みとの生放送\n\n月ノ美兎のTwitter（配信予定等はこち
+ らで呟いています！）\nhttps://twitter.com/MitoTsukino
+URL:https://www.youtube.com/watch?v=baOgK9E2Il4
+END:VEVENT
+BEGIN:VEVENT
 UID:50254
 SUMMARY:【cover】虎視眈々 / 梅とら【白雪巴/にじさんじ】
 DTSTART:20210629T131500Z
