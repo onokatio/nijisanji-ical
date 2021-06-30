@@ -3189,15 +3189,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=-d8NPJ8ShfI\n\n鈴原るる　l
 URL:https://www.youtube.com/watch?v=-d8NPJ8ShfI
 END:VEVENT
 BEGIN:VEVENT
-UID:50386
-SUMMARY:‌
-DTSTART:20210630T145500Z
-DTEND:20210630T155500Z
-DESCRIPTION:https://www.youtube.com/watch?v=LuldeXjqpww\n\n正しく夕陽
- リリになるということ。
-URL:https://www.youtube.com/watch?v=LuldeXjqpww
-END:VEVENT
-BEGIN:VEVENT
 UID:6055
 SUMMARY:フリーチャット
 DTSTART:20210630T150000Z
@@ -3656,6 +3647,22 @@ DESCRIPTION:https://www.youtube.com/watch?v=EmYVGan6aBE\n\nいっぱい歌
 URL:https://www.youtube.com/watch?v=EmYVGan6aBE
 END:VEVENT
 BEGIN:VEVENT
+UID:50384
+SUMMARY:にじさんじレジスタンス(株)のにじさんじのハッ
+ ピーアワーの続きのラジオfromえにからスタジオ
+DTSTART:20210701T130000Z
+DTEND:20210701T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=N3ZMgq3dpkM\n\n椎名唯華　h
+ ttps://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\n夜見れな　ht
+ tps://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nサムネイル　
+ 地主の絵に夜見が字を入れたもの\nラインスタンプ出た
+ よ　https://store.line.me/stickershop/product/13720479\n灰かぶり朗
+ 読　https://shop.nijisanji.jp/s/niji/item/detail/dig-00125?ima=0323\n色
+ んなの再販中　https://shop.nijisanji.jp/s/niji/item/detail/dig-0008
+ 5?ima=4123
+URL:https://www.youtube.com/watch?v=N3ZMgq3dpkM
+END:VEVENT
+BEGIN:VEVENT
 UID:50403
 SUMMARY:【雑談】6月振り返り雑談＆スパチャ読み【白雪 
  巴/にじさんじ】
@@ -3681,22 +3688,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=q-H5HkM3raA\n\n威風堂々⇒h
  楽工房 さま\nhttps://amachamusic.chagasi.com/\n\n\n～Special thanks 
  to YOU～\n\n◆◆◆◆◆
 URL:https://www.youtube.com/watch?v=q-H5HkM3raA
-END:VEVENT
-BEGIN:VEVENT
-UID:50384
-SUMMARY:にじさんじレジスタンス(株)のにじさんじのハッ
- ピーアワーの続きのラジオfromえにからスタジオ
-DTSTART:20210701T140000Z
-DTEND:20210701T150000Z
-DESCRIPTION:https://www.youtube.com/watch?v=N3ZMgq3dpkM\n\n椎名唯華　h
- ttps://www.youtube.com/channel/UC_4tXjqecqox5Uc05ncxpxg\n夜見れな　ht
- tps://www.youtube.com/channel/UCL34fAoFim9oHLbVzMKFavQ\nサムネイル　
- 地主の絵に夜見が字を入れたもの\nラインスタンプ出た
- よ　https://store.line.me/stickershop/product/13720479\n灰かぶり朗
- 読　https://shop.nijisanji.jp/s/niji/item/detail/dig-00125?ima=0323\n色
- んなの再販中　https://shop.nijisanji.jp/s/niji/item/detail/dig-0008
- 5?ima=4123
-URL:https://www.youtube.com/watch?v=N3ZMgq3dpkM
 END:VEVENT
 BEGIN:VEVENT
 UID:50077
