@@ -2045,6 +2045,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=5ouuI-Tq55I\n\nみなさんご
 URL:https://www.youtube.com/watch?v=5ouuI-Tq55I
 END:VEVENT
 BEGIN:VEVENT
+UID:50421
+SUMMARY:【 Escape From Tarkov 】ガチのはじめて
+DTSTART:20210701T065000Z
+DTEND:20210701T075000Z
+DESCRIPTION:https://www.youtube.com/watch?v=mrxLql9CWls\n\nわからん　
+ やさしくして\n\n引率のせんせい\nhttps://twitter.com/sa_mame13
+ \nhttps://www.twitch.tv/tsubaki_sa
+URL:https://www.youtube.com/watch?v=mrxLql9CWls
+END:VEVENT
+BEGIN:VEVENT
 UID:50414
 SUMMARY:【ロックマン5 ブルースの罠!?/Mega Man 5】夕飯前の
  ロックウーマン！はやま！【ROCKMAN 5/完全初見】【葉山
