@@ -2348,30 +2348,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=trX3GYNKYz4\n\n弾が出るの
 URL:https://www.youtube.com/watch?v=trX3GYNKYz4
 END:VEVENT
 BEGIN:VEVENT
-UID:50539
-SUMMARY:【#にじさんじVパチ】予選Bブロック 休日なのでパ
- チ打って過ごします【にじさんじ/愛園愛美】
-DTSTART:20210703T051000Z
-DTEND:20210703T061000Z
-DESCRIPTION:https://www.youtube.com/watch?v=KYSkx9kZYLs\n\n全回転！！
- 全回転！！！！\n\n※ミッションビンゴというものがあ
- り、条件満たすと特別ポイントがもらえるのですが、
- 超初心者なのでもし知らぬ間に条件満たしてたら教え
- てくださるととても助かります！！！\nミッションビン
- ゴは画面上に表示します！\n\n本配信はこちら\nhttps://www
- .youtube.com/watch?v=x03G2Q3qjWY\n\n\n\n\n\nメンバー加入はこちら
- から！\nhttps://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA/join\n
- \n\n【Twitter】\n　https://twitter.com/manami_aizono\n\n【配信タグ
- 】\n愛ライブ\n\n【公式オンラインショップ】\nhttps://niji
- sanji.booth.pm/\n\n【にじさんじ公式Twitter】\nhttps://twitter.com
- /nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nht
- tps://nijisanji.ichikara.co.jp/\n\nファンレターの送り先は下記
- をご確認ください。\nhttps://nijisanji.ichikara.co.jp/contact/\n\n
- 【お問い合わせ】\noffer@ichikara.co.jp\n\n#ゲーム #愛園愛美
-  #にじさんじ #Vtuber
-URL:https://www.youtube.com/watch?v=KYSkx9kZYLs
-END:VEVENT
-BEGIN:VEVENT
 UID:50471
 SUMMARY:【#にじさんじVパチ】にじさんじバーチャルパチ
  ンコ大会 予選Bブロック舞元枠【にじさんじ/舞元啓介
@@ -2419,6 +2395,30 @@ DESCRIPTION:https://www.youtube.com/watch?v=pk7gD0m4KZY\n\n#にじさんじ
  いくぜ！\n\n＜お問い合わせ・お手紙等はこちら＞\nhttps
  ://www.nijisanji.jp/contact\n\n\n#にじさんじ
 URL:https://www.youtube.com/watch?v=pk7gD0m4KZY
+END:VEVENT
+BEGIN:VEVENT
+UID:50539
+SUMMARY:【#にじさんじVパチ】予選Bブロック 休日なのでパ
+ チ打って過ごします【にじさんじ/愛園愛美】
+DTSTART:20210703T052000Z
+DTEND:20210703T062000Z
+DESCRIPTION:https://www.youtube.com/watch?v=KYSkx9kZYLs\n\n全回転！！
+ 全回転！！！！\n\n※ミッションビンゴというものがあ
+ り、条件満たすと特別ポイントがもらえるのですが、
+ 超初心者なのでもし知らぬ間に条件満たしてたら教え
+ てくださるととても助かります！！！\nミッションビン
+ ゴは画面上に表示します！\n\n本配信はこちら\nhttps://www
+ .youtube.com/watch?v=x03G2Q3qjWY\n\n\n\n\n\nメンバー加入はこちら
+ から！\nhttps://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA/join\n
+ \n\n【Twitter】\n　https://twitter.com/manami_aizono\n\n【配信タグ
+ 】\n愛ライブ\n\n【公式オンラインショップ】\nhttps://niji
+ sanji.booth.pm/\n\n【にじさんじ公式Twitter】\nhttps://twitter.com
+ /nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nht
+ tps://nijisanji.ichikara.co.jp/\n\nファンレターの送り先は下記
+ をご確認ください。\nhttps://nijisanji.ichikara.co.jp/contact/\n\n
+ 【お問い合わせ】\noffer@ichikara.co.jp\n\n#ゲーム #愛園愛美
+  #にじさんじ #Vtuber
+URL:https://www.youtube.com/watch?v=KYSkx9kZYLs
 END:VEVENT
 BEGIN:VEVENT
 UID:50543
@@ -2489,6 +2489,17 @@ DTEND:20210703T080000Z
 DESCRIPTION:https://www.youtube.com/watch?v=jf7A1iTXqd8\n\n玉を弾くの
  は得意だぜ？
 URL:https://www.youtube.com/watch?v=jf7A1iTXqd8
+END:VEVENT
+BEGIN:VEVENT
+UID:50547
+SUMMARY:【アベマズカップ】麻雀大会のお時間だ！おい、
+ 多井隆晴ぶちのめしてやる！【#雀魂 /にじさんじ郡道
+ 美玲】
+DTSTART:20210703T070000Z
+DTEND:20210703T080000Z
+DESCRIPTION:https://www.youtube.com/watch?v=hZi3xiwzLuA\n\nチャンネル
+ 登録宜しくお願い致します。
+URL:https://www.youtube.com/watch?v=hZi3xiwzLuA
 END:VEVENT
 BEGIN:VEVENT
 UID:50541
@@ -2563,8 +2574,8 @@ URL:https://www.youtube.com/watch?v=ceJG7NwDHWo
 END:VEVENT
 BEGIN:VEVENT
 UID:50531
-SUMMARY:【#にじさんじVパチ/予選Cブロック】勝ったらお父
- さんと仲直りします！はやま！【葉山舞鈴/にじさんじ
+SUMMARY:【#にじさんじVパチ/予選Cブロック】パチ狂パパ＋
+ 声ヲタ娘＝パチンコ！はやま！【葉山舞鈴/にじさんじ
  】
 DTSTART:20210703T072000Z
 DTEND:20210703T082000Z
@@ -2630,6 +2641,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=c5OWqQjgm7U\n\nはじめて★\
 URL:https://www.youtube.com/watch?v=c5OWqQjgm7U
 END:VEVENT
 BEGIN:VEVENT
+UID:50452
+SUMMARY:メンタルチェンソー／星川サラ＆樋口楓【歌って
+ みた】
+DTSTART:20210703T090000Z
+DTEND:20210703T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=kQv6TjPypfI\n\nかえで先輩
+ に「は？」って言われたい。\n\n歌：#でろさら\n@樋口楓
+ 【にじさんじ所属】 \n@HiguchiKaede\n\n@星川サラ / Sara Hoshik
+ awa \n@Sara_Hoshikawa\n\n☆••┈┈┈┈••✩••┈┈┈┈
+ ••☆••┈┈┈┈••✩••┈┈┈┈••✩\n素敵な
+ 本家様：\n(P丸様。ver)\nhttps://youtu.be/bhjNyUPFCyk\n(ボカロver
+ )\nhttps://youtu.be/HbSMzi9niVg\n\nillust：山吹色様　@bukiiro\nMovie
+ ：鳴宮ユキ様　@Snow_Rabbit_yy\nMix：ぴろぱる様　@PIROPARU\n
+ ☆••┈┈┈┈••✩••┈┈┈┈••☆••┈┈┈
+ ┈••✩••┈┈┈┈••✩
+URL:https://www.youtube.com/watch?v=kQv6TjPypfI
+END:VEVENT
+BEGIN:VEVENT
 UID:50504
 SUMMARY:【#にじさんじVパチ】Dブロック枠【にじさんじ/伏
  見ガク】
@@ -2644,6 +2673,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=0fxoqfEhicE\n\nやっぱ無双
  様　\nT.M.BACH　様　\nDOVA-SYNDROME　様\nびたちー素材館 　
  様\n他
 URL:https://www.youtube.com/watch?v=0fxoqfEhicE
+END:VEVENT
+BEGIN:VEVENT
+UID:50546
+SUMMARY:【#にじさんじVパチ】にじぱちぱち【イブラヒム/
+ にじさんじ】
+DTSTART:20210703T092000Z
+DTEND:20210703T102000Z
+DESCRIPTION:https://www.youtube.com/watch?v=bQWGHthDE80\n\nメンバーシ
+ ップ\nhttps://www.youtube.com/channel/UCmZ1Rbthn-6Jm_qOGjYsh5A/join
+URL:https://www.youtube.com/watch?v=bQWGHthDE80
 END:VEVENT
 BEGIN:VEVENT
 UID:50409
@@ -2813,6 +2852,33 @@ DESCRIPTION:https://www.youtube.com/watch?v=VZaObnEq7YI\n\nお待たせし
  わせ・プレゼント送付先：\nhttps://nijisanji.ichikara.co.jp/con
  tact/\n------------------------------------------------\n#ゲーム
 URL:https://www.youtube.com/watch?v=VZaObnEq7YI
+END:VEVENT
+BEGIN:VEVENT
+UID:50475
+SUMMARY:【Virtual to LIVE（covered by #SMC組）】2周年ありがとう
+ ！#すめし2周年 【にじさんじ /夜見れな・加賀美ハヤト
+ ・葉加瀬冬雪】
+DTSTART:20210703T133000Z
+DTEND:20210703T143000Z
+DESCRIPTION:https://www.youtube.com/watch?v=MpPoKAoMH00\n\n7月3日にラ
+ イバーとして活動をしはじめ2年が経ちました。\n私た
+ ちは同期としてSMC組でここまで活動ができたのも応援
+ してくれるみんながいてくれるからだと思ってるよ。\n
+ ほんとうにありがとう。\nこれからも、沢山の思い出を
+ みんなと作っていきたいな。\n今後とも、SMC組をよろし
+ くおねがいします！！！！\n\n本家：Virtual to LIVE [Official
+  Music Video] \nhttps://www.youtube.com/watch?v=zPMWAj54Seg&t=0s\n\nMIX：
+ かずぺそ（@kazupeso88）\nhttps://twitter.com/kazupeso88\n\nMOVIE：
+ しゃもじ-Syamo.G-（@syamoji_0114 ）\nhttps://twitter.com/syamoji_011
+ 4\n\nMaine  illust：魔界の住民（@makaiJ）\nhttps://twitter.com/mak
+ aiJ\n\nVocal：【SMC組】\n\n葉加瀬冬雪\nhttps://www.youtube.com/ch
+ annel/UCGYAYLDE7TZiiC8U6teciDQ/?sub_confirmation=1\nhttps://twitter.com/ha
+ kase_fuyuki\n\n夜見れな\nhttps://www.youtube.com/channel/UCL34fAoFim9o
+ HLbVzMKFavQ/?sub_confirmation=1\nhttps://twitter.com/rena_yorumi\n\n加賀
+ 美ハヤト\nhttps://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ?sub
+ _confirmation=1\nhttps://twitter.com/H_KAGAMI2434\n\nSpecial Thanks\nフ
+ ァンアートを描いてくれたみんな♥
+URL:https://www.youtube.com/watch?v=MpPoKAoMH00
 END:VEVENT
 BEGIN:VEVENT
 UID:50544
