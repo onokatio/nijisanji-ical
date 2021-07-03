@@ -2946,22 +2946,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=-nZiqMjB8Yk\n\nウーパール
 URL:https://www.youtube.com/watch?v=-nZiqMjB8Yk
 END:VEVENT
 BEGIN:VEVENT
-UID:50504
-SUMMARY:【#にじさんじVパチ】Dブロック枠【にじさんじ/伏
- 見ガク】
-DTSTART:20210703T092000Z
-DTEND:20210703T102000Z
-DESCRIPTION:https://www.youtube.com/watch?v=0fxoqfEhicE\n\nやっぱ無双
- って言わせてくれ！！！！！出ろ！！！！！！\n\nピー
- ス！！\n\nにじさんじ所属バーチャルライバー、伏見ガ
- クっす！！\nサクっとガクって呼んじゃってー🕺\n\n\nTw
- itterは以下より！\nhttps://twitter.com/gaku_fushimi\n\nにじさん
- じはこちらから\nhttp://nijisanji.ichikara.co.jp\n\n\n魔王魂　
- 様　\nT.M.BACH　様　\nDOVA-SYNDROME　様\nびたちー素材館 　
- 様\n他
-URL:https://www.youtube.com/watch?v=0fxoqfEhicE
-END:VEVENT
-BEGIN:VEVENT
 UID:50550
 SUMMARY:【#にじさんじVパチ】夢の中でパチンコする【に
  じさんじ/月ノ美兎】
@@ -2988,6 +2972,22 @@ DESCRIPTION:https://www.youtube.com/watch?v=vs8VJItMFGA\n\nなんも分か
  m … https://youtu.be/m8gXH_AG48Y\n\n\n#笹らいぶ でtweetしてね。
  \n\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧
 URL:https://www.youtube.com/watch?v=vs8VJItMFGA
+END:VEVENT
+BEGIN:VEVENT
+UID:50504
+SUMMARY:【#にじさんじVパチ】Dブロック枠【にじさんじ/伏
+ 見ガク】
+DTSTART:20210703T095000Z
+DTEND:20210703T105000Z
+DESCRIPTION:https://www.youtube.com/watch?v=0fxoqfEhicE\n\nやっぱ無双
+ って言わせてくれ！！！！！出ろ！！！！！！\n\nピー
+ ス！！\n\nにじさんじ所属バーチャルライバー、伏見ガ
+ クっす！！\nサクっとガクって呼んじゃってー🕺\n\n\nTw
+ itterは以下より！\nhttps://twitter.com/gaku_fushimi\n\nにじさん
+ じはこちらから\nhttp://nijisanji.ichikara.co.jp\n\n\n魔王魂　
+ 様　\nT.M.BACH　様　\nDOVA-SYNDROME　様\nびたちー素材館 　
+ 様\n他
+URL:https://www.youtube.com/watch?v=0fxoqfEhicE
 END:VEVENT
 BEGIN:VEVENT
 UID:50546
