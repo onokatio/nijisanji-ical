@@ -2169,22 +2169,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=x03G2Q3qjWY\n\n7/3の 12時～
 URL:https://www.youtube.com/watch?v=x03G2Q3qjWY
 END:VEVENT
 BEGIN:VEVENT
-UID:50535
-SUMMARY:【#にじさんじVパチ】パチって深い...！！にじパ
- チ予選【長尾景/にじさんじ】
-DTSTART:20210703T030000Z
-DTEND:20210703T040000Z
-DESCRIPTION:https://www.youtube.com/watch?v=p0gkFf_RKls\n\nよせんかい
- ～～！！\n\n【Twitter】\n@kei_nagao2434\n\n-------------------------
- --------------------------------------------------------------------------
- ------\n\n【公式Twitter】\n@nijisanji_app\n\n【公式HP】\nhttps://w
- ww.nijisanji.jp\n\n【公式オンラインショップ】\nhttps://nijisa
- nji.booth.pm/\n\n---------------------------------------------------------
- ------------------------------------------------\n\n【お問い合わせ
- はこちらまで】\nhttps://www.nijisanji.jp/contact
-URL:https://www.youtube.com/watch?v=p0gkFf_RKls
-END:VEVENT
-BEGIN:VEVENT
 UID:50527
 SUMMARY:【#にじさんじVパチ】すべてを捻じ伏せ、オレは
  勝つ……！【神田笑一/にじさんじ】
@@ -2239,6 +2223,22 @@ DESCRIPTION:https://www.youtube.com/watch?v=UC26INR6sUw\n\n配信タグは
  じさんじ公式HP\nhttps://nijisanji.ichikara.co.jp/\n\nーーー\n#に
  じさんじ　#えまおうがすと
 URL:https://www.youtube.com/watch?v=UC26INR6sUw
+END:VEVENT
+BEGIN:VEVENT
+UID:50535
+SUMMARY:【#にじさんじVパチ】パチって深い...！！にじパ
+ チ予選【長尾景/にじさんじ】
+DTSTART:20210703T032000Z
+DTEND:20210703T042000Z
+DESCRIPTION:https://www.youtube.com/watch?v=p0gkFf_RKls\n\nよせんかい
+ ～～！！\n\n【Twitter】\n@kei_nagao2434\n\n-------------------------
+ --------------------------------------------------------------------------
+ ------\n\n【公式Twitter】\n@nijisanji_app\n\n【公式HP】\nhttps://w
+ ww.nijisanji.jp\n\n【公式オンラインショップ】\nhttps://nijisa
+ nji.booth.pm/\n\n---------------------------------------------------------
+ ------------------------------------------------\n\n【お問い合わせ
+ はこちらまで】\nhttps://www.nijisanji.jp/contact
+URL:https://www.youtube.com/watch?v=p0gkFf_RKls
 END:VEVENT
 BEGIN:VEVENT
 UID:50537
@@ -2342,6 +2342,30 @@ DESCRIPTION:https://www.youtube.com/watch?v=HR0mBcsu2Yg\n\n■□━━━
 URL:https://www.youtube.com/watch?v=HR0mBcsu2Yg
 END:VEVENT
 BEGIN:VEVENT
+UID:50539
+SUMMARY:【#にじさんじVパチ】予選Bブロック 休日なのでパ
+ チ打って過ごします【にじさんじ/愛園愛美】
+DTSTART:20210703T050000Z
+DTEND:20210703T060000Z
+DESCRIPTION:https://www.youtube.com/watch?v=KYSkx9kZYLs\n\n全回転！！
+ 全回転！！！！\n\n※ミッションビンゴというものがあ
+ り、条件満たすと特別ポイントがもらえるのですが、
+ 超初心者なのでもし知らぬ間に条件満たしてたら教え
+ てくださるととても助かります！！！\nミッションビン
+ ゴは画面上に表示します！\n\n本配信はこちら\nhttps://www
+ .youtube.com/watch?v=x03G2Q3qjWY\n\n\n\n\n\nメンバー加入はこちら
+ から！\nhttps://www.youtube.com/channel/UC0WwEfE-jOM2rzjpdfhTzZA/join\n
+ \n\n【Twitter】\n　https://twitter.com/manami_aizono\n\n【配信タグ
+ 】\n愛ライブ\n\n【公式オンラインショップ】\nhttps://niji
+ sanji.booth.pm/\n\n【にじさんじ公式Twitter】\nhttps://twitter.com
+ /nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公式HP】\nht
+ tps://nijisanji.ichikara.co.jp/\n\nファンレターの送り先は下記
+ をご確認ください。\nhttps://nijisanji.ichikara.co.jp/contact/\n\n
+ 【お問い合わせ】\noffer@ichikara.co.jp\n\n#ゲーム #愛園愛美
+  #にじさんじ #Vtuber
+URL:https://www.youtube.com/watch?v=KYSkx9kZYLs
+END:VEVENT
+BEGIN:VEVENT
 UID:50471
 SUMMARY:【#にじさんじVパチ】にじさんじバーチャルパチ
  ンコ大会 予選Bブロック舞元枠【にじさんじ/舞元啓介
@@ -2351,6 +2375,44 @@ DTEND:20210703T062000Z
 DESCRIPTION:https://www.youtube.com/watch?v=HvdxkN2fJdA\n\nガチの立ち
  回り見せたんよ！！！！！！
 URL:https://www.youtube.com/watch?v=HvdxkN2fJdA
+END:VEVENT
+BEGIN:VEVENT
+UID:50538
+SUMMARY:【#にじさんじVパチ/予選Bブロック】ばちぼこに楽
+ しむ！！【にじさんじ/轟京子】
+DTSTART:20210703T052000Z
+DTEND:20210703T062000Z
+DESCRIPTION:https://www.youtube.com/watch?v=pk7gD0m4KZY\n\n#にじさんじ
+ Vパチ 予選Bブロック轟京子視点です！\n\nパチンコド初
+ 心者なので、とりあえず缶ビール用意しておこうかな\n
+ 細かいことはよくわからないけど、とりま楽しむべ！\n
+ \n実況枠：https://www.youtube.com/watch?v=x03G2Q3qjWY\n\n-------------
+ -------------------------------------------------------------------------\
+ n▼とどろききょうこのいろいろ▼\nちょりーっす！私
+ は轟京子２1歳！華の社会人！\n将来の夢は自分のブラ
+ ンドを立ち上げることなんだ！\n皆に元気を届け、カワ
+ イイを発信していくよ！\n\n【活動】\nお絵かき・ゲー
+ ム・企画など生配信をメインに活動を行ってるよ！\nデ
+ ザインすることも大好きで、オリジナルのグッズを制
+ 作し、boothでも販売しています。\n併せてtwitterのフォロ
+ ーもしてくださるとうれしいです！\n\n【リンク】\n●
+ チャンネル登録はこちらから！: https://www.youtube.com/channe
+ l/UCRV9...\n●twitter:　https://twitter.com/KT_seeds\n●オリジナル
+ グッズ・ボイスも売ってるよ！：https://shop.nijisanji.jp/\n\
+ n【スパチャについて】\n配信のテンポを保持したいの
+ で、配信の最後にお礼をさせていただきますが、\nスパ
+ チャによるコメントはリアルタイムに拾っていきたい
+ と思っています！\n------------------------------------------------
+ ---------------------------------------------------------\n【お手紙等
+ 】\nお手紙や贈り物等を送ってくださり、ありがとうご
+ ざいます！\n直接的なお礼が言えず申し訳ないのですが
+ ！すべてのお手紙はしっかりと！目を通してファイリ
+ ングしております！\n「元気をもらっています！」「好
+ きです！」という言葉は京子の活動の大きな励みです
+ ！\n本当にありがとうございます！これからも頑張って
+ いくぜ！\n\n＜お問い合わせ・お手紙等はこちら＞\nhttps
+ ://www.nijisanji.jp/contact\n\n\n#にじさんじ
+URL:https://www.youtube.com/watch?v=pk7gD0m4KZY
 END:VEVENT
 BEGIN:VEVENT
 UID:50492
@@ -2392,6 +2454,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=nil_FDG42ko\n\nにじさんじ
  DOVA-SYNDROME\nED  noaon @noa_sound\n\n【翻訳】\nFariz Yulianto/Darche
  al(ダーシール)@Faleith_July\nET\n\nThanks!!!!!!
 URL:https://www.youtube.com/watch?v=nil_FDG42ko
+END:VEVENT
+BEGIN:VEVENT
+UID:50540
+SUMMARY:【#にじさんじVパチ】予選グループC渋谷ハジメ視
+ 点【渋谷ハジメ/にじさんじ】
+DTSTART:20210703T070000Z
+DTEND:20210703T080000Z
+DESCRIPTION:https://www.youtube.com/watch?v=jf7A1iTXqd8\n\n玉を弾くの
+ は得意だぜ？
+URL:https://www.youtube.com/watch?v=jf7A1iTXqd8
 END:VEVENT
 BEGIN:VEVENT
 UID:50528
@@ -2647,33 +2719,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=gWr7mvdsc0A\n\nヨシヨシ✋\
 URL:https://www.youtube.com/watch?v=gWr7mvdsc0A
 END:VEVENT
 BEGIN:VEVENT
-UID:50529
-SUMMARY:【マイクラ】カンカンカン！採掘しながらまった
- りマイクラ【#はあとファミリー】
-DTSTART:20210703T120000Z
-DTEND:20210703T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=zT1uiJpKZOs\n\nはあとファ
- ミリーマイクラ5日目！！\n\n\n【マイクラ再生リスト】\
- nhttps://youtube.com/playlist?list=PLeNz_mpnl9ibL9rzrET6eiRJBH3lkIerr\n\n
- メルベルちゃんツイッター\nhttps://twitter.com/MELBELL_door\n
- りくろま公式ちゃんねる\nhttps://www.youtube.com/channel/UCo_f6e
- PUcjxAQdyW7Pl9z0A\n\nサムネイルはあとさん\nhttps://twitter.com/h
- eatinazuma\n\nBGM：トーマス大森音楽工房\nhttps://www.youtube.co
- m/c/freemusicth...\n\n🍑------------------------------------------------
- -------------\n\nメンバーシップ https://www.youtube.com/channel/UC6
- TfqY40Xt1Y0J-N18c85qQ/join\n\n🍑----------------------------------------
- ---------------------\n\nTwitter https://twitter.com/momo_azuchi_\n\nTwitt
- er(Sub) https://twitter.com/kani_carnival_\n　\n\n🍑-------------------
- ------------------------------------------\n\nマシュマロ　https://ma
- rshmallow-qa.com/momo_aduchi\n\n🍑--------------------------------------
- -----------------------\nにじさんじ公式Twitter\nhttps://twitter.com
- /nijisanji_app\n《@nijisanji_app 》\n\nにじさんじ公式HP\nhttps://
- www.nijisanji.jp\n\nにじさんじオフィシャルストア\nhttps://sh
- op.nijisanji.jp/s/niji/\n🍑---------------------------------------------
- ----------------
-URL:https://www.youtube.com/watch?v=zT1uiJpKZOs
-END:VEVENT
-BEGIN:VEVENT
 UID:50449
 SUMMARY:【キャプテン翼 RISE OF NEW CHAMPIONS #最終回】ありが
  とうJ BOYSサッカー【にじさんじ/社築】
@@ -2690,33 +2735,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=VZaObnEq7YI\n\nお待たせし
  わせ・プレゼント送付先：\nhttps://nijisanji.ichikara.co.jp/con
  tact/\n------------------------------------------------\n#ゲーム
 URL:https://www.youtube.com/watch?v=VZaObnEq7YI
-END:VEVENT
-BEGIN:VEVENT
-UID:50475
-SUMMARY:【Virtual to LIVE（covered by #SMC組）】2周年ありがとう
- ！#すめし2周年 【にじさんじ /夜見れな・加賀美ハヤト
- ・葉加瀬冬雪】
-DTSTART:20210703T133000Z
-DTEND:20210703T143000Z
-DESCRIPTION:https://www.youtube.com/watch?v=MpPoKAoMH00\n\n7月3日にラ
- イバーとして活動をしはじめ2年が経ちました。\n私た
- ちは同期としてSMC組でここまで活動ができたのも応援
- してくれるみんながいてくれるからだと思ってるよ。\n
- ほんとうにありがとう。\nこれからも、沢山の思い出を
- みんなと作っていきたいな。\n今後とも、SMC組をよろし
- くおねがいします！！！！\n\n本家：Virtual to LIVE [Official
-  Music Video] \nhttps://www.youtube.com/watch?v=zPMWAj54Seg&t=0s\n\nMIX：
- かずぺそ（@kazupeso88）\nhttps://twitter.com/kazupeso88\n\nMOVIE：
- しゃもじ-Syamo.G-（@syamoji_0114 ）\nhttps://twitter.com/syamoji_011
- 4\n\nMaine  illust：魔界の住民（@makaiJ）\nhttps://twitter.com/mak
- aiJ\n\nVocal：【SMC組】\n\n葉加瀬冬雪\nhttps://www.youtube.com/ch
- annel/UCGYAYLDE7TZiiC8U6teciDQ/?sub_confirmation=1\nhttps://twitter.com/ha
- kase_fuyuki\n\n夜見れな\nhttps://www.youtube.com/channel/UCL34fAoFim9o
- HLbVzMKFavQ/?sub_confirmation=1\nhttps://twitter.com/rena_yorumi\n\n加賀
- 美ハヤト\nhttps://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ?sub
- _confirmation=1\nhttps://twitter.com/H_KAGAMI2434\n\nSpecial Thanks\nフ
- ァンアートを描いてくれたみんな♥
-URL:https://www.youtube.com/watch?v=MpPoKAoMH00
 END:VEVENT
 BEGIN:VEVENT
 UID:50493
