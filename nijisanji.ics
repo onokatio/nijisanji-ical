@@ -2790,26 +2790,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=9vykCK3IcyM\n\n毎日配信し
 URL:https://www.youtube.com/watch?v=9vykCK3IcyM
 END:VEVENT
 BEGIN:VEVENT
-UID:50547
-SUMMARY:【アベマズカップ】麻雀大会のお時間だ！おい、
- 多井隆晴ぶちのめしてやる！【#雀魂 /にじさんじ郡道
- 美玲】
-DTSTART:20210703T080000Z
-DTEND:20210703T090000Z
-DESCRIPTION:https://www.youtube.com/watch?v=hZi3xiwzLuA\n\n敵が #渋谷AB
- EMAS だからってひよってるやついる！？\n居ねぇよなあ
- ああああああああああああああああああああああああ
- ああああああああああああああああああああああああ
- ああああああああああああああああああああああああ
- ああああああああああああああああああああああああ
- ああああああああああ\n\n本配信\nhttps://youtu.be/8VwqqSqRsUE\
- n\n出演者一覧(※敬称略)\n渋谷ABEMAS：#多井隆晴 #松本吉
- 弘 #日向藍子\nMC：#小林未沙\nゲスト：#天開司 #郡道美
- 玲 #咲乃もこ\n\nチャンネル登録宜しくお願い致します
- 。
-URL:https://www.youtube.com/watch?v=hZi3xiwzLuA
-END:VEVENT
-BEGIN:VEVENT
 UID:50548
 SUMMARY:【#にじさんじVパチ】にじさんじバーチャルパチ
  ンコ大会　実況枠【にじさんじ/舞元啓介】
@@ -2913,6 +2893,44 @@ DESCRIPTION:https://www.youtube.com/watch?v=QNJIyRSViBY\n\nサムネ：ニ
  せ・プレゼント送付先：\nhttps://nijisanji.ichikara.co.jp/contac
  t/\n------------------------------------------------
 URL:https://www.youtube.com/watch?v=QNJIyRSViBY
+END:VEVENT
+BEGIN:VEVENT
+UID:50547
+SUMMARY:【アベマズカップ】麻雀大会のお時間だ！おい、
+ 多井隆晴ぶちのめしてやる！【#雀魂 /にじさんじ郡道
+ 美玲】
+DTSTART:20210703T082500Z
+DTEND:20210703T092500Z
+DESCRIPTION:https://www.youtube.com/watch?v=hZi3xiwzLuA\n\n敵が #渋谷AB
+ EMAS だからってひよってるやついる！？\n居ねぇよなあ
+ ああああああああああああああああああああああああ
+ ああああああああああああああああああああああああ
+ ああああああああああああああああああああああああ
+ ああああああああああああああああああああああああ
+ ああああああああああ\n\n本配信\nhttps://youtu.be/8VwqqSqRsUE\
+ n\n出演者一覧(※敬称略)\n渋谷ABEMAS：#多井隆晴 #松本吉
+ 弘 #日向藍子\nMC：#小林未沙\nゲスト：#天開司 #郡道美
+ 玲 #咲乃もこ\n\nチャンネル登録宜しくお願い致します
+ 。
+URL:https://www.youtube.com/watch?v=hZi3xiwzLuA
+END:VEVENT
+BEGIN:VEVENT
+UID:50452
+SUMMARY:メンタルチェンソー／星川サラ＆樋口楓【歌って
+ みた】
+DTSTART:20210703T090000Z
+DTEND:20210703T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=kQv6TjPypfI\n\nかえで先輩
+ に「は？」って言われたい。\n\n歌：#でろさら\n@樋口楓
+ 【にじさんじ所属】 \n@HiguchiKaede\n\n@星川サラ / Sara Hoshik
+ awa \n@Sara_Hoshikawa\n\n☆••┈┈┈┈••✩••┈┈┈┈
+ ••☆••┈┈┈┈••✩••┈┈┈┈••✩\n素敵な
+ 本家様：\n(P丸様。ver)\nhttps://youtu.be/bhjNyUPFCyk\n(ボカロver
+ )\nhttps://youtu.be/HbSMzi9niVg\n\nillust：山吹色様　@bukiiro\nMovie
+ ：鳴宮ユキ様　@Snow_Rabbit_yy\nMix：ぴろぱる様　@PIROPARU\n
+ ☆••┈┈┈┈••✩••┈┈┈┈••☆••┈┈┈
+ ┈••✩••┈┈┈┈••✩
+URL:https://www.youtube.com/watch?v=kQv6TjPypfI
 END:VEVENT
 BEGIN:VEVENT
 UID:50555
@@ -3197,6 +3215,33 @@ DESCRIPTION:https://www.youtube.com/watch?v=VZaObnEq7YI\n\nお待たせし
  わせ・プレゼント送付先：\nhttps://nijisanji.ichikara.co.jp/con
  tact/\n------------------------------------------------\n#ゲーム
 URL:https://www.youtube.com/watch?v=VZaObnEq7YI
+END:VEVENT
+BEGIN:VEVENT
+UID:50475
+SUMMARY:【Virtual to LIVE（covered by #SMC組）】2周年ありがとう
+ ！#すめし2周年 【にじさんじ /夜見れな・加賀美ハヤト
+ ・葉加瀬冬雪】
+DTSTART:20210703T133000Z
+DTEND:20210703T143000Z
+DESCRIPTION:https://www.youtube.com/watch?v=MpPoKAoMH00\n\n7月3日にラ
+ イバーとして活動をしはじめ2年が経ちました。\n私た
+ ちは同期としてSMC組でここまで活動ができたのも応援
+ してくれるみんながいてくれるからだと思ってるよ。\n
+ ほんとうにありがとう。\nこれからも、沢山の思い出を
+ みんなと作っていきたいな。\n今後とも、SMC組をよろし
+ くおねがいします！！！！\n\n本家：Virtual to LIVE [Official
+  Music Video] \nhttps://www.youtube.com/watch?v=zPMWAj54Seg&t=0s\n\nMIX：
+ かずぺそ（@kazupeso88）\nhttps://twitter.com/kazupeso88\n\nMOVIE：
+ しゃもじ-Syamo.G-（@syamoji_0114 ）\nhttps://twitter.com/syamoji_011
+ 4\n\nMaine  illust：魔界の住民（@makaiJ）\nhttps://twitter.com/mak
+ aiJ\n\nVocal：【SMC組】\n\n葉加瀬冬雪\nhttps://www.youtube.com/ch
+ annel/UCGYAYLDE7TZiiC8U6teciDQ/?sub_confirmation=1\nhttps://twitter.com/ha
+ kase_fuyuki\n\n夜見れな\nhttps://www.youtube.com/channel/UCL34fAoFim9o
+ HLbVzMKFavQ/?sub_confirmation=1\nhttps://twitter.com/rena_yorumi\n\n加賀
+ 美ハヤト\nhttps://www.youtube.com/channel/UCmovZ2th3Sqpd00F5RdeigQ?sub
+ _confirmation=1\nhttps://twitter.com/H_KAGAMI2434\n\nSpecial Thanks\nフ
+ ァンアートを描いてくれたみんな♥
+URL:https://www.youtube.com/watch?v=MpPoKAoMH00
 END:VEVENT
 BEGIN:VEVENT
 UID:50554
