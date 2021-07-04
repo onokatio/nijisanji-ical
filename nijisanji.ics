@@ -2680,35 +2680,22 @@ SUMMARY:【歌枠】突然歌いたくなることってあるよね。【
  にじさんじ/東堂コハク】
 DTSTART:20210704T070000Z
 DTEND:20210704T080000Z
-DESCRIPTION:https://www.youtube.com/watch?v=FEBIpVppneE\n\nーーーーー
- ーーーーーーーーーーーーーーーーーーーーーーーー
- ー\n\n歌とスプラトゥーンが大好きな高校三年生です！
- ！！\n世怜音女学院演劇同好会、に所属しています。\n
- 見に来てくれた人がポジティブに、楽しく、笑顔にな
- れる配信を目指します！\nチャンネル登録、Twitterフォ
- ローよろしくお願いしますね♪\n\n\n\n2つのプランから
- メンバーシップ入れます！\nhttps://www.youtube.com/channel/UCeb
- T4Aq-3XWb5je1S1FvR_A/join\n\n\n‣Youtubeチャンネル\nhttps://www.yout
- ube.com/channel/UCebT...\n\n‣Twitter\nhttps://twitter.com/kohaku_todo\n\
- n‣にじさんじ公式Twitter \nhttps://twitter.com/nijisanji_app\n\n
- ‣にじさんじ公式HP\n https://nijisanji.ichikara.co.jp/\n\n‣フ
- ァンレターやお問い合わせはコチラから \nhttps://nijisanji
- .ichikara.co.jp/cont...
+DESCRIPTION:https://www.youtube.com/watch?v=FEBIpVppneE\n\n歌に関する
+ 感想は #コハクうた でつぶやいてくれると嬉しい～！\n
+ \nーーーーーーーーーーーーーーーーーーーーーーーー
+ ーーーーーー\n\n歌とスプラトゥーンが大好きな高校三
+ 年生です！！！\n世怜音女学院演劇同好会、に所属して
+ います。\n見に来てくれた人がポジティブに、楽しく、
+ 笑顔になれる配信を目指します！\nチャンネル登録、Twi
+ tterフォローよろしくお願いしますね♪\n\n\n\n2つのプラ
+ ンからメンバーシップ入れます！\nhttps://www.youtube.com/cha
+ nnel/UCebT4Aq-3XWb5je1S1FvR_A/join\n\n\n‣Youtubeチャンネル\nhttps:/
+ /www.youtube.com/channel/UCebT...\n\n‣Twitter\nhttps://twitter.com/kohak
+ u_todo\n\n‣にじさんじ公式Twitter \nhttps://twitter.com/nijisanji_
+ app\n\n‣にじさんじ公式HP\n https://nijisanji.ichikara.co.jp/\n\n
+ ‣ファンレターやお問い合わせはコチラから \nhttps://nij
+ isanji.ichikara.co.jp/cont...
 URL:https://www.youtube.com/watch?v=FEBIpVppneE
-END:VEVENT
-BEGIN:VEVENT
-UID:50594
-SUMMARY:【#にじさんじVパチ】休日にパチンコを打つJK～な
- ぜか本選にきた編～【本間ひまわり/にじさんじ】
-DTSTART:20210704T075000Z
-DTEND:20210704T085000Z
-DESCRIPTION:https://www.youtube.com/watch?v=MLd5ev8pkZc\n\nどうしてあ
- たしが・・・ここに？\n\n📺YouTube\nhttps://www.youtube.com/cha
- nnel/UC0g1AE0DOjBYnLhkgoRWN1w?sub_confirmation=1\n\n🐓Twitter \nhttps://
- twitter.com/honmahimawari\n\n🌻放送ハッシュタグ　#ひま生\n
- 🌻ファンアートタグ　#ひまあーと\n🌻わたしのなまえ
- 　#本間ひまわり
-URL:https://www.youtube.com/watch?v=MLd5ev8pkZc
 END:VEVENT
 BEGIN:VEVENT
 UID:50496
@@ -2808,6 +2795,20 @@ DESCRIPTION:https://www.youtube.com/watch?v=e1rB1suDa6Q\n\nダンバイン
  ijisanji.ichikara.co.jp/contact/\n\n【お問い合わせ】\noffer@ichika
  ra.co.jp\n\n#ゲーム #愛園愛美 #にじさんじ #Vtuber
 URL:https://www.youtube.com/watch?v=e1rB1suDa6Q
+END:VEVENT
+BEGIN:VEVENT
+UID:50594
+SUMMARY:【#にじさんじVパチ】休日にパチンコを打つJK～な
+ ぜか本選にきた編～【本間ひまわり/にじさんじ】
+DTSTART:20210704T081000Z
+DTEND:20210704T091000Z
+DESCRIPTION:https://www.youtube.com/watch?v=MLd5ev8pkZc\n\nどうしてあ
+ たしが・・・ここに？\n\n📺YouTube\nhttps://www.youtube.com/cha
+ nnel/UC0g1AE0DOjBYnLhkgoRWN1w?sub_confirmation=1\n\n🐓Twitter \nhttps://
+ twitter.com/honmahimawari\n\n🌻放送ハッシュタグ　#ひま生\n
+ 🌻ファンアートタグ　#ひまあーと\n🌻わたしのなまえ
+ 　#本間ひまわり
+URL:https://www.youtube.com/watch?v=MLd5ev8pkZc
 END:VEVENT
 BEGIN:VEVENT
 UID:50596
