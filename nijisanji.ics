@@ -2858,6 +2858,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=zwm44Wj_e_U\n\n開始時間は
 URL:https://www.youtube.com/watch?v=zwm44Wj_e_U
 END:VEVENT
 BEGIN:VEVENT
+UID:50598
+SUMMARY:【#にじさんじVパチ】本戦出場！夢の中でパチン
+ コする【にじさんじ/月ノ美兎】
+DTSTART:20210704T081000Z
+DTEND:20210704T091000Z
+DESCRIPTION:https://www.youtube.com/watch?v=vnZiI-_6uFU\n\nまさかの本
+ 戦出場！！\n↓ここが本配信！\nhttps://www.youtube.com/watch?v
+ =OACirC9KcAg\n\n月ノ美兎のTwitter（配信予定等はこちらで呟
+ いています！）\nhttps://twitter.com/MitoTsukino
+URL:https://www.youtube.com/watch?v=vnZiI-_6uFU
+END:VEVENT
+BEGIN:VEVENT
 UID:50488
 SUMMARY:【#にじさんじVパチ】にじさんじバーチャルパチ
  ンコ大会　ED枠【にじさんじ/伏見ガク】
