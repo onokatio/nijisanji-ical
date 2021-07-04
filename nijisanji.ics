@@ -2879,32 +2879,28 @@ BEGIN:VEVENT
 UID:50488
 SUMMARY:【#にじさんじVパチ】にじさんじバーチャルパチ
  ンコ大会　決勝戦枠【にじさんじ/伏見ガク】
-DTSTART:20210704T102000Z
-DTEND:20210704T112000Z
+DTSTART:20210704T105000Z
+DTEND:20210704T115000Z
 DESCRIPTION:https://www.youtube.com/watch?v=7MFFsSuUZYY\n\n7/4の 12時～
- の#にじさんじVパチ 二日目の枠となっています！\n\n\n
- ＜スケジュール(予定です)＞ \nオープニング 12:00 \nEブ
- ロック試合開始 12:30\nEブロック試合終了 14:00\nEブロッ
- ク終了、幕間 14:10\n\n本戦A試合枠再開 14:20\n本戦A試合開
- 始 14:30\n本戦A試合終了 16:30\n本戦A終了、幕間 16:40\n\n本
- 戦B試合枠再開 16:50\n本戦B試合開始 17:00\n本戦B試合終了 
- 19:00\n本戦B終了、幕間 19:10\n\n決勝試合枠再開 19:20 \n決
- 勝試合開始 19:50 \n決勝試合終了 21:50 \n決勝終了、幕間 2
- 2:00 \n\n\n＜出演者＞\n@舞元啓介 \n@イブラヒム【にじさ
- んじ】 \n@伏見ガク【にじさんじ所属】 \n\nゲスト解説
- の上乗恋さんのチャンネル・Twitterはこちら！\nhttps://www
- .youtube.com/channel/UCVXGiGSzuMJr-FdKZq3mOzg\nhttps://twitter.com/Kamijo_
- Ren\n\n＜本戦Aブロック＞\n@長尾 景 / Nagao Kei【にじさん
- じ】 \n@渋谷ハジメのはじめ支部 \n@椎名唯華 / Shiina Yuika
-  \n@イブラヒム【にじさんじ】 \n\n＜本戦Bブロック＞\n@
- エルフのえる / にじさんじ所属 \n@月ノ美兎 \n@本間ひま
- わり - Himawari Honma - \n@愛園 愛美/Aizono Manami \n\n＜決勝ブ
- ロック＞\n@渋谷ハジメのはじめ支部 \n？？？\n？？？\n\
- n結果分かり次第更新します！\n\nピース！！\n\nにじさ
- んじ所属バーチャルライバー、伏見ガクっす！！\nサク
- っとガクって呼んじゃってー🕺\n\n\nTwitterは以下より！
- \nhttps://twitter.com/gaku_fushimi\n\nにじさんじはこちらから\nh
- ttp://nijisanji.ichikara.co.jp
+ の#にじさんじVパチ 決勝戦の枠となっています！\n\n＜
+ 出演者＞\n@舞元啓介 \n@イブラヒム【にじさんじ】 \n@伏
+ 見ガク【にじさんじ所属】 \n\nゲスト解説の上乗恋さん
+ のチャンネル・Twitterはこちら！\nhttps://www.youtube.com/chann
+ el/UCVXGiGSzuMJr-FdKZq3mOzg\nhttps://twitter.com/Kamijo_Ren\n\n＜決勝
+ 戦進出者＞\n@渋谷ハジメのはじめ支部 \n@月ノ美兎 \n@椎
+ 名唯華 / Shiina Yuika \n\n---------------------------------------------
+ ---\n＜スケジュール(予定です)＞ \nオープニング 12:00 \nE
+ ブロック試合開始 12:30\nEブロック試合終了 14:00\nEブロ
+ ック終了、幕間 14:10\n\n本戦A試合枠再開 14:20\n本戦A試合
+ 開始 14:30\n本戦A試合終了 16:30\n本戦A終了、幕間 16:40\n\n
+ 本戦B試合枠再開 16:50\n本戦B試合開始 17:00\n本戦B試合終
+ 了 19:00\n本戦B終了、幕間 19:10\n\n決勝試合枠再開 19:20 \n
+ 決勝試合開始 19:50 \n決勝試合終了 21:50 \n決勝終了、幕
+ 間 22:00 \n\n\n結果分かり次第更新します！\n\nピース！！
+ \n\nにじさんじ所属バーチャルライバー、伏見ガクっす
+ ！！\nサクっとガクって呼んじゃってー🕺\n\n\nTwitterは
+ 以下より！\nhttps://twitter.com/gaku_fushimi\n\nにじさんじはこ
+ ちらから\nhttp://nijisanji.ichikara.co.jp
 URL:https://www.youtube.com/watch?v=7MFFsSuUZYY
 END:VEVENT
 BEGIN:VEVENT
@@ -3386,6 +3382,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=IQKvLRJHwbE\n\nハッピーエ
 URL:https://www.youtube.com/watch?v=IQKvLRJHwbE
 END:VEVENT
 BEGIN:VEVENT
+UID:50618
+SUMMARY:【フォールガイズ】60人でカスタムマッチ?!全員か
+ かってこい!!【にじさんじ/エクスアルビオ】
+DTSTART:20210704T134500Z
+DTEND:20210704T144500Z
+DESCRIPTION:https://www.youtube.com/watch?v=R9OIMbTQww0\n\n
+URL:https://www.youtube.com/watch?v=R9OIMbTQww0
+END:VEVENT
+BEGIN:VEVENT
 UID:50606
 SUMMARY:【歌枠】寝かしつけお歌。〇Singing Stream【町田ち
  ま/にじさんじ】
@@ -3441,6 +3446,33 @@ DTEND:20210704T160000Z
 DESCRIPTION:https://www.youtube.com/watch?v=nbE_pVUah6o\n\nサムネイル
  　めじろ
 URL:https://www.youtube.com/watch?v=nbE_pVUah6o
+END:VEVENT
+BEGIN:VEVENT
+UID:50612
+SUMMARY:【ASMR/binaural】この時間までにおわったらやるやつ
+ 添い寝・【ラトナ・プティ/にじさんじ/Ear Blowing/ear massa
+ ge/Earpick】
+DTSTART:20210704T153000Z
+DTEND:20210704T163000Z
+DESCRIPTION:https://www.youtube.com/watch?v=uiGHvou7w-0\n\nゲーム楽し
+ んできます！\nチャンネル登録・goodボタン・通知おね
+ がいします_(:3 」∠)_\n\n୨୧┈┈┈┈┈┈告知┈┈┈┈
+ ┈┈┈୨୧\n🔴期間限定🔴\n①【ジューンブライドボ
+ イス2021 -】\n◆販売期間： 〜 2021年6月30日(水)23:59\n✩販
+ 売場所🔻\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00396?ima=
+ 0607\n\n🔵常設🔵\n◆ぷTシャツ\nhttps://nijisanji.booth.pm/items
+ /2308895\n◆過去の季節ボイス【2018年10月～2019年11月期間
+ 】\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00326?ima=2838\n୨
+ ୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n■Twitter\nhttps://tw
+ itter.com/ratna_petit\n■メンバーシップ支援\nhttps://www.youtube
+ .com/channel/UCIG9rDtgR45VCZmYnd-4DUw/join\n■お問い合わせやプレ
+ ゼント\nhttps://www.nijisanji.jp/contact\n📪お仕事のご依頼・
+ お問い合わせ\nhttps://www.ichikara.co.jp/contact\n\n୨୧┈┈┈
+ ┈┈┈┈┈┈┈┈┈┈୨୧\n\nサムネはファンアートか
+ ら！ありがとう！☟\n石奇@isiki149\n\n#ラトプテ　#ラトア
+ ート\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n主な使
+ 用BGM\n騒音のない世界
+URL:https://www.youtube.com/watch?v=uiGHvou7w-0
 END:VEVENT
 BEGIN:VEVENT
 UID:50398
@@ -3532,7 +3564,8 @@ URL:https://www.youtube.com/watch?v=3bguO9cdtv8
 END:VEVENT
 BEGIN:VEVENT
 UID:50617
-SUMMARY:【モンストスタジアム】【にじさんじフミ】
+SUMMARY:【モンストスタジアム】優勝候補筆頭のふみのと
+ ふみです！【にじさんじフミ】
 DTSTART:20210705T110000Z
 DTEND:20210705T120000Z
 DESCRIPTION:https://www.youtube.com/watch?v=Lg8VxIyQH9E\n\n主催：XFLAG\n
@@ -3540,55 +3573,52 @@ DESCRIPTION:https://www.youtube.com/watch?v=Lg8VxIyQH9E\n\n主催：XFLAG\n
  リ開催決定！\nhttps://www.monster-strike.com/news/20210625_2.html\n
  公式サイトで優勝予想アンケートも行っています！\n\n
  ▼モンストのダウンロードはこちらから！\nhttps://monster
- strike-app.onelink.me/s009/575d30ef\n\n〜販中のボイス〜\n🎋織
- 姫星のキービジュアル付き🌌\n＃にじさんじ七夕ボイ
- ス2021\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00409?ima=1008\n
- \n＃にじさんじあめもようボイス2021\nhttps://shop.nijisanji.j
- p/s/niji/item/detail/dig-00414?ima=0931\n\n〜メンバー限定で配布
- 中〜\n『番凩』ミリオン記念オリジナル壁紙\nhttps://www.y
- outube.com/channel/UCwrjITPwG4q71HzihV2C7Nw/join\n\n\n●―○―●―
- ○―●―○―●―○―●―○―●―○―●―○―●\n\n
- にじさんじ所属のV(バーチャル)ライバー、フミだぞ。
- バーチャル神社から楽しい時間をお届けします。ゲー
- ムは初心者で不慣れですが楽しくがモットー！\n気に入
- ってくれたらチャンネル登録してまた遊びに来てくだ
- さい。\n\nYouTubeチャンネル\nhttps://www.youtube.com/channel/UCwrj
- ITPwG4q71HzihV2C7Nw?sub_confirmation=1\n\nTwitter\nフミ　にじさん
- じ所属Vライバー＠FumiVirtual 　\nhttps://twitter.com/FumiVirtual\
- n\nマシュマロ(感想やメッセージ)\nhttps://marshmallow-qa.com/f
- umivirtual?utm_medium=url_text&utm_source=promotion\n\nTwitterハッシュ
- タグ\n＃生フミ　配信関連のツイート、切り抜き動画\n
- ＃恋フミ　サムネ等活動でフミが使用してもいいファ
- ンアート\n＃声フミ　ボイスの感想ツイート\n\n🔖メン
- バーシップはじめました🔖\n\n「メンバーシップとは？
- 」\n有料会員になって、チャンネルを支援していただく
- 機能です。月額１９０円でメンバーバッジとスタンプ
- が利用可能になります。\n詳しくは↓\nhttps://www.youtube.co
- m/channel/UCwrjITPwG4q71HzihV2C7Nw/join\n\n●―○―●―○―●―
- ○―●―○―●―○―●―○―●―○―●\n\n～フミの
- 配信を楽しむコツ～\n・全てのスーパーチャットに反応
- できないことがあるが、お名前はまとめて読ませても
- らってるぞ。コメントは見逃してしまうことや偏って
- 拾ってしまうことがあるが善処する。\n・やべぇことし
- てないかチェックするため配信後一度動画を非公開に
- する。アーカイブを上げたらTwitterで報告するから待っ
- てて。\n・基本的にフミはゲーム初心者のため９８％下
- 手プレイだ。カルシウムを摂りながら見るとイライラ
- しにくいぞ。\n・コメント欄での配信に関係のない過度
- な会話はご遠慮ください。\n・ガンダム系のゲームは権
- 利の関係でバトルオペレーション２のみです。\n・コメ
- ント欄で他の方のお名前を出すと、我は嫉妬しちゃう
- ぞ。また、他の方の配信でも、話題に出ていないとき
- はフミの名前を出さないでくれると嬉しいな。\n・以上
- のコツに気づかずやってしまう人がいても、指摘せず
- そっとしておいてね。\n\n●―○―●―○―●―○―●
- ―○―●―○―●―○―●―○―\n\n【にじさんじ関連
- 】\n公式HP　https://www.nijisanji.jp\nTwitter　https://twitter.com/ni
- jisanji_app\nオフィシャルストア　https://shop.nijisanji.jp/s/nij
- i/\n\nお問い合わせはこちらから　https://www.nijisanji.jp/cont
- act　フミ宛へ\n\n●―○―●―○―●―○―●―○―●
- ―○―●―○―●―○―\n\n＃フミ　＃にじさんじ　 #V
- チューバー　＃バーチャルユーチューバー
+ strike-app.onelink.me/s009/575d30ef\n\nコーチの\nけーどら コー
+ チ\nhttps://www.youtube.com/user/danshi5963\nhttps://twitter.com/mnst_kd\
+ n\nペアの\n文野環さん\nhttps://www.youtube.com/channel/UCBiqkFJljo
+ xAj10SoP2w2Cg\nhttps://twitter.com/nekokan_chu\n\n●―○―●―○―
+ ●―○―●―○―●―○―●―○―●―○―●\n\nにじ
+ さんじ所属のV(バーチャル)ライバー、フミだぞ。バー
+ チャル神社から楽しい時間をお届けします。ゲームは
+ 初心者で不慣れですが楽しくがモットー！\n気に入って
+ くれたらチャンネル登録してまた遊びに来てください
+ 。\n\nYouTubeチャンネル\nhttps://www.youtube.com/channel/UCwrjITPwG4
+ q71HzihV2C7Nw?sub_confirmation=1\n\nTwitter\nフミ　にじさんじ所
+ 属Vライバー＠FumiVirtual 　\nhttps://twitter.com/FumiVirtual\n\nマ
+ シュマロ(感想やメッセージ)\nhttps://marshmallow-qa.com/fumivir
+ tual?utm_medium=url_text&utm_source=promotion\n\nTwitterハッシュタグ
+ \n＃生フミ　配信関連のツイート、切り抜き動画\n＃恋
+ フミ　サムネ等活動でフミが使用してもいいファンア
+ ート\n＃声フミ　ボイスの感想ツイート\n\n🔖メンバー
+ シップはじめました🔖\n\n「メンバーシップとは？」\n
+ 有料会員になって、チャンネルを支援していただく機
+ 能です。月額１９０円でメンバーバッジとスタンプが
+ 利用可能になります。\n詳しくは↓\nhttps://www.youtube.com/c
+ hannel/UCwrjITPwG4q71HzihV2C7Nw/join\n\n●―○―●―○―●―○
+ ―●―○―●―○―●―○―●―○―●\n\n～フミの配
+ 信を楽しむコツ～\n・全てのスーパーチャットに反応で
+ きないことがあるが、お名前はまとめて読ませてもら
+ ってるぞ。コメントは見逃してしまうことや偏って拾
+ ってしまうことがあるが善処する。\n・やべぇことして
+ ないかチェックするため配信後一度動画を非公開にす
+ る。アーカイブを上げたらTwitterで報告するから待って
+ て。\n・基本的にフミはゲーム初心者のため９８％下手
+ プレイだ。カルシウムを摂りながら見るとイライラし
+ にくいぞ。\n・コメント欄での配信に関係のない過度な
+ 会話はご遠慮ください。\n・ガンダム系のゲームは権利
+ の関係でバトルオペレーション２のみです。\n・コメン
+ ト欄で他の方のお名前を出すと、我は嫉妬しちゃうぞ
+ 。また、他の方の配信でも、話題に出ていないときは
+ フミの名前を出さないでくれると嬉しいな。\n・以上の
+ コツに気づかずやってしまう人がいても、指摘せずそ
+ っとしておいてね。\n\n●―○―●―○―●―○―●―
+ ○―●―○―●―○―●―○―\n\n【にじさんじ関連】\
+ n公式HP　https://www.nijisanji.jp\nTwitter　https://twitter.com/nijisa
+ nji_app\nオフィシャルストア　https://shop.nijisanji.jp/s/niji/\n
+ \nお問い合わせはこちらから　https://www.nijisanji.jp/contact
+ 　フミ宛へ\n\n●―○―●―○―●―○―●―○―●―
+ ○―●―○―●―○―\n\n＃フミ　＃にじさんじ　 #Vチ
+ ューバー　＃バーチャルユーチューバー
 URL:https://www.youtube.com/watch?v=Lg8VxIyQH9E
 END:VEVENT
 BEGIN:VEVENT
