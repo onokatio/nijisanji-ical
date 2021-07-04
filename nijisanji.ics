@@ -2044,11 +2044,27 @@ DESCRIPTION:https://www.youtube.com/watch?v=LSPYwgzEkjA\n\n配信タグ :#
 URL:https://www.youtube.com/watch?v=LSPYwgzEkjA
 END:VEVENT
 BEGIN:VEVENT
+UID:50574
+SUMMARY:【SHT同時視聴】仮面ライダーセイバー＆ゼンカイ
+ ジャー同時視聴！【神田笑一/にじさんじ】
+DTSTART:20210703T235500Z
+DTEND:20210704T005500Z
+DESCRIPTION:https://www.youtube.com/watch?v=MJvRhK9GSAM\n\nタッセルど
+ うなっちゃうの！！！！\n\n\n\n\n\n□--------------------------
+ -------------------------------■\n\n🍅神田笑一　Twitter🍅\nhttp
+ s://twitter.com/Kanda_Shoichi\n\n■--------------------------------------
+ -------------------□\n\n🌈お問い合わせ・お手紙などはこ
+ ちら🌈\nhttps://www.nijisanji.jp/contact\n\n□-----------------------
+ ----------------------------------■\n#にじさんじ #仮面ライダ
+ ーセイバー #ゼンカイジャー
+URL:https://www.youtube.com/watch?v=MJvRhK9GSAM
+END:VEVENT
+BEGIN:VEVENT
 UID:50579
 SUMMARY:一週間ぶりです(-ω-)/ラトナ・プティ/にじさんじ
  】
-DTSTART:20210703T230000Z
-DTEND:20210704T000000Z
+DTSTART:20210704T003000Z
+DTEND:20210704T013000Z
 DESCRIPTION:https://www.youtube.com/watch?v=Vgd-AAW198s\n\n開始時間は
  これくらい\nチャンネル登録・goodボタン・通知おねが
  いします_(:3 」∠)_\n\n୨୧┈┈┈┈┈┈告知┈┈┈┈┈
@@ -2068,22 +2084,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=Vgd-AAW198s\n\n開始時間は
  ト\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n主な使用
  BGM\n騒音のない世界
 URL:https://www.youtube.com/watch?v=Vgd-AAW198s
-END:VEVENT
-BEGIN:VEVENT
-UID:50574
-SUMMARY:【SHT同時視聴】仮面ライダーセイバー＆ゼンカイ
- ジャー同時視聴！【神田笑一/にじさんじ】
-DTSTART:20210703T235500Z
-DTEND:20210704T005500Z
-DESCRIPTION:https://www.youtube.com/watch?v=MJvRhK9GSAM\n\nタッセルど
- うなっちゃうの！！！！\n\n\n\n\n\n□--------------------------
- -------------------------------■\n\n🍅神田笑一　Twitter🍅\nhttp
- s://twitter.com/Kanda_Shoichi\n\n■--------------------------------------
- -------------------□\n\n🌈お問い合わせ・お手紙などはこ
- ちら🌈\nhttps://www.nijisanji.jp/contact\n\n□-----------------------
- ----------------------------------■\n#にじさんじ #仮面ライダ
- ーセイバー #ゼンカイジャー
-URL:https://www.youtube.com/watch?v=MJvRhK9GSAM
 END:VEVENT
 BEGIN:VEVENT
 UID:50488
