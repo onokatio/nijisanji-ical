@@ -2931,6 +2931,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=QEFpNVjdDzk\n\n🐤メンバー
 URL:https://www.youtube.com/watch?v=QEFpNVjdDzk
 END:VEVENT
 BEGIN:VEVENT
+UID:50603
+SUMMARY:【#にじさんじVパチ】決勝！最速で！最短で！ま
+ っすぐに！一直線に！優勝！【渋谷ハジメ/にじさんじ
+ 】
+DTSTART:20210704T110000Z
+DTEND:20210704T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=asVT4WQBxzs\n\n勝機を逃す
+ な！つかみ取れ！！！！\n\nいよいよ決勝！クリスと一
+ 緒に優勝するぞ！！
+URL:https://www.youtube.com/watch?v=asVT4WQBxzs
+END:VEVENT
+BEGIN:VEVENT
 UID:50600
 SUMMARY:【Minecraft】大量アメジスト～～建築！！【にじさ
  んじ/魔使マオ】
