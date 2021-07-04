@@ -2086,6 +2086,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=Vgd-AAW198s\n\n開始時間は
 URL:https://www.youtube.com/watch?v=Vgd-AAW198s
 END:VEVENT
 BEGIN:VEVENT
+UID:50582
+SUMMARY:なんでもない動画シリーズ「渋谷家の日常」第１
+ 話【にじさんじ/渋谷ハジメ】
+DTSTART:20210704T020000Z
+DTEND:20210704T030000Z
+DESCRIPTION:https://www.youtube.com/watch?v=BF5KWtZk65I\n\n目標：毎週
+ 日曜日更新\n\nなんとなーく動画を作ろうと思い立った
+ ので作った動画です。\nゆるーーーーーーーーーーーく
+ 見てくれると嬉しいよ。
+URL:https://www.youtube.com/watch?v=BF5KWtZk65I
+END:VEVENT
+BEGIN:VEVENT
 UID:50488
 SUMMARY:【#にじさんじVパチ】にじさんじバーチャルパチ
  ンコ大会　2日目実況枠【にじさんじ/伏見ガク】
