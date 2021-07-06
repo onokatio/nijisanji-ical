@@ -2481,6 +2481,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=8ipsL-j-5SU\n\n工業施設ち
 URL:https://www.youtube.com/watch?v=8ipsL-j-5SU
 END:VEVENT
 BEGIN:VEVENT
+UID:50702
+SUMMARY:【APEX】今日ゴールドになります【にじさんじ/グ
+ ウェル・オス・ガール】
+DTSTART:20210706T110000Z
+DTEND:20210706T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=ehpzuKTGCHk\n\n想定よりも
+ 非常に早いのですが、今日ゴールドになれてしまいま
+ す。
+URL:https://www.youtube.com/watch?v=ehpzuKTGCHk
+END:VEVENT
+BEGIN:VEVENT
 UID:50669
 SUMMARY:【We Were Here Together】あれデジャヴ！？協力謎解き
  で脱出セヨ【#女王と会長/にじさんじ】
