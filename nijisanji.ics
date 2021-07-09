@@ -1638,6 +1638,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=GkXn1SXYe9k\n\n弓くれ\n-----
 URL:https://www.youtube.com/watch?v=GkXn1SXYe9k
 END:VEVENT
 BEGIN:VEVENT
+UID:50824
+SUMMARY:【 APEX 】散歩
+DTSTART:20210709T001000Z
+DTEND:20210709T011000Z
+DESCRIPTION:https://www.youtube.com/watch?v=eSOZCXypt3s\n\n肩こり
+URL:https://www.youtube.com/watch?v=eSOZCXypt3s
+END:VEVENT
+BEGIN:VEVENT
 UID:50820
 SUMMARY:【APEX】ランクに行こうという意志はある。【にじ
  さんじ/える】
