@@ -2317,21 +2317,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=xauntVSbssI\n\n配信開始に
 URL:https://www.youtube.com/watch?v=xauntVSbssI
 END:VEVENT
 BEGIN:VEVENT
-UID:50829
-SUMMARY:【APEX:RANK】はじめての、ダイヤモンドチャレンジ
- ！【本間ひまわり/にじさんじ】
-DTSTART:20210709T120000Z
-DTEND:20210709T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=uNrfFnrFYJI\n\n経験値を増
- やしていくぞ！\n\n\n🎮PLAY GAME APEX\n\nさむね　さかなへ
- ん＠雨ノ國屋　ちゃん！　@sacanahen\n\n\n📺YouTube\nhttps://w
- ww.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w?sub_confirmation=1\n\n🐓
- Twitter \nhttps://twitter.com/honmahimawari\n\n🌻放送ハッシュタ
- グ　#ひま生\n🌻ファンアートタグ　#ひまあーと\n🌻わ
- たしのなまえ　#本間ひまわり #APEX
-URL:https://www.youtube.com/watch?v=uNrfFnrFYJI
-END:VEVENT
-BEGIN:VEVENT
 UID:50841
 SUMMARY:【Papers\, Please】次！書類！体操！懺悔！通ってよ
  し！【にじさんじ/夢追翔】
@@ -2403,6 +2388,21 @@ DESCRIPTION:https://www.youtube.com/watch?v=rqjA6qtym1Q\n\n「flos」上げ
  \n\n🏢お問い合わせやファンレター\nhttps://nijisanji.ichikar
  a.co.jp/contact/
 URL:https://www.youtube.com/watch?v=rqjA6qtym1Q
+END:VEVENT
+BEGIN:VEVENT
+UID:50829
+SUMMARY:【APEX:RANK】はじめての、ダイヤモンドチャレンジ
+ ！【本間ひまわり/にじさんじ】
+DTSTART:20210709T121000Z
+DTEND:20210709T131000Z
+DESCRIPTION:https://www.youtube.com/watch?v=uNrfFnrFYJI\n\n経験値を増
+ やしていくぞ！\n\n\n🎮PLAY GAME APEX\n\nさむね　さかなへ
+ ん＠雨ノ國屋　ちゃん！　@sacanahen\n\n\n📺YouTube\nhttps://w
+ ww.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w?sub_confirmation=1\n\n🐓
+ Twitter \nhttps://twitter.com/honmahimawari\n\n🌻放送ハッシュタ
+ グ　#ひま生\n🌻ファンアートタグ　#ひまあーと\n🌻わ
+ たしのなまえ　#本間ひまわり #APEX
+URL:https://www.youtube.com/watch?v=uNrfFnrFYJI
 END:VEVENT
 BEGIN:VEVENT
 UID:50817
