@@ -1716,6 +1716,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=121SlwsOWOM\n\nあした３D\n\
 URL:https://www.youtube.com/watch?v=121SlwsOWOM
 END:VEVENT
 BEGIN:VEVENT
+UID:50872
+SUMMARY:【 APEX 】CRカップでることになりました
+DTSTART:20210709T160000Z
+DTEND:20210709T170000Z
+DESCRIPTION:https://www.youtube.com/watch?v=immJ-WpQzrU\n\nがんばるぞ
+URL:https://www.youtube.com/watch?v=immJ-WpQzrU
+END:VEVENT
+BEGIN:VEVENT
 UID:50863
 SUMMARY:起きれたらはなそ？(-ω-)/ラトナ・プティ/にじさ
  んじ】
