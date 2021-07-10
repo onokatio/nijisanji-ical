@@ -2877,6 +2877,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=XG0_qgIUSFU\n\nOriginal↓\n\nV
 URL:https://www.youtube.com/watch?v=XG0_qgIUSFU
 END:VEVENT
 BEGIN:VEVENT
+UID:50898
+SUMMARY:にじさんカードマン
+DTSTART:20210710T115700Z
+DTEND:20210710T125700Z
+DESCRIPTION:https://www.youtube.com/watch?v=1ngS_GAFsVs\n\n
+URL:https://www.youtube.com/watch?v=1ngS_GAFsVs
+END:VEVENT
+BEGIN:VEVENT
 UID:50489
 SUMMARY:【#ましろ3D】ぼくはここにいるよ【にじさんじ/ま
  しろ】
