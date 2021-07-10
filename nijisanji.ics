@@ -2952,30 +2952,45 @@ DESCRIPTION:https://www.youtube.com/watch?v=sJSBUn-AuGo\n\n今日は\n21時
 URL:https://www.youtube.com/watch?v=sJSBUn-AuGo
 END:VEVENT
 BEGIN:VEVENT
+UID:50907
+SUMMARY:【ヴァロラント】チーム練習２日目！！【にじさ
+ んじ/渋谷ハジメ】
+DTSTART:20210710T110500Z
+DTEND:20210710T120500Z
+DESCRIPTION:https://www.youtube.com/watch?v=hWJoRDdjoAk\n\n７月１８日
+ 開催\nメンバー（敬称略）\n裏瀬すう\nhttps://www.youtube.com
+ /channel/UCD1TaprWSPMzILWod2TQ6SQ\n\n緋乃アビス\nhttps://www.youtube.
+ com/channel/UCO6sTLnWosM-_np6H9KOI_Q\n\n高峰カケル\nhttps://www.youtu
+ be.com/channel/UCfHMsYKlVtu-hCI_dw_4zFw\n\n天守なこ\nhttps://www.youtu
+ be.com/channel/UC0ndYpNREbgu_7JT74QsLfA
+URL:https://www.youtube.com/watch?v=hWJoRDdjoAk
+END:VEVENT
+BEGIN:VEVENT
 UID:50761
-SUMMARY:【　　　】
+SUMMARY:【 歌ってみた 】KING【奈羅花/にじさんじ】
 DTSTART:20210710T113000Z
 DTEND:20210710T123000Z
-DESCRIPTION:https://www.youtube.com/watch?v=XG0_qgIUSFU\n\nOriginal↓\n\nV
- ocal　奈羅花　https://twitter.com/Naraka_2434\nVocal Recording / Mix
- ：ふくいたくみ https://twitter.com/fukutune\nVo Direction：快晴P
- 　https://twitter.com/KAISE_P\nillustration　たらちね　https://twit
- ter.com/Taratine_831\nmovie　皇うつつ　https://twitter.com/smrg_TuT\
- n\nメンバーシップ解禁しました！\n２パターンのプラン
- があるので自分の見たいプランをぜひ選んでみてくだ
- さい！！\nhttps://www.youtube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg/joi
- n\n\n\n\n配信ではみんなとお話したり、ゲームしたりお
- 歌をうたったり、\nあたしの好きなことは何でもやって
- いくからね！\nみんなの好きも沢山教えてね\n\n配信中
- はみんないい子にあたしに夢中になってな！浮気ダメ
- 、絶対。\n\n\n【Twitter】\nhttps://twitter.com/Naraka_2434\n\n\n【
- お手紙・お問い合わせはこちら】\n〒101-0022\n東京都千
- 代田区神田練塀町300番地\n住友不動産秋葉原駅前ビル10F
- \nいちから株式会社 (ライバー名)宛\n\n\n【公式オンライ
- ンショップ】\nhttps://nijisanji.booth.pm/\n\n\n【Pixiv fanbox】\nh
- ttps://www.pixiv.net/fanbox/creator/...\n\n\n【にじさんじ公式Twitt
- er】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n\n【
- にじさんじ公式HP】\nhttps://nijisanji.ichikara.co.jp/
+DESCRIPTION:https://www.youtube.com/watch?v=XG0_qgIUSFU\n\nOriginal↓\nhtt
+ ps://www.youtube.com/watch?v=cm-l2h6GB8Q&t=0s\nVocal　奈羅花　https:/
+ /twitter.com/Naraka_2434\nVocal Recording / Mix：ふくいたくみ https
+ ://twitter.com/fukutune\nVo Direction：快晴P　https://twitter.com/KAIS
+ E_P\nillustration　たらちね　https://twitter.com/Taratine_831\nmovie
+ 　皇うつつ　https://twitter.com/smrg_TuT\n\nメンバーシップ解
+ 禁しました！\n２パターンのプランがあるので自分の見
+ たいプランをぜひ選んでみてください！！\nhttps://www.you
+ tube.com/channel/UC-o-E6I3IC2q8sAoAuM6Umg/join\n\n\n\n配信ではみん
+ なとお話したり、ゲームしたりお歌をうたったり、\nあ
+ たしの好きなことは何でもやっていくからね！\nみんな
+ の好きも沢山教えてね\n\n配信中はみんないい子にあた
+ しに夢中になってな！浮気ダメ、絶対。\n\n\n【Twitter】\
+ nhttps://twitter.com/Naraka_2434\n\n\n【お手紙・お問い合わせは
+ こちら】\n〒101-0022\n東京都千代田区神田練塀町300番地\n
+ 住友不動産秋葉原駅前ビル10F\nいちから株式会社 (ライ
+ バー名)宛\n\n\n【公式オンラインショップ】\nhttps://nijisa
+ nji.booth.pm/\n\n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creato
+ r/...\n\n\n【にじさんじ公式Twitter】\nhttps://twitter.com/nijisan
+ ji_app\n《@nijisanji_app 》\n\n\n【にじさんじ公式HP】\nhttps://
+ nijisanji.ichikara.co.jp/
 URL:https://www.youtube.com/watch?v=XG0_qgIUSFU
 END:VEVENT
 BEGIN:VEVENT
@@ -3057,6 +3072,36 @@ DESCRIPTION:https://www.youtube.com/watch?v=cK_6DBLTE1Q\n\nお歌\nhttps://
  tter.com/nijisanji_app\n《@nijisanji_app 》\n\n\n【にじさんじ公
  式HP】\nhttps://nijisanji.ichikara.co.jp/
 URL:https://www.youtube.com/watch?v=cK_6DBLTE1Q
+END:VEVENT
+BEGIN:VEVENT
+UID:50908
+SUMMARY:【 ポケダン救助隊DX 】ポケモンになっちゃった...
+ ってコト！？【甲斐田晴/にじさんじ】
+DTSTART:20210710T131000Z
+DTEND:20210710T141000Z
+DESCRIPTION:https://www.youtube.com/watch?v=WIJ1F8mh0Zk\n\n冒険、しに
+ いくか\nこの夏いちばんの思い出をつくろうな\n\n\n🌞
+ スパチャは最後にまとめて読ませていただいておりま
+ す！いつもありがとう！\n🌞話題に出ていないときは
+ 、他の方の配信で甲斐田晴の名前を出さないでくださ
+ い！\n🌞コメントはみんなが楽しく節度を持つことを
+ 心掛けて頂けたら嬉しいです！\n🌞チャンネル登録・
+ 高評価・通知のオンよろしくね！\n\nED動画：(@sumiiroo)様
+ 、(@0411udon)様\n\n【メンバーシップ】\nhttps://www.youtube.com/
+ channel/UCo2N7C-Z91waaR6lF3LL_jw/join\n◆名前の横のメンバーバ
+ ッジ\n◆スタンプ\n◆メンバー限定配信\n◆その他コー
+ スごとの特典\n\n↑チェックしてね↑\n\n\n配信は #生き
+ 甲斐田 で呟いてねー！\n\n#にじさんじ #甲斐田晴 \n\n\n--
+ -------------------------------------------\n\n\nはろはるー！\nに
+ じさんじ所属\n甲斐田 晴(かいだ はる)です🌞\nゲーム/
+ 弾き語り/ASMR　などなど配信するよ！\n\n💠Twitter💠\n@Ka
+ ida_Haru\n\n💠Youtube💠\n甲斐田 晴/Kaida Haru【にじさんじ】
+ \nhttps://www.youtube.com/channel/UCo2N7C-Z91waaR6lF3LL_jw?sub_confirmatio
+ n=1\n\n\n-----------------------------------------------------------------
+ ---------\n\n\n🕒にじさんじBOOTH\nhttps://nijisanji.booth.pm/\n\n
+ 🏢お問い合わせやファンレター\nhttps://nijisanji.ichikara.co
+ .jp/contact/
+URL:https://www.youtube.com/watch?v=WIJ1F8mh0Zk
 END:VEVENT
 BEGIN:VEVENT
 UID:50869
