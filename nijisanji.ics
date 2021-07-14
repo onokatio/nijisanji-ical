@@ -2747,28 +2747,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=hUsDvSTwwOo\n\n配信タグ：#
 URL:https://www.youtube.com/watch?v=hUsDvSTwwOo
 END:VEVENT
 BEGIN:VEVENT
-UID:51101
-SUMMARY:【Keep Talking and Nobody Explodes】しぃラボで生き残る
- 【にじさんじ /葉加瀬冬雪】
-DTSTART:20210714T110000Z
-DTEND:20210714T120000Z
-DESCRIPTION:https://www.youtube.com/watch?v=N-WE21vUcZI\n\nいけるいけ
- るいける\n\n・・・いけるか？\n\n\n椎名唯華\nhttps://www.yo
- utube.com/channel/UC_4tXjqecqox5Uc05ncxpxg?sub_confirmation=1\nhttps://twi
- tter.com/yuika_siina\n\nPlease subscribe to my channel and have fun!\n\n
- ❄️twitter\nhttps://twitter.com/Hakase_Fuyuki\n\n❄️メンバー\nht
- tps://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ/join\n\n配信タ
- グ #冬雪ラボ\n\n------- \n\n\n❄️お部屋担当\n\nえがきぐ
- りこ様\nhttps://www.youtube.com/channel/UC2qxMP86cqdqftwJdEe1ABg\nhttps
- ://twitter.com/GurikoEgaki?s=20\n\n\n\n------- \n\nにじさんじ所属
- の葉加瀬 冬雪( はかせ ふゆき )です。\n\n高校二年生。
- 実験と美味しいご飯が好き。\nどうぞよろしくお願いし
- ます。\n\nHi everyone!\n\nI'm Fuyuki Hakase\, a NIJISANJI VTuber.\nI li
- ke science experiments and tasty food.\nI usually live stream games and si
- nging on YouTube.
-URL:https://www.youtube.com/watch?v=N-WE21vUcZI
-END:VEVENT
-BEGIN:VEVENT
 UID:51077
 SUMMARY:【ボカロ歌枠】懐かしの？有名ボカロ曲歌おう！
  【北小路ヒスイ、周央サンゴ】
@@ -2942,6 +2920,28 @@ DESCRIPTION:https://www.youtube.com/watch?v=HmJx5fLKcC8\n\n思考警察が
  e.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ/about\n\n+‥‥‥‥‥‥‥‥
  ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥+
 URL:https://www.youtube.com/watch?v=HmJx5fLKcC8
+END:VEVENT
+BEGIN:VEVENT
+UID:51101
+SUMMARY:【Keep Talking and Nobody Explodes】しぃラボで生き残る
+ 【にじさんじ /葉加瀬冬雪】
+DTSTART:20210714T130000Z
+DTEND:20210714T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=N-WE21vUcZI\n\nいけるいけ
+ るいける\n\n・・・いけるか？\n\n\n椎名唯華\nhttps://www.yo
+ utube.com/channel/UC_4tXjqecqox5Uc05ncxpxg?sub_confirmation=1\nhttps://twi
+ tter.com/yuika_siina\n\nPlease subscribe to my channel and have fun!\n\n
+ ❄️twitter\nhttps://twitter.com/Hakase_Fuyuki\n\n❄️メンバー\nht
+ tps://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ/join\n\n配信タ
+ グ #冬雪ラボ\n\n------- \n\n\n❄️お部屋担当\n\nえがきぐ
+ りこ様\nhttps://www.youtube.com/channel/UC2qxMP86cqdqftwJdEe1ABg\nhttps
+ ://twitter.com/GurikoEgaki?s=20\n\n\n\n------- \n\nにじさんじ所属
+ の葉加瀬 冬雪( はかせ ふゆき )です。\n\n高校二年生。
+ 実験と美味しいご飯が好き。\nどうぞよろしくお願いし
+ ます。\n\nHi everyone!\n\nI'm Fuyuki Hakase\, a NIJISANJI VTuber.\nI li
+ ke science experiments and tasty food.\nI usually live stream games and si
+ nging on YouTube.
+URL:https://www.youtube.com/watch?v=N-WE21vUcZI
 END:VEVENT
 BEGIN:VEVENT
 UID:50822
