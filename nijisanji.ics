@@ -2449,8 +2449,8 @@ UID:51141
 SUMMARY:【DARK SOULS II】帰ってきたのんびり夜更か死にゲー
  （完全初見）【ダークソウル2】【葉山舞鈴/にじさんじ
  】
-DTSTART:20210715T160000Z
-DTEND:20210715T170000Z
+DTSTART:20210715T170000Z
+DTEND:20210715T180000Z
 DESCRIPTION:https://www.youtube.com/watch?v=3ROeCAZN2Oc\n\n⚔💀前回ま
  でのダークソウル2（DARK SOULS II）\nhttps://youtu.be/OTZJXLd17xc
  \n\n👑💀ダークソウル3（DARK SOULS III）再生リスト\nhttps:
@@ -2502,6 +2502,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=3ROeCAZN2Oc\n\n⚔💀前回ま
  S#ダークソウル2#ダークソウル#ダクソ2#ダクソ#死にゲー
  #葉山舞鈴#にじさんじ#生け捕り町おこし
 URL:https://www.youtube.com/watch?v=3ROeCAZN2Oc
+END:VEVENT
+BEGIN:VEVENT
+UID:51185
+SUMMARY:スナック郡道【歌枠/アーカイブメンバー行きor削
+ 除】
+DTSTART:20210715T170000Z
+DTEND:20210715T180000Z
+DESCRIPTION:https://www.youtube.com/watch?v=F4WcKgu8FLQ\n\n二年半逃げ
+ 続けてきました
+URL:https://www.youtube.com/watch?v=F4WcKgu8FLQ
 END:VEVENT
 BEGIN:VEVENT
 UID:51184
