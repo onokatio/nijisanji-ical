@@ -2582,7 +2582,7 @@ SUMMARY:【＃にZIP】だいたい最近のニュース7/16 【にじさ
  んじフミ】
 DTSTART:20210715T223000Z
 DTEND:20210715T233000Z
-DESCRIPTION:https://www.youtube.com/watch?v=GoibNsFeDB0\n\n月額と金曜
+DESCRIPTION:https://www.youtube.com/watch?v=GoibNsFeDB0\n\n月曜と金曜
  の朝７時３０分から配信！\n\n\nタレコミはこちらから\n
  https://docs.google.com/forms/d/1Xjq4OhC7tWEct3DpHYgU5IDWtjvdU9udv5DTHnWKM
  8E/edit\n\n※ニュースはライバーさんご本人に許可をいた
@@ -3312,6 +3312,29 @@ DESCRIPTION:https://www.youtube.com/watch?v=fxtnwcqyeTk\n\n新衣装みせ
  ara.co.jp\n\n\n💭　- - - - - - - - - - - - - - - - - - - - - - - - - - 
  - - - - - - - - - - -
 URL:https://www.youtube.com/watch?v=fxtnwcqyeTk
+END:VEVENT
+BEGIN:VEVENT
+UID:51188
+SUMMARY:【cover】エンヴィーベイビー/Kanaria【白雪巴/にじ
+ さんじ】
+DTSTART:20210718T130000Z
+DTEND:20210718T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=XoOkJdT6mVY\n\nア イ シ テ 
+ ル\n\n\n◆music：Kanaria 様\nhttps://youtu.be/dgS6HvEohsw\n\n◆vocal
+ ：白雪巴\nhttps://www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw\n\n
+ ◆illustration：athéko 様\nhttps://twitter.com/lol_dessin\n\n◆mix：
+ よしけん  様\nhttps://twitter.com/yoshi_kennn\n\n◆movie：柊メツ
+ キ 様\nhttps://twitter.com/Hiiragi_Metsuki\n\n\n◆◆◆◆◆\n\n#白
+ 雪巴 (しらゆき ともえ)\nTwitter：@Tomoe_Shirayuki\nhttps://mobil
+ e.twitter.com/tomoe_shirayuki\n配信タグ　#女王のお戯れ\n\n◆
+ メンバーシップ登録はこちら\nhttps://www.youtube.com/channel/U
+ Cuvk5PilcvDECU7dDZhQiEw/join\n◆グッズ関連\nhttps://shop.nijisanji.j
+ p/s/niji/artist/089/item?ima=0822\n◆ファンレター\nhttps://www.niji
+ sanji.jp/contact\n\n【にじさんじ公式サイト】\nhttps://www.niji
+ sanji.jp\n\n【お問い合わせ】\nhttps://www.nijisanji.jp/contact\n\n
+ 音源：甘茶の音楽工房 さま\nhttps://amachamusic.chagasi.com/\n\
+ n\n～Special thanks to YOU～\n\n\n◆◆◆◆◆
+URL:https://www.youtube.com/watch?v=XoOkJdT6mVY
 END:VEVENT
 BEGIN:VEVENT
 UID:51116
