@@ -3009,6 +3009,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=qUR8JSRKgsg\n\nみんなの戦
 URL:https://www.youtube.com/watch?v=qUR8JSRKgsg
 END:VEVENT
 BEGIN:VEVENT
+UID:51207
+SUMMARY:花畑チャイカとARKエクスティンクション 僕たちは
+ 失いながらも前に進むしかない
+DTSTART:20210716T093500Z
+DTEND:20210716T103500Z
+DESCRIPTION:https://www.youtube.com/watch?v=p1OFCwdtKxU\n\nサムネイル
+ 　かに座のセイル\nりつきん　https://www.youtube.com/channel/U
+ CfQVs_KuXeNAlGa3fb8rlnQ\nあかばねさん　https://www.youtube.com/chan
+ nel/UCBi8YaVyZpiKWN3_Z0dCTfQ
+URL:https://www.youtube.com/watch?v=p1OFCwdtKxU
+END:VEVENT
+BEGIN:VEVENT
 UID:51196
 SUMMARY:【ストリートファイターV】ヤシロ&ササキのレハ
  ゙ガチャダイパン #43【にじさんじ】
@@ -3044,6 +3056,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=O11A8rX5cuo\n\n今週のゲ
  個別の許諾を得て配信しています。（許諾番号：210202
  ）
 URL:https://www.youtube.com/watch?v=O11A8rX5cuo
+END:VEVENT
+BEGIN:VEVENT
+UID:51208
+SUMMARY:【 APEX 】CRカップ顔合わせ～！きんちょう w / Rasさ
+ ん叶さん
+DTSTART:20210716T100000Z
+DTEND:20210716T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=3JZxIauDr5Y\n\nRasさん\nhttps
+ ://www.youtube.com/channel/UCkiCNZ6c5Th3NpL2U8IhUWw\nhttps://twitter.com/r
+ as9915\n\n#叶 さん\nhttps://www.youtube.com/channel/UCspv01oxUFf_MTSipU
+ RRhkA\nhttps://twitter.com/Kanae_2434
+URL:https://www.youtube.com/watch?v=3JZxIauDr5Y
 END:VEVENT
 BEGIN:VEVENT
 UID:51194
