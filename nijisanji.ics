@@ -1042,16 +1042,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=h0Gr7iw_x3A\n\nここまで来
 URL:https://www.youtube.com/watch?v=h0Gr7iw_x3A
 END:VEVENT
 BEGIN:VEVENT
-UID:51202
-SUMMARY:【雑談】むぎを完璧にするの、むぎの役目って怖
- くない？【 にじさんじ / 家長むぎ 】
-DTSTART:20210716T120000Z
-DTEND:20210716T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=132iqExNZXE\n\nたまに分か
- らなくなる時がある
-URL:https://www.youtube.com/watch?v=132iqExNZXE
-END:VEVENT
-BEGIN:VEVENT
 UID:51147
 SUMMARY:【Surgeon Simulator2】天才外科医、ゴッドハンド乳毛
  山。※ただし無免許【にじさんじ／#乳毛山／ニュイ・
@@ -2813,6 +2803,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=_Ri0MyCU7DY\n\nいっくぞお
 URL:https://www.youtube.com/watch?v=_Ri0MyCU7DY
 END:VEVENT
 BEGIN:VEVENT
+UID:51202
+SUMMARY:【雑談】むぎを完璧にするの、むぎの役目って怖
+ くない？【 にじさんじ / 家長むぎ 】
+DTSTART:20210717T110000Z
+DTEND:20210717T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=132iqExNZXE\n\nたまに分か
+ らなくなる時がある
+URL:https://www.youtube.com/watch?v=132iqExNZXE
+END:VEVENT
+BEGIN:VEVENT
 UID:51232
 SUMMARY:【 #にじさんじイントロ王 】本気のイントロクイ
  ズバトル【にじさんじ】
@@ -2823,17 +2823,19 @@ DESCRIPTION:https://www.youtube.com/watch?v=szhFE0Xj7XM\n\nイントロが
  でび・でびる \n@フミ/にじさんじ \n@西園チグサ / Nishizon
  o Chigusa \n@レヴィ・エリファ-Levi Elipha- \n\n\n【主催】\n@
  グウェル・オス・ガール / Gwelu Os Gar 【にじさんじ】 \n@
- 愛園 愛美/Aizono Manami\n\n生音風カラオケ屋\nhttps://www.youtu
- be.com/channel/UCZ3ryrdsdqezi2q-AfRw6Rw\n\nJPOP karaoke カラオケ\nhttp
- s://www.youtube.com/channel/UCTT44jmy7-pIGKpy-Ih8NyA\n\nアニソンカラ
- オケ制作室:野田工房\nhttps://www.youtube.com/channel/UCIePNTYsCYS
- d3o13zXKLOrg\n\nインストcover\nhttps://www.youtube.com/channel/UCfKNuv
- YhEULkddZ8sehDylA\n\nカラオケ@DIVA\nhttps://www.youtube.com/channel/UC
- OgOuWBAQ1GXj_gfYHOUOcA/featured\n\n夢見るカラオケ制作人\nhttps:/
- /www.youtube.com/channel/UCHKkjQDOJKBjuaLkuOm5kVA\n\nカラオケ再現所
- @KEISUKEO.\nhttps://www.youtube.com/channel/UCUo8aHsNE4__8ZUxAmdhqLA\n\nNC
-  ピアノ&カラオケミュージック NCPiano&KaraokeMusic\nhttps://ww
- w.youtube.com/channel/UCRKFk6VNBJiH2LuM59BtVgg
+ 愛園 愛美/Aizono Manami\n\n\n今回は権利上の都合により下
+ 記カラオケ音源サイトより楽曲を使用させて頂いてお
+ ります。\n\n生音風カラオケ屋\nhttps://www.youtube.com/channel/
+ UCZ3ryrdsdqezi2q-AfRw6Rw\n\nJPOP karaoke カラオケ\nhttps://www.youtube
+ .com/channel/UCTT44jmy7-pIGKpy-Ih8NyA\n\nアニソンカラオケ制作室
+ :野田工房\nhttps://www.youtube.com/channel/UCIePNTYsCYSd3o13zXKLOrg\n\
+ nインストcover\nhttps://www.youtube.com/channel/UCfKNuvYhEULkddZ8sehDy
+ lA\n\nカラオケ@DIVA\nhttps://www.youtube.com/channel/UCOgOuWBAQ1GXj_gf
+ YHOUOcA/featured\n\n夢見るカラオケ制作人\nhttps://www.youtube.co
+ m/channel/UCHKkjQDOJKBjuaLkuOm5kVA\n\nカラオケ再現所@KEISUKEO.\nhtt
+ ps://www.youtube.com/channel/UCUo8aHsNE4__8ZUxAmdhqLA\n\nNC ピアノ&カ
+ ラオケミュージック NCPiano&KaraokeMusic\nhttps://www.youtube.com/
+ channel/UCRKFk6VNBJiH2LuM59BtVgg
 URL:https://www.youtube.com/watch?v=szhFE0Xj7XM
 END:VEVENT
 BEGIN:VEVENT
@@ -3049,6 +3051,29 @@ DESCRIPTION:https://www.youtube.com/watch?v=41luus8VO7I\n\nAPEX大好きに
  ) ﾁｭｯ♪ \n\n☆お問い合わせ・ファンレター\nhttps://www
  .nijisanji.jp/contact
 URL:https://www.youtube.com/watch?v=41luus8VO7I
+END:VEVENT
+BEGIN:VEVENT
+UID:51265
+SUMMARY:【APEX】CRカップ初日から大暴れします!!【にじさ
+ んじ/エクス・アルビオ】
+DTSTART:20210717T120000Z
+DTEND:20210717T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=_AkyDabV544\n\nCRカップメ
+ ンバー\n@ぷりっつ \n@Cpt \n@エクス・アルビオ -Ex Albio-  \n
+ ーーー\nにじさんじ所属バーチャルライバー エクス・
+ アルビオ と申します。\nよければチャンネル登録と高
+ 評価お願いします!!\n\n【Twitter】\nhttps://twitter.com/Ex_Albio\
+ n\n【メンバーシップ】\nhttps://www.youtube.com/channel/UCIytNcoz4
+ pWzXfLda0DoULQ/join\n\n【ファンレターやプレゼント、その他
+ お問い合わせ】\n【詳細】https://nijisanji.ichikara.co.jp/contac
+ t/\n\n〒175-0082\n東京都板橋区高島平6-2-1 ネットデポ新高
+ 島平内\nいちから株式会社 エクス・アルビオ宛\n\nにじ
+ さんじ関連リンク\n\n【公式Twitter】\nhttps://twitter.com/nijis
+ anji_app〈@nijisanji_app〉\n\n【公式HP】\nhttps://nijisanji.ichikara
+ .co.jp/ \n\n【公式オンラインショップ】\nhttps://nijisanji.boo
+ th.pm/\n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/2411398
+ 5\n\nーーー
+URL:https://www.youtube.com/watch?v=_AkyDabV544
 END:VEVENT
 BEGIN:VEVENT
 UID:51264
