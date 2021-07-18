@@ -4146,6 +4146,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=DU6h4LDFGZo\n\n#3分バーチ
 URL:https://www.youtube.com/watch?v=DU6h4LDFGZo
 END:VEVENT
 BEGIN:VEVENT
+UID:51324
+SUMMARY:【動画タイトルはプレミア公開後にご覧いただく
+ ことができます】
+DTSTART:20210719T110000Z
+DTEND:20210719T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=D7x0PeSzzCw\n\n邨ｵ遨ｺ莠
+ 九↓逕溘″繧
+URL:https://www.youtube.com/watch?v=D7x0PeSzzCw
+END:VEVENT
+BEGIN:VEVENT
 UID:51213
 SUMMARY:【月光彫刻師/#きらきら温泉】女子高生が可愛い
  ゲームの世界で大冒険する！【小野町春香/空星きらめ/
