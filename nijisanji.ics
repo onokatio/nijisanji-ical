@@ -2785,8 +2785,8 @@ URL:https://www.youtube.com/watch?v=JTcC5PaUiDE
 END:VEVENT
 BEGIN:VEVENT
 UID:51360
-SUMMARY:【雑談】西園、先輩になるってよ。【にじさんじ/
- 西園チグサ】
+SUMMARY:【雑談】西園！先輩になるらしい！(*º∀º*)【に
+ じさんじ/西園チグサ】
 DTSTART:20210719T080000Z
 DTEND:20210719T090000Z
 DESCRIPTION:https://www.youtube.com/watch?v=0Sx2ZehRJa4\n\nごきげんよ
@@ -2871,6 +2871,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=0Sx2ZehRJa4\n\nごきげんよ
  ～！🐳\nそんじゃあ元気にせーのっ！\n\nおちぐさ～！
  🌱
 URL:https://www.youtube.com/watch?v=0Sx2ZehRJa4
+END:VEVENT
+BEGIN:VEVENT
+UID:51361
+SUMMARY:【MineCraft】城壁コピー＆ペーストfeat.イブラヒム
+ 【にじさんじ/イブラヒム】
+DTSTART:20210719T080000Z
+DTEND:20210719T090000Z
+DESCRIPTION:https://www.youtube.com/watch?v=xBc3jeFy-nw\n\n曲名みてえ
+ だなぁ！？
+URL:https://www.youtube.com/watch?v=xBc3jeFy-nw
 END:VEVENT
 BEGIN:VEVENT
 UID:51350
