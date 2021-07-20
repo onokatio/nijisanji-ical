@@ -1924,6 +1924,20 @@ DESCRIPTION:https://www.youtube.com/watch?v=QumO2r4k7Tg\n\nAPEX大好きに
 URL:https://www.youtube.com/watch?v=QumO2r4k7Tg
 END:VEVENT
 BEGIN:VEVENT
+UID:51453
+SUMMARY:【雑談】ばんじーじゃんいーじゃんすげーじゃん
+ 【メリッサ・キンレンカ/にじさんじ】
+DTSTART:20210720T220000Z
+DTEND:20210720T230000Z
+DESCRIPTION:https://www.youtube.com/watch?v=O5Dt1o_pq40\n\n配信タグ :#
+ メリータイム　#メリッサ・キンレンカ\n\n\n【Twitter】\n
+ 【 https://twitter.com/melissa_2434 】\n\n\n【にじさんじオフィ
+ シャルストア】\nhttps://shop.nijisanji.jp/s/niji/\n\n【にじさ
+ んじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_a
+ pp 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp
+URL:https://www.youtube.com/watch?v=O5Dt1o_pq40
+END:VEVENT
+BEGIN:VEVENT
 UID:51450
 SUMMARY:チチンプイプイ / 黒井しば【歌ってみた】
 DTSTART:20210720T230000Z
@@ -2219,6 +2233,21 @@ DESCRIPTION:https://www.youtube.com/watch?v=oPCk_V59z6k\n\nDark Deception
  /amachamusic.chagasi.com/\n\n～Special thanks to YOU～\n\n◆◆◆◆
  ◆
 URL:https://www.youtube.com/watch?v=oPCk_V59z6k
+END:VEVENT
+BEGIN:VEVENT
+UID:51454
+SUMMARY:【クレヨンしんちゃん オラと博士の夏休み】いつ
+ か聞いた蝉、何度目かの夏　ネタバレ注意【メリッサ
+ ・キンレンカ/にじさんじ】
+DTSTART:20210721T130000Z
+DTEND:20210721T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=LHqPgJzagao\n\n配信タグ :#
+ メリータイム　#メリッサ・キンレンカ\n\n\n【Twitter】\n
+ 【 https://twitter.com/melissa_2434 】\n\n\n【にじさんじオフィ
+ シャルストア】\nhttps://shop.nijisanji.jp/s/niji/\n\n【にじさ
+ んじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《@nijisanji_a
+ pp 》\n\n【にじさんじ公式HP】\nhttps://www.nijisanji.jp
+URL:https://www.youtube.com/watch?v=LHqPgJzagao
 END:VEVENT
 BEGIN:VEVENT
 UID:51398
