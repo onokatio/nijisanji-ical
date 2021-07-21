@@ -2459,6 +2459,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=ZnU-pnwZpuY\n\nごきげんよ
 URL:https://www.youtube.com/watch?v=ZnU-pnwZpuY
 END:VEVENT
 BEGIN:VEVENT
+UID:51472
+SUMMARY:【ポケモンユナイト】にじさんじに集うユニり手
+ たち【にじさんじ/イブラヒム】
+DTSTART:20210721T070000Z
+DTEND:20210721T080000Z
+DESCRIPTION:https://www.youtube.com/watch?v=8QzXHFXoefs\n\nLOL勢がポケ
+ モンユナイトやってみる!!!みたいな配信乱立してそう
+ だな\n\n@エクス・アルビオ -Ex Albio-
+URL:https://www.youtube.com/watch?v=8QzXHFXoefs
+END:VEVENT
+BEGIN:VEVENT
 UID:51461
 SUMMARY:【splatoon2】4周年記念スプラ【にじさんじ/桜凛月
  】
