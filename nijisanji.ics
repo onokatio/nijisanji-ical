@@ -3392,24 +3392,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=b6CLdAhnbN0\n\nキャー！キ
 URL:https://www.youtube.com/watch?v=b6CLdAhnbN0
 END:VEVENT
 BEGIN:VEVENT
-UID:51612
-SUMMARY:【APEX】CRカスタム本番！w/NIRUさん\,釈迦さん【星
- 川サラ/にじさんじ】
-DTSTART:20210723T080000Z
-DTEND:20210723T090000Z
-DESCRIPTION:https://www.youtube.com/watch?v=D_QzsGfBIPg\n\nＣＲカップ
- 本番！\n\n @SHAKAch    \n @NIRU    \n\n❥❥期間限定！販売中
- のボイス\n「海ボイス2021」※〜7月31日(土)23:59まで\n➡ht
- tps://shop.nijisanji.jp/s/niji/item/detail/dig-00427?ima=2631\n\n▼メン
- バーシップはココから！(月額490円)\nhttps://www.youtube.com/c
- hannel/UC9V3Y3_uzU5e-usObb6IE1w/join\n・月２回以上のメンバー限
- 定配信\n・メンバー限定コミュニティ投稿\n・名前の横
- にメンバーバッジ付与\n・コメントで使える限定スタン
- プ（随時増加）\n・メンバー限定で残した生放送のアー
- カイブが見れる
-URL:https://www.youtube.com/watch?v=D_QzsGfBIPg
-END:VEVENT
-BEGIN:VEVENT
 UID:51595
 SUMMARY:【APEX】CRカップ 本番…！！！！！頑張る！！！！
   #宮卍WIN  #宮崎卍リベンジャーズ【椎名唯華/にじさん
@@ -3621,6 +3603,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=LtNsIIQiCbU\n\n４人でかつ
 URL:https://www.youtube.com/watch?v=LtNsIIQiCbU
 END:VEVENT
 BEGIN:VEVENT
+UID:51612
+SUMMARY:【APEX】CRカスタム本番！w/NIRUさん\,釈迦さん【星
+ 川サラ/にじさんじ】
+DTSTART:20210723T090000Z
+DTEND:20210723T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=D_QzsGfBIPg\n\nＣＲカップ
+ 本番！\n\n @SHAKAch    \n @NIRU    \n\n❥❥期間限定！販売中
+ のボイス\n「海ボイス2021」※〜7月31日(土)23:59まで\n➡ht
+ tps://shop.nijisanji.jp/s/niji/item/detail/dig-00427?ima=2631\n\n▼メン
+ バーシップはココから！(月額490円)\nhttps://www.youtube.com/c
+ hannel/UC9V3Y3_uzU5e-usObb6IE1w/join\n・月２回以上のメンバー限
+ 定配信\n・メンバー限定コミュニティ投稿\n・名前の横
+ にメンバーバッジ付与\n・コメントで使える限定スタン
+ プ（随時増加）\n・メンバー限定で残した生放送のアー
+ カイブが見れる
+URL:https://www.youtube.com/watch?v=D_QzsGfBIPg
+END:VEVENT
+BEGIN:VEVENT
 UID:51592
 SUMMARY:【影廊 -Shadow Corridor-】1年ぶりの地獄　ベルモンド
  視点【#Dの石/にじさんじ】
@@ -3830,6 +3830,23 @@ DTEND:20210723T120000Z
 DESCRIPTION:https://www.youtube.com/watch?v=ty4iKX56zFk\n\n夜王国でAPEX
  やるだけです。\n\n【参加者】
 URL:https://www.youtube.com/watch?v=ty4iKX56zFk
+END:VEVENT
+BEGIN:VEVENT
+UID:51613
+SUMMARY:【マリオゴルフ スーパーラッシュ】元キャディが
+ マリオゴルフやってみた結果ｗｗｗ#3【にじさんじ/レ
+ ヴィ・エリファ】
+DTSTART:20210723T110000Z
+DTEND:20210723T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=NCZwVd6cTG0\n\n#れゔぃあた
+ んねる\n\nTwitterもはじめましたよつぶやク☆\n【Twitter】
+ \n@Levi_E_2434\n\n待機画面使用素材\n七三ゆきのアトリエ\nh
+ ttps://nanamiyuki.com/\n\n【ファンレター、その他お問い合わ
+ せ】\n【詳細】https://www.nijisanji.jp/contact\n\nにじさんじ関
+ 連リンク\n\n【公式Twitter】\nhttps://twitter.com/nijisanji_app\n
+ 〈@nijisanji_app〉\n\n【公式HP】\nhttps://www.nijisanji.jp\n\n【オ
+ フィシャルストア】\nhttps://shop.nijisanji.jp/s/niji/
+URL:https://www.youtube.com/watch?v=NCZwVd6cTG0
 END:VEVENT
 BEGIN:VEVENT
 UID:51586
