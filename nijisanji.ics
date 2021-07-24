@@ -2116,6 +2116,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=H874CQ5folg\n\n#VR関西圏立
 URL:https://www.youtube.com/watch?v=H874CQ5folg
 END:VEVENT
 BEGIN:VEVENT
+UID:51696
+SUMMARY:なんでもない動画シリーズ「渋谷家の日常」第２
+ 話【にじさんじ/渋谷ハジメ】
+DTSTART:20210725T033000Z
+DTEND:20210725T043000Z
+DESCRIPTION:https://www.youtube.com/watch?v=hUh7ydTuOrc\n\n目標：毎週
+ 日曜更新できたらいいなー（）\n\nゆるーくなんでもな
+ い日常をお送りします。\n動画のOPの文字をちゃんとよ
+ んでくれるとたすかる～
+URL:https://www.youtube.com/watch?v=hUh7ydTuOrc
+END:VEVENT
+BEGIN:VEVENT
 UID:51688
 SUMMARY:かき氷つくる メロンウイスキー【でびでび・でび
  る/にじさんじ】
