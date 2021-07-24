@@ -3539,6 +3539,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=TK1H_M9FKA4\n\n元配信（メ
 URL:https://www.youtube.com/watch?v=TK1H_M9FKA4
 END:VEVENT
 BEGIN:VEVENT
+UID:51679
+SUMMARY:有名ポケモン実況者の人たちとポケモンユナイト
+ 【卯月コウにじさんじ】】
+DTSTART:20210724T110000Z
+DTEND:20210724T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=oVM1MyCZoWE\n\nあゆみん　
+ グラ　アシキ　ペリカン
+URL:https://www.youtube.com/watch?v=oVM1MyCZoWE
+END:VEVENT
+BEGIN:VEVENT
 UID:51671
 SUMMARY:【#やまなつ晩酌RADIO​】# 6 満月の晩に逢いましょ
  う 【にじさんじ/山神カルタ/来栖夏芽】
