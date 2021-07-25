@@ -2793,6 +2793,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=Q1ZoTcmEzS0\n\nこの配信で
 URL:https://www.youtube.com/watch?v=Q1ZoTcmEzS0
 END:VEVENT
 BEGIN:VEVENT
+UID:51719
+SUMMARY:#イブラヒム誕生日おめ
+DTSTART:20210725T090000Z
+DTEND:20210725T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=qY7eEPNURQM\n\n23歳になり
+ ました
+URL:https://www.youtube.com/watch?v=qY7eEPNURQM
+END:VEVENT
+BEGIN:VEVENT
 UID:51710
 SUMMARY:【 雑談 】楽しかったライブ感想会 ! 【 にじさん
  じ / 家長むぎ 】
