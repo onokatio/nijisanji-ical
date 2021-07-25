@@ -2802,16 +2802,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=qY7eEPNURQM\n\n23歳になり
 URL:https://www.youtube.com/watch?v=qY7eEPNURQM
 END:VEVENT
 BEGIN:VEVENT
-UID:51725
-SUMMARY:夏ボカロnight
-DTSTART:20210725T105000Z
-DTEND:20210725T115000Z
-DESCRIPTION:https://www.youtube.com/watch?v=HNuu15zoq_w\n\n素敵なイラ
- ストをお借りしました(リンク先フルサイズです)\nhttps:/
- /twitter.com/o_lo3253/status/1416772411869974529
-URL:https://www.youtube.com/watch?v=HNuu15zoq_w
-END:VEVENT
-BEGIN:VEVENT
 UID:51710
 SUMMARY:【 雑談 】楽しかったライブ感想会 ! 【 にじさん
  じ / 家長むぎ 】
@@ -2980,28 +2970,40 @@ SUMMARY:【 ポケモンユナイト】フルパでランク！！【北小
 DTSTART:20210725T110000Z
 DTEND:20210725T120000Z
 DESCRIPTION:https://www.youtube.com/watch?v=Ywwr6JZR2GI\n\nわーい！！
- ！\n---------------------------------------------\n\nにじさんじ所
- 属　世怜音女学院中等部２年生\nバーチャルライバー　
- 北小路ヒスイ【Kitakoji Hisui】\n飴食ったら年齢変わる。
- 科学ってすげー\n\nメンバーシップはじめました(^^)/\nhtt
- ps://www.youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ/join\nメンバー
- 限定投稿＆配信、かわいい（？）スタンプ、名前横に
- バッヂが付いたりするぞ！やったね！\n---------------------
- ------------------------\n同期\n\n東堂コハク\nhttps://www.youtube.c
- om/channel/UCebT4Aq-3XWb5je1S1FvR_A\n西園チグサ\nhttps://www.youtube.
- com/channel/UCkngxfPbmGyGl_RIq4FA3MQ\n朝日南アカネ \nhttps://www.you
- tube.com/channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\n北小路ヒスイ\nhttps://www
- .youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ\n周央サンゴ\nhttps://ww
- w.youtube.com/channel/UCL_O_HXgLJx3Auteer0n0pA\n\n【私のTwitter】\n 
- ❇️https://twitter.com/Hisui_Kitakoji\n\nオリジナルBGM　[朝小
- 路][昼小路][夜小路][酒小路]　作曲＠hama1219\n\nたまにか
- けてるBGM　(Music by Khaim)\n-----------------------------------------
- ----\n\n【にじさんじ公式HP】\n❇️https://nijisanji.ichikara.co
- .jp/\n\n【お問い合わせとおてがみ】\n❇️https://nijisanji.i
- chikara.co.jp/contact/\n\n\n【にじさんじ公式Twitter】\n❇️http
- s://twitter.com/nijisanji_app\n\n【公式オンラインショップ】\n
- ❇️https://shop.nijisanji.jp/\n❇️https://nijisanji.booth.pm/
+ ！\nひまわりさんあまみゃかんださんぐうぇるさん\n----
+ -----------------------------------------\n\nにじさんじ所属　世
+ 怜音女学院中等部２年生\nバーチャルライバー　北小路
+ ヒスイ【Kitakoji Hisui】\n飴食ったら年齢変わる。科学っ
+ てすげー\n\nメンバーシップはじめました(^^)/\nhttps://www.
+ youtube.com/channel/UCRqBKoKuX30ruKAq05pCeRQ/join\nメンバー限定投
+ 稿＆配信、かわいい（？）スタンプ、名前横にバッヂ
+ が付いたりするぞ！やったね！\n------------------------------
+ ---------------\n同期\n\n東堂コハク\nhttps://www.youtube.com/channe
+ l/UCebT4Aq-3XWb5je1S1FvR_A\n西園チグサ\nhttps://www.youtube.com/chann
+ el/UCkngxfPbmGyGl_RIq4FA3MQ\n朝日南アカネ \nhttps://www.youtube.com/
+ channel/UCe_p3YEuYJb8Np0Ip9dk-FQ\n北小路ヒスイ\nhttps://www.youtube.
+ com/channel/UCRqBKoKuX30ruKAq05pCeRQ\n周央サンゴ\nhttps://www.youtube
+ .com/channel/UCL_O_HXgLJx3Auteer0n0pA\n\n【私のTwitter】\n ❇️https
+ ://twitter.com/Hisui_Kitakoji\n\nオリジナルBGM　[朝小路][昼小
+ 路][夜小路][酒小路]　作曲＠hama1219\n\nたまにかけてるBGM
+ 　(Music by Khaim)\n---------------------------------------------\n\n【
+ にじさんじ公式HP】\n❇️https://nijisanji.ichikara.co.jp/\n\n【
+ お問い合わせとおてがみ】\n❇️https://nijisanji.ichikara.co.
+ jp/contact/\n\n\n【にじさんじ公式Twitter】\n❇️https://twitter
+ .com/nijisanji_app\n\n【公式オンラインショップ】\n❇️https
+ ://shop.nijisanji.jp/\n❇️https://nijisanji.booth.pm/
 URL:https://www.youtube.com/watch?v=Ywwr6JZR2GI
+END:VEVENT
+BEGIN:VEVENT
+UID:51728
+SUMMARY:【ポケモンユナイト】フルパでランク【にじさん
+ じ/グウェル・オス・ガール】
+DTSTART:20210725T110000Z
+DTEND:20210725T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=_d4WIocyy_k\n\nフルパでラ
+ ンク回します。都合により揃わない時間は適当に何か
+ します。\n\n【メンバー】
+URL:https://www.youtube.com/watch?v=_d4WIocyy_k
 END:VEVENT
 BEGIN:VEVENT
 UID:51621
@@ -3031,6 +3033,54 @@ DESCRIPTION:https://www.youtube.com/watch?v=95HQ_VMPa1c\n\n3Dお披露目
  の音楽工房 さま\nhttps://amachamusic.chagasi.com/\n\n\n～Special t
  hanks to YOU～\n\n\n◆◆◆◆◆
 URL:https://www.youtube.com/watch?v=95HQ_VMPa1c
+END:VEVENT
+BEGIN:VEVENT
+UID:51725
+SUMMARY:夏ボカロnight
+DTSTART:20210725T120000Z
+DTEND:20210725T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=HNuu15zoq_w\n\n素敵なイラ
+ ストをお借りしました(リンク先フルサイズです)\nhttps:/
+ /twitter.com/o_lo3253/status/1416772411869974529
+URL:https://www.youtube.com/watch?v=HNuu15zoq_w
+END:VEVENT
+BEGIN:VEVENT
+UID:51727
+SUMMARY:【検証】怖い話、語り手が赤ちゃんなら怖くない
+ 説【にじさんじ/轟京子】
+DTSTART:20210725T120000Z
+DTEND:20210725T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=2ORBezpMEKk\n\n夏です。ホ
+ ラーです。赤ちゃんです。\n\n今日は皆様から寄せられ
+ た怖い話を赤ちゃ…あ…ｱｧ…ｵｷﾞｬ､ｵｷﾞｬｱ
+ ｱｯﾊﾞｧｳﾞｩｯ!!!!!!!!!ﾀﾞｱｱｱｱｯ!!!!!!\n\nタグ
+ は #ろき生 で！\n\nサポーター：性癖ゆがみん\n-----------
+ --------------------------------------------------------------------------
+ -\n▼とどろききょうこのいろいろ▼\nちょりーっす！私
+ は轟京子２1歳！華の社会人！\n将来の夢は自分のブラ
+ ンドを立ち上げることなんだ！\n皆に元気を届け、カワ
+ イイを発信していくよ！\n\n【活動】\nお絵かき・ゲー
+ ム・企画など生配信をメインに活動を行ってるよ！\nデ
+ ザインすることも大好きで、オリジナルのグッズを制
+ 作し、boothでも販売しています。\n併せてtwitterのフォロ
+ ーもしてくださるとうれしいです！\n\n【リンク】\n●
+ チャンネル登録はこちらから！: https://www.youtube.com/channe
+ l/UCRV9...\n●twitter:　https://twitter.com/KT_seeds\n●オリジナル
+ グッズ・ボイスも売ってるよ！：https://shop.nijisanji.jp/\n\
+ n【スパチャについて】\n配信のテンポを保持したいの
+ で、配信の最後にお礼をさせていただきますが、\nスパ
+ チャによるコメントはリアルタイムに拾っていきたい
+ と思っています！\n------------------------------------------------
+ ---------------------------------------------------------\n【お手紙等
+ 】\nお手紙や贈り物等を送ってくださり、ありがとうご
+ ざいます！\n直接的なお礼が言えず申し訳ないのですが
+ ！すべてのお手紙はしっかりと！目を通してファイリ
+ ングしております！\n「元気をもらっています！」「好
+ きです！」という言葉は京子の活動の大きな励みです
+ ！\n本当にありがとうございます！これからも頑張って
+ いくぜ！\n\n＜お問い合わせ・お手紙等はこちら＞\nhttps
+ ://www.nijisanji.jp/contact\n\n\n#にじさんじ
+URL:https://www.youtube.com/watch?v=2ORBezpMEKk
 END:VEVENT
 BEGIN:VEVENT
 UID:51713
