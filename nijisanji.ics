@@ -3035,16 +3035,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=95HQ_VMPa1c\n\n3Dお披露目
 URL:https://www.youtube.com/watch?v=95HQ_VMPa1c
 END:VEVENT
 BEGIN:VEVENT
-UID:51725
-SUMMARY:夏ボカロnight
-DTSTART:20210725T120000Z
-DTEND:20210725T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=HNuu15zoq_w\n\n素敵なイラ
- ストをお借りしました(リンク先フルサイズです)\nhttps:/
- /twitter.com/o_lo3253/status/1416772411869974529
-URL:https://www.youtube.com/watch?v=HNuu15zoq_w
-END:VEVENT
-BEGIN:VEVENT
 UID:51727
 SUMMARY:【検証】怖い話、語り手が赤ちゃんなら怖くない
  説【にじさんじ/轟京子】
@@ -3083,6 +3073,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=2ORBezpMEKk\n\n夏です。ホ
 URL:https://www.youtube.com/watch?v=2ORBezpMEKk
 END:VEVENT
 BEGIN:VEVENT
+UID:51729
+SUMMARY:【新衣装お披露目】期待して！
+DTSTART:20210725T123000Z
+DTEND:20210725T133000Z
+DESCRIPTION:https://www.youtube.com/watch?v=V7vTVDKfYGo\n\n久しぶりに
+ 新衣装もらったのでお披露目です！！！！\n\n-------------
+ -----------------------------------\n■活動\n主に、不定期に配
+ 信してます。\n🍭定期的に生配信メインで活動してい
+ ます！\n(ゲーム実況、バイノーラル、お便りコーナー
+ 、etc…)\n配信予定やスケジュールはTwitterにて随時更新
+ しているのでフォローもお願いいたします！\n------------
+ ------------------------------------\n\n🍭 ファンレター（注意
+ 事項がありますので必読！）\nhttps://www.nijisanji.jp/contact\
+ n\n🍭Twitter\nhttps://twitter.com/harusakiair2434\n\n🍭Youtubeチャ
+ ンネル\nhttps://www.youtube.com/channel/UCtAv...\n\n🍭にじさんじ
+ \nhttps://www.nijisanji.jp\n\n🍭にじさんじオフィシャルスト
+ ア\nhttps://shop.nijisanji.jp/s/niji/
+URL:https://www.youtube.com/watch?v=V7vTVDKfYGo
+END:VEVENT
+BEGIN:VEVENT
 UID:51713
 SUMMARY:モイっと🐶まほすずラジオ🎀#140🐈～ 海に叫び
  たい〇〇のバカヤロー！～
@@ -3097,6 +3107,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=skN0sXvTu7s\n\nまほすずラ
  annel/UCpnvhOIJ6BN-vPkYU9ls-Eg\nモイモイ\nhttps://www.youtube.com/chan
  nel/UCvmppcdYf4HOv-tFQhHHJMA
 URL:https://www.youtube.com/watch?v=skN0sXvTu7s
+END:VEVENT
+BEGIN:VEVENT
+UID:51725
+SUMMARY:夏ボカロnight
+DTSTART:20210725T130000Z
+DTEND:20210725T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=HNuu15zoq_w\n\n素敵なイラ
+ ストをお借りしました(リンク先フルサイズです)\nhttps:/
+ /twitter.com/o_lo3253/status/1416772411869974529
+URL:https://www.youtube.com/watch?v=HNuu15zoq_w
 END:VEVENT
 BEGIN:VEVENT
 UID:51689
