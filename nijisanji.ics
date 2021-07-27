@@ -3450,8 +3450,9 @@ SUMMARY:ネット拡散で生まれた呪いを解決していくゲーム
 DTSTART:20210727T130000Z
 DTEND:20210727T140000Z
 DESCRIPTION:https://www.youtube.com/watch?v=n5s-Gw5JTn0\n\n配信タグ：#
- ルスタリオンエア\n\nおもしろそう\n\n◆サムネイル\n⇒o
- seoraさん(@oseora1)
+ ルスタリオンエア\n\nおもしろそう\n\n⇓じごくのインタ
+ ーネッツ⇓\nhttps://novelgame.jp/games/show/5227\n\n◆サムネイ
+ ル\n⇒oseoraさん(@oseora1)
 URL:https://www.youtube.com/watch?v=n5s-Gw5JTn0
 END:VEVENT
 BEGIN:VEVENT
@@ -3504,6 +3505,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=5H39pxvwr-M\n\nシリーズ完
  n【公式オフィシャルストア】\nhttps://shop.nijisanji.jp/s/niji
  /
 URL:https://www.youtube.com/watch?v=5H39pxvwr-M
+END:VEVENT
+BEGIN:VEVENT
+UID:51836
+SUMMARY:もしもし、今少しだけいい？【2021.07.27】
+DTSTART:20210727T131500Z
+DTEND:20210727T141500Z
+DESCRIPTION:https://www.youtube.com/watch?v=JyFD_OcV_rQ\n\nちょっとだ
+ け相談させてほしい、\n\n\n@雪城眞尋/Yukishiro Mahiro【に
+ じさんじ所属】
+URL:https://www.youtube.com/watch?v=JyFD_OcV_rQ
 END:VEVENT
 BEGIN:VEVENT
 UID:51833
@@ -3747,6 +3758,41 @@ DESCRIPTION:https://www.youtube.com/watch?v=iAzk6hdXRGc\n\n番組資料のM
  お姉さん（cv.竜胆尊）：https://www.youtube.com/channel/UCPvGypSg
  fDkVe7JG2KygK7A\n\n【取材協力】\n放送終了後追記予定
 URL:https://www.youtube.com/watch?v=iAzk6hdXRGc
+END:VEVENT
+BEGIN:VEVENT
+UID:51835
+SUMMARY:【Minecraft】今日は・・・どこ・・えっエンド？！
+ 【にじさんじ /葉加瀬冬雪】
+DTSTART:20210727T150000Z
+DTEND:20210727T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=MPJiDL0mMkE\n\nサムネにお
+ 借りしたイラスト\nhttps://twitter.com/toulenka_momo2/status/141998
+ 4697505972228?s=20\n\n\n【欲しいもの】\n\n◎深紅の根\nコー
+ ラスプラント\n◎ウィザーローズ\n◎深紅のキノコ\n◎
+ 歪んだキノコ\n◎深紅のドア\n◎歪んだトラップドア\n
+ ◎トラップチェスト\n◎シュルームライト\n◎コンポス
+ ター\n蜂蜜ブロック\n◎ハニカムブロック\nリスポーン
+ アンカー\nソウルファイア\n◎深紅の菌糸\n◎歪んだ菌
+ 糸\n赤いネザーレンガ\n◎深紅のナイリウム\n◎歪んだ
+ ナイリウム\n泣く黒曜石\nきらめくブラックストーン\n
+ コーラスフラワー\nカメの卵　\nカメの甲羅\nクリーパ
+ ーの頭\nスケルトンの頭蓋骨\nゾンビの頭\nグロウベリ
+ ー\n泣き顔パンダ\nうるめパンダ\n◎ろうそく\n銅　ほう
+ ち\nムーシュルーム赤色\nオオカミ\n金色のうさぎ\nうさ
+ ぎtoast \nホッキョクキツネ(アルスがくれるって！)\nひ
+ つじさかさ\nひつじレインボー\nオウム青　　\n猫　ブ
+ ラック\n白馬\n\n\n\nPlease subscribe to my channel and have fun!\n\n
+ ❄️twitter\nhttps://twitter.com/Hakase_Fuyuki\n\n❄️メンバー\nht
+ tps://www.youtube.com/channel/UCGYAYLDE7TZiiC8U6teciDQ/join\n\n配信タ
+ グ #冬雪ラボ\n\n------- \n\n\n❄️お部屋担当\n\nえがきぐ
+ りこ様\nhttps://www.youtube.com/channel/UC2qxMP86cqdqftwJdEe1ABg\nhttps
+ ://twitter.com/GurikoEgaki?s=20\n\n\n\n------- \n\nにじさんじ所属
+ の葉加瀬 冬雪( はかせ ふゆき )です。\n\n高校二年生。
+ 実験と美味しいご飯が好き。\nどうぞよろしくお願いし
+ ます。\n\nHi everyone!\n\nI'm Fuyuki Hakase\, a NIJISANJI VTuber.\nI li
+ ke science experiments and tasty food.\nI usually live stream games and si
+ nging on YouTube.
+URL:https://www.youtube.com/watch?v=MPJiDL0mMkE
 END:VEVENT
 BEGIN:VEVENT
 UID:51799
