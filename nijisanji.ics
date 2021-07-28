@@ -1850,6 +1850,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=iPfFirJk5vM\n\n一緒に健康
 URL:https://www.youtube.com/watch?v=iPfFirJk5vM
 END:VEVENT
 BEGIN:VEVENT
+UID:51900
+SUMMARY:#あさめしゃ 三枝明那視点【黛灰と不破湊とにじ
+ さんじ】
+DTSTART:20210728T214000Z
+DTEND:20210728T224000Z
+DESCRIPTION:https://www.youtube.com/watch?v=xsONK3iVeDc\n\n
+URL:https://www.youtube.com/watch?v=xsONK3iVeDc
+END:VEVENT
+BEGIN:VEVENT
 UID:51880
 SUMMARY:【朝配信】おはよ～～【にじさんじ/飛鳥ひな】
 DTSTART:20210728T220000Z
