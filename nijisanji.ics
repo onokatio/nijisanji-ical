@@ -3638,6 +3638,22 @@ DESCRIPTION:https://www.youtube.com/watch?v=JzSbsRsjLvw\n\nチャンネル
 URL:https://www.youtube.com/watch?v=JzSbsRsjLvw
 END:VEVENT
 BEGIN:VEVENT
+UID:51893
+SUMMARY:【歌枠】夜のオウタ【にじさんじ/レヴィ・エリフ
+ ァ】
+DTSTART:20210728T150000Z
+DTEND:20210728T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=rdiA6zOzEH8\n\nいっぱい歌
+ うゾウ♪\n\n#れゔぃあたんねる\n\nTwitterもはじめました
+ よつぶやク☆\n【Twitter】\n@Levi_E_2434\n\n\n【ファンレター
+ やプレゼント、その他お問い合わせ】\n【詳細】https://n
+ ijisanji.ichikara.co.jp/contact/\n\nにじさんじ関連リンク\n\n【
+ 公式Twitter】\nhttps://twitter.com/nijisanji_app\n〈@nijisanji_app〉\
+ n\n【公式HP】\nhttps://nijisanji.ichikara.co.jp/ \n\n【オフィシ
+ ャルストア】\nhttps://shop.nijisanji.jp/s/niji/
+URL:https://www.youtube.com/watch?v=rdiA6zOzEH8
+END:VEVENT
+BEGIN:VEVENT
 UID:51881
 SUMMARY:やばたにえん酸 - 残酷な死に方をする少女達を救
  いたい？？？
@@ -3789,8 +3805,8 @@ URL:https://www.youtube.com/watch?v=gAJZ7Zo6Qvs
 END:VEVENT
 BEGIN:VEVENT
 UID:51879
-SUMMARY:夕飯までにクラウンとらないとおわりまてん！【F
- all Guys】【葉山舞鈴/にじさんじ】
+SUMMARY:夕飯までにクラウンとらないと罰ゲーム？！はや
+ ま！【Fall Guys】【葉山舞鈴/にじさんじ】
 DTSTART:20210729T070000Z
 DTEND:20210729T080000Z
 DESCRIPTION:https://www.youtube.com/watch?v=PklojJkqMmM\n\n運動会おつ
