@@ -4127,17 +4127,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=nyQg8Vr176o\n\nバーチャル
 URL:https://www.youtube.com/watch?v=nyQg8Vr176o
 END:VEVENT
 BEGIN:VEVENT
-UID:51874
-SUMMARY:【歌ってみた】少女レイ【健屋花那/にじさんじ
- 】
-DTSTART:20210731T120000Z
-DTEND:20210731T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=jGn5IEJvKEc\n\n#歌ってみた
- #健屋花那#すこやカルテ#にじさんじ\n\n\n君は友達\n\n\nmu
- sic：みきとP\nillust/movie：G子\nmix&recording：百田尚史
-URL:https://www.youtube.com/watch?v=jGn5IEJvKEc
-END:VEVENT
-BEGIN:VEVENT
 UID:51885
 SUMMARY:【にじさんじ】#にじナポ人狼【ナポリの男たち
  】
@@ -4146,6 +4135,17 @@ DTEND:20210731T130000Z
 DESCRIPTION:https://www.youtube.com/watch?v=ldpVuzZ0zZs\n\n詳細は後日
  追記
 URL:https://www.youtube.com/watch?v=ldpVuzZ0zZs
+END:VEVENT
+BEGIN:VEVENT
+UID:51951
+SUMMARY:【歌ってみた】少女レイ【健屋花那/にじさんじ
+ 】
+DTSTART:20210731T120000Z
+DTEND:20210731T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=HCbcdycBUG4\n\n#歌ってみた
+ #健屋花那#すこやカルテ#にじさんじ\n\n\n君は友達\n\n\nmu
+ sic：みきとP\nillust/movie：G子\nmix&recording：百田尚史
+URL:https://www.youtube.com/watch?v=HCbcdycBUG4
 END:VEVENT
 BEGIN:VEVENT
 UID:51740
