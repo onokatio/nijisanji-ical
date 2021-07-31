@@ -2848,29 +2848,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=sscNh0MsHYo\n\n私達の時代
 URL:https://www.youtube.com/watch?v=sscNh0MsHYo
 END:VEVENT
 BEGIN:VEVENT
-UID:51824
-SUMMARY:【直前突撃レポート】にじさんじ AR STAGE  “LIGHT UP
-  TONES“ 【DAY1】
-DTSTART:20210731T064500Z
-DTEND:20210731T074500Z
-DESCRIPTION:https://www.youtube.com/watch?v=w2gcVPjuw-k\n\nバーチャル
- ライバー×生バンドのARライブ！ \n出演者を変えて2DAYS
- で行われる豪華ライブ“LIGHT UP TONES”、\n本放送は 7月31
- 日 Day1公演のイベント直前番組です！\n\nハッシュタグ #
- リアルタイムARライブ で実況、感想をお待ちしていま
- す！\n\n▼ネットチケットの詳細はこちら！\nhttps://event.
- nijisanji.app/arstage_lightuptones/#area-ticket\n\n▼イベント特設
- ページ\nhttps://event.nijisanji.app/arstage_lightuptones/\n\n▼Day 1
- 公演のライブ本編はこちら！\nhttps://www.youtube.com/watch?v=n
- yQg8Vr176o\n\n【公演情報】 \nイベント名：『にじさんじ AR
-  STAGE “LIGHT UP TONES”』 \n番組出演者：百花繚乱／轟京
- 子／舞元啓介\n公演出演者：樋口楓／緑仙／花畑チャイ
- カ／町田ちま／ジョー・力一／夢追翔／レヴィ・エリ
- ファ／加賀美ハヤト \n開催日時：2021年7月31日(土) 17:00 
- 開演
-URL:https://www.youtube.com/watch?v=w2gcVPjuw-k
-END:VEVENT
-BEGIN:VEVENT
 UID:50836
 SUMMARY:【AR生バンドライブ】にじさんじ AR STAGE “LIGHT UP T
  ONES” 無料パート【DAY1】
@@ -3143,6 +3120,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=QgdFOtsQV4U\n\nバーチャル
  魔界ノりりむ／葛葉／椎名唯華 \n開催日時：2021年8月1
  日(日) 17:00 開演
 URL:https://www.youtube.com/watch?v=QgdFOtsQV4U
+END:VEVENT
+BEGIN:VEVENT
+UID:50835
+SUMMARY:【AR生バンドライブ】にじさんじ AR STAGE “LIGHT UP T
+ ONES” 無料パート【DAY2】
+DTSTART:20210801T074500Z
+DTEND:20210801T084500Z
+DESCRIPTION:https://www.youtube.com/watch?v=_j4WQs4oBec\n\n※本放送は 
+ 8月1日 Day2公演の無料パート放送です。\n\nバーチャルラ
+ イバー × 生バンドのリアルタイムARライブ！ \n出演者
+ を変えて2DAYSで行われる豪華ライブ“LIGHT UP TONES” Day2\n
+ \nハッシュタグ #リアルタイムARライブ で実況、感想を
+ お待ちしています！\n\n▼ネットチケットの詳細はこち
+ ら！\nhttps://event.nijisanji.app/arstage_lightuptones/#area-ticket\n\n
+ ▼イベント特設ページ\nhttps://event.nijisanji.app/arstage_lightu
+ ptones/\n\n\n【公演情報】\nイベント名：『にじさんじ AR S
+ TAGE “LIGHT UP TONES”』\n出演者：月ノ美兎／剣持刀也／
+ 叶／ドーラ／魔界ノりりむ／葛葉／椎名唯華\n開催日時
+ ：2021年8月1日(日) 17:00 開演
+URL:https://www.youtube.com/watch?v=_j4WQs4oBec
 END:VEVENT
 BEGIN:VEVENT
 UID:51907
