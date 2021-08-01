@@ -2435,7 +2435,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:52074
 SUMMARY:【#FGO】コヤンスカヤ+6周年福袋ガチャ祭り※2部6
- 章+映画ネタバレ有【#FGO6周年 /にじさんじ郡道】
+ 章+映画+最終再臨ネタバレ有【#FGO6周年 /にじさんじ郡
+ 道】
 DTSTART:20210801T110000Z
 DTEND:20210801T120000Z
 DESCRIPTION:https://www.youtube.com/watch?v=_eJDSzu6ra4\n\n※明日のＲ
@@ -2456,6 +2457,21 @@ DESCRIPTION:https://www.youtube.com/watch?v=_eJDSzu6ra4\n\n※明日のＲ
  ps almost everyday and do ASMR on Fridays.\n\nPlease comment\, like and su
  bscribe!\n#GundouMirei #Nijisanji #Vtuber
 URL:https://www.youtube.com/watch?v=_eJDSzu6ra4
+END:VEVENT
+BEGIN:VEVENT
+UID:52075
+SUMMARY:いま★おうがすと　#shorts【えま★おうがすと/に
+ じさんじ所属】
+DTSTART:20210801T110000Z
+DTEND:20210801T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=LXA2vX_tte4\n\n今年もぼく
+ の月がやってきた🥳🌻🌈\n\nTwitter\n＠emma_august_\nhttps://
+ twitter.com/emma_august_\n\nお手紙・お問い合わせ\nhttps://www.ni
+ jisanji.jp/contact\n\nにじさんじ公式Twitter\n@nijisanji_app \nhttps
+ ://twitter.com/nijisanji_app\n\nにじさんじ公式HP\nhttps://nijisanji
+ .ichikara.co.jp/\n\nーーー\n#にじさんじ　#えまおうがすと
+ 　#shorts  #ショート動画　#いまおうがすと
+URL:https://www.youtube.com/watch?v=LXA2vX_tte4
 END:VEVENT
 BEGIN:VEVENT
 UID:52076
@@ -2704,6 +2720,42 @@ DESCRIPTION:https://www.youtube.com/watch?v=z82F2KZhZUw\n\nARライブよ
 URL:https://www.youtube.com/watch?v=z82F2KZhZUw
 END:VEVENT
 BEGIN:VEVENT
+UID:52078
+SUMMARY:モイっと！🐶まほすずラジオ🎀#141🐈～大喜利～
+ 【にじさんじ/鈴谷アキ・勇気ちひろ・モイラ】
+DTSTART:20210801T130000Z
+DTEND:20210801T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=5NWzy8-H8JE\n\nにじさんじ
+ 所属\nバーチャルライバーの鈴谷アキです！\n\nモイっ
+ と！🐶まほすずラジオ🎀#141🐈\n今日のテーマは「大
+ 喜利」\n\nお供は「好きなもの」！\n\nモイっと！まほす
+ ずラジオは\n勇気ちひろと鈴谷アキとモイラのラジオ番
+ 組です。\n生放送のタグは#モほすずラジオ \n\n↓↓ちー
+ ちゃんのチャンネル↓↓\nhttps://www.youtube.com/channel/UCLO9QD
+ xVL4bnvRRsz6K4bsQ\n\n↓↓モイラ様のチャンネル↓↓\nhttps://w
+ ww.youtube.com/channel/UCvmppcdYf4HOv-tFQhHHJMA\n\n\n*ファンクラブ*\
+ nhttps://fanclub.nijisanji.jp/fanclubs/aki-suzuya\n\n*twitter*\nhttps://tw
+ itter.com/aki_suzuya\n\n*公式オンラインショップ*\nhttps://shop.
+ nijisanji.jp/s/niji/\n\n\n*メンバーシップについて*\nhttps://gam
+ ing.youtube.com/channel/UCpnvhOIJ6BN-vPkYU9ls-Eg?app=desktop\nこちらか
+ ら登録をしていただくか\n「＄ボタン」を押して、登録
+ してください！\nにゃんこスタンプが月日によって変化
+ していくよ！\n\n*スーパーチャットについて*\nいつもあ
+ りがとうございます！\nコメントはよく見る方だと思う
+ のですが\nゲームをしていたり、お話をしているときは
+ 見逃してしまうかもしれません…。\n基本的に名前の読
+ み上げはしておりません。\nただ、にじぱちぱちを使う
+ 時のみ、運営さんから言われておりますので\n表示され
+ ている方を配信終了後に読み上げさせていただきます
+ 。\n\nよろしくお願いします！🐈\n\n*-------------------------
+ -----------------------*\nにじさんじについて\n\nお問い合わ
+ せ\nhttps://www.nijisanji.jp/contact​\n\n*お手紙を送りたい*\nht
+ tps://www.nijisanji.jp/contact\n*-----------------------------------------
+ -------*\n#モほすずラジオ\n#鈴谷アキ\n#勇気ちひろ\n#モイ
+ ラ
+URL:https://www.youtube.com/watch?v=5NWzy8-H8JE
+END:VEVENT
+BEGIN:VEVENT
 UID:52031
 SUMMARY:【Minecraft】建築もいよいよ折り返し！シュルカー
  トラップ！【にじさんじ鯖】
@@ -2836,21 +2888,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=SCZ389g4hl0\n\n▽1DAYいまし
  \n✉offer@ichikara.co.jp\n\n\n💭　- - - - - - - - - - - - - - - - - - 
  - - - - - - - - - - - - - - - - - - -
 URL:https://www.youtube.com/watch?v=SCZ389g4hl0
-END:VEVENT
-BEGIN:VEVENT
-UID:52075
-SUMMARY:いま★おうがすと　#shorts【えま★おうがすと/に
- じさんじ所属】
-DTSTART:20210801T230000Z
-DTEND:20210802T000000Z
-DESCRIPTION:https://www.youtube.com/watch?v=LXA2vX_tte4\n\n今年もぼく
- の月がやってきた🥳🌻🌈\n\nTwitter\n＠emma_august_\nhttps://
- twitter.com/emma_august_\n\nお手紙・お問い合わせ\nhttps://www.ni
- jisanji.jp/contact\n\nにじさんじ公式Twitter\n@nijisanji_app \nhttps
- ://twitter.com/nijisanji_app\n\nにじさんじ公式HP\nhttps://nijisanji
- .ichikara.co.jp/\n\nーーー\n#にじさんじ　#えまおうがすと
- 　#shorts  #ショート動画　#いまおうがすと
-URL:https://www.youtube.com/watch?v=LXA2vX_tte4
 END:VEVENT
 BEGIN:VEVENT
 UID:52048
