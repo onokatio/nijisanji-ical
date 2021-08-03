@@ -2005,8 +2005,8 @@ BEGIN:VEVENT
 UID:52211
 SUMMARY:【雑談/talk】朝活成功の世界線、ダウナーな鷹宮
  とチルい曲(Chill MIX)【にじさんじ/鷹宮リオン】
-DTSTART:20210803T221500Z
-DTEND:20210803T231500Z
+DTSTART:20210803T220000Z
+DTEND:20210803T230000Z
 DESCRIPTION:https://www.youtube.com/watch?v=agxsKj5mf6g\n\nギャル宮ボ
  イス販売中\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00514\n\
  n\n@不破 湊 / Fuwa Minato【にじさんじ】 自由研究素材感謝
@@ -2037,6 +2037,28 @@ DESCRIPTION:https://www.youtube.com/watch?v=agxsKj5mf6g\n\nギャル宮ボ
  とっても嬉しいの。いつもありがとう。\n\n\n#Vtuber  #に
  じさんじ #バーチャルユーチューバー
 URL:https://www.youtube.com/watch?v=agxsKj5mf6g
+END:VEVENT
+BEGIN:VEVENT
+UID:52212
+SUMMARY:【minecraft】寝起きマイクラ回収班【ラトナ・プテ
+ ィ/にじさんじ】
+DTSTART:20210803T221500Z
+DTEND:20210803T231500Z
+DESCRIPTION:https://www.youtube.com/watch?v=K3_hrnlk5mk\n\nチャンネル
+ 登録・goodボタン・通知おねがいします_(:3 」∠)_\n\n୨
+ ୧┈┈┈┈┈┈告知┈┈┈┈┈┈┈୨୧\n①ボイス\n『
+ ラトナ・プティ』で検索\nhttps://shop.nijisanji.jp/s/niji/?ima=1
+ 446\n\n②グッズ\n◆ぷTシャツ\nhttps://nijisanji.booth.pm/items/23
+ 08895\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n■Twitter\n
+ https://twitter.com/ratna_petit\n■メンバーシップ支援\nhttps://w
+ ww.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw/join\n■お問い合わ
+ せやプレゼント\nhttps://www.nijisanji.jp/contact\n📪お仕事の
+ ご依頼・お問い合わせ\nhttps://www.ichikara.co.jp/contact\n\n୨
+ ୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\nサムネはファン
+ アートから！ありがとう！☟\nふじ太@fujita_758634\n\n\n#ラ
+ トプテ　#ラトアート\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈
+ ┈୨୧\n\n主な使用BGM\n騒音のない世界
+URL:https://www.youtube.com/watch?v=K3_hrnlk5mk
 END:VEVENT
 BEGIN:VEVENT
 UID:52173
