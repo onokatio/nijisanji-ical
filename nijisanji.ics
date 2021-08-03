@@ -2563,6 +2563,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=EYVIgXxNUeo\n\nやきうが楽
 URL:https://www.youtube.com/watch?v=EYVIgXxNUeo
 END:VEVENT
 BEGIN:VEVENT
+UID:52162
+SUMMARY:洗濯機が爆発した
+DTSTART:20210803T130000Z
+DTEND:20210803T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=IsiWue3Zj4c\n\n無事爆発し
+ ました\nありがとうございました\n#みとの生放送\n\n月
+ ノ美兎のTwitter（配信予定等はこちらで呟いています！
+ ）\nhttps://twitter.com/MitoTsukino
+URL:https://www.youtube.com/watch?v=IsiWue3Zj4c
+END:VEVENT
+BEGIN:VEVENT
 UID:52143
 SUMMARY:【雑談】8月はいろいろ盛りだくさん月間！【にじ
  さんじ/える】
