@@ -2638,6 +2638,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=VNWJ9bRsskA\n\n♨チャンネ
 URL:https://www.youtube.com/watch?v=VNWJ9bRsskA
 END:VEVENT
 BEGIN:VEVENT
+UID:52222
+SUMMARY:【APEX】１人で国際大会に出場することになりまし
+ た【にじさんじ / グウェル・オス・ガール】
+DTSTART:20210804T110000Z
+DTEND:20210804T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=KNATW78EPgE\n\n各国のにじ
+ さんじ系列ライバーが出場する国際大会で一人で出場
+ することになったので、ハイドの練習をします。本気
+ です。
+URL:https://www.youtube.com/watch?v=KNATW78EPgE
+END:VEVENT
+BEGIN:VEVENT
 UID:52208
 SUMMARY:【じごくのインターネッツ】ホラー？オカルト？
  本当に怖いのはネッツってコトォ‥？【白雪 巴/にじさ
