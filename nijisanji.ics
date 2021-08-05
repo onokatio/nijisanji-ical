@@ -2968,6 +2968,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=S-Asw8SxdXM\n\nいよいよ\n\n
 URL:https://www.youtube.com/watch?v=S-Asw8SxdXM
 END:VEVENT
 BEGIN:VEVENT
+UID:52285
+SUMMARY:【APEX】私が日本代表です(本当)【にじさんじ / グ
+ ウェル・オス・ガール】
+DTSTART:20210805T110000Z
+DTEND:20210805T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=y6Cx9JZYqbY\n\n各国のにじ
+ さんじ系列ライバーが出場する国際大会で一人で出場
+ することになったので、ハイドの練習をします。本気
+ です。
+URL:https://www.youtube.com/watch?v=y6Cx9JZYqbY
+END:VEVENT
+BEGIN:VEVENT
 UID:52275
 SUMMARY:【#SIREN2021 #異界入り2021】コラボCover【にじさんじ/
  レヴィ・エリファ】
