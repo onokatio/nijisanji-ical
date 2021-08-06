@@ -3691,6 +3691,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=uNSDItD_B2c\n\n前回（繋が
 URL:https://www.youtube.com/watch?v=uNSDItD_B2c
 END:VEVENT
 BEGIN:VEVENT
+UID:52344
+SUMMARY:話したいことがあるんです。【#みらるた】
+DTSTART:20210806T140000Z
+DTEND:20210806T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=b3KKmgAYKfc\n\n素敵なイラ
+ スト : マンゴーくん(@juusi_mango)さま
+URL:https://www.youtube.com/watch?v=b3KKmgAYKfc
+END:VEVENT
+BEGIN:VEVENT
 UID:52343
 SUMMARY:【えまと晩酌】今日が●●●の日って知ってた？
  【えま★おうがすと/にじさんじ所属】
