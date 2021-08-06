@@ -2442,6 +2442,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=h37slaEWSl4\n\n
 URL:https://www.youtube.com/watch?v=h37slaEWSl4
 END:VEVENT
 BEGIN:VEVENT
+UID:52357
+SUMMARY:【誕生日凸待ち】配信予定！【星川サラ/にじさん
+ じ】
+DTSTART:20210807T110000Z
+DTEND:20210807T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=jgvIwMmh-AA\n\nじゅんびち
+ ゅう。
+URL:https://www.youtube.com/watch?v=jgvIwMmh-AA
+END:VEVENT
+BEGIN:VEVENT
 UID:52298
 SUMMARY:【にじさんじ】舞元力一 with 月ノ美兎ギャラクテ
  ィカSP【#舞元力一】
@@ -2530,6 +2540,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=ks3TQM0qezA\n\n私達の時代
  りがとう。\n\n\n#Vtuber  #にじさんじ #バーチャルユーチ
  ューバー
 URL:https://www.youtube.com/watch?v=ks3TQM0qezA
+END:VEVENT
+BEGIN:VEVENT
+UID:52358
+SUMMARY:【3Dミニライブ】DJと歌とダンスと。配信予定【星
+ 川サラ/にじさんじ】
+DTSTART:20210807T130000Z
+DTEND:20210807T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=y80MRPz1HSo\n\nじゅんびち
+ ゅう。
+URL:https://www.youtube.com/watch?v=y80MRPz1HSo
 END:VEVENT
 BEGIN:VEVENT
 UID:52351
