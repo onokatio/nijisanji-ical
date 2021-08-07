@@ -2826,6 +2826,20 @@ DESCRIPTION:https://www.youtube.com/watch?v=jgvIwMmh-AA\n\n誕生日記念
 URL:https://www.youtube.com/watch?v=jgvIwMmh-AA
 END:VEVENT
 BEGIN:VEVENT
+UID:52370
+SUMMARY:【APEX】明日大会ですが緊急事態が発生しました助
+ けて下さい【にじさんじ / グウェル・オス・ガール】
+DTSTART:20210807T110000Z
+DTEND:20210807T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=a13opSvE2f8\n\n昨日、大会
+ 概要が発表されました。\nなんとマップはオリンパスだ
+ そうです。\nオリンパスでハイドの練習したことないし
+ 、現在オリンパスで練習する手段がありません。\n完全
+ に詰んでいます。ハイド・オス・ガール最大のピンチ
+ です。助けてください。
+URL:https://www.youtube.com/watch?v=a13opSvE2f8
+END:VEVENT
+BEGIN:VEVENT
 UID:52298
 SUMMARY:【にじさんじ】舞元力一 with 月ノ美兎ギャラクテ
  ィカSP【#舞元力一】
@@ -3081,6 +3095,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=LWzUMg0v1Zc\n\n🐶前回まで
  tact/\n\n\n#fromsoftware#steam#PS4#PlayStation4#SEKIRO#隻狼#死にゲー
  #葉山舞鈴#にじさんじ#生け捕り町おこし
 URL:https://www.youtube.com/watch?v=LWzUMg0v1Zc
+END:VEVENT
+BEGIN:VEVENT
+UID:52168
+SUMMARY:？？？/雪城眞尋 -【MV】
+DTSTART:20210808T080000Z
+DTEND:20210808T090000Z
+DESCRIPTION:https://www.youtube.com/watch?v=fhjYFCEzOEE\n\n「いつか叶
+ う景色を　君に見て欲しい」\n\n\nVocal：雪城眞尋（https:
+ //twitter.com/MahiroYukishiro）\n\n\n#にじさんじ #Music #雪城眞
+ 尋
+URL:https://www.youtube.com/watch?v=fhjYFCEzOEE
 END:VEVENT
 BEGIN:VEVENT
 UID:52353
