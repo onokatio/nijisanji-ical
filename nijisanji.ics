@@ -2814,6 +2814,21 @@ DESCRIPTION:https://www.youtube.com/watch?v=Ro36BhNTxtM\n\n前回までの
 URL:https://www.youtube.com/watch?v=Ro36BhNTxtM
 END:VEVENT
 BEGIN:VEVENT
+UID:52426
+SUMMARY:【歌って踊ってみた】ファンサ／HoneyWorks【星川サ
+ ラ/にじさんじ】
+DTSTART:20210808T110000Z
+DTEND:20210808T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=RVcMDspjiug\n\n▼本編\n【
+ 誕生日ミニライブ】DJと歌とダンスと。世界１可愛いか
+ ら見て。\nhttps://youtu.be/y80MRPz1HSo\n\n本家様：https://youtu.be
+ /lzyDD8bMDKs\ninst：john=hive(八月二雪)様\n合いの手：夢追翔/
+ 緑仙/本間ひまわり/山神カルタ/フミ/長尾景\n映像編集
+ ・ライブパート音声編集：ぴろぱる様\nダンス振付/指
+ 導：おかえ様
+URL:https://www.youtube.com/watch?v=RVcMDspjiug
+END:VEVENT
+BEGIN:VEVENT
 UID:52407
 SUMMARY:【#レヴィにじ３Ｄ】にじ３Ｄお披露目しちゃうゾ
  ウ～～♪【にじさんじ/レヴィ・エリファ】
@@ -2867,7 +2882,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:52377
 SUMMARY:🛑勝とごろごろ4～囁きバイノーラル無軌道雑談
- ～【鈴木勝/にじさんじ】
+ ～ #鈴木勝誕生祭2021
 DTSTART:20210808T140000Z
 DTEND:20210808T150000Z
 DESCRIPTION:https://www.youtube.com/watch?v=kg8Q8jrYD6Y\n\n新10分まと
@@ -2958,7 +2973,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:52378
 SUMMARY:🛑【誕生日飯】好物ばっかり作って食べる料理配
- 信【にじさんじ/鈴木勝】
+ 信 #鈴木勝誕生祭2021
 DTSTART:20210809T080000Z
 DTEND:20210809T090000Z
 DESCRIPTION:https://www.youtube.com/watch?v=hpQ0gSt_0po\n\n参考にさせ
