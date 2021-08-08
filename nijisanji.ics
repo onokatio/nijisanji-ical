@@ -3384,6 +3384,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=M3CjEMzAWRk\n\n#2⇒https://you
 URL:https://www.youtube.com/watch?v=M3CjEMzAWRk
 END:VEVENT
 BEGIN:VEVENT
+UID:52433
+SUMMARY:【松竹梅メンバー限定配信】#30♨話したい事だら
+ け【にじさんじ/小野町春香】
+DTSTART:20210809T120000Z
+DTEND:20210809T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Zecah5tdQoE\n\n配信前にメ
+ ンバー限定公開に変更します\nここ数日あったことを話
+ したい
+URL:https://www.youtube.com/watch?v=Zecah5tdQoE
+END:VEVENT
+BEGIN:VEVENT
 UID:52380
 SUMMARY:【10分で理解る】海外反応まとめ【鈴木勝/にじさ
  んじ】
