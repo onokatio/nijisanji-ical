@@ -2693,6 +2693,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=hpQ0gSt_0po\n\n参考にさせ
 URL:https://www.youtube.com/watch?v=hpQ0gSt_0po
 END:VEVENT
 BEGIN:VEVENT
+UID:52477
+SUMMARY:【APEX】顔面【にじさんじ/イブラヒム】
+DTSTART:20210809T080000Z
+DTEND:20210809T090000Z
+DESCRIPTION:https://www.youtube.com/watch?v=JE-YvNX6MOo\n\nつら貸して
+ みよう\n\n@Uge Channel / 杏戸ゆげ 【ブイアパ】 \n@Rene Channe
+ l / 龍ヶ崎リン 【シュガリリ】
+URL:https://www.youtube.com/watch?v=JE-YvNX6MOo
+END:VEVENT
+BEGIN:VEVENT
 UID:52461
 SUMMARY:ステージ衣装で歌配信！最新流行曲中心♡【鈴鹿
  詩子/にじさんじ】
@@ -2824,10 +2834,29 @@ DESCRIPTION:https://www.youtube.com/watch?v=qerLjWuFFyk\n\n↓ここで見
 URL:https://www.youtube.com/watch?v=qerLjWuFFyk
 END:VEVENT
 BEGIN:VEVENT
-UID:52299
-SUMMARY:夜明けと蛍（Cover） /鷹宮リオン にじさんじ
+UID:52472
+SUMMARY:【にじさんじ/ジョー・力一】平沢進縛り歌枠 4【s
+ upported by DAM】
 DTSTART:20210809T100000Z
 DTEND:20210809T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=5jGM95lkmvk\n\n# CALLリキイ
+ チ\n\nカラオケ音源協力： DAM 第一興商\n※本動画は DAM 
+ 音源を使用しているため、動画の切り抜きはご遠慮く
+ ださい。\n\n過去の歌枠は↓\nhttps://youtube.com/playlist?list=P
+ LYNJxJCiZt_-xx4VZHdhwVuTPXBEttbOB\n\nRain Dropsドラマタイアップ&
+ 『バイオグラフィー』リリース決定！\nhttps://www.universal
+ -music.co.jp/raindrops/\n個人ボイス販売中です　詳細は↓\nht
+ tps://shop.nijisanji.jp/s/niji/artist/047/item?ima=0425\n\n☆メンバー
+ シップ開始しました！\nつってねスタンプや限定配信な
+ ど、いろいろ特典をご用意します！　登録は↓\nhttps://w
+ ww.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ/join
+URL:https://www.youtube.com/watch?v=5jGM95lkmvk
+END:VEVENT
+BEGIN:VEVENT
+UID:52299
+SUMMARY:夜明けと蛍（Cover） /鷹宮リオン にじさんじ
+DTSTART:20210809T103000Z
+DTEND:20210809T113000Z
 DESCRIPTION:https://www.youtube.com/watch?v=vlw7S2qDG-k\n\n夏の向こう
  へ\n\n\nいいと思ってくれた方チャンネル登録とTwitterフ
  ォローお願いします！\nhttps://twitter.com/TakamiyaRion\n\n\nMusi
@@ -2852,25 +2881,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=vlw7S2qDG-k\n\n夏の向こう
  きない事があるわ！\n気持ちはとっても嬉しいの。いつ
  もありがとう。\n\n#Vtuber  #にじさんじ #鷹宮リオン
 URL:https://www.youtube.com/watch?v=vlw7S2qDG-k
-END:VEVENT
-BEGIN:VEVENT
-UID:52472
-SUMMARY:【にじさんじ/ジョー・力一】平沢進縛り歌枠 4【s
- upported by DAM】
-DTSTART:20210809T100000Z
-DTEND:20210809T110000Z
-DESCRIPTION:https://www.youtube.com/watch?v=5jGM95lkmvk\n\n# CALLリキイ
- チ\n\nカラオケ音源協力： DAM 第一興商\n※本動画は DAM 
- 音源を使用しているため、動画の切り抜きはご遠慮く
- ださい。\n\n過去の歌枠は↓\nhttps://youtube.com/playlist?list=P
- LYNJxJCiZt_-xx4VZHdhwVuTPXBEttbOB\n\nRain Dropsドラマタイアップ&
- 『バイオグラフィー』リリース決定！\nhttps://www.universal
- -music.co.jp/raindrops/\n個人ボイス販売中です　詳細は↓\nht
- tps://shop.nijisanji.jp/s/niji/artist/047/item?ima=0425\n\n☆メンバー
- シップ開始しました！\nつってねスタンプや限定配信な
- ど、いろいろ特典をご用意します！　登録は↓\nhttps://w
- ww.youtube.com/channel/UChUJbHiTVeGrSkTdBzVfNCQ/join
-URL:https://www.youtube.com/watch?v=5jGM95lkmvk
 END:VEVENT
 BEGIN:VEVENT
 UID:29962
