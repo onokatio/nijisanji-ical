@@ -2946,6 +2946,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=6NRF9_73tuE\n\nからおけき
 URL:https://www.youtube.com/watch?v=6NRF9_73tuE
 END:VEVENT
 BEGIN:VEVENT
+UID:52598
+SUMMARY:【スカイリム歌枠】吟遊詩人大学で弾き語りしま
+ す【SKYRIM/にじさんじ/月ノ美兎】
+DTSTART:20210811T140000Z
+DTEND:20210811T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=LS2EnUYl7XQ\n\nこんにちは
+ 、講師のドヴァキンです\n#みとの生放送\n\n月ノ美兎のT
+ witter（配信予定等はこちらで呟いています！）\nhttps://t
+ witter.com/MitoTsukino
+URL:https://www.youtube.com/watch?v=LS2EnUYl7XQ
+END:VEVENT
+BEGIN:VEVENT
 UID:52575
 SUMMARY:【Minecraft】タワマンに自分の部屋作る【にじさん
  じ /葉加瀬冬雪】
