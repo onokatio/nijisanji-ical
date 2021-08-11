@@ -1966,6 +1966,26 @@ DESCRIPTION:https://www.youtube.com/watch?v=Q0ku8CT8rJ8\n\n開始時間は
 URL:https://www.youtube.com/watch?v=Q0ku8CT8rJ8
 END:VEVENT
 BEGIN:VEVENT
+UID:52563
+SUMMARY:【占い相談】#1 占い相談の館、開店です。【神田
+ 笑一/にじさんじ】
+DTSTART:20210811T090000Z
+DTEND:20210811T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=SKLXmvZGPjk\n\n占いなんて
+ 当たるも八卦、当たらぬも八卦\n沢山あるアドバイスの
+ 中の1つ程度に思って聞いてくださいね\n\n\n相談の応募
+ は神田のマシュマロまでお願いします！\nツイッターの
+ 固定にあるから見てね～\n\n【イラスト】\nぬんぬんぬ
+ むぬむさん\nTwitter：https://twitter.com/nunnunnumunumu\n\n\n□----
+ -----------------------------------------------------■\n\n🍅神田笑
+ 一　Twitter🍅\nhttps://twitter.com/Kanda_Shoichi\n\n■---------------
+ ------------------------------------------□\n\n🌈お問い合わせ・
+ お手紙などはこちら🌈\nhttps://www.nijisanji.jp/contact\n\n□--
+ -------------------------------------------------------■\n#にじさん
+ じ #占い #神田笑一
+URL:https://www.youtube.com/watch?v=SKLXmvZGPjk
+END:VEVENT
+BEGIN:VEVENT
 UID:52519
 SUMMARY:【よい子の夏休み特番】渋谷ハジメの知らない世
  界第２回生き物スペシャルwith学術V【にじさんじ/渋谷
@@ -2368,6 +2388,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=zr0YCWq8uTc\n\nホラー 10 エ
  送り先・お問い合わせはこちらから\nhttps://www.nijisanji.jp
  /contact
 URL:https://www.youtube.com/watch?v=zr0YCWq8uTc
+END:VEVENT
+BEGIN:VEVENT
+UID:52564
+SUMMARY:【】 -  &
+DTSTART:20210813T150000Z
+DTEND:20210813T160000Z
+DESCRIPTION:https://www.youtube.com/watch?v=X66YlReFzSc\n\n
+URL:https://www.youtube.com/watch?v=X66YlReFzSc
 END:VEVENT
 END:VCALENDAR
 
