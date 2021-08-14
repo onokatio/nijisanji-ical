@@ -3130,16 +3130,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=qa_IyqTJEsM\n\n♡   チャイ
 URL:https://www.youtube.com/watch?v=qa_IyqTJEsM
 END:VEVENT
 BEGIN:VEVENT
-UID:52736
-SUMMARY:BSS（僕のほうが先に好きだったのに）企画【卯月
- コウ/にじさんじ】
-DTSTART:20210814T110000Z
-DTEND:20210814T120000Z
-DESCRIPTION:https://www.youtube.com/watch?v=mgeqSknvi9I\n\nhttps://twitter.
- com/01emukei/status/1425394867874586624?s=20
-URL:https://www.youtube.com/watch?v=mgeqSknvi9I
-END:VEVENT
-BEGIN:VEVENT
 UID:52739
 SUMMARY:【 OUTLAST 】カメラ片手に精神病院にぶち込まれた
  件 #1【甲斐田晴/にじさんじ】
@@ -3203,6 +3193,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=AFrttoa6ztw\n\nﾟ＊.｡.＊
  ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.｡.＊ﾟ＊.
  ｡.＊ﾟ＊.｡.＊ﾟ
 URL:https://www.youtube.com/watch?v=AFrttoa6ztw
+END:VEVENT
+BEGIN:VEVENT
+UID:52736
+SUMMARY:BSS（僕のほうが先に好きだったのに）企画【卯月
+ コウ/にじさんじ】
+DTSTART:20210814T113000Z
+DTEND:20210814T123000Z
+DESCRIPTION:https://www.youtube.com/watch?v=mgeqSknvi9I\n\nhttps://twitter.
+ com/01emukei/status/1425394867874586624?s=20
+URL:https://www.youtube.com/watch?v=mgeqSknvi9I
 END:VEVENT
 BEGIN:VEVENT
 UID:52746
@@ -3456,6 +3456,25 @@ DESCRIPTION:https://www.youtube.com/watch?v=RtNj2TytkmM\n\n罰ゲーム「
  t/\n\n\n#fromsoftware#steam#PS4#PlayStation4#SEKIRO#隻狼#死にゲー#
  葉山舞鈴#にじさんじ#生け捕り町おこし
 URL:https://www.youtube.com/watch?v=RtNj2TytkmM
+END:VEVENT
+BEGIN:VEVENT
+UID:52747
+SUMMARY:【雑談】低気圧で一生眠れるよね【雪城眞尋/にじ
+ さんじ】
+DTSTART:20210814T140000Z
+DTEND:20210814T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=l0ucUZU8Ywc\n\n大雨低気圧
+ 頭痛睡眠\n\n明日17時に歌がでます\nhttps://t.co/EpVC834KsO?amp
+ =1\n\n＝＝＝＝＝＝＝＝＝＝＝＝\n\n歌と芝居が好きな15
+ 歳の高校1年生です\n不定期に生放送メインで活動して
+ います！\n通知オンにして遊びにきてね🌟\n\n◆Twitter￤
+ @MahiroYukishiro フォローしてね(*'▽')\nhttps://twitter.com/Mahiro
+ Yukishiro\n\n◆メンバーシップ￤特典や登録はこちらから
+ チェック✓\nhttps://www.youtube.com/channel/UCHX7YpFG8rVwhsHCx34xt7w/
+ join\n\n◆お問い合わせ関連￤なにかあればこちらへ\nhttp
+ s://www.nijisanji.jp/contact\n\n◆グッズ関連￤ボイス毎月販売
+ 中\nhttps://shop.nijisanji.jp/\n\n#にじさんじ #雪城眞尋 #雑談
+URL:https://www.youtube.com/watch?v=l0ucUZU8Ywc
 END:VEVENT
 BEGIN:VEVENT
 UID:52726
