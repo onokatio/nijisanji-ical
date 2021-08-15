@@ -2810,6 +2810,21 @@ DESCRIPTION:https://www.youtube.com/watch?v=jwZWSFlV7L0\n\n思い出し、
 URL:https://www.youtube.com/watch?v=jwZWSFlV7L0
 END:VEVENT
 BEGIN:VEVENT
+UID:52777
+SUMMARY:【にじさんじ】初めてやった前座配信を見るだけ
+ 【グウェル・オス・ガール】
+DTSTART:20210815T084300Z
+DTEND:20210815T094300Z
+DESCRIPTION:https://www.youtube.com/watch?v=GvE-kX_gZ2E\n\n3D企画やイ
+ ベントなどの直前の恒例となった前座配信の、記念す
+ べき第一回、今となってみれば「はじまり」となった
+ 配信を振り返っていきます。\nはじめてやった前座配信
+ →https://www.youtube.com/watch?v=Hx9MWsQGZSA\n\n18時からはこちら\
+ n【#にじさんじ甲子園 2021夏】決勝 https://youtu.be/FIdkwtoQol
+ s
+URL:https://www.youtube.com/watch?v=GvE-kX_gZ2E
+END:VEVENT
+BEGIN:VEVENT
 UID:52728
 SUMMARY:【#にじさんじ甲子園 2021夏】スポーツバーDERAS 決
  勝応援配信【ベルモンド・バンデラス/にじさんじ】
