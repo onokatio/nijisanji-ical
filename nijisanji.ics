@@ -1951,6 +1951,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=y5yW54WtjpA\n\nサムネイラ
 URL:https://www.youtube.com/watch?v=y5yW54WtjpA
 END:VEVENT
 BEGIN:VEVENT
+UID:52812
+SUMMARY:【パワプロ2020】はじめてのパワプロ【グウェル・
+ オス・ガール/にじさんじ】
+DTSTART:20210816T030000Z
+DTEND:20210816T040000Z
+DESCRIPTION:https://www.youtube.com/watch?v=DfqQKeylgn4\n\nじつは今ま
+ でパワプロシリーズを一切やった事が無かったのです
+ が、にじさんじ甲子園を見てやってみたくなってやっ
+ てしまいました。
+URL:https://www.youtube.com/watch?v=DfqQKeylgn4
+END:VEVENT
+BEGIN:VEVENT
 UID:52809
 SUMMARY:【Minecraft】タワマン1部屋の内装だー【夜見れな／
  にじさんじ】
@@ -2109,6 +2121,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=FH1no8K-ie4\n\n🎮➡　 雀
  nijisanji.jp/contact\n「ANYCOLOR株式会社」天宮こころ 宛\n\n[Co
  ntact form]\n　https://www.nijisanji.jp/contact
 URL:https://www.youtube.com/watch?v=FH1no8K-ie4
+END:VEVENT
+BEGIN:VEVENT
+UID:52813
+SUMMARY:ルイス・キャミーなら発声（ ポン チー カン ロン
+  ツモ） 出来なくても負けない説
+DTSTART:20210816T110000Z
+DTEND:20210816T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=dv70V_Bh0rY\n\n親知らずを
+ 抜いて喋れないらしいので、発声できないうちに勝と
+ うと思います。
+URL:https://www.youtube.com/watch?v=dv70V_Bh0rY
 END:VEVENT
 BEGIN:VEVENT
 UID:52582
