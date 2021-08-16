@@ -3087,20 +3087,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=RhXtlPQWni4\n\n唯一の\n初
 URL:https://www.youtube.com/watch?v=RhXtlPQWni4
 END:VEVENT
 BEGIN:VEVENT
-UID:52794
-SUMMARY:逆境がシビアすぎるアイドルプロデュースゲーム
- 【Idol Manager/にじさんじ/月ノ美兎】
-DTSTART:20210816T120000Z
-DTEND:20210816T130000Z
-DESCRIPTION:https://www.youtube.com/watch?v=kSY_cg0s7YU\n\nいつものア
- イドルプロデュースじゃない…\n#みとの生放送\n\n\n©Gli
- tch Pitch\nSteam『アイドルマネージャー（Idol Manager）』\nht
- tps://store.steampowered.com/app/821880/Idol_Manager/?l=japanese&curator_c
- lanid=29024848\n\n月ノ美兎のTwitter（配信予定等はこちらで
- 呟いています！）\nhttps://twitter.com/MitoTsukino
-URL:https://www.youtube.com/watch?v=kSY_cg0s7YU
-END:VEVENT
-BEGIN:VEVENT
 UID:52807
 SUMMARY:【雑談】#ひよこまち のパジャマパーティ🐤🐹【
  にじさんじ/町田ちま/飛鳥ひな】
@@ -3274,6 +3260,60 @@ DESCRIPTION:https://www.youtube.com/watch?v=XJCecdedQ7g\n\nソニー・コ
  ji.ichikara.co.jp/contact/\n\n【お問い合わせ】\noffer@ichikara.co.
  jp\n\n#ゲーム  #愛園愛美  #にじさんじ #Vtuber
 URL:https://www.youtube.com/watch?v=XJCecdedQ7g
+END:VEVENT
+BEGIN:VEVENT
+UID:52854
+SUMMARY:【雑談】暑中お見舞い申し上げます【 来栖夏芽/
+ にじさんじ】
+DTSTART:20210816T130000Z
+DTEND:20210816T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=Fw4gQNY8y_o\n\nありがたい
+ ことに今日はちょっとすずしい\n\n＊＊＊＊＊＊＊＊＊
+ ＊＊＊＊＊\n\nチャンネル登録、高評価、通知オンよろ
+ しくお願いします！！\n\n不定期で限定投稿や限定配信
+ などがある\nメンバーシップはこちらから！\n➡https://ww
+ w.youtube.com/channel/UCRcLAVTbmx2-iNcXSsupdNA/join\n\nサムネイラス
+ トはﾕﾅ様よりお借りいたしました！\nありがとうござ
+ います！\nhttps://twitter.com/U7_mgmg\n\n待機画面イラストは
+ なつうら様よりお借りいたしました！\nありがとうござ
+ います！\nhttps://twitter.com/natuura0826\n\n※配信内容に関係
+ のない方、話題に上がっていない方のお名前を出すこ
+ とはお控えください。\n→わたしが寂しがります。\n※
+ また、他の方の配信で話題に上がっていない時にわた
+ しの名前を出すこともお控えください。\n→こわって思
+ われます。もしくは困るなーって思われたりします。\n
+ ※楽しそうにやんちゃしてる人が居たらそっとブロッ
+ クしましょう。\n→君子危うきに近寄らずです。\n※コ
+ メント同士での会話はお控えください。\n→あとでわた
+ しがアーカイブを見たときになんか寂しくなります。\n
+ \n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n\n\nにじさんじ所属
+ バーチャルライバーの来栖夏芽（くるすなつめ）と申
+ します。\n音楽とゲームが好き！\nその他配信も不定期
+ で！ゲリラ多いので通知オンよろしくお願いします！\n
+ \n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n\n\n◯リンク\n【Twitt
+ er】\n配信の告知とかいろいろある！\nhttps://twitter.com/kur
+ usu72me\n#なつめぇ牧場\n\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊
+ ＊\n\n\n＜お問い合わせ関連＞\nhttps://www.nijisanji.jp/contact\
+ n\n\n＜グッズ関連＞\nhttps://shop.nijisanji.jp/\n\n＜にじさん
+ じ公式Twitter＞\nhttps://twitter.com/nijisanji_app\n《@nijisanji_app 
+ 》\n\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n\n配信見てくれ
+ てありがとう！！\n前回雑談のここ、配信後に修正した
+ の知ってた？
+URL:https://www.youtube.com/watch?v=Fw4gQNY8y_o
+END:VEVENT
+BEGIN:VEVENT
+UID:52794
+SUMMARY:逆境がシビアすぎるアイドルプロデュースゲーム
+ 【Idol Manager/にじさんじ/月ノ美兎】
+DTSTART:20210816T140000Z
+DTEND:20210816T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=kSY_cg0s7YU\n\nいつものア
+ イドルプロデュースじゃない…\n#みとの生放送\n\n\n©Gli
+ tch Pitch\nSteam『アイドルマネージャー（Idol Manager）』\nht
+ tps://store.steampowered.com/app/821880/Idol_Manager/?l=japanese&curator_c
+ lanid=29024848\n\n月ノ美兎のTwitter（配信予定等はこちらで
+ 呟いています！）\nhttps://twitter.com/MitoTsukino
+URL:https://www.youtube.com/watch?v=kSY_cg0s7YU
 END:VEVENT
 BEGIN:VEVENT
 UID:52840
