@@ -2060,6 +2060,14 @@ DESCRIPTION:https://www.youtube.com/watch?v=63nuGCe5kZs\n\n夏終わりた
 URL:https://www.youtube.com/watch?v=63nuGCe5kZs
 END:VEVENT
 BEGIN:VEVENT
+UID:52930
+SUMMARY:まゆゆと朝飯たべるだけ
+DTSTART:20210817T214500Z
+DTEND:20210817T224500Z
+DESCRIPTION:https://www.youtube.com/watch?v=a_rCeZDqmZM\n\n@まゆゆ
+URL:https://www.youtube.com/watch?v=a_rCeZDqmZM
+END:VEVENT
+BEGIN:VEVENT
 UID:52922
 SUMMARY:【ウマ娘】はじめての育成✨✨【にじさんじフミ
  】
