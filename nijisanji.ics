@@ -3603,11 +3603,44 @@ DESCRIPTION:https://www.youtube.com/watch?v=MsBWZHozjmQ\n\n✨チームメ
 URL:https://www.youtube.com/watch?v=MsBWZHozjmQ
 END:VEVENT
 BEGIN:VEVENT
+UID:53031
+SUMMARY:【APEX】V最協カスタム 　まけるな雪月花　4日目 #S
+ GKWIN【卯月コウ/にじさんじ】
+DTSTART:20210819T110000Z
+DTEND:20210819T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=u2J5gYeXkak\n\nメンバー\n@
+ 白雪レイドーReid Channelー \n@英リサ.Hanabusa Lisa \n@ゆふな
+ 【解説】\n\nsamune情報\nhttps://twitter.com/fu_su_ru/status/14278125
+ 92861421573?s=20
+URL:https://www.youtube.com/watch?v=u2J5gYeXkak
+END:VEVENT
+BEGIN:VEVENT
+UID:53032
+SUMMARY:【Apex #KGSWin】花芽い社 V最協決定戦カスタム #3 結
+ 構緊急事態【にじさんじ/社築】
+DTSTART:20210819T110000Z
+DTEND:20210819T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=CNqDa203kg0\n\nすみれさん
+ が熱でダウンしたのでMondoさんが来てくれます\n復活祈
+ 願するしかねえ…\n\n  @花芽すみれ \n  @なずちゃんねる-
+ Nazuna Channel \n\nLINEスタンプも出たぁ～！\nhttps://store.line.
+ me/stickershop/product/15392462/ja\n\nサムネイル：すみっこぐら
+ し（@vVO8B8CwuzGPaLX）さん\n\nハッシュタグは【#KGSWin】ま
+ で。\n------------------------------------------------\n社築のチャ
+ ンネル登録はコチラから：\nhttps://www.youtube.com/channel/UCKM
+ YISTJAQ8xTplUPHiABlA?sub_confirmation=1\nTwitter：\nhttps://twitter.com/8
+ 46kizuQ\nにじさんじ公式BOOTH：\nhttps://nijisanji.booth.pm/\n↑T
+ シャツとか売ってます↑\nお問い合わせ・プレゼント送
+ 付先：\nhttps://nijisanji.ichikara.co.jp/contact/\n--------------------
+ ----------------------------\n#ゲーム
+URL:https://www.youtube.com/watch?v=CNqDa203kg0
+END:VEVENT
+BEGIN:VEVENT
 UID:53030
 SUMMARY:APEX | V最協カスタム！4日目！あとはもうチャンピ
  オンをね・・へへ 【にじさんじ/叶】
-DTSTART:20210819T110000Z
-DTEND:20210819T120000Z
+DTSTART:20210819T110410Z
+DTEND:20210819T120410Z
 DESCRIPTION:https://www.youtube.com/watch?v=1YXsXRoagzQ\n\n@Kuzuha Channel 
  \n@甲斐田 晴 / Kaida Haru【にじさんじ】 \n\n毎日配信して
  ます！\n急な配信も多いので通知をONにして遊びに来て
@@ -3643,39 +3676,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=1YXsXRoagzQ\n\n@Kuzuha Channel
  fffz\n\nSupport the stream: https://streamlabs.com/kanaechannel\n\n#にじ
  さんじ
 URL:https://www.youtube.com/watch?v=1YXsXRoagzQ
-END:VEVENT
-BEGIN:VEVENT
-UID:53031
-SUMMARY:【APEX】V最協カスタム 　まけるな雪月花　4日目 #S
- GKWIN【卯月コウ/にじさんじ】
-DTSTART:20210819T110000Z
-DTEND:20210819T120000Z
-DESCRIPTION:https://www.youtube.com/watch?v=u2J5gYeXkak\n\nメンバー\n@
- 白雪レイドーReid Channelー \n@英リサ.Hanabusa Lisa \n@ゆふな
- 【解説】\n\nsamune情報\nhttps://twitter.com/fu_su_ru/status/14278125
- 92861421573?s=20
-URL:https://www.youtube.com/watch?v=u2J5gYeXkak
-END:VEVENT
-BEGIN:VEVENT
-UID:53032
-SUMMARY:【Apex #KGSWin】花芽い社 V最協決定戦カスタム #3 結
- 構緊急事態【にじさんじ/社築】
-DTSTART:20210819T110000Z
-DTEND:20210819T120000Z
-DESCRIPTION:https://www.youtube.com/watch?v=CNqDa203kg0\n\nすみれさん
- が熱でダウンしたのでMondoさんが来てくれます\n復活祈
- 願するしかねえ…\n\n  @花芽すみれ \n  @なずちゃんねる-
- Nazuna Channel \n\nLINEスタンプも出たぁ～！\nhttps://store.line.
- me/stickershop/product/15392462/ja\n\nサムネイル：すみっこぐら
- し（@vVO8B8CwuzGPaLX）さん\n\nハッシュタグは【#KGSWin】ま
- で。\n------------------------------------------------\n社築のチャ
- ンネル登録はコチラから：\nhttps://www.youtube.com/channel/UCKM
- YISTJAQ8xTplUPHiABlA?sub_confirmation=1\nTwitter：\nhttps://twitter.com/8
- 46kizuQ\nにじさんじ公式BOOTH：\nhttps://nijisanji.booth.pm/\n↑T
- シャツとか売ってます↑\nお問い合わせ・プレゼント送
- 付先：\nhttps://nijisanji.ichikara.co.jp/contact/\n--------------------
- ----------------------------\n#ゲーム
-URL:https://www.youtube.com/watch?v=CNqDa203kg0
 END:VEVENT
 BEGIN:VEVENT
 UID:52996
@@ -4379,6 +4379,52 @@ DESCRIPTION:https://www.youtube.com/watch?v=NS80jHigNdY\n\n放課後サボ
  o.jp\n\n\n💭　- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
   - - - - - - - -
 URL:https://www.youtube.com/watch?v=NS80jHigNdY
+END:VEVENT
+BEGIN:VEVENT
+UID:53035
+SUMMARY:【ミストトレインガールズ】カジノ対決？！全つ
+ っぱで余裕っしょ！！【にじさんじ/ドーラ  郡道美玲
+ 】
+DTSTART:20210820T110000Z
+DTEND:20210820T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=GLzh9XjL4_E\n\n提供：ミス
+ トトレインガールズ～霧の世界の車窓から～\n\n▼App Sto
+ re/Google Play版　事前登録受付中！！\nhttps://misttraingirls.on
+ elink.me/D9ZJ/6a7a806d\n\n▼「にじさんじカジノチャレンジ」
+ Twitterキャンペーンはこちら\n公式Twitter：https://twitter.com
+ /mist_staff\n\n＃ミストトレインガールズ\n＃ミストレ\n＃
+ にじさんじカジノチャレンジ\n\n©️2020 EXNOA LLC / KMS\,inc.
+ \n\n郡道美玲\nhttps://twitter.com/g9v9g_mirei\nhttps://www.youtube.com
+ /channel/UCeShTCVgZyq2lsBW9QwIJcw\n\nミストトレインガールズ公
+ 式\nhttps://mist-train-girls.com/\n\n\n✦ ･ ･ ･ ✧ ･ ･ ･ 
+ ✦ ･ ･ ･ ✧ ･ ･ ･ ✦ ･ ･ ･ ✧ ･ ･ ･ ✦\n\n\n
+ 🔥 Twitter\nhttps://twitter.com/___Dola\n\n🔥 Membership　\nhttps://w
+ ww.youtube.com/channel/UC53UDnhAAYwvNO7j_2Ju1cQ/join\nhttps://twitter.com/
+ ___Dola/status/1289585480305016833\n\n🔥 Schedule\nhttps://bit.ly/3zOLr8
+ A\n\n🔥 Contact\nhttps://www.nijisanji.jp/contact\n\n\n+‥‥‥‥‥
+ ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥+\n\n\n🔥 応
+ 援ありがとう･･･！\nスーパーチャット、メンバー加
+ 入、本当にありがとう！！\n全部に反応したい！！とい
+ う気持ちで配信していますが\n読み飛ばしてしまったり
+ 、読む余裕がなかったりと反応できないこともありま
+ す。\n悲しい気持ちにさせてしまったらごめん！！！\n
+ 配信が終わったあとにしっかり確認させてもらってい
+ るのでそれで許してください･･･！\n\n頂いたスーパ
+ ーチャットやメンバー代は、機材やごはんからお仕事
+ の交通費まで\nドレイクの生活をめちゃくちゃ支えてく
+ れています。\nいつもほんとうにありがとう( ；ᵕ； )\n
+ \n\n+‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥
+ ‥+\n\n🌈 にじさんじ公式\n▶ https://www.youtube.com/channel/UC
+ X7YkU9nEeaoZbkVLVajcMg\n▶ https://twitter.com/nijisanji_app\n\n👜 お
+ すすめグッズ\n☞ ロングＴシャツ　　　https://nijisanji.bo
+ oth.pm/items/2269873\n☞ はらぺこＴシャツ　　https://nijisanji.
+ booth.pm/items/2269840\n\n+‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥
+ ‥‥‥‥‥‥‥‥‥+\n\n詳細はチャンネル概要をチェッ
+ クしてくれー！\nhttps://www.youtube.com/channel/UC53UDnhAAYwvNO7j_2
+ Ju1cQ/about\n\n+‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥
+ ‥‥‥‥‥+\n\n\n+‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥
+ ‥‥‥‥‥‥‥+
+URL:https://www.youtube.com/watch?v=GLzh9XjL4_E
 END:VEVENT
 BEGIN:VEVENT
 UID:52841
