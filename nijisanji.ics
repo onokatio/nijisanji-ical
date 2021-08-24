@@ -2216,6 +2216,15 @@ DESCRIPTION:https://www.youtube.com/watch?v=5K2YYXS5kqs\n\nアニメ「冴
 URL:https://www.youtube.com/watch?v=5K2YYXS5kqs
 END:VEVENT
 BEGIN:VEVENT
+UID:53350
+SUMMARY:【covered by 愛園愛美】
+DTSTART:20210825T140000Z
+DTEND:20210825T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=PL6I27UBdGg\n\nVocal 　愛園
+ 愛美\nMix　 　YAB\nInst　 　久保崎真也\nMovie 　yoshi
+URL:https://www.youtube.com/watch?v=PL6I27UBdGg
+END:VEVENT
+BEGIN:VEVENT
 UID:53307
 SUMMARY:【怖い話】納涼Horror▽Night【にじさんじ/轟京子】
 DTSTART:20210825T150000Z
