@@ -2745,21 +2745,11 @@ DESCRIPTION:https://www.youtube.com/watch?v=5K2YYXS5kqs\n\nアニメ「冴
 URL:https://www.youtube.com/watch?v=5K2YYXS5kqs
 END:VEVENT
 BEGIN:VEVENT
-UID:53355
-SUMMARY:【covered by 愛園愛美】
-DTSTART:20210825T140000Z
-DTEND:20210825T150000Z
-DESCRIPTION:https://www.youtube.com/watch?v=0NPrLEj-Fz8\n\nVocal 　愛園
- 愛美\nIllust 　 希之本\nMix　 　YAB\nInst　 　久保崎真也\nM
- ovie 　yoshi
-URL:https://www.youtube.com/watch?v=0NPrLEj-Fz8
-END:VEVENT
-BEGIN:VEVENT
 UID:53360
 SUMMARY:にじさんじライバーに同性にドキッ♡とした話聞
  いてみた！【鈴鹿詩子/にじさんじ】
-DTSTART:20210825T140000Z
-DTEND:20210825T150000Z
+DTSTART:20210825T130000Z
+DTEND:20210825T140000Z
 DESCRIPTION:https://www.youtube.com/watch?v=4S6YHYXBhfc\n\n#にじドキッ
  　でツイートしてね！\nエピソード応募してくれたライ
  バーさん方誠にありがとうございました！！！\n\n♡自
@@ -2794,6 +2784,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=4S6YHYXBhfc\n\n#にじドキッ
  tems/1081260　\n詩子デザイン行き場のない母性パーカー：
  https://nijisanji.booth.pm/items/1078891
 URL:https://www.youtube.com/watch?v=4S6YHYXBhfc
+END:VEVENT
+BEGIN:VEVENT
+UID:53355
+SUMMARY:【covered by 愛園愛美】
+DTSTART:20210825T140000Z
+DTEND:20210825T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=0NPrLEj-Fz8\n\nVocal 　愛園
+ 愛美\nIllust 　 希之本\nMix　 　YAB\nInst　 　久保崎真也\nM
+ ovie 　yoshi
+URL:https://www.youtube.com/watch?v=0NPrLEj-Fz8
 END:VEVENT
 BEGIN:VEVENT
 UID:53364
