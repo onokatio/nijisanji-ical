@@ -3187,6 +3187,17 @@ DESCRIPTION:https://www.youtube.com/watch?v=3EV5SS9D3QE\n\n配信タグは
 URL:https://www.youtube.com/watch?v=3EV5SS9D3QE
 END:VEVENT
 BEGIN:VEVENT
+UID:53481
+SUMMARY:【雑談】明日3Dお披露目らしいので緊張をといて
+ くれ【にじさんじ】
+DTSTART:20210827T140000Z
+DTEND:20210827T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=3JxbvK7F5T8\n\n配信タグ：#
+ ルスタリオンエア\n\nすでにはきそう\n\n◆サムネイル\n
+ ⇒士道不覚悟切腹卍丸さん(@shidouhukakugo)
+URL:https://www.youtube.com/watch?v=3JxbvK7F5T8
+END:VEVENT
+BEGIN:VEVENT
 UID:53474
 SUMMARY:【マリオメーカー２】地獄マリオ ハイパー【にじ
  さんじ /葉加瀬冬雪 】
