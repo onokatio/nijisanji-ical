@@ -3158,35 +3158,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=qtH6_psHvig\n\n3年の卒業。
 URL:https://www.youtube.com/watch?v=qtH6_psHvig
 END:VEVENT
 BEGIN:VEVENT
-UID:53477
-SUMMARY:【えまと晩酌】おうがすと最後の晩酌。はわわ！
- 【えま★おうがすと/にじさんじ所属】
-DTSTART:20210827T140000Z
-DTEND:20210827T150000Z
-DESCRIPTION:https://www.youtube.com/watch?v=3EV5SS9D3QE\n\n配信タグは 
- #えまと晩酌\n\n メンバーはこちらから♥️https://youtube.c
- om/channel/UCl1oLKcAq93p-pwKfDGhiYQ/join\n\n金曜日の夜は、『えま
- と晩酌』！\n美味しいお酒とおつまみで、一週間の疲れ
- を共に癒そう。\n\n\nサムネイル🤍https://twitter.com/atriekis
- akuro/status/1431203085834063875?s=21\n待機画面🤍https://video.twimg
- .com/tweet_video/EfPKf1RU4AAz-0R.mp4\nエンディング🤍https://twitte
- r.com/sasuralulu/status/1320296553202896902?s=20\n\n\n~えま★おうが
- すと語録~\nばちばち……配信が始まる前に、下僕がう
- わごとのように呟く言葉。\nばちこーん……えま★おう
- がすとがウィンクをした時の効果音。口で言う。\nこん
- ばちこん……こんばんは。もしくは、こんにちはの意
- 。挨拶。\nおつえま……えまと下僕をねぎらう時に使う
- 。\n下僕……えま★おうがすとは魔王である。そのため
- 、ファンの総称が下僕であっても、なんら不思議では
- ない。さあ、君も下僕になるんだよ！★(ゝᴗ ∂)ﾊﾞ
- ﾁｺｰﾝ\n\n\nTwitter\n＠emma_august_\nhttps://twitter.com/emma_augus
- t_\n\nお手紙・お問い合わせ\nhttps://www.nijisanji.jp/contact\n\n
- にじさんじ公式Twitter\n@nijisanji_app \nhttps://twitter.com/nijisan
- ji_app\n\nにじさんじ公式HP\nhttps://nijisanji.ichikara.co.jp/\n\n
- ーーー\n#にじさんじ　#えまおうがすと
-URL:https://www.youtube.com/watch?v=3EV5SS9D3QE
-END:VEVENT
-BEGIN:VEVENT
 UID:53481
 SUMMARY:【雑談】明日3Dお披露目らしいので緊張をといて
  くれ【にじさんじ】
@@ -3236,6 +3207,79 @@ DESCRIPTION:https://www.youtube.com/watch?v=XCYB0G4bBWo\n\n✦ 提供：ア
  om/channel/UC53UDnhAAYwvNO7j_2Ju1cQ/about\n\n+‥‥‥‥‥‥‥‥‥
  ‥‥‥‥‥‥‥‥‥‥‥‥‥‥‥+
 URL:https://www.youtube.com/watch?v=XCYB0G4bBWo
+END:VEVENT
+BEGIN:VEVENT
+UID:53477
+SUMMARY:【えまと晩酌】おうがすと最後の晩酌。はわわ！
+ 【えま★おうがすと/にじさんじ所属】
+DTSTART:20210827T143000Z
+DTEND:20210827T153000Z
+DESCRIPTION:https://www.youtube.com/watch?v=3EV5SS9D3QE\n\n配信タグは 
+ #えまと晩酌\n\n メンバーはこちらから♥️https://youtube.c
+ om/channel/UCl1oLKcAq93p-pwKfDGhiYQ/join\n\n金曜日の夜は、『えま
+ と晩酌』！\n美味しいお酒とおつまみで、一週間の疲れ
+ を共に癒そう。\n\n\nサムネイル🤍https://twitter.com/atriekis
+ akuro/status/1431203085834063875?s=21\n待機画面🤍https://video.twimg
+ .com/tweet_video/EfPKf1RU4AAz-0R.mp4\nエンディング🤍https://twitte
+ r.com/sasuralulu/status/1320296553202896902?s=20\n\n\n~えま★おうが
+ すと語録~\nばちばち……配信が始まる前に、下僕がう
+ わごとのように呟く言葉。\nばちこーん……えま★おう
+ がすとがウィンクをした時の効果音。口で言う。\nこん
+ ばちこん……こんばんは。もしくは、こんにちはの意
+ 。挨拶。\nおつえま……えまと下僕をねぎらう時に使う
+ 。\n下僕……えま★おうがすとは魔王である。そのため
+ 、ファンの総称が下僕であっても、なんら不思議では
+ ない。さあ、君も下僕になるんだよ！★(ゝᴗ ∂)ﾊﾞ
+ ﾁｺｰﾝ\n\n\nTwitter\n＠emma_august_\nhttps://twitter.com/emma_augus
+ t_\n\nお手紙・お問い合わせ\nhttps://www.nijisanji.jp/contact\n\n
+ にじさんじ公式Twitter\n@nijisanji_app \nhttps://twitter.com/nijisan
+ ji_app\n\nにじさんじ公式HP\nhttps://nijisanji.ichikara.co.jp/\n\n
+ ーーー\n#にじさんじ　#えまおうがすと
+URL:https://www.youtube.com/watch?v=3EV5SS9D3QE
+END:VEVENT
+BEGIN:VEVENT
+UID:53484
+SUMMARY:【Roombo: First Blood】こちらお掃除ロボット。敵性存
+ 在を発見。”掃除”します。【黛灰/にじさんじ】
+DTSTART:20210827T143000Z
+DTEND:20210827T153000Z
+DESCRIPTION:https://www.youtube.com/watch?v=3sF7zntXE8s\n\n猟奇的なル
+ ンバをあやつるゲーム。\n\n*************************************
+ *************************\n\n少し頼みたいこと\n・放送内容に
+ 関係ない話題を話しすぎないでほしい\n・他の配信者の
+ 放送で話題になってないのに俺の話をしすぎないでほ
+ しい\n・俺の配信の空気感は俺の配信内に留めてほしい
+ \n・初見でも見やすいようあまり過去のネタを引っ張り
+ すぎないようにしてるのでよければ協力してほしい\n・
+ ゲーム中、先の展開や解法を知ってる人がネタバレを
+ しないでほしい\n・以上の内容に反することも見かけて
+ も、わざわざ注意して揉めたりしないでね（一番大事
+ ）\n\nゲームのリクエスト\n【 https://forms.gle/QwCUip9s2msJDfFE
+ A 】\nなるべく他の人と被ってないか、まずはリンクを
+ チェックしてね\n\n◎よくある質問\n\nQ.いつまでやるの
+ ？\nA.気が済むまで。\n\nQ.まゆゆ、まゆくん、他あだ名
+ で呼んでいい？\nA.あまり推奨はしてない。\n\nQ.明日っ
+ て何日？\nA.日付をまたいでも寝るまでが今日 寝て起き
+ たら明日\n\nQ.コメント出さないの？\nA.出さない。\n\nQ.
+ 体調大丈夫？喉大丈夫？寝てる？ご飯食べてる？\nA.そ
+ れなりに。\n\n*******************************************************
+ *******\n\nにじさんじ所属バーチャルライバー 黛灰の放
+ 送です。\n\n◯プロフィール\n類い稀な才能を持つハッ
+ カー\n持て余した暇をどうにかするべく配信活動を始め
+ る\n買い物は全て通販で済ませるいわゆる出不精\n\n※
+ インターネット等を用いた不正アクセス行為やその助
+ 長行為は法律で禁止されています。\n※模倣防止や演出
+ 上などの観点から一部実際のコマンドラインと異なる
+ 箇所がございます。\n\n\n〇各種タグ\n配信タグ：#ライ
+ ブハック\n二次創作：#灰画\n切り抜き：#灰ジェスト\n\n
+ ◯リンク\n【Twitter】\nhttps://twitter.com/mayuzumi_X\n\n【お問
+ い合わせやプレゼントはこちら】\nhttps://nijisanji.ichikara.
+ co.jp/contact/\n\n【にじさんじオフィシャルストア】\nhttps:
+ //shop.nijisanji.jp/s/niji/\n\n【にじさんじ公式Twitter】\nhttps:/
+ /twitter.com/nijisanji_app\n《@nijisanji_app 》\n\n【にじさんじ公
+ 式HP】\nhttps://nijisanji.ichikara.co.jp/\n\n***************************
+ ***********************************
+URL:https://www.youtube.com/watch?v=3sF7zntXE8s
 END:VEVENT
 BEGIN:VEVENT
 UID:53474
