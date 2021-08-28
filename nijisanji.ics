@@ -2808,7 +2808,7 @@ BEGIN:VEVENT
 UID:53506
 SUMMARY:【#あのアレにじさんじ】あのアレなヤバイにじさ
  んじ【グウェル・オス・ガール/樋口楓/星川サラ/伏見
- ガク】
+ ガク/来栖夏芽】
 DTSTART:20210828T130000Z
 DTEND:20210828T140000Z
 DESCRIPTION:https://www.youtube.com/watch?v=TrsktJJqQtU\n\n8/27発売の「
@@ -2831,6 +2831,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=TrsktJJqQtU\n\n8/27発売の「
  じ所属】 \n@星川サラ / Sara Hoshikawa \n@グウェル・オス・
  ガール / Gwelu Os Gar 【にじさんじ】
 URL:https://www.youtube.com/watch?v=TrsktJJqQtU
+END:VEVENT
+BEGIN:VEVENT
+UID:53507
+SUMMARY:【9万人記念】24時間サイコブレイク 1/2【にじさん
+ じ / 伏見ガク】
+DTSTART:20210829T090000Z
+DTEND:20210829T100000Z
+DESCRIPTION:https://www.youtube.com/watch?v=VAdGOWj2liU\n\nゼルダに続
+ いて久々の２４時間企画！！クリアするしかないっし
+ ょ！！！！！！\n\nタイムスケジュール\n18:00 スタート\n
+ 06:00 枠変え\n06:45 休憩\n12:00 休憩\n18:00 クリアしている
+ ！！はず！！\n\n\nピース！！\n\nにじさんじ所属バーチ
+ ャルライバー、伏見ガクっす！！\nサクっとガクって呼
+ んじゃってー🕺\n\nTwitterは以下より！\nhttps://twitter.com/g
+ aku_fushimi\n\nにじさんじはこちらから\nhttp://nijisanji.ichikar
+ a.co.jp\n\n\n魔王魂　様　\nT.M.BACH　様　\nDOVA-SYNDROME　様\n
+ びたちー素材館 　様\n他
+URL:https://www.youtube.com/watch?v=VAdGOWj2liU
 END:VEVENT
 END:VCALENDAR
 
