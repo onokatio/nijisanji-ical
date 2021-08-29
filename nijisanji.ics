@@ -2792,6 +2792,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=e1uPXT1bgzg\n\nR6 ロイヤル
 URL:https://www.youtube.com/watch?v=e1uPXT1bgzg
 END:VEVENT
 BEGIN:VEVENT
+UID:53566
+SUMMARY:【R6S】レインボー【けんき3\,エクス3\,かなえ3\,く
+ ずは3\,そしてこの俺】
+DTSTART:20210829T112000Z
+DTEND:20210829T122000Z
+DESCRIPTION:https://www.youtube.com/watch?v=ox0L3ofbb54\n\n9/10の大会に
+ 出ます\nうるかさんは今日お休み\n\n@エクス・アルビオ 
+ -Ex Albio- \n@Uruca ch /うるか \n@Kanae Channel \n@Kuzuha Channel \n\n
+ コーチ\n@けんき
+URL:https://www.youtube.com/watch?v=ox0L3ofbb54
+END:VEVENT
+BEGIN:VEVENT
 UID:53555
 SUMMARY:【#にじさんじポケユナ大会】大会説明＆抽選会を
  見ながらはしゃぐ枠【にじさんじ/ポケモンユナイト】
@@ -2809,9 +2821,29 @@ SUMMARY:【#にじさんじポケユナ大会】大会説明＆抽選会【
 DTSTART:20210829T120000Z
 DTEND:20210829T130000Z
 DESCRIPTION:https://www.youtube.com/watch?v=YWt70D89dSw\n\n9/12(日)に行
- われるポケユナ大会の大会説明＆説明会を実施いたし
- ます。\nお見逃しなく。
+ われるポケユナ大会の大会説明＆抽選会を実施いたし
+ ます。\nお見逃しなく。\n\n出演者：未定
 URL:https://www.youtube.com/watch?v=YWt70D89dSw
+END:VEVENT
+BEGIN:VEVENT
+UID:53567
+SUMMARY:【プロセカ #にじ3Dプロセカ】技術革新！？手元に
+ じ3Dで音ゲー配信！！【にじさんじ/社築】
+DTSTART:20210829T130000Z
+DTEND:20210829T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=MJzXP_RvcaY\n\n同僚のドー
+ ラがやってたので俺も手元に挑戦するぞ！\n地味に自枠
+ でにじ3D使うの初めてです刮目せよ\n\n※後で自分で切
+ り抜くと思うのでこの枠の切り抜きはご遠慮願います
+ 。\n\n\nハッシュタグは【#にじ3Dプロセカ】まで。\n------
+ ------------------------------------------\n社築のチャンネル登録
+ はコチラから：\nhttps://www.youtube.com/channel/UCKMYISTJAQ8xTplUPH
+ iABlA?sub_confirmation=1\nTwitter：\nhttps://twitter.com/846kizuQ\nにじ
+ さんじ公式BOOTH：\nhttps://nijisanji.booth.pm/\n↑Tシャツとか
+ 売ってます↑\nお問い合わせ・プレゼント送付先：\nhttp
+ s://nijisanji.ichikara.co.jp/contact/\n-----------------------------------
+ -------------\n#ゲーム
+URL:https://www.youtube.com/watch?v=MJzXP_RvcaY
 END:VEVENT
 BEGIN:VEVENT
 UID:53536
