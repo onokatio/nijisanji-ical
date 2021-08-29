@@ -2804,17 +2804,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=ox0L3ofbb54\n\n9/10の大会に
 URL:https://www.youtube.com/watch?v=ox0L3ofbb54
 END:VEVENT
 BEGIN:VEVENT
-UID:53555
-SUMMARY:【#にじさんじポケユナ大会】大会説明＆抽選会を
- 見ながらはしゃぐ枠【にじさんじ/ポケモンユナイト】
-DTSTART:20210829T115500Z
-DTEND:20210829T125500Z
-DESCRIPTION:https://www.youtube.com/watch?v=tlCBWO5H_Q0\n\n【本配信は
- こっち】\nhttps://www.youtube.com/watch?v=YWt70D89dSw\n\n\nCLとかEL
- の抽選大好きおじさん
-URL:https://www.youtube.com/watch?v=tlCBWO5H_Q0
-END:VEVENT
-BEGIN:VEVENT
 UID:53548
 SUMMARY:【#にじさんじポケユナ大会】大会説明＆抽選会【
  にじさんじ/ポケモンユナイト】
@@ -2822,8 +2811,21 @@ DTSTART:20210829T120000Z
 DTEND:20210829T130000Z
 DESCRIPTION:https://www.youtube.com/watch?v=YWt70D89dSw\n\n9/12(日)に行
  われるポケユナ大会の大会説明＆抽選会を実施いたし
- ます。\nお見逃しなく。\n\n出演者：未定
+ ます。\nお見逃しなく。\n\n出演者：未定\n\n※グウェル
+ ・オス・ガールは子供が寝ているため大きな声を出せ
+ ません。
 URL:https://www.youtube.com/watch?v=YWt70D89dSw
+END:VEVENT
+BEGIN:VEVENT
+UID:53555
+SUMMARY:【#にじさんじポケユナ大会】大会説明＆抽選会を
+ 見ながらはしゃぐ枠【にじさんじ/ポケモンユナイト】
+DTSTART:20210829T120000Z
+DTEND:20210829T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=tlCBWO5H_Q0\n\n【本配信は
+ こっち】\nhttps://www.youtube.com/watch?v=YWt70D89dSw\n\n\nCLとかEL
+ の抽選大好きおじさん
+URL:https://www.youtube.com/watch?v=tlCBWO5H_Q0
 END:VEVENT
 BEGIN:VEVENT
 UID:53567
@@ -2832,17 +2834,17 @@ SUMMARY:【プロセカ #にじ3Dプロセカ】技術革新！？手元に
 DTSTART:20210829T130000Z
 DTEND:20210829T140000Z
 DESCRIPTION:https://www.youtube.com/watch?v=MJzXP_RvcaY\n\n同僚のドー
- ラがやってたので俺も手元に挑戦するぞ！\n地味に自枠
- でにじ3D使うの初めてです刮目せよ\n\n※後で自分で切
- り抜くと思うのでこの枠の切り抜きはご遠慮願います
- 。\n\n\nハッシュタグは【#にじ3Dプロセカ】まで。\n------
- ------------------------------------------\n社築のチャンネル登録
- はコチラから：\nhttps://www.youtube.com/channel/UCKMYISTJAQ8xTplUPH
- iABlA?sub_confirmation=1\nTwitter：\nhttps://twitter.com/846kizuQ\nにじ
- さんじ公式BOOTH：\nhttps://nijisanji.booth.pm/\n↑Tシャツとか
- 売ってます↑\nお問い合わせ・プレゼント送付先：\nhttp
- s://nijisanji.ichikara.co.jp/contact/\n-----------------------------------
- -------------\n#ゲーム
+ ラが勧めてくれたんで俺も手元配信に挑戦するぞ～！\n
+ 地味に自枠でにじ3D使うの初めてです刮目せよ\n\n※後
+ で自分で切り抜くと思うのでこの枠の切り抜きはご遠
+ 慮願います。\n\n\nハッシュタグは【#にじ3Dプロセカ】
+ まで。\n------------------------------------------------\n社築のチ
+ ャンネル登録はコチラから：\nhttps://www.youtube.com/channel/U
+ CKMYISTJAQ8xTplUPHiABlA?sub_confirmation=1\nTwitter：\nhttps://twitter.co
+ m/846kizuQ\nにじさんじ公式BOOTH：\nhttps://nijisanji.booth.pm/\n
+ ↑Tシャツとか売ってます↑\nお問い合わせ・プレゼン
+ ト送付先：\nhttps://nijisanji.ichikara.co.jp/contact/\n--------------
+ ----------------------------------\n#ゲーム
 URL:https://www.youtube.com/watch?v=MJzXP_RvcaY
 END:VEVENT
 BEGIN:VEVENT
@@ -2934,6 +2936,34 @@ DESCRIPTION:https://www.youtube.com/watch?v=WFFlcqJxu90\n\n🎮➡　Undert
  .jp/contact\n「ANYCOLOR株式会社」天宮こころ 宛\n\n[Contact for
  m]\n　https://www.nijisanji.jp/contact
 URL:https://www.youtube.com/watch?v=WFFlcqJxu90
+END:VEVENT
+BEGIN:VEVENT
+UID:53568
+SUMMARY:【メン限/オラと博士の夏休み＃２】しんちゃんと
+ エンドレスエイト【ルイス・キャミー/にじさんじ】
+DTSTART:20210829T140000Z
+DTEND:20210829T150000Z
+DESCRIPTION:https://www.youtube.com/watch?v=TmCzfwVLGRo\n\n未プレイの
+ 方はネタバレ注意！\n\n※配信はメン限でアーカイブは
+ 全体公開するよ！（配信は時間になったらメン限切り
+ 替え）\nメンバーじゃない方もアーカイブで楽しんでく
+ れるとうれしい！メンバーさんはたくさんコメントし
+ て一緒に楽しんでね！\n\n#ルイスの予告状\n\nメンバー
+ シップ登録↓\nhttps://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-
+ cw/join\n\nにじさんじオフィシャルストア！\nhttps://shop.nij
+ isanji.jp/s/niji/?ima=3313\nボイスやグッズなど売ってるよ！\
+ n↓↓\nhttps://shop.nijisanji.jp/s/niji/item/list?ima=5321&page=0&tp=DIG
+ ITAL\n\n発売中！\nフルトイ海水旅行ボイス\n山ボイス\n怪
+ 談ボイス\n\n\nにじさんじ所属のルイス・キャミーです
+ 。\n是非最後まで見ていってくださいね！\n\n\n◯リンク
+ \n【Twitter】https://twitter.com/Luis_Cammy\n\n【お問い合わせや
+ ファンレターはこちら】\nhttps://nijisanji.ichikara.co.jp/contac
+ t/\n\n【公式オンラインショップ】\nhttps://nijisanji.booth.pm/
+ \n\n【Pixiv fanbox】\nhttps://www.pixiv.net/fanbox/creator/24113985\n\n
+ 【にじさんじ公式Twitter】\nhttps://twitter.com/nijisanji_app\n《
+ @nijisanji_app 》\n\n【にじさんじ公式HP】\nhttps://nijisanji.ich
+ ikara.co.jp/
+URL:https://www.youtube.com/watch?v=TmCzfwVLGRo
 END:VEVENT
 BEGIN:VEVENT
 UID:53546
