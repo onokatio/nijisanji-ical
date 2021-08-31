@@ -2452,15 +2452,6 @@ DESCRIPTION:https://www.youtube.com/watch?v=QHB6gJNTonQ\n\n体調不良で
 URL:https://www.youtube.com/watch?v=QHB6gJNTonQ
 END:VEVENT
 BEGIN:VEVENT
-UID:53689
-SUMMARY:(Music Video) はんぶんこ / 三枝明那
-DTSTART:20210901T100000Z
-DTEND:20210901T110000Z
-DESCRIPTION:https://www.youtube.com/watch?v=vRw48T2EfNs\n\n分かち合っ
- ている、\n分かり合っている。
-URL:https://www.youtube.com/watch?v=vRw48T2EfNs
-END:VEVENT
-BEGIN:VEVENT
 UID:53632
 SUMMARY:8.32
 DTSTART:20210901T110000Z
@@ -2469,6 +2460,48 @@ DESCRIPTION:https://www.youtube.com/watch?v=zCAuEgCkNFM\n\n投稿後に記
  載させて頂きます。\n\n※こちらは収益化に関して問題
  のない動画になっております。
 URL:https://www.youtube.com/watch?v=zCAuEgCkNFM
+END:VEVENT
+BEGIN:VEVENT
+UID:53689
+SUMMARY:(Music Video) はんぶんこ / 三枝明那
+DTSTART:20210901T110000Z
+DTEND:20210901T120000Z
+DESCRIPTION:https://www.youtube.com/watch?v=vRw48T2EfNs\n\n分かち合っ
+ ている、\n分かり合っている。
+URL:https://www.youtube.com/watch?v=vRw48T2EfNs
+END:VEVENT
+BEGIN:VEVENT
+UID:53690
+SUMMARY:【ポケモンユナイト】初見ユナイト！大会に向け
+ て猛特訓！！【白雪 巴/にじさんじ】
+DTSTART:20210901T120000Z
+DTEND:20210901T130000Z
+DESCRIPTION:https://www.youtube.com/watch?v=wa8jHAOIWOw\n\nトレーナー
+ の皆様、\n新人トレーナー白雪に極意を教えてください
+ ｍｍ\n\n\n◆サムネイルイラスト：小石川 さん\nhttps://twi
+ tter.com/syamikoi/status/1412356468964159493?s=20\n\n\n～グッズ・ボ
+ イス・オリジナル楽曲・販売中～\n\n◆フルートイトイ
+ 海水旅行ボイス【NEW!】◆\n壁紙＆NGテイク付きセットも
+ あり！\nhttps://shop.nijisanji.jp/s/niji/item/detail/dig-00512\n2021年
+ 8月12日(木) 18:00～2021年9月12日(日) 23:59まで！\n\n◆【白
+ 雪巴】にじさんじコンセプトボイス◆\nhttps://shop.nijisanj
+ i.jp/s/niji/item/detail/dig-00471?ima=5454\n2019年10月から2020年6月
+ までのコンセプトボイスを常設販売！\n\n◆ワコンピ デ
+ ジタルリリース開始◆\nVTuberとリアルアーティストによ
+ る、新たな「和」をテーマとしたrockコンピレーション
+ アルバム。白雪巴もオリジナル楽曲でコラボさせて頂
+ いています。\nhttps://orcd.co/wacompi\n2021年7月28日0時より\n\
+ n\n◆◆◆◆◆\n\n#白雪巴 (しらゆき ともえ)\nTwitter：@Tomo
+ e_Shirayuki\nhttps://mobile.twitter.com/tomoe_shirayuki\n配信タグ　#
+ 女王のお戯れ\n\n◆メンバーシップ登録はこちら\nhttps://
+ www.youtube.com/channel/UCuvk5PilcvDECU7dDZhQiEw/join\n◆グッズ関連\
+ nhttps://shop.nijisanji.jp/s/niji/artist/089/item?ima=0822\n◆ファン
+ レター\nhttps://www.nijisanji.jp/contact\n\n【にじさんじ公式サ
+ イト】\nhttps://www.nijisanji.jp\n\n【お問い合わせ】\nhttps://w
+ ww.nijisanji.jp/contact\n\n音源：甘茶の音楽工房 さま\nhttps://
+ amachamusic.chagasi.com/\n\n\n～Special thanks to YOU～\n\n\n◆◆◆
+ ◆◆
+URL:https://www.youtube.com/watch?v=wa8jHAOIWOw
 END:VEVENT
 BEGIN:VEVENT
 UID:53633
