@@ -2940,8 +2940,8 @@ URL:https://www.youtube.com/watch?v=daYjgi-K3mc
 END:VEVENT
 BEGIN:VEVENT
 UID:53707
-SUMMARY:【歌枠】９月１発目の歌だーー！ - singing stream -【
- 西園チグサ/にじさんじ】
+SUMMARY:【歌枠】リクOK！９月１発目の歌だーー！ - singing 
+ stream -【西園チグサ/にじさんじ】
 DTSTART:20210901T100000Z
 DTEND:20210901T110000Z
 DESCRIPTION:https://www.youtube.com/watch?v=w2PkP23S3kc\n\n୨୧･･･
@@ -3013,6 +3013,24 @@ DESCRIPTION:https://www.youtube.com/watch?v=kkghVZSeYss\n\n華麗なるす
  -------------------------------------------\n\n【お問い合わせはこ
  ちらまで】\nhttps://www.nijisanji.jp/contact
 URL:https://www.youtube.com/watch?v=kkghVZSeYss
+END:VEVENT
+BEGIN:VEVENT
+UID:53711
+SUMMARY:【マイクラ】エンドラ討伐！おりゃ～！！とりゃ
+ ～～！！どりゃあ～！【雪城眞尋 視点/にじさんじ】
+DTSTART:20210901T100000Z
+DTEND:20210901T110000Z
+DESCRIPTION:https://www.youtube.com/watch?v=HaRJGi4_xeA\n\n桜凛月\nhttps
+ ://www.youtube.com/channel/UCfQVs_KuXeNAlGa3fb8rlnQ?sub_confirmation=1\n\n
+ https://twitter.com/SAKURA_RITSUKI\n\n\n\nベルモンド・バンデラ
+ ス\nhttps://www.youtube.com/channel/UCbc8fwhdUNlqi-J99ISYu4A/featured?sub
+ _confirmation=1\n\nhttps://twitter.com/belmond_b_2434\n\n\n\n\nルイス
+ ・キャミー\nhttps://www.youtube.com/channel/UCb6ObE-XGCctO3WrjRZC-cw?
+ sub_confirmation=1\n\nhttps://twitter.com/Luis_Cammy\n\n\n\n長尾景\nhtt
+ ps://www.youtube.com/channel/UCXW4MqCQn-jCaxlX-nn-BYg/?sub_confirmation=1\
+ n\nhttps://twitter.com/kei_nagao2434\n\n#マイクラ #にじさんじ #
+ エンドラ
+URL:https://www.youtube.com/watch?v=HaRJGi4_xeA
 END:VEVENT
 BEGIN:VEVENT
 UID:53632
