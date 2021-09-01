@@ -2153,6 +2153,18 @@ DESCRIPTION:https://www.youtube.com/watch?v=rMkz4dBXwqM\n\nポケモン再
 URL:https://www.youtube.com/watch?v=rMkz4dBXwqM
 END:VEVENT
 BEGIN:VEVENT
+UID:53745
+SUMMARY:殺されるまでの12分間をループするゲーム【Twelve M
+ inutes/にじさんじ/月ノ美兎】
+DTSTART:20210902T130000Z
+DTEND:20210902T140000Z
+DESCRIPTION:https://www.youtube.com/watch?v=2jxDkjaP40A\n\n生き残りた
+ い　生き残りたい\n#みとの生放送\n\n月ノ美兎のTwitter（
+ 配信予定等はこちらで呟いています！）\nhttps://twitter.co
+ m/MitoTsukino
+URL:https://www.youtube.com/watch?v=2jxDkjaP40A
+END:VEVENT
+BEGIN:VEVENT
 UID:53719
 SUMMARY:怪物 - YOASOBI (cover) / ニュイ・ソシエール
 DTSTART:20210903T110000Z
