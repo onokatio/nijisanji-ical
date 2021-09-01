@@ -3107,6 +3107,16 @@ DESCRIPTION:https://www.youtube.com/watch?v=xOsQI4K0i8A\n\nこの環境保
 URL:https://www.youtube.com/watch?v=xOsQI4K0i8A
 END:VEVENT
 BEGIN:VEVENT
+UID:53716
+SUMMARY:【R6S】フロストマットマスター【皆の衆】
+DTSTART:20210901T104000Z
+DTEND:20210901T114000Z
+DESCRIPTION:https://www.youtube.com/watch?v=KOpj0pjTe4k\n\n9/10の大会に
+ 出ます\n\n@エクス・アルビオ -Ex Albio- \n@Uruca ch /うるか \
+ n@Kanae Channel \n@Kuzuha Channel \n\nコーチ\n@けんき
+URL:https://www.youtube.com/watch?v=KOpj0pjTe4k
+END:VEVENT
+BEGIN:VEVENT
 UID:53632
 SUMMARY:8.32
 DTSTART:20210901T110000Z
