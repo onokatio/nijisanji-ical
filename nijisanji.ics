@@ -3296,9 +3296,8 @@ URL:https://www.youtube.com/watch?v=qZlEJAn56Zg
 END:VEVENT
 BEGIN:VEVENT
 UID:53831
-SUMMARY:【TETRIS 99】にじさんじ界イチの”テトラー”は50
- 位以下なんて取れないｗｗｗ【にじテト優勝者 / にじ
- さんじ】
+SUMMARY:【TETRIS 99】にじさんじナンバーワン”テトラー”
+ の腕、魅せます。【にじテト優勝者 / にじさんじ】
 DTSTART:20210903T130000Z
 DTEND:20210903T140000Z
 DESCRIPTION:https://www.youtube.com/watch?v=ydNLim9uP0g\n\n訳ないWWW\n--
@@ -3362,6 +3361,23 @@ DESCRIPTION:https://www.youtube.com/watch?v=X8jf8fJ4o8A\n\nサムネイラ
  914\n\n↓でびる様の紋章入りマグカップ↓\nhttps://nijisanji
  .booth.pm/items/1180146
 URL:https://www.youtube.com/watch?v=X8jf8fJ4o8A
+END:VEVENT
+BEGIN:VEVENT
+UID:53834
+SUMMARY:配信予定～！【星川サラ/にじさんじ】
+DTSTART:20210903T133000Z
+DTEND:20210903T143000Z
+DESCRIPTION:https://www.youtube.com/watch?v=loVsNwoHpKI\n\nぷ\n\n\n〖Twit
+ ter〗( @Sara_Hoshikawa )\n https://twitter.com/Sara_Hoshikawa \n\n\n▼
+ メンバーシップはココから！(月額490円)\nhttps://www.youtube
+ .com/channel/UC9V3Y3_uzU5e-usObb6IE1w/join\n・月２回以上のメンバ
+ ー限定配信\n・メンバー限定コミュニティ投稿\n・名前
+ の横にメンバーバッジ付与\n・コメントで使える限定ス
+ タンプ（随時増加）\n・メンバー限定で残した生放送の
+ アーカイブが見れる\n\n\n▼星川のファンクラブ！\n星川
+ の日常多め◎加入はここから\n➡https://fanclub.nijisanji.jp/f
+ anclubs/sara-hoshikawa
+URL:https://www.youtube.com/watch?v=loVsNwoHpKI
 END:VEVENT
 BEGIN:VEVENT
 UID:53827
